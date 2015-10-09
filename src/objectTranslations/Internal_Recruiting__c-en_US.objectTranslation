@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Internal Recruiting</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Internal Recruiting</value>
+    </caseValues>
+    <fields>
+        <label><!-- Area --></label>
+        <name>Area__c</name>
+        <picklistValues>
+            <masterLabel>Edmond, OK</masterLabel>
+            <translation><!-- Edmond, OK --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Herndon, VA</masterLabel>
+            <translation><!-- Herndon, VA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Remote</masterLabel>
+            <translation><!-- Remote --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Cell Phone --></label>
+        <name>Cell_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Commission --></label>
+        <name>Commission__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current City --></label>
+        <name>Current_City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current Role --></label>
+        <name>Current_Role__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current Salary --></label>
+        <name>Current_Salary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Desired salary --></label>
+        <name>Desired_salary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email address --></label>
+        <name>Email_address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Experience --></label>
+        <name>Experience__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- First Name --></label>
+        <name>First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fit --></label>
+        <name>Fit__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Graduated --></label>
+        <name>Graduated__c</name>
+    </fields>
+    <fields>
+        <label><!-- Graduation date --></label>
+        <name>Graduation_date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Home Phone --></label>
+        <name>Home_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Industry Experience --></label>
+        <name>Industry_Experience__c</name>
+        <picklistValues>
+            <masterLabel>MSP</masterLabel>
+            <translation><!-- MSP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PEO</masterLabel>
+            <translation><!-- PEO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Staffing</masterLabel>
+            <translation><!-- Staffing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VMS</masterLabel>
+            <translation><!-- VMS --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- This is the last date the person was analyzed. --></help>
+        <label><!-- Last date viewed --></label>
+        <name>Last_date_viewed__c</name>
+    </fields>
+    <fields>
+        <help><!-- Copy and paste their profile URL here --></help>
+        <label><!-- LinkedIn profile --></label>
+        <name>LinkedIn_profile__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Position --></label>
+        <name>MBO_Position__c</name>
+        <picklistValues>
+            <masterLabel>Account Executive</masterLabel>
+            <translation><!-- Account Executive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Account Manager</masterLabel>
+            <translation><!-- Account Manager --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accountant</masterLabel>
+            <translation><!-- Accountant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accounts Payable</masterLabel>
+            <translation><!-- Accounts Payable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accounts Receivable</masterLabel>
+            <translation><!-- Accounts Receivable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Blogger</masterLabel>
+            <translation><!-- Blogger --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Analyst</masterLabel>
+            <translation><!-- Business Analyst --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Analyst, Senior</masterLabel>
+            <translation><!-- Business Analyst, Senior --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Manager I</masterLabel>
+            <translation><!-- Business Manager I --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Manager II</masterLabel>
+            <translation><!-- Business Manager II --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Manager III</masterLabel>
+            <translation><!-- Business Manager III --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client Service Management</masterLabel>
+            <translation><!-- Client Service Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Content Management</masterLabel>
+            <translation><!-- Content Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Controller</masterLabel>
+            <translation><!-- Controller --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Data Entry</masterLabel>
+            <translation><!-- Data Entry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Developer</masterLabel>
+            <translation><!-- Developer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Director of Operations</masterLabel>
+            <translation><!-- Director of Operations --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Enrollment Manager</masterLabel>
+            <translation><!-- Enrollment Manager --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Executive</masterLabel>
+            <translation><!-- Executive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Executive Assistant</masterLabel>
+            <translation><!-- Executive Assistant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HR Administrator</masterLabel>
+            <translation><!-- HR Administrator --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Implementation Manager</masterLabel>
+            <translation><!-- Implementation Manager --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marketing Communications</masterLabel>
+            <translation><!-- Marketing Communications --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payroll</masterLabel>
+            <translation><!-- Payroll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Project Manager</masterLabel>
+            <translation><!-- Project Manager --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reception</masterLabel>
+            <translation><!-- Reception --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Recruiter</masterLabel>
+            <translation><!-- Recruiter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Social Media</masterLabel>
+            <translation><!-- Social Media --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Training</masterLabel>
+            <translation><!-- Training --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UNIX</masterLabel>
+            <translation><!-- UNIX --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VOP/MSP/VMS</masterLabel>
+            <translation><!-- VOP/MSP/VMS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VP Market Technology</masterLabel>
+            <translation><!-- VP Market Technology --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Major --></label>
+        <name>Major__c</name>
+    </fields>
+    <fields>
+        <help><!-- Copy and paste their profile URL here --></help>
+        <label><!-- Monster Profile --></label>
+        <name>Monster_Profile__c</name>
+    </fields>
+    <fields>
+        <label><!-- Position level --></label>
+        <name>Position_level__c</name>
+        <picklistValues>
+            <masterLabel>Entry level</masterLabel>
+            <translation><!-- Entry level --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mid level</masterLabel>
+            <translation><!-- Mid level --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Senior level</masterLabel>
+            <translation><!-- Senior level --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Save for later --></label>
+        <name>Save_for_later__c</name>
+    </fields>
+    <fields>
+        <label><!-- Skill --></label>
+        <name>Skill__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Alumni</masterLabel>
+            <translation><!-- Alumni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contacted</masterLabel>
+            <translation><!-- Contacted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hired</masterLabel>
+            <translation><!-- Hired --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Interviewed</masterLabel>
+            <translation><!-- Interviewed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone Screened</masterLabel>
+            <translation><!-- Phone Screened --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Responded via Email</masterLabel>
+            <translation><!-- Responded via Email --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- University --></label>
+        <name>University__c</name>
+        <picklistValues>
+            <masterLabel>GMU</masterLabel>
+            <translation><!-- GMU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JMU</masterLabel>
+            <translation><!-- JMU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ODU</masterLabel>
+            <translation><!-- ODU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OKU</masterLabel>
+            <translation><!-- OKU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PENN ST</masterLabel>
+            <translation><!-- PENN ST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RAD</masterLabel>
+            <translation><!-- RAD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UMD</masterLabel>
+            <translation><!-- UMD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UVA</masterLabel>
+            <translation><!-- UVA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VT</masterLabel>
+            <translation><!-- VT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WVU</masterLabel>
+            <translation><!-- WVU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>other</masterLabel>
+            <translation><!-- other --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- University (other) --></label>
+        <name>University_other__c</name>
+    </fields>
+    <fields>
+        <label><!-- Wonderlic --></label>
+        <name>Wonderlic__c</name>
+    </fields>
+    <fields>
+        <help><!-- How many years of IC experience do they have? --></help>
+        <label><!-- Years of experience --></label>
+        <name>Years_of_experience__c</name>
+    </fields>
+    <layouts>
+        <layout>Internal Recruiting Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Education --></label>
+            <section>Education</section>
+        </sections>
+        <sections>
+            <label><!-- Personal information --></label>
+            <section>Personal information</section>
+        </sections>
+        <sections>
+            <label><!-- Recruiting information --></label>
+            <section>Recruiting information</section>
+        </sections>
+    </layouts>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please enter the graduation date --></errorMessage>
+        <name>Graduation_date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Enter other university --></errorMessage>
+        <name>Other_University</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Facebook --></label>
+        <name>Facebook</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- LinkedIn --></label>
+        <name>LinkedIn</name>
+    </webLinks>
+</CustomObjectTranslation>

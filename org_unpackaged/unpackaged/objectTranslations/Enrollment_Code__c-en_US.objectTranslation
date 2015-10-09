@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Enrollment Code</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Enrollment Codes</value>
+    </caseValues>
+    <fields>
+        <label><!-- Background Check/Drug Screen Required --></label>
+        <name>Background_Check_Drug_Screen_Required__c</name>
+        <picklistValues>
+            <masterLabel>Contingent</masterLabel>
+            <translation><!-- Contingent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Required</masterLabel>
+            <translation><!-- Not Required --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Required</masterLabel>
+            <translation><!-- Required --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Client On-Boarding Docs Required --></label>
+        <name>Client_On_Boarding_Docs_Required__c</name>
+        <picklistValues>
+            <masterLabel>Contingent</masterLabel>
+            <translation><!-- Contingent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Required</masterLabel>
+            <translation><!-- Not Required --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Required</masterLabel>
+            <translation><!-- Required --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>fs_dsc__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Record Id --></label>
+        <name>fs_mBORecordId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Company --></label>
+        <name>rs_company__c</name>
+        <relationshipLabel><!-- Enrollment Codes --></relationshipLabel>
+    </fields>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_Company</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_Description</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_Name</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_mboRecordId</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_owner</name>
+    </validationRules>
+</CustomObjectTranslation>

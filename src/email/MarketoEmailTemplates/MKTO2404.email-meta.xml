@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Associate Referral.Referral Announcement - Termed</name>
+    <style>none</style>
+    <subject>Discover MBO Partners&apos; New Referral Program!</subject>
+    <textOnly>Dear {{lead.First Name:default=Associate}},
+
+I am thrilled to announce that we have recently launched a brand new Referral Program with some serious perks you will want to know about!  
+
+Our greatest compliment is when an Associate like you spreads the word about us to friends and colleagues that would benefit from utilizing our services.  The projected future size of independent workers is expected to climb to 23 million within the next 5 years, so our mission is more important than ever- making it easy for independent consultants and their clients to do business together. 
+
+We believe that no good deed should go unnoticed, which is why when you refer a friend, every referral you submit gives you a chance to win a home office makeover worth up to $5,000! *You will also be giving your friend the opportunity to try us for free. Finally, if your friend likes what we do, we will deposit $500 into your Business Center upon their enrollment and subsequent billings of $30,000. *Restrictions apply. See contest rules &lt;http://referral.mbopartners.com/referral-program/official-rules&gt; for details.
+
+Check it out and Learn More! &lt;http://referral.mbopartners.com/referral-program?r={{company.EM LName Clean:default=Conde}}&amp;fname={{lead.First Name:default=edit me}}&amp;lname={{lead.Last Name:default=edit me}}&amp;email={{lead.Email Address:default=edit me}}&gt;
+
+Sincerely,
+___________________________________
+ {{lead.EM FName:default=Sara}} {{lead.EM LName:default=Conde}}
+ Business Manager
+ MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners call follow up (1328221366.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners call follow up (1328221366.0)</subject>
+    <textOnly>90 Clean      false false false  EN-US X-NONE X-NONE             MicrosoftInternetExplorer4                                                                                                                                                               Hi Venkatram,
+ 
+Hope you are doing well. Just wanted to follow up with you – are you still planning on using MBO’s services? Do you have any additional questions for me? Please let me know when you have a chance.
+ 
+Thank you,
+Sara
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: Sara Conde 
+Sent: Monday, January 30, 2012 12:24 PM
+To: &apos;venkmur@gmail.com&apos;
+Subject: MBO Partners call follow up
+ 
+Dear Venkatram ,
+ 
+It was a pleasure speaking with you.  You’ll find everything that I referenced on our call by going here.
+ 
+We are also promoting our new meet the independents project and are taking applications if you would like to be featured.  You can view the program by going here. 
+ 
+I will follow up with you this afternoon as promised, should you have questions before then, please schedule a convenient time using my online schedule.
+ 
+Best regards,
+Sara
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

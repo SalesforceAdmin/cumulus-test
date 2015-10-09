@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This is the email that will go out for all landing pages</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Landing Pages</name>
+    <style>none</style>
+    <subject>Landing Page</subject>
+    <textOnly>Test
+
+This is the content of the email</textOnly>
+    <type>custom</type>
+</EmailTemplate>

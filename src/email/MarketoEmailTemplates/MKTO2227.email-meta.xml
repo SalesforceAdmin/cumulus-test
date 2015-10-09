@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Holiday Greeting 2012</name>
+    <style>none</style>
+    <subject>Season&apos;s Greetings from MBO Partners</subject>
+    <textOnly>Thank you for offering us the opportunity to work with you throughout the year. We would like to wish you a joyous and memorable holiday season, with the hopes that the coming New Year continues to bring you happiness and success.
+
+ To view your e-card please click on the link below, or enter it into your browser.
+
+ my.customecards.net/mbo_partners/ &lt;http://my.customecards.net/mbo_partners/index.php?cache=0&gt; 
+
+
+  &lt;http://my.customecards.net/mbo_partners/index.php?cache=0&gt; 
+
+ 
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13454 Sunrise Valley Drive, Suite 300 • Herndon, VA, 20171 • PH 703.793.6000 • www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Payment Notification for Sumit Shrimavle (20114) (1332790147.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Payment Notification for Sumit Shrimavle (20114) (1332790147.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Sumit, Yes, I have already sent in this request to our accounting department I am just waiting on them to write of the balance. Thank you for the follow up though. Hope your day is going well!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. From: &lt;mailto:sconde@mbopartners.com&gt; Sumit Shrimavle [mailto:sumit831@gmail.com] 
+Sent: Monday, March 26, 2012 2:45 PM
+To: Sara Conde
+Subject: Re: MBO Partners Payment Notification for Sumit Shrimavle (20114) Hi Sara, I still see the invoice number 353466 &lt;https://app1.mbopartners.com/servlet/entry?display=InvoiceUpdateMember&amp;id=20120319184509290119000000&gt; as open in the MBO system with a balance of 77.50. As discussed, this was an error on my part on the timesheet and there shold not be a balance. The amount which Crescent had sent, amount = 6,781.25 for 43.75 hours for weekending 03/18/12 is correct. Can you please update the MBO invoice ?
+Regards, SumitOn Fri, Mar 23, 2012 at 1:13 PM, &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt; wrote:We received the following payment(s) today, 03/23/2012 on your behalf:
+
+6,781.25 Fee Crescent Staffing: AX Developer - Sumit Shrimavle - Invoice: 353466 - Mar 12, 2012 - Mar 18, 2012
+
+
+Sincerely,
+The MBO Partners Billing/AR Department </textOnly>
+    <type>custom</type>
+</EmailTemplate>

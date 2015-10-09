@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Information (1343425590.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Information (1343425590.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Andrew, It was a pleasure speaking with you today.  I’ve enclosed a few resources that you might find helpful in finding your next project.  
+	- Here is a short list of some of our top clients within MBO Access &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Access_Information.pdf&gt;. 
+ 
+	- In addition we have a index of recorded Webinars that will cover everything to do with working independently.  You can see them by going here &lt;http://www.mbopartners.com/resources&gt;.
+ 
+	- Lastly, you can view all the information we spoke over the phone by going here &lt;http://info.mbopartners.com/advisor-info-n-taylor.html&gt;.  
+ If you have questions before then, feel free to schedule a convenient time for you using my online schedule &lt;https://my.timedriver.com/9TGRK&gt;. Best of luck finding your next contract, Nicolette___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

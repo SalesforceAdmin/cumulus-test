@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Networking Event Reminder</name>
+    <style>none</style>
+    <subject>Reminder: Network in New York City with MBO</subject>
+    <textOnly>Dear {{lead.First Name:default=Associate}},
+
+If you haven’t already registered for our upcoming New York City Networking Cocktail Reception, taking place on the evening of Thursday, June 6 at Zengo &lt;http://www.richardsandoval.com/zengony/index.php&gt;, please go ahead and reserve your spot today &lt;http://events.r20.constantcontact.com/register/event?oeidk=a07e7ed57nn4e1443a1&amp;llr=kp5x6qkab&gt;. This will be an excellent opportunity for you to meet fellow Associates and Entrepreneurs, MBO Enterprise clients and several members of the MBO Partners team!  
+
+As an added bonus, connection agent and popular online author Steve Woodruff &lt;http://www.stevewoodruff.com/&gt; will be speaking about building a top-notch opportunity network, as well as leveraging social tools to strategically and creatively expand your business. 
+ 
+ We’d love to see you, so register today &lt;http://events.r20.constantcontact.com/register/event?oeidk=a07e7ed57nn4e1443a1&amp;llr=kp5x6qkab&gt;!
+
+Sincerely,
+___________________________________
+ {{company.BM FName:default=MBO}} {{company.BM LName:default=Partners}}
+ Business Manager
+ MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

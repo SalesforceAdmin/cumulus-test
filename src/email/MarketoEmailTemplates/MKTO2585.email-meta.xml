@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Apr30Webinar-AffordableCare.Invite 2</name>
+    <style>none</style>
+    <subject>Reminder: Webinar on the Affordable Healthcare Act from MBO Partners</subject>
+    <textOnly>We&apos;d like to remind you that it&apos;s not too late to join us Tuesday, April 30, at 1:00 p.m. ET for the latest webinar in our Independent Contractor Compliance and Engagement 2013 series: Understanding Project Economy Dynamics: Affordable Care Act and Other Factors Affecting the Use of Independent Consultants &lt;http://info.mbopartners.com/Apr30WebinarAffordableCare.html&gt;.
+
+During this hour-long webinar, Jay Lash, VP of Market Strategies at MBO Partners - Enterprise Solutions, will host a panel discussion about how the Affordable Care Act, tax changes and other pending regulations may affect the independent workforce. The panel will consist of Eric Rumbaugh, an attorney for Michael Best and a leading independent contractor law authority, and Steven King, Partner at Emergent Research and Small Business Labs.
+
+Stay up-to-date on the changing independent workforce and register today &lt;http://info.mbopartners.com/Apr30WebinarAffordableCare.html&gt;.
+___________________________________
+MBO Enterprise Solutions
+t: 1-800-220-0469
+e: sales@mboenterprise.com &lt;mailto:sales@mboenterprise.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

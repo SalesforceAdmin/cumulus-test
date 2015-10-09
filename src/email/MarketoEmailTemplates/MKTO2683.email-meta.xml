@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>IG Form Nurturing</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Independent}}, more resources about independent consulting</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+
+Thank you for downloading content from The Independent&apos;s Guide! I hope you found it helpful.
+
+I wanted to let you know that MBO Partners provides independent consultants like you with more valuable resources. Here are three places to get started:
+
+
+ - The Independent Consulting Brief &lt;http://www.mbopartners.com/independent-consulting-brief&gt;: Our monthly newsletter packed with tips, events, and relevant content tailored to independent consultants.
+ - Independent Consulting Webinar Series &lt;http://info.mbopartners.com/SeriesSign-up_RegistrationPage.html&gt;: Each month, we invite guest experts to come speak on a variety of topics affecting independents.
+ - The State of Independence &lt;http://www.mbopartners.com/state-of-independence/index.html&gt;: Our annual research report site offers original data, infographics, interactive tools, and profiles of other independent workers.
+
+
+
+Thank you for you interest in MBO Partners. Please feel free to reach out to me with any questions.
+___________________________________
+Sara Conde
+Consultant Services Advisor
+ MBO Partners
+ 
+ t: 703-793-6028
+ e: sconde@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

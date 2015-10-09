@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p>Dear {{lead.First Name:default=Sir/Madam}},</p>
+<p>Thank you for taking the time to contact MBO Partners. My name is {{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}}, an MBO Partners Enrollment Manager, and I will reach out to you within one business day.</p>
+<p>If you prefer, you can easily schedule a phone appointment with me by visiting {{lead.EM TTLink:default=<a href="https://my.timedriver.com/C9CPC">https://my.timedriver.com/C9CPC</a>}}.</p>
+<p>I look forward to speaking with you!</p>
+<p>Best regards,</p>
+<div>{{lead.EM FName:default=Steve}}</div>
+<div><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span></div>
+<div><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">{{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}}</span><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;</span></strong></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">{{lead.Lead Owner Job Title:default=Enrollment Manager}}<br /></span></strong></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> {{lead.Lead Owner Phone Number:default=703-793-6011}}<br /></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">f:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 703.793.6070</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong><span style="color: #353433;"><span style="font-family: 'Georgia','serif';"> {{lead.EM Email:default=SArhancet@mbopartners.com}}</span><strong>&nbsp;</strong></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong><span style="font-family: 'Georgia','serif';"> <span style="color: #353433;"><a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></span></div>
+<div><span style="font-family: 'Georgia','serif';"><span style="color: #353433;"><span style="color: #353433;"><br /></span></span></span></div>
+<div><img src="http://info.mbopartners.com/rs/mbo/images/MBOPartners-Logo-4c-POS-RGB.jpg" alt="" width="167" height="64" /></div></span>
+</div>
+</body>
+</html>

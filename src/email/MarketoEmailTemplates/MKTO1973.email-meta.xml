@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Webinar Podcast? (1347305648.0)</name>
+    <style>none</style>
+    <subject>RE: Webinar Podcast? (1347305648.0)</subject>
+    <textOnly>-     
+	- 
+	-   110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Anthony, Thank you for your email.  You can watch the webinar by going to www.mbopartners.com/resources &lt;http://www.mbopartners.com/resources&gt;, the second link on the left.  We are also emailing out the slides and a link to the webinar by tomorrow! Steve From: Anthony Gardner [mailto:ATGardner@comcast.net] 
+Sent: Monday, September 10, 2012 3:27 PM
+To: webinar
+Subject: Webinar Podcast? Hi MBO Partners, Just following up on the &quot;The Consultant&apos;s Guide to Lead Generation: Three Steps to Securing New Clients&quot; webinar. I thought it was fabulous and am anxious review. It was mentioned that the webinar should be available shortly. Can you please let me know if it is available and how I can find it if so. Thanks.  Tony GardnerJersey City, NJ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

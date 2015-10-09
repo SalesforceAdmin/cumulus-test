@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email will go out to all users who submit the bill rate calc form</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Bill Rate Calculator</name>
+    <style>none</style>
+    <subject>Here&apos;s the bill rate information you requested from MBO Partners</subject>
+    <textOnly>Dear Consultant,
+
+Thank you for your using the MBO Partners Bill Rate Calculator and your request for more information.
+
+The Bill Rate Calculator uses a cost-based pricing methodology. However, other strategies – market-based and value-based, for instance – may be worth exploring as well. Please click here [http://info.mbopartners.com/rs/mbo/images/How_To_Calculate_Your_Consulting_Rate.pdf] to read more about these strategies.
+
+Furthermore, one of our Enrollment Managers can provide you a customized cash flow estimate showing you how taxes, expenses, and benefit deductions affect your net pay. You can call us Monday through Friday from 9:00 a.m. to 5:00 p.m. ET at 800-222-0469, or simply reply to this email and we will contact you.
+
+Best regards,
+
+MBO Partners
+[INSERT FOOTER]</textOnly>
+    <type>custom</type>
+</EmailTemplate>

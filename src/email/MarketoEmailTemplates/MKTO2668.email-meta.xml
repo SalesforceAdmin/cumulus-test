@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Calendar Link (1361287538.0)</name>
+    <style>none</style>
+    <subject>Calendar Link (1361287538.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                            Hi Rod,  It was a pleasure speaking with you today!  As I mentioned, you may easily book a time for us to speak again that is convenient for you using my online schedule &lt;http://mkto-l0128.com/track?t=c&amp;enid=bWlkPW1ib0JldGFjdXN0LTAtMC0wLTAtcHJvZC0wJm1zZ2lkPTAmZGlkPTEyMzQmc249MCZlaWQ9YnJpYW4ubWNjYWxsaW9uQGJyb256ZWRydW0uY29tJnVpZD0wJmV4dHJhPU1URXlmSE55WTJsa1BUazNmRzFoYVd4cFpEMHdORFEzTlRVM01DMHdaR05tTFRReFpESXRPVEJrTmkxaU4yTTNZemxqTmpJMlpqVXRPVGQ4Wm5KdmJUMXVkR0Y1Ykc5eVFHMWliM0JoY25SdVpYSnpMbU52Ylh4emRXSnFQVTFDVHlCUVlYSjBibVZ5Y3lCR2IyeHNiM2NnVlhBPT0mJiY=&amp;&amp;&amp;https://my.timedriver.com/9TGRK?mkt_tok=2xUAKZjCeUNQtEk45v%2BaI6XhljrOWpq6tLJnDPP0x8Jw2kdzGIalUg%3D%3D&gt;. Good luck with the negotiations and please let me know if you have any additional quesitons. Thank you,Nicolette  ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;   Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

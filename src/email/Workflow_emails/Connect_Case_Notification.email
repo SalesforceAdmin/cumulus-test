@@ -1,0 +1,6 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; color:#000000; bEditID:r3st1; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<div><font face="arial">Salesforce case <a href="cs7.salesforce.com/{!Case.Id}">{!Case.CaseNumber}</a> was created by {!Case.Submitter_Name__c} ({!Case.Submitter_Email__c}) on {!Case.CreatedDate}</font></div><div><font face="arial"><br></font></div><div><font face="arial">{!Case.Subject}</font></div><div><font face="arial"><br></font></div><div><font face="arial">{!Case.Description}</font></div><div><font face="arial"><br></font></div><div><font face="arial">Click here to view in Salesforce: <a href="cs7.salesforce.com/{!Case.Id}">cs7.salesforce.com/{!Case.Id}</a></font></div>]]></td>
+</tr>
+</table>

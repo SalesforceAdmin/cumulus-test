@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1312308899.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1312308899.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          AJ,
+ 
+It was nice speaking with you and Dan, I’ve enclosed a few items for you:
+ 
+·         You can view our benefit plans by going here: http://www.mbopartners.com/mbo-exec-group-benefits
+·         You can view the most common expenses you can submit to MBO here: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_List.pdf
+·         You can view our full Expense policy here: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_Policy.pdf
+ 
+Nicolette Taylor will be your main point of contact from here on out to get you set-up for the services you are providing to PDC.  Nicole can provide you a link to the email to get your account set-up with MBO and can also walk you through the Net Cash Estimate I mentioned. 
+ 
+Nicolette Taylor
+703 793 6281
+ntaylor@mbopartners.com
+ 
+Enjoy the pool and stay cool in this crazy weather!
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

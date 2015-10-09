@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Account is Active (1327963482.0)</name>
+    <style>none</style>
+    <subject>MBO Account is Active (1327963482.0)</subject>
+    <textOnly>90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Kelly,
+ 
+You will get the official email tomorrow morning but wanted to send you the instructions so you can start entering time ASAP. We will get the invoice out tomorrow if you enter all your time tonight or tomorrow before 12pm EST. Pelase remember to enter time for each day Monday-Friday even if that day is a “0” for a holiday or non-worked day. 
+ 
+Here are some important reminders to be aware of:
+ 
+Here are some time and expense entry instructions for using our system.Here is a copy of our expense policy.Here is a list of the most common expenses you can submit to MBO. 
+The next step is to schedule another time  that works for you so we can do a walk-through of the business center and I can show you all the great features.
+ 
+I look forward to working with you!
+ 
+Sara
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+ 
+ 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

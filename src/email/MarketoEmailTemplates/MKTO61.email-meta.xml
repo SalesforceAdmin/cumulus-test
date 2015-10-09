@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Hello from Thea @ TAS: Elavon New Hire Paperwork (1312469140.0)</name>
+    <style>none</style>
+    <subject>RE: Hello from Thea @ TAS: Elavon New Hire Paperwork (1312469140.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Ashley,
+ 
+Thanks for the calls yesterday.  As I mentioned, we would be comfortable signing the contract without the revision in Article 8 to avoid any concerns expressed by TAS and also enable you to work through MBO on this project.  Please let me know how your conversation goes with Thea. 
+ 
+Thanks,
+ 
+Steve
+ 
+From: A DCruz [mailto:dcruz_a@yahoo.com] 
+Sent: Wednesday, August 03, 2011 9:52 AM
+To: Steve Arhancet
+Subject: Fw: Hello from Thea @ TAS: Elavon New Hire Paperwork
+ 
+ 
+----- Forwarded Message -----
+From: Thea Bensel &lt;thea@tas-inc.com&gt;
+To: dcruz_a@yahoo.com
+Sent: Monday, August 1, 2011 4:41 PM
+Subject: Hello from Thea @ TAS: Elavon New Hire Paperwork
+Ashley, 
+ 
+It was a pleasure speaking with you! Please find the new-hire paperwork discussed, attached. Kindly review, sign and scan back. If you have any questions, feel free to call me at (678) 650-0610. Thanks! 
+ 
+Regards, 
+ 
+Thea Bensel
+Recruiting Manager
+ 
+C: (678) 650-0610 | F: (404) 329 0021 | thea@tas-inc.com
+Trans Atlantic Systems | www.tas-inc.com
+1945 Cliff Valley Way, Suite 270, Atlanta, GA 30329 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

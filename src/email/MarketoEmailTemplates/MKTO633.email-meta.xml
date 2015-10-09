@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Call at 4pm (1325889610.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Call at 4pm (1325889610.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Jake,
+ 
+Sorry we missed each other today.  I’ll be around over the weekend.  I have skype, but I use it for personal stuff – If you don’t mind that you can add me ‘sarhancet’.
+ 
+Steve
+ 
+From: jake levenson [mailto:jlevenson@mac.com] 
+Sent: Thursday, January 05, 2012 2:26 PM
+To: Steve Arhancet
+Subject: Re: MBO Call at 4pm
+ 
+No worries.  Don&apos;t suppose you have skype per chance?
+
+Jake
+ 
+
+On Jan 5, 2012, at 1:53 PM, Steve Arhancet &lt;sarhancet@mbopartners.com&gt; wrote:
+Jake,
+ 
+I hate to reschedule on you; but I have a meeting that came up that I need to attend during our 4pm scheduled call.  Can we move our call to Friday morning or afternoon?
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

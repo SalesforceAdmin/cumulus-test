@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>HCI/SIA 2011 invite</name>
+    <style>none</style>
+    <subject>Two Webcasts: How HR and Procurement Can Ensure Independent Contractor Compliance</subject>
+    <textOnly>The use of independent contractors (ICs) is growing fast – and so are the risks associated with using them. Human Resources and Procurement professionals are increasingly called upon to find best practices for safely and efficiently engaging this critical segment of the workforce.
+
+MBO Enterprise Solutions, the premier provider of independent contractor compliance and engagement services, invites you to join us for two upcoming webcasts covering the complex issue of IC compliance from two distinct points of view.
+
+Webcast 1: For Human Resources Professionals
+MBO has teamed up with the Human Capital Institute to present “Independent Contractors: Whirlpool&apos;s New Talent Pipeline” This informative and interactive presentation will discuss IC compliance best practices through the eyes of HR professionals who have succeeded where others have failed. Whirlpool’s HR vice president will be on hand to discuss his company’s experience in designing and implementing a compliant IC engagement program. Participation is complimentary.
+
+Date and time: Wednesday, September 21, 2011 12:00 pm EDT  
+
+To register, visit: http://www.hci.org/lib/independent-contractors-whirlpools-new-talent-pipeline
+
+Webcast 2: For Procurement Professionals
+ A week later, MBO joins forces with Staffing Industry Analysts to present “IC Classification, Co-Employment and Class Actions: The Links and How to Avoid Them.” This session discusses the subject of IC compliance from the perspective of Procurement leadership and focuses on one of the biggest challenges Procurement pros face today: balancing the legal risks of using ICs with resource demand and cost management. SIA president, Barry Asin and legal expert, Eric Rumbaugh will explain how to achieve this balance by exploring the complex connections between IC legal concerns and staffing demands.
+
+Date and time: Wednesday, September 28, 2011 1:00 pm EDT
+
+To register, visit: https://forms.netsuite.com/app/crm/marketing/campaignlistener.nl?__lstr=__cl&amp;c=515095&amp;__h=d217692643f155562e6e&amp;__r=-2147483648&amp;eou=aHR0cHM6Ly9zdGFmZmluZ2luZHVzdHJ5LndlYmV4LmNvbS9zdGFmZmluZ2luZHVzdHJ5L29uc3RhZ2UvZy5waHA_dD1hJmQ9NjY5MjU0NTU0&amp;url=https://staffingindustry.webex.com/staffingindustry/onstage/g.php?t=a&amp;d=669254554
+
+I hope you can join us.
+
+___________________________________
+Steve Taggart
+Account Executive, Enterprise Solutions
+MBO Partners
+ 
+t: 703.793.6014
+f: 703.793.6452
+e: staggart@mboenterprise.com
+w: www.mboenterprise.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

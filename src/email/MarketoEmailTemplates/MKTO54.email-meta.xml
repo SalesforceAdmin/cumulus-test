@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Information (1312295450.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Information (1312295450.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Darlene,
+ 
+It was a pleasure speaking with you yesterday.  Here are a few pieces of information you will find helpful in evaluating our services:
+ 
+·         Link to our bill rate calculator (to help you determine your 1099 rate)  http://www.mbopartners.com/#billrate
+·         I’ve enclosed a general collateral that summarizes our business.
+·         I’ve enclosed a short list of the most common expenses you can submit to MBO Partners
+·         We have done a handful of webinars specifically targeted to folks who are interested in becoming a consultant from W2 employment.  You can view these here: http://www.mbopartners.com/mbo-partners-webcast-index
+ 
+Steve Taggart, the direct representative from Elsevier will be your main point of contact moving forward, he is very familiar with the account.  He will follow up with you in about 30 days to see how your first project is coming along. 
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

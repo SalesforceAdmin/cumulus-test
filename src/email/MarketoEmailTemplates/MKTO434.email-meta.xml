@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Question about Anthem health insurance (1323465702.0)</name>
+    <style>none</style>
+    <subject>RE: Question about Anthem health insurance (1323465702.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Chris,
+ 
+You are correct, there is a monthly premium and a $5000 out of pocket deductible that must be met before any coverage kicks in.  It is similar to an HAS plan an employer would offer, only instead of us offering a pre-tax savings account you can contribute to, you have the ability to submit up to $10,000 per year in out of pocket medical expenses for a tax deduction.   This would allow you to get some of those out of pocket cost back in the form of a tax deduction.  I agree that our plan doesn’t seem like the best option which is why we give consultants the option of whether or not to join the plan or find coverage on their own.  The benefit is that it is group plan so you are not subject to going through underwriting and you cannot be dropped from the plan due to making too many medical claims (and the premiums cannot be raised for the same reason which happens with an individual plan often).  That being said, our plan will always be more expensive than many individual plans or plans you can get through a traditional employer (due to our small percentage of participation and high claims of that small pool of participants,) and you are welcome to find insurance outside of our program and you can then write off the monthly premium as an expense in our system monthly. 
+ 
+Please let me know if you have any additional questions about this.
+ 
+Have a great weekend,
+Nicolette 
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Chris Nehren [mailto:cnehren@pobox.com] 
+Sent: Friday, December 09, 2011 10:56 AM
+To: Nicolette Taylor
+Subject: Question about Anthem health insurance
+ 
+Hi Nicolette,
+ 
+I&apos;ve been reviewing the insurance information that you forwarded me and I have some questions. It seems to me from my reading that I will pay $380 per month for the premium and then $5,000 out of pocket per year before the insurance helps me in any capacity. Is this correct? If so, I&apos;m finding it hard to justify. I hope my understanding is inaccurate. Can you clarify? Thank you!
+-- 
+Thanks and best regards,
+Chris Nehren 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

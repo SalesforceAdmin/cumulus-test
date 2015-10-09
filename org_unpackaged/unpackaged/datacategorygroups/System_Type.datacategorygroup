@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>Desktop</label>
+            <name>Desktop</name>
+        </dataCategory>
+        <dataCategory>
+            <label>External (VMS)</label>
+            <name>External_VMS</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Intranet</label>
+            <name>Intranet</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Jira</label>
+            <name>Jira</name>
+        </dataCategory>
+        <dataCategory>
+            <label>MBO Access</label>
+            <name>MBO_Access</name>
+        </dataCategory>
+        <dataCategory>
+            <label>MBO Intranet</label>
+            <name>MBO_Intranet</name>
+        </dataCategory>
+        <dataCategory>
+            <label>MBO Knowledge</label>
+            <name>MBO_Knowledge</name>
+        </dataCategory>
+        <dataCategory>
+            <label>MBO System</label>
+            <name>MBO_System</name>
+        </dataCategory>
+        <dataCategory>
+            <label>MBO Website</label>
+            <name>MBO_Website</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Pardot</label>
+            <name>Pardot</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Phone</label>
+            <name>Cisco</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Qualtrics</label>
+            <name>Qualtrics</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Salesforce</label>
+            <name>Toothpaste</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Work Market</label>
+            <name>Work_Market</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>System Type</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

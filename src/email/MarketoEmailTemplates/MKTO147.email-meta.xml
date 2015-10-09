@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>State of Independence Response</name>
+    <style>none</style>
+    <subject>Thanks for Requesting the MBO Partners Independent Workforce Index</subject>
+    <textOnly>Thank you for your interest in the MBO Partners inaugural Independent Workforce Index. The study will be released in Sept 2011.
+ 
+The summary findings are being prepared and should be available the week of Sept 5. We will be sure to share that with you as soon as it is available.
+ 
+Thanks again for your interest in the state of independence in America.
+ 
+We hope you will consider joining us as we begin a year-long journey to understand, and better support, the 16-million-strong independent workforce in our nation.
+
+
+MBO Partnerse
+State of Independence Team 
+
+Visit our mini site for more news (http://info.mbopartners.com/stateofindependence)
+Join us on Facebook at the State of Independence Page (http://www.facebook.com/pages/The-State-of-Independence/126879364075991?sk=wall)
+Declare Your Career Independence (http://info.mbopartners.com/declare.html)</textOnly>
+    <type>custom</type>
+</EmailTemplate>

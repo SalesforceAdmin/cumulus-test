@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>voicemail (1340824128.0)</name>
+    <style>none</style>
+    <subject>voicemail (1340824128.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Jay, Sorry I missed your call I was actually out a doctor’s appointment. I will be in for the rest of the afternoon, just left you a message. Give me a call anytime.
+Thanks,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

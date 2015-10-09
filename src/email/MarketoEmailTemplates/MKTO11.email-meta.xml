@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email is to be sent out as a Thank you email when a lead completes the form.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ES Talk To Us</name>
+    <style>none</style>
+    <subject>Thank you for your interest</subject>
+    <textOnly>Dear {{First Name:default=Sir/Maddam}},
+
+Thank you for your interest in speaking to us about MBO Enterprise Solutions.
+
+We look forward to reaching out to you to set up a time to speak and see how we might help your business agenda.
+
+Please expect to hear a follow up from someone on my business team.
+
+Regards,
+
+Dave Putt
+703-793-6020
+Dputt@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Morgan update (1342644004.0)</name>
+    <style>none</style>
+    <subject>RE: Morgan update (1342644004.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Norman, Will do…I sent the faxes over to you…they had no signatures on them. Can you resend with client signatures? I will make a note to check in with you on Friday about the State Order.  Thanks,
+Sara From: Norman Davis [mailto:ndavis4@msn.com] 
+Sent: Tuesday, July 17, 2012 10:34 PM
+To: Sara Conde
+Subject: Morgan update Hi Sara,
+ 
+My mgr just came back from vacation and there has been a mgr change so things are hectic. He has teh timesheets and I should have them signed this week. I wanted to know if I can fax them to you and would you be able to scan them in because I&apos;m having issues with my system?
+ 
+Also the state will be sending you another order to only take out 424 for this upcoming pay period fo rthe end of July. I f you dont receive it by Friday,let me know and I&apos;ll have them fax it.
+ 
+Thanks 
+ 
+I&apos;ll keep you posted
+
+Norman</textOnly>
+    <type>custom</type>
+</EmailTemplate>

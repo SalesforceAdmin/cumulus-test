@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>30Jan-WorkLife.Invite 2.2</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, your work+life webinar reminder</subject>
+    <textOnly>There&apos;s still time to join us on Thursday, January 30 at 1 p.m. ET, when we will hold a webinar titled &quot;Taking Control of Your Work+Life &quot;Fit&quot; as an Independent Professional &lt;http://www.mbopartners.com/webinars/2014/taking-control-your-worklife-fit-independent-professional&gt;.&quot;
+To help independents maintain a healthy balance, MBO Partners welcomes internationally-recognized flexible work strategist and author Cali Williams Yost to our webinar series. Yost, who has appeared on the Today Show&apos;s Kathy Lee &amp; Hoda, will share practical advice on managing your unique work+life fit on a day-to-day basis.
+Register today &lt;http://www.mbopartners.com/webinars/2014/taking-control-your-worklife-fit-independent-professional&gt;!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

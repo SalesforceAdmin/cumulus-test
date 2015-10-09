@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>Qualification__c$Name</field>
+    </columns>
+    <columns>
+        <field>Qualification__c$rs_companyContact__c</field>
+    </columns>
+    <columns>
+        <field>Qualification__c$fs_companyName__c</field>
+    </columns>
+    <columns>
+        <field>Qualification__c$Lead_Referring_Client__c</field>
+    </columns>
+    <columns>
+        <field>Qualification__c$CreatedDate</field>
+    </columns>
+    <columns>
+        <field>Qualification__c$RecordType</field>
+    </columns>
+    <columns>
+        <field>Qualification__c$fs_qualificationResult__c</field>
+    </columns>
+    <columns>
+        <field>Qualification__c$fs_enrollmentManager__c</field>
+    </columns>
+    <description>Shows all qualifications created in the previous calendar week</description>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>Qualification__c$rs_qualificationAdvisor__c</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>Qualifications Previous Week</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>Qualifications2__c</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <sortColumn>Qualification__c$Lead_Referring_Client__c</sortColumn>
+    <sortOrder>Asc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>Qualification__c$CreatedDate</dateColumn>
+        <interval>INTERVAL_LASTWEEK</interval>
+    </timeFrameFilter>
+</Report>

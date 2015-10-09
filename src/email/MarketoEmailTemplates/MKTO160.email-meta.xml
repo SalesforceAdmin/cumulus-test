@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners (1315408584.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners (1315408584.0)</subject>
+    <textOnly>Nick, I wanted to check in again and see if this contract or perhaps another one has come through.  Any update would be great.  Hope all is well, Steve -----Original Message----- From: nick vasquez [mailto:nvasquez84@gmail.com] Sent: Tuesday, July 19, 2011 11:15 AM To: Steve Arhancet Subject: Re: MBO Partners Steve, i appresiate the check in, but i haven&apos;t heard anything yet. i am goign to talk to my contact with the company today to see how things are going. hopefully we will be talking soon. Thanks, Nick Vasquez On Tue, Jul 19, 2011 at 10:08 AM, Steve Arhancet  wrote: &gt; Nick, &gt; &gt; &gt; &gt; As a courtesy I wanted to just check in and see how the pending  &gt; contract is turning out.  Have my fingers crossed for you and MBO J &gt; &gt; &gt; &gt; Hope all is well and talk with you soon. &gt; &gt; &gt; &gt; Regards, &gt; &gt; &gt; &gt; Steve &gt; &gt; &gt; &gt; Steven Arhancet &gt; &gt; Director of Associate Enrollment and Market Development &gt; &gt; O:703.793.6011 | M:540.560.8837 | F:703.793.6081 &gt; &gt; 13454 Sunrise Valley Drive #300 Herndon, VA 20171 &gt; &gt; sarhancet@mbopartners.com &gt; &gt; www.mbopartners.com &gt; &gt; &gt; &gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

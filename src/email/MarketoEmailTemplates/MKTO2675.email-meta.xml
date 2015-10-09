@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>20JuneWeb-WinningBid.Thank You Feb21</name>
+    <style>none</style>
+    <subject>Thank You for Attending - Resources from our RFP Response Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+Thank you for attending our  “Building a Winning Bid: How to Respond to Requests for Proposals&quot; webinar held on June 20. Proposal expert Tom Sant presented a step-by-step process and valuable tips to help you through each stage of responding to a request for a proposal or quote (RFP/RFQ).
+Below you will find links to the material created for the webinar. We hope you find them informative:
+Recorded webinar &lt;http://www.mbopartners.com/webinar-building-winning-bid-how-respond-requests-proposals&gt;
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/Building-a-Winning-Bid--MBO-Partners-Webinar.pdf&gt;
+Featured Speaker Tom Sant Q&amp;A</textOnly>
+    <type>custom</type>
+</EmailTemplate>

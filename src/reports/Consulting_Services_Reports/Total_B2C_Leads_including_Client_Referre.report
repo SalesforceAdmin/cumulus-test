@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <buckets>
+        <bucketType>number</bucketType>
+        <developerName>BucketField_27180488</developerName>
+        <masterLabel>Score Group</masterLabel>
+        <nullTreatment>z</nullTreatment>
+        <sourceColumnName>Lead.pi__score__c</sourceColumnName>
+        <useOther>false</useOther>
+        <values>
+            <sourceValues>
+                <to>0</to>
+            </sourceValues>
+            <value>0 or less</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>0</from>
+                <to>124</to>
+            </sourceValues>
+            <value>1 - 124</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>124</from>
+            </sourceValues>
+            <value>125+</value>
+        </values>
+    </buckets>
+    <columns>
+        <field>FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>Lead.pi__campaign__c</field>
+    </columns>
+    <columns>
+        <field>Lead.pi__score__c</field>
+    </columns>
+    <description>All Leads (Cumulative)</description>
+    <filter>
+        <criteriaItems>
+            <column>RECORDTYPE</column>
+            <operator>notEqual</operator>
+            <value>Lead.Client</value>
+        </criteriaItems>
+    </filter>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>OWNER</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>Total B2C Leads including Client Referre</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>LeadList</reportType>
+    <scope>org</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <endDate>2015-07-22</endDate>
+        <interval>INTERVAL_CUSTOM</interval>
+        <startDate>2000-01-01</startDate>
+    </timeFrameFilter>
+</Report>

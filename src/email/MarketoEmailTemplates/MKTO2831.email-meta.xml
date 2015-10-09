@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>31OctWeb-SOW.Invite 1</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, your SOW webinar invitation</subject>
+    <textOnly>Please join us on October 31 at 1 p.m. ET, when we will hold a Halloween webinar titled &quot;The 3 Steps to a Successful Statement of Work (SOW) &lt;http://info.mbopartners.com/31OctWebSOW_RegistrationPage.html&gt;.&quot;
+
+OK, so maybe an SOW isn&apos;t as scary as a vampire or a zombie, but it&apos;s a very real source of anxiety for many self-employed professionals. 
+ 
+That&apos;s why this Halloween, MBO Partners has invited Major Dan Pantaleo, USMC (ret.) and current Director of Proposal Operations at BAE Systems, to share his expertise on writing SOWs. Dan will show you 3 steps for writing a persuasive SOW that will give you a competitive edge.  
+Register today &lt;http://info.mbopartners.com/31OctWebSOW_RegistrationPage.html&gt;!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

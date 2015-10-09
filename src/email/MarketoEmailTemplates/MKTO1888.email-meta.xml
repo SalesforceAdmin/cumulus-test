@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Follow up from MBO Partners. (1342714636.0)</name>
+    <style>none</style>
+    <subject>Follow up from MBO Partners. (1342714636.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                            Dear Samuel , As a courtesy, I wanted to follow up on the voicemail I left you.  My name is Nicolette Taylor and I’ll be responsible for answering any questions you may have and providing you an overview of our services.  I truly apologize for missing our scheduled call on 7/9, for some reason the appointment never synced to my calendar and I just realized that I missed the call with you when going through my list on contacts. If you are interested in hearing more about our services, you may easily book a time that is convenient for you to chat using my online schedule &lt;https://my.timedriver.com/9TGRK&gt;. You may also watch a short video about who we are on YouTube &lt;http://www.youtube.com/watch?v=zKDzwSTmGv4&amp;hd=1&gt;.  You may also look at some of the stories from indepdenents &lt;http://info.mbopartners.com/meet-the-independents.html&gt; who use MBO Partners. I look forward to speaking with you, Nicolette </textOnly>
+    <type>custom</type>
+</EmailTemplate>

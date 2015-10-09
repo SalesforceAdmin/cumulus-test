@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <buckets>
+        <bucketType>number</bucketType>
+        <developerName>BucketField_55328711</developerName>
+        <masterLabel>Score Group</masterLabel>
+        <nullTreatment>z</nullTreatment>
+        <sourceColumnName>Lead.pi__score__c</sourceColumnName>
+        <useOther>false</useOther>
+        <values>
+            <sourceValues>
+                <to>50</to>
+            </sourceValues>
+            <value>Less than 50</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>50</from>
+                <to>100</to>
+            </sourceValues>
+            <value>50 - 100</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>100</from>
+                <to>150</to>
+            </sourceValues>
+            <value>100 - 150</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>150</from>
+                <to>200</to>
+            </sourceValues>
+            <value>150 - 200</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>200</from>
+                <to>250</to>
+            </sourceValues>
+            <value>200 - 250</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>250</from>
+                <to>300</to>
+            </sourceValues>
+            <value>250 - 300</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>300</from>
+                <to>350</to>
+            </sourceValues>
+            <value>300 - 350</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>350</from>
+                <to>400</to>
+            </sourceValues>
+            <value>350 - 400</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>400</from>
+                <to>450</to>
+            </sourceValues>
+            <value>400 - 450</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>450</from>
+                <to>500</to>
+            </sourceValues>
+            <value>450 - 500</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>500</from>
+            </sourceValues>
+            <value>over 500</value>
+        </values>
+    </buckets>
+    <chart>
+        <backgroundColor1>#FFFFFF</backgroundColor1>
+        <backgroundColor2>#FFFFFF</backgroundColor2>
+        <backgroundFadeDir>Diagonal</backgroundFadeDir>
+        <chartSummaries>
+            <axisBinding>y</axisBinding>
+            <column>RowCount</column>
+        </chartSummaries>
+        <chartType>VerticalColumn</chartType>
+        <enableHoverLabels>false</enableHoverLabels>
+        <expandOthers>true</expandOthers>
+        <groupingColumn>BucketField_55328711</groupingColumn>
+        <location>CHART_TOP</location>
+        <showAxisLabels>true</showAxisLabels>
+        <showPercentage>false</showPercentage>
+        <showTotal>false</showTotal>
+        <showValues>false</showValues>
+        <size>Medium</size>
+        <summaryAxisRange>Auto</summaryAxisRange>
+        <textColor>#000000</textColor>
+        <textSize>12</textSize>
+        <titleColor>#000000</titleColor>
+        <titleSize>18</titleSize>
+    </chart>
+    <columns>
+        <field>OWNER</field>
+    </columns>
+    <columns>
+        <field>Lead.pi__score__c</field>
+    </columns>
+    <columns>
+        <field>FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>TITLE</field>
+    </columns>
+    <columns>
+        <field>COMPANY</field>
+    </columns>
+    <columns>
+        <field>LEAD_SOURCE</field>
+    </columns>
+    <columns>
+        <field>STREET</field>
+    </columns>
+    <columns>
+        <field>EMAIL</field>
+    </columns>
+    <description>Shows the breakdown of lead score for all leads within the queue</description>
+    <filter>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>equals</operator>
+            <value>Customer Prospect</value>
+        </criteriaItems>
+    </filter>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>BucketField_55328711</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>Consultant Queue Scoring Distribution</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>LeadList</reportType>
+    <scope>org</scope>
+    <showDetails>false</showDetails>
+    <sortColumn>Lead.pi__score__c</sortColumn>
+    <sortOrder>Asc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

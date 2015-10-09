@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>27Jan12Web:AreYouReadyToGoSolo.Is Independence Right For You in 2012?</name>
+    <style>none</style>
+    <subject>MBO Partners Webinar: Is Independence Right For You in 2012?</subject>
+    <textOnly>Dear {{lead.First Name:default=potential independent consultant}},
+
+Along the way, you shared with us that you have considered independent consulting as a career path. We appreciate your interest in our company and the topic of independence. It&apos;s a subject we are passionate about.
+
+Each year, we observe a surge in interest around the topic just after the holidays from connections new and old. You may be interested in participating in our pre-New-Years Webinar:
+
+Title: Is Independent Consulting Right For You?
+
+Date/Time: Tomorrow, 12/30, at 12:30 PM EST
+
+Or just reading about our point of view in a recent posting we did.
+
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

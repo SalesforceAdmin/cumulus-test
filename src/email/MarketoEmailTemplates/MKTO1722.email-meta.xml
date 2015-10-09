@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This is the email that will go out when the &quot;Talk to us&quot; form is submitted</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Talk to us</name>
+    <style>none</style>
+    <subject>Thank You for Your Interest in MBO Partners</subject>
+    <textOnly>Dear {{lead.First Name:default=Sir/Madam}},
+
+Thank you for taking the time to contact MBO Partners. My name is {{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}}, an MBO Partners Enrollment Manager, and I will reach out to you within one business day.
+
+If you prefer, you can easily schedule a phone appointment with me by visiting {{lead.EM TTLink:default=https://my.timedriver.com/C9CPC}}.
+
+I look forward to speaking with you!
+
+Best regards,
+{{lead.EM FName:default=Steve}}
+___________________________________
+{{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}} 
+Consultant Services Advisor
+MBO Partners
+ 
+t: {{lead.EM Phone:default=703-793-6011}}
+f: 703-793-6070
+e: {{lead.EM Email:default=SArhancet@mbopartners.com}} 
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

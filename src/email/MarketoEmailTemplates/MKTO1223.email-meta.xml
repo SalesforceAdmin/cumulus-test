@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: voicemail (1329950398.0)</name>
+    <style>none</style>
+    <subject>RE: voicemail (1329950398.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean      false false false  EN-US X-NONE X-NONE             MicrosoftInternetExplorer4                                                                                                                                                               Hi Russell, I asked around and it was agreed that the best CRM tool for a small one man shop like yourself is constant contact www.constantcontact.com  Let me know what you think about this, it’s pretty affordable and automates a lot of the process. Have a great night!Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. From: &lt;http://www.constantcontact.com&gt; Sara Conde 
+Sent: Tuesday, February 21, 2012 5:46 PM
+To: Russell Klein (klein@russellkleinassociates.com)
+Subject: voicemail Hi Russell, Thank you for your message. I am going to see if I can come up with a referral for you… ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

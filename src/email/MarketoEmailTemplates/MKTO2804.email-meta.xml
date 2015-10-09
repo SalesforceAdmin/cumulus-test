@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>26Sept13:SOI.SOI Attended</name>
+    <style>none</style>
+    <subject>Thank you for attending - Resources from our SOI Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+Thank you for attending our  “Future of Work: MBO State of Independence Study 2013&quot; webinar held on Thursday, September 26. Steve King and Carolyn Ockels, Partners at Emergent Research, joined MBO Partners CEO Gene Zaino to break down new research on America&apos;s independent workforce.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+       Recorded webinar &lt;http://video.mbopartners.com/players/ZDlHwe4P-mMm4x1IW.html&gt;
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/9.26.13-SOI-Webinar.pdf&gt;
+       Full SOI Report (PDF) &lt;http://info.mbopartners.com/rs/mbo/images/2013-MBO_Partners_State_of_Independence_Report.pdf&gt;
+___________________________________
+
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+
+e: jmacdonell@mbopartners.com
+
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

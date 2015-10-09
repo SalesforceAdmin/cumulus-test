@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>voicemail (1337374357.0)</name>
+    <style>none</style>
+    <subject>voicemail (1337374357.0)</subject>
+    <textOnly>-     
+	- 
+	-   110 Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Mike, Hope your Friday is going well, I am sorry I missed you. We have not received anything from TWC yet for Kevin. I will follow up with Chris Hill on this. Matt can touch base with you on the outstanding invoices with TWC but the last I saw on this was an email from TWC on 5.9.12 stating that the invoices would be processed that day. It’s hard to understand why we have not received them yet but I want to check with Matt before we follow up again.  He is out of the office today and will be back on Monday. In terms of legal language to add to TWC agreement (once we receive it that is) I think we can stick to something simple. It would need to be based off of the language in the contract but in general I think something like this would do: “When and if consultant Kevin McCarron is awarded a full time position with The Weather Channel, consultant Mike Buchkovsky shall invoice a finder’s fee in the amount of XXXX. The finder’s fee is to be paid by The Weather Channel upon receipt of invoice.” Thanks Mike,
+Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SIG Webcast October 2012.Invitation 1.5 - Postponed</name>
+    <style>none</style>
+    <subject>Important update: Tomorrow&apos;s webinar has been postponed until Thursday, November 8 at 2:00 p.m. ET</subject>
+    <textOnly>Webcast:
+
+Why Your Company Can&apos;t Afford to Get Independent Contractor Engagement Wrong
+Hello,
+ 
+ Due to Hurricane Sandy, tomorrow&apos;s webcast, Why Your Company Can’t Afford to Get Independent Contractor Engagement Wrong &lt;https://sourcinginterests.webex.com/mw0307l/mywebex/default.do?nomenu=true&amp;siteurl=sourcinginterests&amp;service=6&amp;rnd=0.11028516525839194&amp;main_url=https%3A%2F%2Fsourcinginterests.webex.com%2Fec0606l%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26confViewID%3D1002943220%26%26%26%26siteurl%3Dsourcinginterests&gt;, hosted by Sourcing Interest Group (SIG), will be postponed until  Thursday, November 8 at 2:00 p.m. ET. If you are already registered,  there is no need to re-register. If you haven&apos;t registered and would  like more details, please see below. Meanwhile, please be safe.
+ 
+ Today, nearly 17 million Americans consider themselves independent workers. Companies large and small depend on many of these talented resources to get work done in the emerging Project Economy.
+ 
+ But using independent workers brings all-too-familiar risks: misclassification, co-employment, intellectual property, and liability to name a few. The proper design of independent contractor engagement programs, however, can help companies get the best of consulting talent without the risk.
+ 
+ In this webcast, MBO Partners’ CEO, Gene Zaino, and Enterprise Market Strategist, Jay Lash, share some new and cutting-edge 
+research on the movement toward career independence. Drawing on their insights from working with prominent Fortune 500 clients, they will show how an organization that understands the talent trends can capitalize on them.
+ 
+ Gene has been the industry expert in this field for over 25 years and has been featured in the New York Times, 
+Forbes, ABC News, Money Magazine, and many other publications. Jay has more than 25 years of experience in Talent Management and Staffing solutions.
+ 
+ Together, they make a compelling case for embracing professional independent workers in a compliant program and creating a virtual bench of experts ready to go when you need them. You will also learn why and how to elevate this priority within your company.
+ 
+ Webcast: Why HR Should Own Independent Contract Talent Management and How to Do It
+ 
+ Date and Time: Thursday, November 2 at 2:00 p.m. ET
+ 
+ Registration: Click here to register &lt;https://sourcinginterests.webex.com/mw0307l/mywebex/default.do?nomenu=true&amp;siteurl=sourcinginterests&amp;service=6&amp;rnd=0.11028516525839194&amp;main_url=https%3A%2F%2Fsourcinginterests.webex.com%2Fec0606l%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26confViewID%3D1002943220%26%26%26%26siteurl%3Dsourcinginterests&gt;
+ 
+ We are anticipating a great turnout and hope you can join the discussion. If you think this may not be right for you, but you have a colleague who might be interested, please consider passing this invite along.
+ 
+ Kind regards,
+ 
+ Steve
+__________________________________
+Steve Taggart
+Account Executive, Enterprise Solutions
+MBO Partners
+ 
+t: 703.793.6014
+f: 703.793.6452
+e: staggart@mboenterprise.com 
+w: www.mboenterprise.com 
+
+
+MBO Enteprise13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171
+
+Visit Us &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

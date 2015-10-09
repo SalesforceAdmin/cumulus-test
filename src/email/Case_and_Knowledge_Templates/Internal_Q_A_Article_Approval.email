@@ -1,0 +1,9 @@
+Hello,
+
+Article {!Internal_QA__kav.ArticleNumber}: {!Internal_QA__kav.Title} has been assigned to the queue for approval. 
+
+Please view this article in the Items to Approve section of your Salesforce Home page or go to this link: {!ApprovalRequest.Internal_URL}
+
+Open the article, {!Internal_QA__kav.Link}, edit as needed, and then approve or reject the article. You should only reject the article if it needs major rework - be sure to add comments to improve the article.
+
+Thanks for contributing to the MBO knowledge base!

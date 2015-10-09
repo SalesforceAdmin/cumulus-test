@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Jan10Web:Disrupt-Yourself.We Missed You Jan10</name>
+    <style>none</style>
+    <subject>Since You Missed it - Resources from our Career Disruption Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+You were missed at our  “Disrupt Yourself: Four Rules for Reinventing Your Career in 2013&quot; webinar held on Thursday, January 10th. Author and speaker Whitney Johnson applied the unique concept of disruptive innovation to independent professionals seeking to start or further succeed in solo consulting work. Although you were not able to attend, we appreciate your interest.
+Below you will find links to the material created for the webinar. We hope you find them informative:
+       Recorded webinar &lt;http://www.mbopartners.com/webinar-disrupt-yourself-four-rules-reinventing-your-career-2013&gt;
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO-Disrupt-Yourself-Webinar_Slides.pdf&gt;
+       Featured Speaker Whitney Johnson Website &lt;http://www.whitneyjohnson.com/&gt;
+        &lt;http://www.6seconds.org/&gt;Whitney&apos;s Book: Dare, Dream Do &lt;http://www.amazon.com/Dare-Dream-Do-Remarkable-Things/dp/1937134121&gt;  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

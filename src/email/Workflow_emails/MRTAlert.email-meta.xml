@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Used to notify MRT members of lead to qualify</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>MRTAlert</name>
+    <style>none</style>
+    <subject>Lead Score Alert - {!Lead.OwnerFullName}</subject>
+    <type>text</type>
+</EmailTemplate>

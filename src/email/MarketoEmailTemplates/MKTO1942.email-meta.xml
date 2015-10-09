@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>HCI Webcast Sept12.Invite 2</name>
+    <style>none</style>
+    <subject>HCI Webcast Registration Reminder</subject>
+    <textOnly>Hello,
+
+A couple of weeks ago, I invited you to register for an upcoming Human Capital Institute Webcast titled “Why HR Should Own Independent Contract Talent Management and How to Do It.” It promises to be a very informative discussion, and if you haven’t had the opportunity to register yet it’s not too late. 
+ 
+This event features a panel of prominent HR and Talent Acquisition executives discussing best practices in the human capital management of their independent contract talent. 
+
+Date: Wednesday, September 12, 2012 at noon ET 
+ 
+(Not a good time for you? There are recasts on September 13 and 14 also available to you)
+ 
+Registration: Click here to register &lt;http://www.hci.org/lib/why-hr-should-own-independent-contract-talent-management-and-how-do-it&gt; 
+
+We are anticipating a great turnout and hope you can join the discussion.
+
+Warm regards, 
+ 
+Steve
+
+P.S. If you think this may not be right for you, but you have a colleague who might be interested, please consider passing this invitation along.
+
+___________________________________
+Steve Taggart 
+Account Executive, Enterprise Solutions
+MBO Partners
+ 
+t: 703.793.6014
+f: 703.793.6452
+e: staggart@mboenterprise.com 
+w: www.mboenterprise.com 
+ 
+About MBO Enterprise Solutions
+MBO is an Independent Contractor Engagement Specialist that provides companies with a smarter way to minimize risk and maximize the return on their contract talent. 
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

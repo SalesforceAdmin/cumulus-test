@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners  - Ron Williamson (1314728238.0)</name>
+    <style>none</style>
+    <subject>MBO Partners  - Ron Williamson (1314728238.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Ron,
+ 
+I wanted to follow up with you from our conversation regarding the services provided by MBO Partners and how that would work on your next consulting contract.  I wanted to touch base and find out how that was going.
+ 
+Here are a few tools that summarize our conversation from before:
+ 
+This interactive tool shows the value of using a company like MBO as an alternative to incorporation: http://www.mbopartners.com/#whoweareYou can browse through the group benefits you would have access to here: http://www.mbopartners.com/mbo-exec-group-benefits
+There are some webinars and videos we have created that might assist you in finding your next contract:http://www.mbopartners.com/mbo-partners-webcast-index
+ 
+As I mentioned once you find your next contract we can do a financial illustration showing what that income would look like being run through MBO Partners. 
+ 
+If you have questions before then, feel free to schedule a convenient time for you on my online schedule: https://my.timedriver.com/C9CPC.
+ 
+Regards,
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

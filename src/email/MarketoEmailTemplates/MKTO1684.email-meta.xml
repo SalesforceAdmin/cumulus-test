@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Follow Up (1341610312.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Follow Up (1341610312.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                            Dear Mafalda,  Some time ago you requested information regarding the services offered by MBO Partners.  Now might not be the right time for you but I wanted to share with you some of the resources we develop specifically designed for independent consultants that may be helpful for you: ·        Recorded Independent Consulting Webinar Index &lt;http://www.mbopartners.com/mbo-partners-webcast-index&gt;·        Reports on Independent Consulting in America &lt;http://www.mbopartners.com/state-of-independence/&gt;·        Independent Consulting Brief we send out Monthly &lt;http://www.mbopartners.com/independent-consulting-brief&gt; Are you working on a contract/project now or are you currently working W2 at the moment? Regards, Nicolette  ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

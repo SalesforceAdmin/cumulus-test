@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>PC_LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>PC_FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>Contact.Associate_Type__c</field>
+    </columns>
+    <columns>
+        <field>PC_ADDRESS2_STREET</field>
+    </columns>
+    <columns>
+        <field>PC_ADDRESS2_STATE</field>
+    </columns>
+    <columns>
+        <field>PC_ADDRESS2_ZIP</field>
+    </columns>
+    <columns>
+        <field>PC_EMAIL</field>
+    </columns>
+    <columns>
+        <field>Contact.Contact_Status__c</field>
+    </columns>
+    <description>List of active and alumni associates with MBO for Insight.</description>
+    <filter>
+        <criteriaItems>
+            <column>Contact.Referring_Client__c</column>
+            <operator>equals</operator>
+            <value>Insight</value>
+        </criteriaItems>
+    </filter>
+    <format>Tabular</format>
+    <name>Insight Associates</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>AccountList</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <sortColumn>PC_LAST_NAME</sortColumn>
+    <sortOrder>Asc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

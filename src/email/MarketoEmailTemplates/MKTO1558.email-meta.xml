@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Call with MBO (1339597848.0)</name>
+    <style>none</style>
+    <subject>RE: Call with MBO (1339597848.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Nona, The columns are not met to add up to the annual amount. The first month column represents the worst case scenario when all the tax caps are new and  y you are paying the maximum amount into all of them. The later month column represents the best case scenario when you have hit all the tax caps and thus, are paying less in overall taxes. The annualized column is just that. Let me know if you have any additional questions. Thanks,
+Sara From: Nona Ai [mailto:nonaai@aol.com] 
+Sent: Wednesday, June 13, 2012 9:33 AM
+To: Sara Conde
+Subject: Re: Call with MBO Sara, Is there an error in this?  The annualized column looks okay but the monthly columns don&apos;t seem to add up to the annual amounts. R, Nona
+
+Sent from my iPhone
+On Jun 7, 2012, at 7:55 AM, Sara Conde &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt; wrote:  &lt;mime-attachment.ics&gt;&lt;/</textOnly>
+    <type>custom</type>
+</EmailTemplate>

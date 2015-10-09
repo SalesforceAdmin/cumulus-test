@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Names for Possible Referral (1329493145.0)</name>
+    <style>none</style>
+    <subject>RE: Names for Possible Referral (1329493145.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Mike, No need to apologize at all. Thank you so much for the referrals – we really appreciate them! Take care,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: From: &lt;mailto:sconde@mbopartners.com&quot;&gt;sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. &lt;span style=&apos;font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;&gt; Mike Clark [mailto:mclark475@gmail.com] 
+Sent: Friday, February 17, 2012 9:36 AM
+To: Sara Conde
+Subject: Names for Possible Referral Hi Sara, Sorry to bother you with a series of names for referrals, but I have by chance discussed your organization with a few colleagues over the past few days. Who will probably contact you in the near future: Kurt MurphyJohn Phillips The others mentioned and a few others are firmly going the LLC route and will not approach MBO. Mike</textOnly>
+    <type>custom</type>
+</EmailTemplate>

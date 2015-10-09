@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Parked.1 Parked</name>
+    <style>none</style>
+    <subject>MBO Partners / {{lead.Full Name:default=}}</subject>
+    <textOnly>Hello {{lead.First Name:default=future associate}},
+
+I wanted to follow up with you from our conversation regarding the services provided by MBO Partners.  You mentioned you may be starting a new consulting contract. How is that going?
+
+Here are a few tools that summarize our conversation from before:
+
+
+ - There are some webinars and videos we have created that might assist you in finding your next contract if you have not already found one:
+
+
+
+ http://www.mbopartners.com/mbo-partners-webcast-index &lt;http://www.mbopartners.com/mbo-partners-webcast-index&gt;
+
+
+ - MBO Partners continues to invest in being a leader for independent consultants across the country. I also wanted to share the news that we released a study you may be interested in. For the first time, there’s real hard facts about The State of Independence in America &lt;http://info.mbopartners.com/stateofindependence&gt; that will reveal not just how many millions of independent professionals there are in the country, but also the unique things that motivate them and help them stay happily independent.
+
+
+
+Any update would be great, look forward to hearing from you.
+
+Regards,
+
+{{lead.EM FName:default=Steve}} ___________________________________ {{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}}  Consultant Services Advisor
+ MBO Partners   t: {{lead.EM Phone:default=703-793-6011}}
+ f: 703-793-6070 e: {{lead.EM Email:default=SArhancet@mbopartners.com}}  w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

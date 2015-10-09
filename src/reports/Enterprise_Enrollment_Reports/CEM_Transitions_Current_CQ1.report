@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>PC_FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>PC_LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>Account.MemberSince__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Referring_Client__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Associate_Type__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Associate_Status__c</field>
+    </columns>
+    <columns>
+        <field>Account.TOTBilling__c</field>
+    </columns>
+    <description>CEM transitions for the current calendar quarter</description>
+    <filter>
+        <criteriaItems>
+            <column>Contact.Enrollment_Manager__c</column>
+            <operator>equals</operator>
+            <value>Natalie Gallagher,Meghan Defibaugh,Tyler King</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Contact.Referring_Client__c</column>
+            <operator>notEqual</operator>
+            <value></value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Contact.Associate_Status__c</column>
+            <operator>equals</operator>
+            <value>Active,Non Billing,Probation,Terminated</value>
+        </criteriaItems>
+    </filter>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>Contact.Enrollment_Manager__c</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>CEM Transitions Current CQ</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>AccountList</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>Account.MemberSince__c</dateColumn>
+        <interval>INTERVAL_CURRENTQ</interval>
+    </timeFrameFilter>
+</Report>

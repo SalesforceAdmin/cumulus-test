@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p><span style="font-size: 12px; font-family: georgia,palatino;">Dear {{lead.First Name:default=webinar registrant}},</span></p>
+<p><span style="font-size: 12px; font-family: georgia,palatino;">Thank you for registering for our "Is Independent Consulting Right for You?" Webinar on Friday December 30, 2011. We hope you found it informative. You can find a copy of the 30 minute presentation <a title="MBO Partners | Resources" href="http://www.mbopartners.com/resources" target="_blank">here</a>. As mentioned, this is just the first of a series of Webinars MBO will be hosting over the next year. We invite you to join our mailing list to <a title="Webinar Mailing List" href="http://info.mbopartners.com/Webinar.html" target="_blank">keep in touch</a> regarding upcoming events.</span></p>
+<p><span style="font-size: 12px; font-family: georgia,palatino;">Regards,</span></p>
+<p><span style="font-size: 12px; font-family: georgia,palatino;">Steve Arhancet</span></p>
+<p><span id="edit_text" class="mktEditable"> </span></p>
+<div><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span></div>
+<div><strong><span style="color: #a00b10; font-size: 10.5pt; font-family: 'Georgia','serif';">STEVE ARHANCET</span></strong></div>
+<div><strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';">Director, Consultant Services</span></strong></div>
+<div><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';">MBO Partners</span></div>
+&nbsp;
+<div><strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';"> 703.793.6011</span></div>
+<div><strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';">f:</span></strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';"> 703.793.6081</span></div>
+<div><strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';">e:</span></strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';"> <a href="mailto:sarhancet@mbopartners.com">sarhancet@mbopartners.com</a></span></div>
+<div><strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';">w:</span></strong><span style="color: #353433; font-size: 10.5pt; font-family: 'Georgia','serif';"> <a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></div></span>
+</div>
+</body>
+</html>

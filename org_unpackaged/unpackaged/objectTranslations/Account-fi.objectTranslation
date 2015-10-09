@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <help><!-- The number of active engagements for this associate or client --></help>
+        <label><!-- Active Engagements --></label>
+        <name>ACTEngagements__c</name>
+    </fields>
+    <fields>
+        <help><!-- First name of the referenced AM --></help>
+        <label><!-- AM First Name --></label>
+        <name>AMFirstName__c</name>
+    </fields>
+    <fields>
+        <help><!-- Full name of the AM --></help>
+        <label><!-- AM Full Name --></label>
+        <name>AMFullName__c</name>
+    </fields>
+    <fields>
+        <help><!-- Last name of the referenced AM --></help>
+        <label><!-- AM Last Name --></label>
+        <name>AMLastName__c</name>
+    </fields>
+    <fields>
+        <help><!-- The TimeTrade link for the referenced AM --></help>
+        <label><!-- AM TimeTrade --></label>
+        <name>AMTimeTrade__c</name>
+    </fields>
+    <fields>
+        <help><!-- Email address for the referenced AM --></help>
+        <label><!-- AM Email --></label>
+        <name>AM_Email__c</name>
+    </fields>
+    <fields>
+        <help><!-- Use they look up button to search and select the OAM for this account --></help>
+        <label><!-- Operational Account Manager --></label>
+        <name>AccountExecutive__c</name>
+        <relationshipLabel><!-- Clients (OAM) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Account Manager --></label>
+        <name>Account_Manager__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Account Status --></label>
+        <name>Activity_Status__c</name>
+        <picklistValues>
+            <masterLabel>Active</masterLabel>
+            <translation><!-- Active --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alumni</masterLabel>
+            <translation><!-- Alumni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Attempted</masterLabel>
+            <translation><!-- Attempted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client</masterLabel>
+            <translation><!-- Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Closed</masterLabel>
+            <translation><!-- Closed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Converted Lead</masterLabel>
+            <translation><!-- Converted Lead --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Identified</masterLabel>
+            <translation><!-- Identified --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy B2C</masterLabel>
+            <translation><!-- Legacy B2C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Negative</masterLabel>
+            <translation><!-- Negative --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New</masterLabel>
+            <translation><!-- New --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospected</masterLabel>
+            <translation><!-- Prospected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Working</masterLabel>
+            <translation><!-- Working --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Check box to opt in to Associate Newsletter --></help>
+        <label><!-- Associate Newsletter --></label>
+        <name>AssociateNewsletter__c</name>
+    </fields>
+    <fields>
+        <help><!-- The number of completed engagements for this associate or client --></help>
+        <label><!-- Completed Engagements --></label>
+        <name>COMEngagements__c</name>
+    </fields>
+    <fields>
+        <help><!-- The number of unique associates currently engaged by this client --></help>
+        <label><!-- Associates Currently Engaged --></label>
+        <name>CURAssociates__c</name>
+    </fields>
+    <fields>
+        <help><!-- The company numbers for the companies this associate has worked with --></help>
+        <label><!-- Client List --></label>
+        <name>ClientList__c</name>
+    </fields>
+    <fields>
+        <help><!-- Hidden --></help>
+        <label><!-- Company Number --></label>
+        <name>Company_Number__c</name>
+    </fields>
+    <fields>
+        <help><!-- Select the estimated size of the company --></help>
+        <label><!-- Company size --></label>
+        <name>Company_size__c</name>
+        <picklistValues>
+            <masterLabel>Government agency</masterLabel>
+            <translation><!-- Government agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Large organization (Fortune 1000 or equivalent)</masterLabel>
+            <translation><!-- Large organization (Fortune 1000 or equivalent) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medium organization</masterLabel>
+            <translation><!-- Medium organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Organization</masterLabel>
+            <translation><!-- Small Organization --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Select the status of the credit check --></help>
+        <label><!-- Credit Worthiness --></label>
+        <name>Credit_Worthiness__c</name>
+        <picklistValues>
+            <masterLabel>Average</masterLabel>
+            <translation><!-- Average --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Excellent</masterLabel>
+            <translation><!-- Excellent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Poor</masterLabel>
+            <translation><!-- Poor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unacceptable</masterLabel>
+            <translation><!-- Unacceptable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unchecked</masterLabel>
+            <translation><!-- Unchecked --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- 1 = New Client - hasn&apos;t had 90 days to pay first invoice;
+2 = Inactive Client - no billing within 90 days, nor outstanding balance;
+3 = Unpaid Inactive Client - no billing within 90 days, with remaining balance;
+0 = Good standing - all else --></help>
+        <label><!-- Daily Sales Outstanding Code --></label>
+        <name>DailySalesOutstandingCode__c</name>
+    </fields>
+    <fields>
+        <help><!-- The average number of days it takes for a client to send payment:
+[(outstanding balance) / (past 90 days of activity)] * 90 --></help>
+        <label><!-- Daily Sales Outstanding --></label>
+        <name>DailySalesOutstanding__c</name>
+    </fields>
+    <fields>
+        <help><!-- The date the credit check occurred --></help>
+        <label><!-- Date of credit check --></label>
+        <name>Date_of_credit_check__c</name>
+    </fields>
+    <fields>
+        <label><!-- Direct? --></label>
+        <name>Direct__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enterprise Suppression --></label>
+        <name>Enterprise_Suppression__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the first date we are allowed to invoice the client --></help>
+        <label><!-- First Allowed Invoice Date --></label>
+        <name>FirstAllowedInvoiceDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fit for auto-merge --></label>
+        <name>Fit_for_auto_merge__c</name>
+    </fields>
+    <fields>
+        <help><!-- Code explaining where the record came from (Hidden) --></help>
+        <label><!-- Import Source --></label>
+        <name>Import_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- Initial Work Order --></label>
+        <name>Initial_Work_Order__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- The date an account last received an invoice that was not voided. --></help>
+        <label><!-- Last Billing Date --></label>
+        <name>LastBillingDate__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the Lead CEM for the client --></help>
+        <label><!-- Lead CEM --></label>
+        <name>LeadCEM__c</name>
+        <relationshipLabel><!-- Clients (Lead CEM) --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- Check this if this record is to send an update to the connection center --></help>
+        <label><!-- MBO Access --></label>
+        <name>MBOAccess__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select which regional division of MBO Enterprise is responsible for this Client --></help>
+        <label><!-- MBO Region --></label>
+        <name>MBODivision__c</name>
+        <picklistValues>
+            <masterLabel>East</masterLabel>
+            <translation><!-- East --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>West</masterLabel>
+            <translation><!-- West --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- The URL that hosts the MSA for the client --></help>
+        <label><!-- MSA --></label>
+        <name>MSA__c</name>
+    </fields>
+    <fields>
+        <help><!-- The MSP for this client --></help>
+        <label><!-- MSP --></label>
+        <name>MSP__c</name>
+    </fields>
+    <fields>
+        <help><!-- Check if we have a MSA in place --></help>
+        <label><!-- Master Service Agreement? --></label>
+        <name>Master_Service_Agreement__c</name>
+    </fields>
+    <fields>
+        <help><!-- When the Associate or Client first joined MBO --></help>
+        <label><!-- MBO Associate Since --></label>
+        <name>MemberSince__c</name>
+    </fields>
+    <fields>
+        <help><!-- Enter the reason for the account&apos;s negative status --></help>
+        <label><!-- Negative reason --></label>
+        <name>Negative_reason__c</name>
+    </fields>
+    <fields>
+        <label><!-- New BM Last --></label>
+        <name>NewBMLast__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operation Plan --></label>
+        <name>OperationPlan__c</name>
+        <picklistValues>
+            <masterLabel>Auto Debit Funding</masterLabel>
+            <translation><!-- Auto Debit Funding --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bank Account Transfer</masterLabel>
+            <translation><!-- Bank Account Transfer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Broker Fee Only</masterLabel>
+            <translation><!-- Broker Fee Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business</masterLabel>
+            <translation><!-- Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Compliance Only</masterLabel>
+            <translation><!-- Compliance Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Staff</masterLabel>
+            <translation><!-- Corporate Staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Electronic Billing Info</masterLabel>
+            <translation><!-- Electronic Billing Info --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non Associate</masterLabel>
+            <translation><!-- Non Associate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payroll - Fixed</masterLabel>
+            <translation><!-- Payroll - Fixed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payroll - Hourly</masterLabel>
+            <translation><!-- Payroll - Hourly --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sponsored Staff - Fixed</masterLabel>
+            <translation><!-- Sponsored Staff - Fixed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sponsored Staff - Hourly</masterLabel>
+            <translation><!-- Sponsored Staff - Hourly --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Standard</masterLabel>
+            <translation><!-- Standard --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Standard - Foreign</masterLabel>
+            <translation><!-- Standard - Foreign --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Standard - Sponsored</masterLabel>
+            <translation><!-- Standard - Sponsored --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Team</masterLabel>
+            <translation><!-- Team --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Owner Email --></label>
+        <name>Owner_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner First Name --></label>
+        <name>Owner_First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Landing Page --></label>
+        <name>Owner_Landing_Page__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Last Name --></label>
+        <name>Owner_Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner LinkedIn --></label>
+        <name>Owner_LinkedIn__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Phone --></label>
+        <name>Owner_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Time Trade --></label>
+        <name>Owner_Time_Trade__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Title --></label>
+        <name>Owner_Title__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the payment terms for the client --></help>
+        <label><!-- Payment Terms --></label>
+        <name>PaymentTerms__c</name>
+        <picklistValues>
+            <masterLabel>Auto Debit</masterLabel>
+            <translation><!-- Auto Debit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Charge Sponsor</masterLabel>
+            <translation><!-- Charge Sponsor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Due Upon Receipt</masterLabel>
+            <translation><!-- Due Upon Receipt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 10</masterLabel>
+            <translation><!-- Net 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 14</masterLabel>
+            <translation><!-- Net 14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 15</masterLabel>
+            <translation><!-- Net 15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 20</masterLabel>
+            <translation><!-- Net 20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 25</masterLabel>
+            <translation><!-- Net 25 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 3</masterLabel>
+            <translation><!-- Net 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 30</masterLabel>
+            <translation><!-- Net 30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 35</masterLabel>
+            <translation><!-- Net 35 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 40</masterLabel>
+            <translation><!-- Net 40 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 45</masterLabel>
+            <translation><!-- Net 45 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 5</masterLabel>
+            <translation><!-- Net 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 50</masterLabel>
+            <translation><!-- Net 50 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 55</masterLabel>
+            <translation><!-- Net 55 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 60</masterLabel>
+            <translation><!-- Net 60 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 65</masterLabel>
+            <translation><!-- Net 65 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 7</masterLabel>
+            <translation><!-- Net 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 75</masterLabel>
+            <translation><!-- Net 75 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 90</masterLabel>
+            <translation><!-- Net 90 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reverse Wire</masterLabel>
+            <translation><!-- Reverse Wire --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>When Client Pays (est 20 days)</masterLabel>
+            <translation><!-- When Client Pays (est 20 days) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>When Client Pays (est 30 days)</masterLabel>
+            <translation><!-- When Client Pays (est 30 days) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>When Client Pays (est 40 days)</masterLabel>
+            <translation><!-- When Client Pays (est 40 days) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>When Client Pays (est 45 days)</masterLabel>
+            <translation><!-- When Client Pays (est 45 days) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>When Client Pays (est 60 days)</masterLabel>
+            <translation><!-- When Client Pays (est 60 days) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+        <picklistValues>
+            <masterLabel>DC Metro</masterLabel>
+            <translation><!-- DC Metro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East Central</masterLabel>
+            <translation><!-- East Central --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foreign</masterLabel>
+            <translation><!-- Foreign --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Midwest</masterLabel>
+            <translation><!-- Midwest --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mountain</masterLabel>
+            <translation><!-- Mountain --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NYC Metro</masterLabel>
+            <translation><!-- NYC Metro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northeast</masterLabel>
+            <translation><!-- Northeast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northwest</masterLabel>
+            <translation><!-- Northwest --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ready to Serve</masterLabel>
+            <translation><!-- Ready to Serve --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>South</masterLabel>
+            <translation><!-- South --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southeast</masterLabel>
+            <translation><!-- Southeast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southwest</masterLabel>
+            <translation><!-- Southwest --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Select how risky the associates working for the client are. --></help>
+        <label><!-- Risk Level --></label>
+        <name>Risk_Level__c</name>
+        <picklistValues>
+            <masterLabel>High</masterLabel>
+            <translation><!-- High --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Normal</masterLabel>
+            <translation><!-- Normal --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Check to opt into the State of Independence campaign --></help>
+        <label><!-- State of Independence --></label>
+        <name>SoI__c</name>
+    </fields>
+    <fields>
+        <help><!-- The total number of unique MBO associates this client has engaged --></help>
+        <label><!-- Total Associates Engaged --></label>
+        <name>TOTAssociates__c</name>
+    </fields>
+    <fields>
+        <help><!-- The lifetime billings for this associate or client --></help>
+        <label><!-- Billings to Date --></label>
+        <name>TOTBilling__c</name>
+    </fields>
+    <fields>
+        <help><!-- The total number of engagements through MBO Partners --></help>
+        <label><!-- Total MBO Engagements --></label>
+        <name>TOTEngagements__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please check if the Associate is a team lead --></help>
+        <label><!-- Team Leader --></label>
+        <name>TeamLeader__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the Tier level for this Client --></help>
+        <label><!-- Service Level --></label>
+        <name>Tier__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Total Closed Won Opportunities --></label>
+        <name>Total_Closed_Won_Opportunities__c</name>
+    </fields>
+    <fields>
+        <help><!-- The user name for the associate --></help>
+        <label><!-- User Name --></label>
+        <name>User_Name__c</name>
+    </fields>
+    <fields>
+        <help><!-- The VMS for this client --></help>
+        <label><!-- VMS --></label>
+        <name>VMS__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sync --></label>
+        <name>fb_MBO__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Status Change Date --></label>
+        <name>fd_activityChangeDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Activate Associate --></label>
+        <name>fd_slaActivate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Assist with Enrollment - Attempt 1 --></label>
+        <name>fd_slaAssistEnroll1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Assist with Enrollment - Attempt 2 --></label>
+        <name>fd_slaAssistEnroll2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Assist with Enrollment - Attempt 3 --></label>
+        <name>fd_slaAssistEnroll3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Background/Drug Screening Begins --></label>
+        <name>fd_slaBackgroundCheck1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Background/Drug Screening Launched --></label>
+        <name>fd_slaBackgroundCheck2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Background/Drug Screening Received --></label>
+        <name>fd_slaBackgroundCheck3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Park And Escalate to Client --></label>
+        <name>fd_slaEnrollPark__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Complete --></label>
+        <name>fd_slaEnrollmentComplete__c</name>
+    </fields>
+    <fields>
+        <label><!-- I-9 Submitted --></label>
+        <name>fd_slaI9__c</name>
+    </fields>
+    <fields>
+        <label><!-- Conduct Initial Call - Attempt 1 --></label>
+        <name>fd_slaInitialCall1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Conduct Initial Call - Attempt 2 --></label>
+        <name>fd_slaInitialCall2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Conduct Initial Call - Attempt 3 --></label>
+        <name>fd_slaInitialCall3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Park And Escalate to Client --></label>
+        <name>fd_slaInitialPark__c</name>
+    </fields>
+    <fields>
+        <label><!-- Inquiry Completion --></label>
+        <name>fd_slaInquiry__c</name>
+    </fields>
+    <fields>
+        <label><!-- On-boarding Documents Submitted --></label>
+        <name>fd_slaOnboardingSubmit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Begins Enrollment --></label>
+        <name>fd_slaPending__c</name>
+    </fields>
+    <fields>
+        <label><!-- Qualification Docs Submission --></label>
+        <name>fd_slaQualDocs__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Questionnaire Completed --></label>
+        <name>fd_slaQualQuestionComp__c</name>
+    </fields>
+    <fields>
+        <label><!-- Qualification Survey Assessed --></label>
+        <name>fd_slaQualSurvey__c</name>
+    </fields>
+    <fields>
+        <label><!-- Upload Supporting Documentation --></label>
+        <name>fd_slaQualUpload__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Sends Work Order --></label>
+        <name>fd_slaWOSubmit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Status Age --></label>
+        <name>fn_activityStatusAge__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Inactive Opportunities --></label>
+        <name>fn_totalInactiveOpportunities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Open Opportunities --></label>
+        <name>fn_totalOpenOpportunities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Opportunities --></label>
+        <name>fn_totalOpportunities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Sold Opportunities --></label>
+        <name>fn_totalSoldOpportunities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Order Count --></label>
+        <name>fn_workOrderCount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Mailbox --></label>
+        <name>fs_clientEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Owner --></label>
+        <name>fs_clientOwner__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Company Record Id --></label>
+        <name>fs_mboRecordId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner --></label>
+        <name>fs_owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Market Client Access ID --></label>
+        <name>fs_wMClientAccessID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Market Project ID --></label>
+        <name>fs_wMProjID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Market Virtual Bench ID --></label>
+        <name>fs_wMWorkBench__c</name>
+    </fields>
+    <fields>
+        <label><!-- WM Company ID --></label>
+        <name>fs_wmCompanyId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Executive --></label>
+        <name>rs_accountExecutive__c</name>
+        <relationshipLabel><!-- Accounts (Account Executive) --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Associate</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Info Narrow --></label>
+            <section>Associate Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Information --></label>
+            <section>Associate Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Narrow 1 --></label>
+            <section>Marketing Narrow 1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Qualifiers --></label>
+            <section>Sales Qualifiers</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Client Referred Associate</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Direct Associate</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Enterprise</layout>
+        <sections>
+            <label><!-- Account Info Narrow --></label>
+            <section>Account Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profile --></label>
+            <section>LinkedIn Company Profile</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Associate</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Info Narrow --></label>
+            <section>Associate Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Information --></label>
+            <section>Associate Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Narrow 1 --></label>
+            <section>Marketing Narrow 1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Qualifiers --></label>
+            <section>Sales Qualifiers</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Enterprise</layout>
+        <sections>
+            <label><!-- Account Info Narrow --></label>
+            <section>Account Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profile --></label>
+            <section>LinkedIn Company Profile</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Rolodex</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profile --></label>
+            <section>LinkedIn Company Profile</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Rolodex</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profile --></label>
+            <section>LinkedIn Company Profile</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Change Status --></label>
+        <name>Change_Status</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Contact --></label>
+        <name>New_Contact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Opportunity --></label>
+        <name>New_Opportunity</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- Company --></label>
+        <name>ES_Client</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Rolodex --></label>
+        <name>Rolodex</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Please select an available Sales Status Reason. --></errorMessage>
+        <name>ContactStatusReason</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please limit the character size to 30 prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_City</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please limit the character size to 45 prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_CompanyName</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please put the 2 letter abbreviation for the state prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_State</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please limit the character size to 200 prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_Street</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please limit the character size to 30 prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_Zip</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Enter the reason for negative status --></errorMessage>
+        <name>Negative</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set a value for Tier --></errorMessage>
+        <name>RequireTier</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Service Level 5 Accounts Can&apos;t have a region. --></errorMessage>
+        <name>Service_Level_5_Cant_Have_Region</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please select an available Sub-status. --></errorMessage>
+        <name>SubStatus</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_accountNumber</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_actEngagements</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_associateNumber</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_associateStatus</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_associateStatusChangeDate</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_associateStatusReason</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_associateType</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_comEngagements</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_curAssociates</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_dailySalesOutstanding</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_dailySalesOutstandingCode</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_email</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_firstName</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_lastBillingDate</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_lastName</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_mailingCity</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_mailingCountry</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_mailingPostalCode</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_mailingState</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_mailingStreet</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_memberSince</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_operationPlan</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_otherCity</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_otherCountry</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_otherPostalCode</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_otherState</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_otherStreet</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_phone</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_primaryPhoneType</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_salutation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_secondaryEmail</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_secondaryPhone</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_secondaryPhoneType</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_suffix</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_teamLeader</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_totAssociates</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_totBilling</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_totEngagements</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_userName</name>
+    </validationRules>
+    <workflowTasks>
+        <description><!-- Please follow up with the alumni regarding their layoff. --></description>
+        <name>Follow_Up_Layoff</name>
+        <subject><!-- Follow Up - Layoff --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <description><!-- Please follow up with the alumni regarding their voluntary resignation. --></description>
+        <name>Follow_Up_Voluntary</name>
+        <subject><!-- Follow Up - Voluntary --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>New_Work_Order</name>
+        <subject><!-- New Work Order --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Please_Check_On_The_Consultant_To_See_If_They_Are_Still_A_Working_Prospect</name>
+        <subject><!-- Please Check On The Consultant To See If They Are Still A &apos;Working&apos; Prospect --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Please_check_on_the_consultant_to_see_if_they_are_still_sold</name>
+        <subject><!-- Please check on the consultant to see if they are still sold. --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

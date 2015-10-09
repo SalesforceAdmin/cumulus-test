@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>21Feb13Web:SuperConnecting.Thank You Feb21</name>
+    <style>none</style>
+    <subject>Thank You for Attending - Resources from our Superconnecting Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+Thank you for attending our  “Three Expert Tips for Superconnecting: How to Build the Relationships That Build Business&quot; webinar held on Thursday, February 21. Business thought leader and funding guru Judy Robinett outlined her unique networking strategy designed to take your independent business to the next level.
+Below you will find links to the material created for the webinar. We hope you find them informative:
+       Recorded webinar &lt;http://f5159bf2f10bd6337d85-21700ed84a5e5d3baebf7221604c63ee.r66.cf2.rackcdn.com/20130221_Three_expert_tips.mp4&gt; (downloads in browser)
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO-Superconnecting-webinar-slides.pdf&gt;
+       Featured Speaker Judy Robinett Website &lt;http://www.judyrobinett.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

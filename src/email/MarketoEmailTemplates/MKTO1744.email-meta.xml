@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Billing Rate for Mark Clark (1342546148.0)</name>
+    <style>none</style>
+    <subject>RE: Billing Rate for Mark Clark (1342546148.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Mark,
+You are so welcome. I am checking in to the email address to see what I can do and I will let you know what I hear back.
+Thanks!Sara From: Mark Clark [mailto:clarkmark7@gmail.com] 
+Sent: Monday, July 16, 2012 9:13 AM
+To: Sara Conde
+Subject: Re: Billing Rate for Mark Clark Thanks Sara. These worked great.  No further figures needed right now.  
+
+One unrelated question:  email address.  Booz asked me if I had an MBO email address rather than my gmail.  They suggested I would get one from MBO.  Can you tell me if that is correct or not?  Makes a difference for business cards.
+
+Thanks!  Have a good start to the week.  MarkOn Fri, Jul 13, 2012 at 4:25 PM, Sara Conde &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt; wrote:Hi Mark, It was nice talking with you today. I have attached two additional estimates for you. Please let me know if you would like to see any other figures. This estimates assume you have the 6% fee for security clearance just FYI.  Have a lovely weekend,Sara  From: Mark Clark [mailto:clarkmark7@gmail.com &lt;mailto:clarkmark7@gmail.com&gt;] 
+Sent: Friday, July 13, 2012 8:45 AM
+To: Sara Conde
+Subject: Billing Rate for Mark Clark Sara:
+
+When you get a chance, could you run a bill rate calculation model for $175 and $200 per hour for me.  You walked me through an example with $150 per hour so I have that.  
+
+At the time we did that example, however, I had not determined the exact 401K withdrawal percentage so I think you now have the data to do that for all three rates.  
+
+Thanks for your help.  Available via phone if it is easier doing it that way.
+
+Best regards, Mark </textOnly>
+    <type>custom</type>
+</EmailTemplate>

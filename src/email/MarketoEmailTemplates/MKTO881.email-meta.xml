@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: MBO Partners / Daniel Buchanan (1328127610.0)</name>
+    <style>none</style>
+    <subject>FW: MBO Partners / Daniel Buchanan (1328127610.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Daniel,
+ 
+I just wanted to follow up on my voicemail and your email below. You can absolutely use MBO Partners with other clients. One of the main benefits of our program is that we are portable and you an take us with you wherever you go. I would love to talk to you about this in detail. If you would you may schedule a call with my by clicking here.
+ 
+Look forward to speaking with you.
+
+Take care,
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+Hi Steve,
+ 
+Thanks for your email, and I hope you and yours are enjoying the new year so far.
+ 
+I have yet to work on any contracts through OST Global Solutions; however, I&apos;m currently working on a long-term contract through a firm called TalentBurst, who don&apos;t offer any contractor benefits package of their own. Would I be able to sign up for any of MBO Partners&apos; benefits while working for TalentBurst, or are they exclusive to OST? Please advise at your earliest convenience, and I look forward to your reply.
+ 
+Kind regards,
+Daniel Buchanan
+(p) 321-821-7518
+(e) dbuchanan12@ymail.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

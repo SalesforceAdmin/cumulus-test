@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Cloing your account (1340719671.0)</name>
+    <style>none</style>
+    <subject>Cloing your account (1340719671.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Russell, We regret to inform you that due to inactivity, MBO Partners will need to close out your account. If you do find a project in the future, re-enrolling is quick and easy to do!   You are covered for your life insurance benefits through the end of the month.  Since your benefits premiums are paid on the first of the month, you are covered through the end of this month.  While you are no longer an active Associate, we encourage you to stay involved with our constantly growing online community. There are many ways to connect: Our Connection Center where you can post your resume and network with other Associates; our Consulting Blog, http://consultingblog.mbopartners.com &lt;http://consultingblog.mbopartners.com/&gt;; our MBO Partners Facebook Fan Page; LinkedIn; and Twitter where you can follow @MBOPartners and other executives. We appreciate the time you have spent as our Associate, and we hope that we will be able to support you and your business again in the future. As you continue to work amongst the best in your field, you qualify to earn a bonus for every successful Associate you refer to us. Please contact me for more information on our referral program.  Please let me know if you have any further questions. We wish you well, and should your situation ever change, please contact me so we can bring you back on board! Sincerely,Sara______________________________________________________________________ SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.   </textOnly>
+    <type>custom</type>
+</EmailTemplate>

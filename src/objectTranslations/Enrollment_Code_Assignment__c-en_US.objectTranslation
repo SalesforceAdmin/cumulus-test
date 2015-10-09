@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Enrollment Code Assignment</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Enrollment Code Assignments</value>
+    </caseValues>
+    <fields>
+        <label><!-- CRG Assignment --></label>
+        <name>rs_crgAssignment__c</name>
+        <relationshipLabel><!-- Enrollment Code --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Code --></label>
+        <name>rs_enrollmentCode__c</name>
+        <relationshipLabel><!-- CRG --></relationshipLabel>
+    </fields>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>

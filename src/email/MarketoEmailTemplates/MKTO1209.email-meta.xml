@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email to thank those who are unable to attend.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>NY - Networking - May 17 2012.Registered- Thank you (Regrets)</name>
+    <style>none</style>
+    <subject>We Are Sorry You Cannot Attend!</subject>
+    <textOnly>Spring 2012 Networking Reception:
+Zengo
+May 17, 2012
+We are sorry that you are unable to attend the New York Metropolitan Area Spring Networking Event hosted by MBO Partners! We hope you can join us at the next event- stay tuned for details. Sincerely,
+
+MBO Partners
+
+MBO Partners
+Suggested dress code is business to business casual.
+Don&apos;t forget to bring your business cards!
+Questions? Please contact Marcelle Saab, Associate Relations Manager, 703-793-6006
+MBO Partners 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171
+
+Contact Us &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

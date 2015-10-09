@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Parked.4 Parked</name>
+    <style>none</style>
+    <subject>MBO Partners / {{lead.Full Name:default=}}</subject>
+    <textOnly>Hello {{lead.First Name:default=future associate}},
+
+It&apos;s been exactly a year since you first inquired with MBO Partners! We wanted to reach out and let you know we are available to assist you should you plan on starting a new contract.  If you would like to talk about an upcoming contract opportunity or discuss some of the new resources we have at MBO, feel free to schedule time via my online schedule by going here: {{lead.EM TTLink:default=https://my.timedriver.com/8SLYS}}
+
+Best regards,
+
+{{lead.EM FName:default=Sara}}
+___________________________________
+{{lead.EM FName:default=Sara}} {{lead.EM LName:default=Conde}} 
+Consultant Services Advisor
+
+MBO Partners
+ 
+t: {{lead.EM Phone:default=703-793-6028}}
+f: 703-793-6070
+e: {{lead.EM Email:default=sconde@mbopartners.com}} 
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

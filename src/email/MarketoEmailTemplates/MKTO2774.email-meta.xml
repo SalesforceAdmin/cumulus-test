@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: Consultation Call Appointment Confirmation (1379432319.0)</name>
+    <style>none</style>
+    <subject>FW: Consultation Call Appointment Confirmation (1379432319.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Kingsley, I am so sorry I missed you today. If you would like you may give me a call back directly. If you would prefer to reschedule you may do so by clicking here. &lt;http://info.mbopartners.com/advisor-info-s-conde.html&gt; I am looking forward to connecting with you!
+Best,Sara ___________________________________ SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.   From: no-reply@timetrade.com [mailto:no-reply@timetrade.com] 
+Sent: Wednesday, September 11, 2013 11:26 PM
+To: Sara Conde
+Subject: Consultation Call Appointment Confirmation    Appointment Confirmation Invitee:
+Kingsley Ilodianya (kingsley@infocone.com &lt;mailto:kingsley@infocone.com&gt;) Phone:571-278-6294Company:Infocone, Inc.Activity:Consultation CallDate:Tuesday, September 17, 2013Time:11:30am EDT (45 minutes)Instructions: Call Kingsley at 571-278-6294Confirmation #: 2243653    Powered by TimeTrade &lt;http://www.timetrade.com/email-powered-by.aspx&gt; </textOnly>
+    <type>custom</type>
+</EmailTemplate>

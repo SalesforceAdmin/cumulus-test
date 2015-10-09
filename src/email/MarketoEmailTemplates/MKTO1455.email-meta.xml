@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Follow-up (1338321827.0)</name>
+    <style>none</style>
+    <subject>RE: Follow-up (1338321827.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Tom, Thank you for your follow up, I hope you had a nice holiday weekend!  I would be happy to speak with you though I unfortunately am not available today.  I can call you at 9:30 tomorrow if that would still work for you, otherwise we will have to push it back to Thursday because my calendar is full the rest of tomorrow. If 9:30 still works for you let me know, if not, please follow my calendar link below and schedule another time that is convenient for you starting Thursday. https://my.timedriver.com/9TGRK &lt;https://my.timedriver.com/9TGRK&gt; Thanks and I look forward to speaking with you! Nicolette From: tom gentile [mailto:tomgentile2000@gmail.com] 
+Sent: Tuesday, May 29, 2012 10:22 AM
+To: Nicolette Taylor
+Subject: Follow-up Nicolette -- I believe we spoke a few months back. I would like to get information on your service, in particular, as a freelance marketing communications consultant, I&apos;m interested in both your process and associated fees as a MBO consultant and the related opportunity to secure health benefits through this association. I can be reached later today or early tomorrow morning (between 9 and 10) or early afternoon (between 1 and 3). My phone number is 202-744-0331. Thank you.
+-- 
+
+Tom Gentile
+202.744.0331</textOnly>
+    <type>custom</type>
+</EmailTemplate>

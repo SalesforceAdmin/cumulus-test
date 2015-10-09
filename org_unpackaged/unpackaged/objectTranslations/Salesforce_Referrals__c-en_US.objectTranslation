@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Salesforce Referral</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Salesforce Referrals</value>
+    </caseValues>
+    <fields>
+        <label><!-- Business/Job Title --></label>
+        <name>Business_Job_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- Business Unit Code --></label>
+        <name>Business_Unit_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Computer Type --></label>
+        <name>Computer_Type__c</name>
+        <picklistValues>
+            <masterLabel>Dell PC</masterLabel>
+            <translation><!-- Dell PC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mac</masterLabel>
+            <translation><!-- Mac --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Contractor&apos;s Expense Budget --></label>
+        <name>Contractor_s_Expense_Budget__c</name>
+    </fields>
+    <fields>
+        <label><!-- Cost Center Code --></label>
+        <name>Cost_Center_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Country --></label>
+        <name>Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description of Services --></label>
+        <name>Description_of_Services__c</name>
+    </fields>
+    <fields>
+        <label><!-- Division --></label>
+        <name>Division__c</name>
+        <picklistValues>
+            <masterLabel>APAC</masterLabel>
+            <translation><!-- APAC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Canada</masterLabel>
+            <translation><!-- Canada --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EMEA</masterLabel>
+            <translation><!-- EMEA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Japan</masterLabel>
+            <translation><!-- Japan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Latin America</masterLabel>
+            <translation><!-- Latin America --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>USA</masterLabel>
+            <translation><!-- USA --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- First Name --></label>
+        <name>First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Individual to clone for Org62 access --></label>
+        <name>Individual_to_clone_for_Org62_access__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Name --></label>
+        <name>Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Location Type --></label>
+        <name>Location_Type__c</name>
+        <picklistValues>
+            <masterLabel>Client</masterLabel>
+            <translation><!-- Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Office</masterLabel>
+            <translation><!-- Office --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Remote</masterLabel>
+            <translation><!-- Remote --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Manager Email --></label>
+        <name>Manager_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Manager Name --></label>
+        <name>Manager_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Manager Phone --></label>
+        <name>Manager_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Moble Phone Required --></label>
+        <name>Moble_Phone_Required__c</name>
+    </fields>
+    <fields>
+        <label><!-- New Hire Ticket Needed --></label>
+        <name>New_Hire_Ticket_Needed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contractor&apos;s Onboarding Buddy --></label>
+        <name>Onboarding_Buddy__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment per Unit --></label>
+        <name>Payment_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment Unit --></label>
+        <name>Payment_Unit__c</name>
+        <picklistValues>
+            <masterLabel>Deliverable</masterLabel>
+            <translation><!-- Deliverable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hour</masterLabel>
+            <translation><!-- Hour --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Milestone</masterLabel>
+            <translation><!-- Milestone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Personal Email Address --></label>
+        <name>Personal_Email_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Personal Information --></label>
+        <name>Personal_Information__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone --></label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Primary Coverage Country --></label>
+        <name>Primary_Coverage_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- Salesforce Covering MBO Fee? --></label>
+        <name>Program_Fees_Included__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project End Date --></label>
+        <name>Project_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project Start Date --></label>
+        <name>Project_Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead --></label>
+        <name>Referral_Lead__c</name>
+        <relationshipLabel><!-- Salesforce Referrals --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Requires Laptop --></label>
+        <name>Requires_Laptop__c</name>
+    </fields>
+    <fields>
+        <label><!-- SFDC Assests --></label>
+        <name>SFDC_Assests__c</name>
+    </fields>
+    <fields>
+        <label><!-- SFDC Customer Data --></label>
+        <name>SFDC_Customer_Data__c</name>
+    </fields>
+    <fields>
+        <label><!-- SFDC Network --></label>
+        <name>SFDC_Network__c</name>
+    </fields>
+    <fields>
+        <label><!-- SFDC Product --></label>
+        <name>SFDC_Product__c</name>
+    </fields>
+    <fields>
+        <label><!-- SFDC Source Code --></label>
+        <name>SFDC_Source_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shipping City --></label>
+        <name>Shipping_City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shipping Country --></label>
+        <name>Shipping_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shipping State/Territory --></label>
+        <name>Shipping_State_Territory__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shipping Street Address --></label>
+        <name>Shipping_Street_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shipping Zip/Postal Code --></label>
+        <name>Shipping_Zip_Postal_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Street Address --></label>
+        <name>Street_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Approved Budget --></label>
+        <name>Total_Approved_Budget__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work City --></label>
+        <name>Work_City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Country --></label>
+        <name>Work_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work State/Province --></label>
+        <name>Work_State_Province__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Street Address --></label>
+        <name>Work_Street_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Zip/Postal Code --></label>
+        <name>Work_Zip_Postal_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip/Postal Code --></label>
+        <name>Zip_Postal_Code__c</name>
+    </fields>
+    <layouts>
+        <layout>Salesforce Referral Layout</layout>
+        <sections>
+            <label><!-- Accesses --></label>
+            <section>Accesses</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Referral Info --></label>
+            <section>Referral Info</section>
+        </sections>
+        <sections>
+            <label><!-- Work Information --></label>
+            <section>Work Information</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

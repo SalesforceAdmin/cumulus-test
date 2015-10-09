@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Aberdeen Aug/Sept survey</name>
+    <style>none</style>
+    <subject>Invitation to Participate in Groundbreaking Independent Contractor Management Study</subject>
+    <textOnly>Dear {{lead.First Name:default=MBO Partners acquaintance}},
+
+MBO Partners invites you to participate in a landmark study on how American enterprise organizations use and manage independent contractors. This important study will bring to light current IC-related issues and explore rapidly emerging practices and trends.
+ 
+The study is being conducted by Aberdeen Group, an independent research organization. As a professional with expertise in this area, we are confident that your input will add value to the quality of this research.
+ 
+The study is brief and should only take about 15 minutes to complete. MBO Partners will provide all participants with the final report later this year. If you would like to contribute more detailed feedback on the subject, please express that in the survey or contact Chris Dwyer, Aberdeen Group Analyst, at chris.dwyer@aberdeen.com.
+ 
+Here&apos;s the study link: http://www.aberdeen.com/survey/0366-IndependentContractorManagement/. If clicking on this link does not work, please copy and paste it into your browser’s address bar.
+ 
+In addition, as part of an overall effort to define the customer and consumer developments that are defining this critical sector, MBO Partners is simultaneously conducting a national study on the size, trends, and insights surrounding independent workforce in America. This landmark study – the first of its kind – also can be made available to your organization as a thank you for participation in the Aberdeen study linked above. Should you wish to receive it, please contact me at the e-mail address below. It’s our belief that better understanding this highly engaged and productive sub-set of the traditional workforce will be invaluable to C-suite leaders designing the model for the workforce of the future.
+ 
+Thank you so much for your participation.
+ 
+Sincerely,
+ 
+Jay Lash
+VP of Market Strategies
+MBO Enterprise Solutions (an MBO Partners company)
+703-793-6005
+jlash@mbopartners.com
+www.mboenterprise.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

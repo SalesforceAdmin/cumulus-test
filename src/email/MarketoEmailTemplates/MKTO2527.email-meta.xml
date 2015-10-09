@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Aberdeen Survey</name>
+    <style>none</style>
+    <subject>Research Survey from MBO Partners</subject>
+    <textOnly>Dear {{lead.First Name:default=Valued Contact}},
+
+We have identified you as qualified to participate in an important new study &lt;http://cl.exct.net/?ju=fe351672746c077f771476&amp;ls=fdeb1c7172650c7b7c157670&amp;m=fef91275706402&amp;l=fecc1c767464067f&amp;s=fe1f1c747362017f761377&amp;jb=ffcf14&amp;t=&gt; because of your industry experience.
+
+By using MBO Partners to engage your independent workforce, you are part of the evolution of American business. Economic conditions and new technologies have resulted in flexible workforces that can meet the fluctuating demands of the modern enterprise organizations. The industry-leading market research firm Aberdeen Group is conducting an important study to uncover the strategies, challenges, and capabilities of companies in their management of independent professionals.
+
+ Madeline Laurano, a Research Director at Aberdeen Group, has created this short survey &lt;http://cl.exct.net/?ju=fe351672746c077f771476&amp;ls=fdeb1c7172650c7b7c157670&amp;m=fef91275706402&amp;l=fecc1c767464067f&amp;s=fe1f1c747362017f761377&amp;jb=ffcf14&amp;t=&gt; to compile data that will help companies like yours better manage independent professionals. In appreciation for your time, we will provide you with a complimentary copy of the study when it is published in May 2013. 
+ 
+ We look forward to hearing from you and greatly appreciate your time. 
+
+Sincerely,
+
+Gene Zaino
+___________________________________
+ Gene Zaino 
+ President and CEO
+ MBO Partners
+ 
+ t: 703-793-6000
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

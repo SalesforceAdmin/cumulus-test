@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Follow up from MBO (1321911360.0)</name>
+    <style>none</style>
+    <subject>RE: Follow up from MBO (1321911360.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Michelle,
+ 
+No need to apologize, I’m sorry the project did not work out for you.  Are you interested in moving forward with MBO for another project?
+ 
+Please let me know if you have any additional questions for me as well.
+ 
+Have a great day and a Happy Thanksgiving!
+ 
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Michelle Phillips [mailto:michellephillips1@yahoo.com] 
+Sent: Monday, November 21, 2011 2:52 PM
+To: Nicolette Taylor
+Subject: Re: Follow up from MBO
+ 
+Nicolette,
+ 
+Sorry for the delay, I talked to Grady and the reduced the rate to 125hr. I am not going to move forward with Grady at this time.
+ 
+Michelle Phillips
+ 
+From: Nicolette Taylor &lt;ntaylor@mbopartners.com&gt;
+To: &quot;michellephillips1@yahoo.com&quot; &lt;michellephillips1@yahoo.com&gt; 
+Sent: Monday, October 31, 2011 4:15 PM
+Subject: Follow up from MBO
+Hi Michelle,
+ 
+I hope all is well!  I wanted to follow up from our conversation regarding MBO Partners.  I know you had expressed interest in using our services for your work with Grady Memorial Hospital.  Any update would be great and I look forward to hearing from you.
+ 
+Have a great day,
+ 
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

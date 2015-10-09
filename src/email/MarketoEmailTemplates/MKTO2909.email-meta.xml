@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: Consultation Call Appointment Confirmation (1383683531.0)</name>
+    <style>none</style>
+    <subject>FW: Consultation Call Appointment Confirmation (1383683531.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Brian, I am so sorry we missed each other today. Please reschedule at your convieience by going here &lt;https://my.timedriver.com/8SLYS&gt;.  I look forward to speaking with you and sharing more information about MBO Partners! Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.   From: no-reply@timetrade.com [mailto:no-reply@timetrade.com] 
+Sent: Thursday, October 31, 2013 8:28 PM
+To: Sara Conde
+Subject: Consultation Call Appointment Confirmation    Appointment Confirmation Invitee:
+Brian Witherspoon (btigerw5@yahoo.com &lt;mailto:btigerw5@yahoo.com&gt;) Phone:2026213982Activity:Consultation CallDate:Tuesday, November 5, 2013Time:3:00pm EST (45 minutes)Instructions: Call Brian at 2026213982Confirmation #: 2449122    Powered by TimeTrade &lt;http://www.timetrade.com/email-powered-by.aspx&gt; </textOnly>
+    <type>custom</type>
+</EmailTemplate>

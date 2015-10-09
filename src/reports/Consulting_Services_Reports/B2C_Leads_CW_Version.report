@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <buckets>
+        <bucketType>number</bucketType>
+        <developerName>BucketField_27180488</developerName>
+        <masterLabel>Score Group</masterLabel>
+        <nullTreatment>z</nullTreatment>
+        <sourceColumnName>Lead.pi__score__c</sourceColumnName>
+        <useOther>false</useOther>
+        <values>
+            <sourceValues>
+                <to>199</to>
+            </sourceValues>
+            <value>199 or less</value>
+        </values>
+        <values>
+            <sourceValues>
+                <from>199</from>
+            </sourceValues>
+            <value>200+</value>
+        </values>
+    </buckets>
+    <columns>
+        <field>FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>Lead.pi__campaign__c</field>
+    </columns>
+    <description>Excludes client referred &amp; sales owned</description>
+    <filter>
+        <criteriaItems>
+            <column>RECORDTYPE</column>
+            <operator>notEqual</operator>
+            <value>Lead.Client</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.Referring_Client__c</column>
+            <operator>equals</operator>
+            <value></value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>STATUS</column>
+            <operator>notEqual</operator>
+            <value>Deferred,Lost,Working,Can&apos;t Identify,Identified,Sold</value>
+        </criteriaItems>
+    </filter>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>Lead.Qualified_Grade__c</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>BucketField_27180488</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>B2C Leads  (CW Version)</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>LeadList</reportType>
+    <scope>org</scope>
+    <showDetails>false</showDetails>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <endDate>2015-09-29</endDate>
+        <interval>INTERVAL_CUSTOM</interval>
+        <startDate>2010-01-01</startDate>
+    </timeFrameFilter>
+</Report>

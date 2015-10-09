@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Feb19Webinar-ClientReadiness.We Missed You Feb19</name>
+    <style>none</style>
+    <subject>Since You Missed it - Resources from our Client Readiness Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+Sorry we missed you at MBO&apos;s webinar titled &quot;Client Readiness: Are you Ready to Benefit from the IC Movement?&quot; held on Tuesday, February 19. Dennis Kanegaye, President of MBO Partners - Enterprise Solutions, discussed how organizations can better prepare themselves for an independent contractor engagement program or optimize their existing program.
+Below you will find related material. We hope you find it informative:
+       Webinar Slide Deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Webinar_2013_Are_You_Ready_for_the_IC_Movement.pdf&gt;
+      SIG Webinar Series &lt;http://sig.org/webinars.php&gt;
+       Connect with Dennis &lt;http://www.linkedin.com/profile/view?id=104223&amp;locale=en_US&amp;trk=tyah&gt;
+       Client Readiness Blog &lt;http://mboenterprise.com/blog/are-you-ready-independent-workforce-movement&gt;  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

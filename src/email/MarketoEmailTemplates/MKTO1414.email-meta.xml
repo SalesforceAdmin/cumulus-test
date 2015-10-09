@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Payment Notification for Tom Glatt (19906) (1337717212.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Payment Notification for Tom Glatt (19906) (1337717212.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Tom,
+Sure thing. We sweep your account every Tuesday for a pay date of Friday. If there is money in your account on Tuesday (like today) then you will be paid on Friday.   You will be paid this Friday via direct deposit, there is nothing you need to do to make this happen. If you wish to retain an account balance you can do so by logging in and clicking on “payroll” (top grey menu), “payroll settings” left hand menu.  Please let me know ASAP if you are going to make a change to retain a balance so I can time that with my payroll processing which is due at 4:30. If I don’t hear from you I will process all of the funds through a payroll.
+Thanks Tom,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. From: &lt;mailto:sconde@mbopartners.com&gt; Tom Glatt [mailto:tglatt@glattconsulting.com] 
+Sent: Tuesday, May 22, 2012 1:45 PM
+To: Sara Conde
+Subject: Fwd: MBO Partners Payment Notification for Tom Glatt (19906) Sara Just wanted to be clear on how this works. All of the money in the business center (net after taxes, etc.) will be direct deposited on Friday automatically, correct? Do I need to do anything? Also, did you mention that I could keep a small cushion in there for future expenses tied to insurance payments, or did I make that up? Tom ---------- Forwarded message ----------
+From: &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt;
+Date: Tue, May 22, 2012 at 9:42 AM
+Subject: MBO Partners Payment Notification for Tom Glatt (19906)
+To: tglatt@glattconsulting.com, sconde@mbopartners.com &lt;mailto:tglatt@glattconsulting.com&gt;
+
+
+We received the following payment(s) today, 05/22/2012 on your behalf:
+
+3,050.00 Fee Northern FCU 2012 Strategic Planning Tom Glatt - Invoice: 365921 - May 7, 2012
+2,000.00 Fee Northern FCU 2011/2012 CEO Comp. Eval. Tom Glatt - Invoice: 365922 - May 7, 2012
+
+* Expense payment will be held until the expense is approved and receipts
+are provided as required.
+
+
+Sincerely,
+The MBO Partners Billing/AR Department
+ -- Thomas Glatt, Jr.Glatt ConsultingTel: (888) 217-5988 x801Twitter: @tglattLinkedIn: http://www.linkedin.com/in/tomglatt &lt;http://www.linkedin.com/in/tomglatt&gt;   Distinctive strategy consulting for credit union leaders.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

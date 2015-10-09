@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Follow Up (1338563410.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Follow Up (1338563410.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi John, Congrats on the job and thank you for your call, sorry I missed you. Who is your contact at OST? I will reach out to get a statement of work in place since we already have an agreement with OST. Thank you,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. From: John Robbins [mailto:johnrobbins68@gmail.com] 
+Sent: Thursday, May 31, 2012 7:15 PM
+To: Sara Conde
+Cc: jrobbins@clisolutions.com
+Subject: RE: MBO Follow Up Sara, I just got a consulting job through OST Global Solutions. What do I need to do as far as MBO is concerned?
+John From: Sara Conde [mailto:sconde@mbopartners.com] &lt;mailto:[mailto:sconde@mbopartners.com]&gt; 
+Sent: Thursday, October 27, 2011 3:59 PM
+To: John Robbins (johnrobbins68@gmail.com &lt;mailto:johnrobbins68@gmail.com&gt;)
+Subject: MBO Follow Up Hi John,
+So nice speaking with you today! Per our call I have attached your next cash for your reference. I have also listed some useful links below. MBO Exec: General Information 
+	- An overview &lt;http://info.mbopartners.com/rs/mbo/images/Welcome_to_MBO_Partners.pdf&gt; of the service	- An interactive tool &lt;http://www.mbopartners.com/#whoweare&gt; showing various aspects of MBO Exec	- How MBO Exec compares &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Exec_vs_1099_Comparison.pdf&gt; to working on a 1099 basis	- MBO Benefits &lt;http://www.mbopartners.com/mbo-exec-group-benefits&gt; 
+ If you have any questions please let me know. Thanks! ___________________________________SARA CONDETeam ManagerMBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

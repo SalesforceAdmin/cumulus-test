@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>ACCOUNT.NAME</field>
+    </columns>
+    <columns>
+        <field>RECORDTYPE</field>
+    </columns>
+    <columns>
+        <field>Account.fd_slaEnrollmentComplete__c</field>
+    </columns>
+    <columns>
+        <field>Account.ACTEngagements__c</field>
+    </columns>
+    <columns>
+        <field>Account.COMEngagements__c</field>
+    </columns>
+    <columns>
+        <field>Account.TOTBilling__c</field>
+    </columns>
+    <description>Summary of billings from TTA referrals (first 6 no $500 referral; $500 referral bonus for 7+ Associates that bill $30k)</description>
+    <filter>
+        <criteriaItems>
+            <column>Contact.rs_referringAffiliate__c</column>
+            <operator>equals</operator>
+            <value>Keith Lippert</value>
+        </criteriaItems>
+    </filter>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>Contact.rs_referringAffiliate__c</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>Affiliate Partner Billings Report: TTA</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>AccountList</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

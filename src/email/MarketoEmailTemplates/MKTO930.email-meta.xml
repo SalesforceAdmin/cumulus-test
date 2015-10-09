@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners for Small Business (1328638446.0)</name>
+    <style>none</style>
+    <subject>MBO Partners for Small Business (1328638446.0)</subject>
+    <textOnly>90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Chris,
+It was nice to briefly chat with you. Here is some information on MBO Partners you might find helpful in learning more about the benefits to the workers you refer to us: 
+http://info.mbopartners.com/advisor-info-s-arhancet.html
+The value to your organization by sending workers to us is outlined on our enterprise services page: www.mboenterprise.com
+Look forward to chatting with you when you have time. You can easily book a time that works for you using my online calendar.
+Best regards,
+Sara
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+ 
+ 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

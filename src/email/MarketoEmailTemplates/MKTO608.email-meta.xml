@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Is Independence Right For You in 2012.Is Independence Right For You in 2012 - Th</name>
+    <style>none</style>
+    <subject>Thank You For Registering For Our Webinar</subject>
+    <textOnly>Dear {{lead.First Name:default=webinar registrant}},
+
+Thank you for registering for our &quot;Is Independent Consulting Right for You?&quot; Webinar on Friday December 30, 2011. We hope you found it informative. You can find a copy of the 30 minute presentation here (http://www.mbopartners.com/resources). As mentioned, this is just the first of a series of Webinars MBO will be hosting over the next year. We invite you to join our mailing list to keep in touch regarding upcoming events (http://info.mbopartners.com/Webinar.html).
+
+Regards,
+
+Steve Arhancet
+___________________________________
+STEVE ARHANCET
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

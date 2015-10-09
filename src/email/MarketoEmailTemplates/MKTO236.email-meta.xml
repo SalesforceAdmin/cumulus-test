@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: Out of Office AutoReply (1317751950.0)</name>
+    <style>none</style>
+    <subject>FW: Out of Office AutoReply (1317751950.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Jon,
+ 
+I haven’t heard back from Bridget and I attempted to send her an email and got an out of office response (below).  Do you know who the proper person for me to contact to have a discussion about the contract (and provide me with their phone number/email)  ?
+ 
+Please advise,
+ 
+Nicolette 
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Bridget Pulivarti [mailto:bpulivarti@helioshr.com] 
+Sent: Tuesday, October 04, 2011 11:28 AM
+To: Nicolette Taylor
+Subject: Out of Office AutoReply
+ 
+Hello,
+ 
+I will be out of the office  until October , 2011.  I will respond to emails as soon as I return.  
+ 
+For an immediate need please contact: 
+ 
+Judy Mckenney at (240) 793-4586 or email jmckenney@helioshr.com
+ 
+or
+ 
+Helen Trainor at (301) 639-0447 or email htrainor@helioshr.com
+ 
+ 
+Have a great weekend!
+ 
+Warmly,
+Bridget
+ 
+BRIDGET PULIVARTI, SPHR | Practice Director, Government Contracting &amp; Recruitment | Helios HR 
+1925 Isaac Newton Square, Suite 200, Reston, VA  20190
+d. 770.639-6589 | o. 703.860.3882 | f. 703.852.7375 | bpulivarti@helioshr.com | www.helioshr.com
+ 
+For the latest in HR trends, advice and best practices, subscribe to Helios HR&apos;s free monthly newsletter, &quot;The Chariot.&quot; 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

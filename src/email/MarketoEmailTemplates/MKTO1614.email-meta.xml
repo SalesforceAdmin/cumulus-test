@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Information (1340662205.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Information (1340662205.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Mike, I looked at this and then I had my boss look at it and we are stumped! We don’t see the reason for the $13.88 difference either; I have sent it to our programmers. I will let you know what I hear back. Thanks!Sara From: Michael Siegel [mailto:mikes@taricgroup.com] 
+Sent: Monday, June 25, 2012 12:50 PM
+To: Sara Conde
+Subject: RE: MBO Partners Information Hi Sara:It does. I had sent an email to Nicolette later on that I better understood how it worked after laying it out in a spreadsheet.I did have a slight difference and wanted to see if you or someone on your team could help me understand the difference.Thanks,Mike From: Sara Conde [mailto:sconde@mbopartners.com] &lt;mailto:[mailto:sconde@mbopartners.com]&gt; 
+Sent: Monday, June 25, 2012 10:19 AM
+To: mikes@taricgroup.com &lt;mailto:mikes@taricgroup.com&gt;
+Subject: RE: MBO Partners Information Hi Mike, My name is Sara Conde and I am helping Nicolette out while she is on vacation. Your Gross Pay is a function of the Employer Payroll Taxes, while the Employer Payroll Taxes are simultaneously a function of your Gross Pay. Our system is able to resolve this simultaneous equation down to the penny to find exactly the right Gross Pay so that all the taxes (and other “above the line” expenses) add up correctly.  The reason why it is appropriate for the Employer Payroll Taxes to be calculated based on the Gross Pay (rather than Gross Billings) is simply because that’s what the law says to do. All Employer Payroll Taxes (SS, Medicare, state and federal unemployment, Workers Comp, and other local employer taxes) are calculated as a percentage of Gross Pay. Part of the appeal of the MBO model is that the Employer Payroll Taxes are accounted for as business expenses and therefore work to reduce this Gross Pay amount.  Remember, as your employer, MBO is actually paying these Employer Payroll Taxes on your behalf from billings we collect from your client. In our model, your earnings are technically the Gross Pay amount, not the Gross Billings amount. The Gross Billings are what your client pays MBO for your services. We then calculate your Gross Pay based on all your expenses (including the Employer Payroll Taxes, our fee, and the other items depicted on the PDF).  I hope this helps clear things up. Thank you,SaraFrom: Nicolette Taylor 
+Sent: Friday, June 22, 2012 9:40 PM
+To: Sara Conde
+Subject: FW: MBO Partners InformationFrom: Michael Siegel
+Sent: Friday, June 22, 2012 9:39:41 PM (UTC-05:00) Eastern Time (US &amp; Canada)
+To: Nicolette Taylor
+Subject: RE: MBO Partners InformationThanks. I’ll need someone to walk me through how the calculations work.MikeFrom: Nicolette Taylor [mailto:ntaylor@mbopartners.com] &lt;mailto:[mailto:ntaylor@mbopartners.com]&gt; 
+Sent: Friday, June 22, 2012 9:36 PM
+To: Michael Siegel
+Subject: Re: MBO Partners Information Hi Mike, Unfortunately I do not have an excel version of the estimate.  All of the formulas are coded into our system, and there is no straight way to calculate the taxes that I know of.  As far as I understand the taxes are calculated based on a circular equation that calculates everything based on the gross W2 pay.  You need to take into account that federal and state unemployment cap out after a certain amount are paid in for the year as well as social security.  I would be happy to speak with you about this when I am back in the office on July 3rd.  Thank you and have a great weekend!  Nicolette 
+
+Sent from my iPhone
+On Jun 22, 2012, at 6:08 PM, &quot;Michael Siegel&quot; &lt;mikes@taricgroup.com &lt;mailto:mikes@taricgroup.com&gt;&gt; wrote:Nicolette:Thanks for the info. Can you send me the pricing example in Excel format with the formulas?I’m having hard time understanding how the taxes are being calculated in the example.Thanks,Mike From: Nicolette Taylor [mailto:ntaylor@mbopartners.com] &lt;mailto:[mailto:ntaylor@mbopartners.com]&gt; 
+Sent: Friday, June 22, 2012 11:08 AM
+To: mikes@taricgroup.com &lt;mailto:mikes@taricgroup.com&gt;
+Subject: MBO Partners Information Hi Mike, It was a pleasure speaking with you today.  I’ve enclosed a few resources that you might find helpful that describe MBO Partners Exec Program and service offerings.   You can view all the information we spoke over the phone by going here &lt;http://info.mbopartners.com/advisor-info-n-taylor.html&gt;.   If you have questions, feel free to schedule a convenient time for you using my online schedule &lt;https://my.timedriver.com/9TGRK&gt;.  As I mentioned I will be out of the office all next week and will return July 3rd.  If you have any questions before then, please email me and my backup Sara will reach out to you to help. I look forward to speaking with you again soon! Have a great weekend,  Nicolette___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

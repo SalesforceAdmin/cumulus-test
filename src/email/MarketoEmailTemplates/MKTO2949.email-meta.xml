@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CSA Value Prop 4</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, MBO can answer your consulting questions</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+
+Working independently means the freedom to make your own career decisions - and having a guide to help you along the way can make a big difference.
+In my experience, consultants that are committed to learning more every day tend to be successful. MBO provides independents with resources covering every facet of owning your own solo business. To learn more, check out this story &lt;http://info.mbopartners.com/rs/mbo/images/CSA-Story-November_2013.pdf&gt; about a self-employed professional who used MBO&apos;s educational resources to launch his practice.
+Have any questions about being self-employed? Just email me to discover how MBO can help prepare you for success as an independent consultant.
+___________________________________
+Sara Conde
+Consultant Services Advisor
+ MBO Partners
+
+ e: sconde@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

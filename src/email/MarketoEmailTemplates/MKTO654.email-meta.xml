@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Follow up from Tim Lane (1326215421.0)</name>
+    <style>none</style>
+    <subject>RE: Follow up from Tim Lane (1326215421.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Tim,
+ 
+Let me know if you did not receive.  There was a delay with our system; hopefully it went through (just much later than when it should have).
+ 
+Steve
+ 
+From: Tim Lane [mailto:tim@jatodigital.com] 
+Sent: Monday, January 09, 2012 7:02 PM
+To: Steve Arhancet
+Subject: Follow up from Tim Lane
+ 
+Hi Steve,
+It was good talking with you this morning. I wanted to follow up with you. I have not received a link to access the online questionnaire. Have you sent it as of yet?
+ 
+Thank you,
+ 
+Tim Lane I President I JATO Corp.
+ 
+t: 310-902-3495 I e: tim@jatodigital.com I aim: timmylane101
+ 
+JATO
+digital media group
+1524 Berkeley St, Suite 2 I Santa Monica, CA 90404
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

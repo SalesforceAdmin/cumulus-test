@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p><span style="font-family: georgia, palatino; font-size: 14px;">Dear {{lead.First Name:default=Associate}},</span></p>
+<p><span style="font-family: georgia, palatino; font-size: 14px;">We&rsquo;re getting awfully close to MBO&rsquo;s <a href="http://referral.mbopartners.com/referral-program/mbo-makeover">Home Office Makeover Drawing</a>! Our greatest compliment is when an Associate like you spreads the word about  MBO Partners to friends and colleagues that could benefit from utilizing our services. </span></p>
+<p><span style="font-family: georgia, palatino; font-size: 14px;">When you refer a friend to us, every referral you submit entitles you to an entry into our Sweepstakes, where you will have a chance to win our coveted home office makeover worth up to $5,000! &nbsp;*You will also be giving your friend the opportunity to try us without charge.  Finally, if your friend likes what we do, we will deposit $500 into your Business Center upon their enrollment and subsequent client-collected billings of $30,000.&nbsp;</span><span style="font-size: 9px; color: #333333;">*Restrictions apply.  See <a href="http://referral.mbopartners.com/referral-program/official-rules">contest rules</a> for details.&nbsp;<span>To be considered for the Home Office Makeover, please submit your referrals by May 31, 2013.</span></span></p>
+<p><br /><a title="Check it out and Learn more!" href="http://referral.mbopartners.com/referral-program?r={{company.BM LName Clean}}&amp;fname={{lead.First Name:default=edit me}}&amp;lname={{lead.Last Name:default=edit me}}&amp;email={{lead.Email Address:default=edit me}}"><span>Start Referring Today!</span></a></p>
+<p>Sincerely,</p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span><br> <strong><span style="color: #a00b10; font-family: 'Georgia','serif';">{{company.BM FName:default=MBO}}&nbsp;{{company.BM LName:default=<strong><span>Partners</span></strong>}}</span></strong><br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">Business Manager</span></strong><br> <span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span></div>
+</body>
+</html>

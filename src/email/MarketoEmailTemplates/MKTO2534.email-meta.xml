@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Aberdeen Follow-up</name>
+    <style>none</style>
+    <subject>Updated Research Survey from Aberdeen Group</subject>
+    <textOnly>Dear {{lead.First Name:default=Valued Contact}},
+
+Yesterday, you may have received an email about a survey we are conducting on independent consulting talent. Some people responded that they had difficulty completing the survey due to technical errors.
+
+This has been fixed. You can complete the survey here &lt;http://cl.exct.net/?ju=fe351672746c077f771476&amp;ls=fdeb1c7172650c7b7c157670&amp;m=fef91275706402&amp;l=fecc1c767464067f&amp;s=fe1f1c747362017f761377&amp;jb=ffcf14&amp;t=&gt;.
+
+Thank you for being part of this important research, and we apologise for any inconvenience this has caused.
+
+ 
+
+Sincerely,
+
+The Aberdeen Group
+___________________________________
+ Gene Zaino 
+ President and CEO
+ MBO Partners
+ 
+ t: 703-793-6000
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

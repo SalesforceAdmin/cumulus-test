@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>June12Web: LinkedIn.Thank You for Attending</name>
+    <style>none</style>
+    <subject>Thank You for Attending our LinkedIn Webinar - Free Resources</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+Thank you for attending “LinkedIn for Independent Consultants: 5 Steps to Enhance Your Profile &amp; Bring in More Clients.” We hope that you were able to pick up a few new tips to take advantage of all LinkedIn has to offer – particularly for independent consultants.
+
+As a follow-up, we’d like to provide you with a few resources:
+
+
+
+
+
+
+ -        Recorded webinar &lt;http://www.mbopartners.com/webinar-linkedin-independent-consultants-5-steps-enhance-your-profile-bring-more-clients&gt;
+ -        Webinar slide deck &lt;http://www.mbopartners.com/sites/mbopartners.com/files/pdfs/mbo-linkedin-webinar-slides-6.28.12.pdf&gt;
+ -        Webinar Q&amp;A &lt;http://www.mbopartners.com/blog/62812-linkedin-webinar-qa&gt;
+ -        Melissa on LinkedIn &lt;http://www.linkedin.com/profile/view?id=1408083&amp;locale=en_US&amp;trk=tyah&gt;
+ -        Five Easy Ways to Grow Your LinkedIn Network &lt;http://www.networksolutions.com/smallbusiness/2012/06/5-easy-ways-to-grow-your-linkedin-network/&gt; 
+
+ 
+
+
+
+
+
+
+We invite you to sign-up &lt;http://info.mbopartners.com/2012SeriesSignUp.html&gt; to stay informed about future webinars in our series. If you have any topic recommendations or feedback, please email webinar@mbopartners.com &lt;mailto:webinar@mbopartners.com&gt;.
+
+Thank you,
+
+THE MBO MARKETING TEAM
+t: 1-800-220-0469
+e: info@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

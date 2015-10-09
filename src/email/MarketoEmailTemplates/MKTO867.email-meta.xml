@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1328049828.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1328049828.0)</subject>
+    <textOnly>90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Roman,
+ 
+Hope you are doing well. My  name is Sara Conde and I received your contact information form Exponential. We provide back office support for Exponential’s contractors. I need to schedule a call with you to review our program and get you set up. Please provide your phone number or reach out to my directly below.  You may also schedule a time that is convenient for you by clicking here.
+ 
+I look forward to speaking with you and getting you set up with us.
+ 
+Take care,
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

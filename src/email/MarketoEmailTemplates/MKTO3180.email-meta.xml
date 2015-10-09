@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CEQ Q1 2014</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Client}}, your Q1 Contractor Engagement Quarterly is here</subject>
+    <textOnly>WHY MAKE IC ENGAGEMENT COMPLICATED?
+When you break it down, is contractor engagement really so complicated?
+
+I talk to a lot of folks in companies of all sizes who have a shallow understanding of the Independent Contractor misclassification issue. Many believe that mitigating the risk is complicated, messy and involves a lot of “change management.” Read More  &lt;http://www.staffingindustry.com/Research-Publications/Blogs/Andrew-Karpie-s-Blog/The-Two-Sides-of-MBO-Partners-Things-May-Not-Always-Be-What-They-Seem2&gt;
+KELLY, ODESK AND ONE BIG QUESTION
+Kelly Services and oDesk recently announced &lt;https://www.odesk.com/info/about/press/releases/kelly-services-and-odesk-announce-alliance-first-between-workforce-solutions-company-and-online-work-platform/&gt; an “alliance,” combining a traditional staffing company with an online freelance market for the first time in industry history.
+
+But wait; Kelly is a conservative organization, right? Read More  &lt;http://www.mboenterprise.com/blog/kelly-odesk-and-one-big-question&gt;
+DOES IT REALLY MATTER IF YOUR CONTRACTORS ARE HAPPY?
+We all know talent is important – and getting more challenging to find, especially further up the skill ladder. HR and Talent Acquisition executives are emerging as the strategists seeking solutions to this shortfall, saving companies with stressed full-time workers... Read More  &lt;http://mboenterprise.com/blog/does-it-really-matter-if-your-contractors-are-happy&gt;
+Q1 DOWN: GRADING MBO&apos;S 2014 PREDICTIONS
+
+Just before 2014 kicked off, MBO Partners published this infographic &lt;http://www.mbopartners.com/state-of-independence/workforce-predictions-2014.html&gt; detailing our predictions for the American workforce.
+
+So, with our first quarter down and three to go, how do our predictions look so far? Read More &lt;http://mboenterprise.com/blog/q1-down-grading-mbo%E2%80%99s-2014-predictions-0#overlay-context=blog/q1-down-grading-mbo%25E2%2580%2599s-2014-predictions&gt;
+FEATURED WEBINAR
+Technology is Changing How Businesses Engage the 21st Century Independent Professional &lt;http://video.mbopartners.com/players/JHiqDSJH-mMm4x1IW.html&gt;
+Watch the full recording above or view the slides here &lt;http://info.mbopartners.com/rs/mbo/images/MBO_March%204_%20Webinar_V6_FINAL.pdf&gt;.
+INFOGRAPHIC
+Top 3 Workforce Predictions for 2014 &lt;http://www.mbopartners.com/state-of-independence/workforce-predictions-2014.html&gt;
+NEWS
+Where Are All the Self-Employed Workers? &lt;http://blogs.hbr.org/2014/02/where-are-all-the-self-employed-workers/&gt;, Harvard Business Review
+
+Staffing firms are partnering with online platforms in different ways &lt;http://www.staffingindustry.com/Research-Publications/Publications/Staffing-Industry-Review/January-February-2014/Branching-Out&gt;, Staffing Industry Analysts
+BLOGS
+How to Identify Great Contract Candidates &lt;http://www.recruitingblogs.com/profiles/blogs/how-to-identify-great-contract-candidates&gt;
+
+Why Entrepreneurs Are Among the Happiest People in The World &lt;http://www.huffingtonpost.ca/jodi-butts/economy-mental-health_b_4732599.html?ir=Canada&amp;utm_hp_ref=canada&gt;
+© 2012 MBO Partners. 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Overview</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Overviews</value>
+    </caseValues>
+    <fields>
+        <help><!-- An expiration date for time-sensitive content. If filled, a notification will be sent to article creator near that date. --></help>
+        <label><!-- Expiration --></label>
+        <name>Expiration__c</name>
+    </fields>
+    <fields>
+        <help><!-- Keywords to improve article search. --></help>
+        <label><!-- Keywords --></label>
+        <name>Keywords__c</name>
+    </fields>
+    <fields>
+        <help><!-- Related knowledge articles that may inform this article. --></help>
+        <label><!-- Related Articles --></label>
+        <name>Related_Articles__c</name>
+    </fields>
+    <fields>
+        <help><!-- Links to relevant outside sources. --></help>
+        <label><!-- Relevant Links --></label>
+        <name>Relevant_Links__c</name>
+    </fields>
+    <fields>
+        <help><!-- Use this to introduce the topic and provide a quick summary. --></help>
+        <label><!-- Topic Introduction --></label>
+        <name>Topic_Introduction__c</name>
+    </fields>
+    <fields>
+        <help><!-- Write the topic overview here, providing as much detail as possible. --></help>
+        <label><!-- Topic Overview --></label>
+        <name>Topic_Overview__c</name>
+    </fields>
+    <fields>
+        <name>ValidationStatus</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation><!-- Approved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending Approval</masterLabel>
+            <translation><!-- Pending Approval --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Work in Progress</masterLabel>
+            <translation><!-- Work in Progress --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>How-To Layout</layout>
+        <sections>
+            <label><!-- Resources --></label>
+            <section>Resources</section>
+        </sections>
+    </layouts>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: First AMEX Expense processed! (1335540701.0)</name>
+    <style>none</style>
+    <subject>RE: First AMEX Expense processed! (1335540701.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Mike, Give me a ring when you have about 5min and can be in front of the computer. I want to make sure you know where to find everything and how to update records appropriately with this program.
+Thanks!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. From: &lt;mailto:sconde@mbopartners.com&gt; sconde@mbopartners.com [mailto:sconde@mbopartners.com] 
+Sent: Friday, April 27, 2012 8:00 AM
+To: mmcgarvey@san.rr.com
+Subject: First AMEX Expense processed! 
+Dear Michael,
+Your first American Express expense has been uploaded! I would like to set up a time where I can go over entry of your AMEX expenses and how our program works. Please contact me so that we can schedule a date and time to go through this. 
+Thank you,Sara CondeBusiness Manager Direct: 703-793-6028 Toll Free: 800-556-0270MBO Partners13454 Sunrise Valley Dr., Ste 300Herndon, VA 20171]http://www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com &lt;http://www.mbopartners.com%20&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

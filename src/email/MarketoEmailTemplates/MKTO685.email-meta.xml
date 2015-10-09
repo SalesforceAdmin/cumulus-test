@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Liability insurance coverage status for Nicholas Fattu (1326476151.0)</name>
+    <style>none</style>
+    <subject>RE: Liability insurance coverage status for Nicholas Fattu (1326476151.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Nick,
+ 
+My name is Sara Conde and I will be your contact at MBO moving forward. Since we have a contract with OST Global solutions you would be covered under our liability insurance if you ran the project through MBO.
+ 
+Please let me know if you have any additional questions or if can be of help. 
+
+Looking forward to working with you!
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Nicholas Fattu [mailto:naf-tip2009@live.com] 
+Sent: Friday, January 13, 2012 10:05 AM
+To: Nicolette Taylor
+Subject: RE: Liability insurance coverage status for Nicholas Fattu
+ 
+January 13, 2012
+  
+ntaylor@mbopartners.com
+ 
+ 
+Nicolette
+ 
+ 
+RE: Liability insurance coverage status for Nicholas Fattu
+ 
+ 
+I need to check on the status of my enrollment for the MBO liability insurance coverage.
+ 
+I have a potential assignment through OST Global Solutions, Inc. and they wanted me to ensure that I had the coverage.
+ 
+I had coverage last year for a short assignment during the March-April time period.
+ 
+ 
+Thanks,
+ 
+ 
+Nick Fattu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

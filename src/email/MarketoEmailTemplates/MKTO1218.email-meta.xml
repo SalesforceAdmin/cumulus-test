@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>email reminder to go out on Tuesday, April 17</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>DC - Networking - April 26 2012.Invite- Event Next week</name>
+    <style>none</style>
+    <subject>Next Week - MBO Partners&apos; Spring 2012 Networking Reception</subject>
+    <textOnly>Spring 2012 Networking Reception:
+Mon Ami Gabi Reston
+April 26, 2012
+Time is running short! Do not forget to register today for MBO Partners Spring Networking Event. Please join the MBO team, Associates, as well as representatives from many of our prestigious clients, for a night of networking and fun at local hot spot Mon Ami Gabi in Reston Town Center!
+
+MBO invites you to this Networking Reception to learn about some of our exciting new initiatives, meet and mingle with fellow Associates, Clients, and MBO team managers, all while enjoying tasty cocktails, and luscious hors d&apos;oeuvres on us! Consider this a token of our appreciation for being part of our MBO family.
+
+This is a party you do not want to miss, so hurry and register today, as space is limited - we all know how popular this reception is!
+
+Register now! &lt;http://info.mbopartners.com/Spring-2012-Registration.html&gt;
+
+We look forward to seeing you!
+
+Sincerely,
+
+MBO Partners
+
+Suggested dress code is business to business casual.
+Don&apos;t forget to bring your business cards!
+Questions? Please contact Marcelle Saab, Associate Relations Manager, 703-793-6006
+MBO Partners 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171
+
+Contact Us &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

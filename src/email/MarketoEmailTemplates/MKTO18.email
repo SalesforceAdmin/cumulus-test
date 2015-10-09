@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p>Dear {{First Name:default=edit me}},</p>
+<p>As business migrates to the new &ldquo;Project Economy&rdquo; with more and more work being procured on a contract basis, MBO Partners felt compelled to enhance our messaging and demonstrate how our solutions are central to this growing trend.</p>
+<p>To that end, I want you to be among the first to know that MBO Partners is launching a refreshed brand to the marketplace. We&rsquo;re initially announcing this to our key client partners and independent contractor Associates.</p>
+<p>Please take a moment to review our new web sites:</p>
+<div style="margin-left: 30px;"><span style="font-family: 'Arial','sans-serif';">&bull;<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><u><a href="http://www.mboenterprise.com/">www.mboenterprise.com</a></u>, covering our solutions and value for enterprise organizations, and</div>
+<div style="margin-left: 30px;"><span style="font-family: 'Arial','sans-serif';">&bull;<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><u><a href="http://www.mbopartners.com/">www.mbopartners.com</a></u>, an interactive new site for our independent contractor audience</div>
+<p>Next week, we will also launch a new and easier-to-use interface for our core MBO online system. This will improve the experience for your independent workers and managers alike.</p>
+<p>As always, we thank you for your business and look forward to serving you and your independent contractors well into the future.&nbsp;</p>
+<p>Sincerely,</p>
+<div>Gene Zaino</div>
+<div>President and CEO</div>
+<div>MBO Partners</div>
+<div>Direct Dial: 703-793-6001</div>
+<div><img src="http://info.mbopartners.com/rs/mbo/images/MBOPartners-Logo-4c-POS-RGB.jpg" alt="" width="167" height="64" /></div></span>
+</div>
+</body>
+</html>

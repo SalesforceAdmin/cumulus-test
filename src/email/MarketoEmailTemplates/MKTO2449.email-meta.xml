@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Taggart Email 2</name>
+    <style>none</style>
+    <subject>Benchmark your independent contractor program</subject>
+    <textOnly>Dear {{lead.First Name:default=Enterprise Contact}},
+
+Because you are a business leader involved with making key contingent workforce decisions, I invite you to spend five minutes to benchmark your independent contractor engagement program.  
+
+Created by MBO Partners, the Self-Assessment asks you a few simple questions and then shows where your program falls on a quadrant indicating likely program success, with success largely being defined as high IC adoption rates, minimized business disruption, mitigated risk, and enhanced spend capture. The tool is a spreadsheet – not an online form – so your answers and results remain completely confidential.
+
+To give it a try, click here &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Client_Readiness_Self-Assessment_Basic.xlsx&gt;.
+
+I hope that you find this information helpful. If you would like to discuss what your score means and opportunities for improvement, I’d be happy to provide you with insight into proven best practices. Please consider me as a resource.
+
+Best regards,
+
+Steve
+___________________________________
+ Steve Taggart
+ 
+Account Executive, Enterprise Solutions
+ MBO Partners
+ 
+ t: 703.793.6014
+ f: 703.793.6452
+ e: staggart@mboenterprise.com &lt;mailto:staggart@mbopartners.com&gt;
+ w: www.mboenterprise.com &lt;http://www.mboenterprise.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

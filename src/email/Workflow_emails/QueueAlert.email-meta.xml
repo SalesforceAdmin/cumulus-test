@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Used to notify queue members of newly assigned record</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>QueueAlert</name>
+    <style>none</style>
+    <subject>Lead Score Alert - {!Lead.OwnerFullName}</subject>
+    <type>text</type>
+</EmailTemplate>

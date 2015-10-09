@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Insurance question (1348772682.0)</name>
+    <style>none</style>
+    <subject>RE: Insurance question (1348772682.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Cary, Thank you for the I-9 form, it looks great. In terms of the agreement the client can use this SOW &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Exec_SOW.pdf&gt; along with (or without) our MSA &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Exec_MSA_Template.pdf&gt;. Or if they would like something less formal they can use the attached letter agreement (may be the most appropriate for this case.) I have also attached our W-9, sample insurance certificate, and billing and payment instructions for their records. 
+If they want to move forward with the letter agreement please have them sign and return to me via email and I will return fully executed copy.
+Thanks!Sara ___________________________________ SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; If you are in the DC area please check out our upcoming networking event! &lt;http://events.r20.constantcontact.com/register/event?oeidk=a07e6cqaqtk0702919f&amp;llr=kp5x6qkab&gt;  Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.   From: Cary Clark [mailto:caclark@cox.net] 
+Sent: Wednesday, September 26, 2012 8:14 PM
+To: Sara Conde
+Subject: Re: Insurance question Hi Sara,
+Thanks for chatting with Janet.  Attached is my I9.  I emailed it to doc@mbopartners.com &lt;mailto:doc@mbopartners.com&gt; last night @ 8:02.
+
+I talked with my supervisor at LegalShield today.  They would like some kind of statement of work, so I&apos;ll look over the MBO samples and see if anything fits rather than go without a written agreement.
+
+The business information is:
+	- LegalShield	- Web development	- Ongoing development of Java based applications	- One Pre-Paid Way, Ada, Oklahoma 74820	- $100/hr	- Weekly billing	- Due upon receipt	- Duane Smith - duanesmith@pplsi.com &lt;mailto:duanesmith@pplsi.com&gt;
+
+Thanks!
+
+CaryOn 09/26/2012 03:57 PM, Sara Conde wrote:Hi Cary, I am sorry I keep missing your calls. I had a nice chat with Janet today and I wanted to summarize what we discussed: ·         Any benefits you select during the online enrollment cab be changed or modified within 30 days of you start date with us. So if you change your mind after you are “active” with us you have the ability to update your account accordingly.·         You may update 401(k) at any time. ·         The question you reference below is just asking what your current benefit situation is (why you are denying or electing coverage for our HR reporting purposes, if you are not sure just make your best guess.) ·         I never received your I-9 form, please send it over to me again (via email, no need for original copy) when you get a moment.·         Please send over the signed acknowledgment form when you get a moment (via email, no need for original copy.) ·         When you are ready please let me know the following information about the client we will be billing on your behalf:o   Client nameo   Name of projecto   Short description of the work being preformedo   Work location addresso   Rateo   Invoicing frequency (monthly, weekly etc.)o   Net payment terms o   Email/Contact we should send the invoice to at your client.  Once your account is active we will schedule a “welcome call” and I will walk you (and/or Janet) through our system and answer any additional questions.  I’m looking forward to connecting with you. Have a great night!Sara___________________________________ SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com&gt; If you are in the DC area please check out our upcoming networking event!  Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.    -----Original Message-----
+From: Cary Clark [mailto:caclark@cox.net] &lt;mailto:[mailto:caclark@cox.net]&gt; 
+Sent: Wednesday, September 26, 2012 7:27 AM
+To: Sara Conde
+Subject: Insurance question Hi Sara,I was going back through my profile and want to make sure I answered things correctly before I finalize it.  On health insurance when it asks if me and my spouse are covered by other insurance, does it only mean currently or is it asking if we will continue other coverage after joining the MBO plan?  We have insurance now but will drop it once the Aetna plans start.  I answered that we have it and provided the carrier names. Thanks,Cary p.s.  I emailed my I9 last night. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,4 @@
+{!Case_Assignment__c.CreatedBy} has re-opened the assignment {!Case_Assignment__c.Name}: {!Case_Assignment__c.fs_topic__c} relating to case {!Case_Assignment__c.rs_case__c}.
+
+You may locate it here:
+{!Case_Assignment__c.Link}

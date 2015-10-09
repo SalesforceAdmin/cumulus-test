@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Review Payroll With Sara  (1342447379.0)</name>
+    <style>none</style>
+    <subject>RE: Review Payroll With Sara  (1342447379.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Jeff, If you log in to your MBO account and click on personal info -&gt; benefits you can update you personal deferral to 0%.  Let me know if you have any questions.
+Thanks,
+Sara From: Jeff Sheftic [mailto:jeffsheftic@yahoo.com] 
+Sent: Monday, July 16, 2012 8:03 AM
+To: Sara Conde
+Subject: Re: Review Payroll With Sara  Good morning. Can you hold off on any 401 k contributions. I may have maxed out.
+Sent from Yahoo! Mail on Android From: Sara Conde &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt;; 
+To: Jeff Sheftic &lt;jeffsheftic@yahoo.com &lt;mailto:jeffsheftic@yahoo.com&gt;&gt;; 
+Subject: Re: Review Payroll With Sara 
+Sent: Fri, Jul 13, 2012 1:57:51 PM Sure thing. Call u at 11.
+
+Sent from my iPhone
+On Jul 13, 2012, at 9:57 AM, &quot;Jeff Sheftic&quot; &lt;jeffsheftic@yahoo.com &lt;javascript:return&gt;&gt; wrote:Can we do 11. I need to be in a meeting until then
+Sent from Yahoo! Mail on Android From: Sara Conde &lt;sconde@mbopartners.com &lt;javascript:return&gt;&gt;; 
+To: jeffsheftic@yahoo.com &lt;javascript:return&gt; &lt;jeffsheftic@yahoo.com &lt;javascript:return&gt;&gt;; 
+Subject: Review Payroll With Sara 
+Sent: Thu, Jul 12, 2012 7:10:01 PM    </textOnly>
+    <type>custom</type>
+</EmailTemplate>

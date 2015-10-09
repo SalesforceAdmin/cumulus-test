@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Agreement Status? (1324390874.0)</name>
+    <style>none</style>
+    <subject>RE: Agreement Status? (1324390874.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Larry,
+ 
+I have not heard anything from Sherry since she received the contract from me.  You should see I sent her a quick email asking for a status update and I will let you know when she responds (if she does not copy you on the response).
+ 
+Please let me know if you have any additional questions.
+ 
+Thank you,
+Nicolette 
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Larry J. Davis [mailto:larry.jay.davis@gmail.com] 
+Sent: Monday, December 19, 2011 4:58 PM
+To: Nicolette Taylor
+Subject: Agreement Status?
+ 
+How are we doing on the agreement? Thank you. --Larry
+ 
+-- 
+Larry J. Davis, Pharm.D.
+Email: larry.jay.davis@gmail.com
+Tel: 415-716-8784
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

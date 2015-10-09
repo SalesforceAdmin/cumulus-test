@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>IC Engage.IC Engage Round 2</name>
+    <style>none</style>
+    <subject>new IC compliance and engagement service from MBO Partners</subject>
+    <textOnly>{{lead.First Name:default=Client}},
+
+Since you&apos;ve worked with MBO Partners in the past, we know that the top talent you wish to engage are requesting to be independent consultants. Companies that have a strategy for attracting and engaging independents will have a competitive advantage; those that don&apos;t will be at risk for losing market share. 
+
+That&apos;s where we come in. MBO now offers IC Engage &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_IC_Engage_Brochure.pdf&gt;, a service to help professional services firms expand their use of independent workers safely and easily. The process has been endorsed by many large enterprises, including Microsoft, United Health Group, and Booz Allen Hamilton. IC Engage eliminates many of the worries you and your clients have with ICs including:
+
+
+ - Compliance with IRS/DOL regulations
+ - Cost control
+ - Consultant satisfaction
+ - Client requirements for compliance, insurance, etc.
+ - Contract management
+
+
+
+Please review our IC Engage brochure &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_IC_Engage_Brochure.pdf&gt; and let me know if you would like a briefing. I look forward to speaking with you soon.
+
+Best regards,
+
+Steve Taggart
+___________________________________
+Steve Taggart
+Account Executive
+ MBO Partners
+ 
+ t:  703-793-6014
+ e: staggart@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

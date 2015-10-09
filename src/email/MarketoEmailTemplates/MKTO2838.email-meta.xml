@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ExecUNet 1</name>
+    <style>none</style>
+    <subject>Becoming the Boss of You resources</subject>
+    <textOnly>{{lead.First Name:default=Executive}},
+Thank you for requesting more information after my  Becoming the Boss of You webinar on Thursday. We created this resource guide &lt;http://info.mbopartners.com/rs/mbo/images/MBO-Partners-Additional Resources.pdf&gt; that includes more information on MBO Partners and additional  in-depth educational resources covering the topics that I discussed yesterday. 
+We have also added you to our Independent Consulting Brief (monthly newsletter packed with education, tips and resources) and Independent Consultant Webinar Series email lists.
+
+If you have any questions, or would simply like to learn more about how MBO can help you along your journey to becoming self-employed, please contact Sara Conde, a Consultant Services Advisor at MBO. You can email her at sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;, or simply call her at 703-793-6028.
+
+Thanks, and I look forward to hearing from you!
+___________________________________
+Gene Zaino
+President &amp; CEO
+ MBO Partners
+
+ e: gzaino@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

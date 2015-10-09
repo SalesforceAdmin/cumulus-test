@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Created by Whitney Downer, 2/28/12. This email is sent following the webinar to thank them for joining as well as direct them to additional resources.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Sept6Web: LeadGen.Thank you attending</name>
+    <style>none</style>
+    <subject>Thank You for Attending our Webinar on Lead Generation!</subject>
+    <textOnly> 
+ 
+Hello {{lead.First Name:default=Webinar Registrant}},
+
+Thank you for taking the time out of your busy schedule to attend our webinar “The Consultant&apos;s Guide to Lead Generation: Three Steps to Securing New Clients.&quot; We hope you were able to gain some new insight into growing your independent business. To follow-up on the information provided on Thursday, September 6th, we wanted to share a few resources.
+       Recorded webinar &lt;http://f5159bf2f10bd6337d85-21700ed84a5e5d3baebf7221604c63ee.r66.cf2.rackcdn.com/20120906_Consultants_Guide_to_Lead_Generation.wmv&gt;
+We invite you to sign-up &lt;http://info.mbopartners.com/2012SeriesSignUp.html&gt; to stay informed about future webinars in our series. If you have any topic recommendations or feedback, please email webinar@mbopartners.com &lt;mailto:webinar@mbopartners.com&gt;. 
+
+Thank you,
+MBO PARTNERS
+t: 1-800-220-0469
+
+e: info@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

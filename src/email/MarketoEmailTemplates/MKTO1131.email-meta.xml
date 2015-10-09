@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Insurance Info (1332959419.0)</name>
+    <style>none</style>
+    <subject>RE: Insurance Info (1332959419.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Harry, I reviewed the contract and also had legal take a quick look at it. With your permission I would send the attached contract along with the email below to the client. One thing I noticed in the contract that I wanted to point out is that SNC doesn’t have to make payment on our invoices until they receive payment from their client.  I have asked them how long they anticipate that to be below.  Thanks!Sara ___________________________________________________________________________________________________ Dear X, On behalf of everyone here at MBO Partners, we look forward to working with you and your organization.  I have reviewed the agreement and enclosed the revised version with our information.  I have included a copy that lists our changes as well as a clean copy should you accept them for your counter signature.  Here are the list of changes and explination for each one: 
+	-  2nd  Paragraph - Due to our role as an employer or record for tax purposes and not that of a staffing agency we have not vetted the skills of the subcontraor thus, we need to put “to the best of our knowelege” in this section. 	- Section 3 – Since you will remit paymen to us once your client remits payment to you we would like to ask what the net payment terms are that you have in place with your client?	- Section 5 Indemnity - We prefer to use our standard indemnity language. 
+ If you are curious about MBO Partners and what we do and how we work, we have a short one page overview that may answer some of your questions, which you may access by going here.I look forward to working with you,   Best regards, Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.     From: &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Introduction.pdf&gt; deezl2006@gmail.com [mailto:deezl2006@gmail.com] On Behalf Of Harry Parsons
+Sent: Tuesday, March 27, 2012 6:21 PM
+To: Sara Conde
+Subject: Fwd: Insurance Info 
+- hp ----------- Forwarded message ----------
+From: Best, Mark &lt;Mark.Best@snclavalin.com &lt;mailto:Mark.Best@snclavalin.com&gt;&gt;
+Date: Tue, Mar 27, 2012 at 13:40
+Subject: Insurance Info
+To: parsonsh@asme.org &lt;mailto:parsonsh@asme.org&gt;
+Harry:
+I’ve attached a sample contract to give you the contractor’s insurance requirements.
+Mark
+&lt;&lt;Sample Contract.docx&gt;&gt; 
+Mark A. Best, P.E.
+Director, Controls &amp; Automation
+SNC-Lavalin Project Services, Inc.
+mark.best@snclavalin.com &lt;mailto:mark.best@snclavalin.com&gt; 
+436 Creamery Way, Suite 100
+Exton, PA 19341-2556
+(610) 423-6278 &lt;tel:%28610%29%20423-6278&gt; Direct
+(610) 524-5920 &lt;tel:%28610%29%20524-5920&gt; Office
+(610) 524-2443 &lt;tel:%28610%29%20524-2443&gt; Fax
+(484) 883-3741 &lt;tel:%28484%29%20883-3741&gt; Mobile
+
+Before printing this e-mail, Think CAREfully! P
+WE CARE embodies SNC-Lavalin’s core values and beliefs
+ 
+Confidentiality Notice: This e-mail transmission may contain confidential or legally privileged information that is intended only for the individual or entity named in the e-mail address.  If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or reliance upon the contents of this e-mail is strictly prohibited.  If you have received this e-mail transmission in error, please reply to the sender, so that SNC Lavalin can arrange for proper delivery, and then please delete the message from your inbox.  Thank you.
+  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>MBO User</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>MBO Users</value>
+    </caseValues>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- First Name --></label>
+        <name>First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Full Name --></label>
+        <name>Full_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Name --></label>
+        <name>Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- LinkedIn Profile --></label>
+        <name>LinkedIn_Profile__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Record ID --></label>
+        <name>MBORecordID__c</name>
+    </fields>
+    <fields>
+        <help><!-- Reference the Salesforce user that is the same as this MBO user --></help>
+        <label><!-- Salesforce User --></label>
+        <name>Salesforce_User__c</name>
+        <relationshipLabel><!-- MBO Users --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- TimeTrade Link --></label>
+        <name>TimeTrade_Link__c</name>
+    </fields>
+    <fields>
+        <help><!-- The user name for the Business Center and Access --></help>
+        <label><!-- User Name --></label>
+        <name>UserName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active Directory GUID --></label>
+        <name>fs_aDGUID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone --></label>
+        <name>fs_phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Title --></label>
+        <name>fs_title__c</name>
+    </fields>
+    <layouts>
+        <layout>My Biz Office User Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_email</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_firstName</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_lastName</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_mboRecordId</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_owner</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_phone</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_salesforceUser</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_timeTradeLink</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System. --></errorMessage>
+        <name>syncUpdate_userName</name>
+    </validationRules>
+</CustomObjectTranslation>

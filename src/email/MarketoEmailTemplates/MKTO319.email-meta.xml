@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The Cost and Impact of Independent Professionals in the US Federal Government; requested by Jay Lash</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Webinar 11/8/2011 invite</name>
+    <style>none</style>
+    <subject>Join Us For &apos;The Cost and Impact of Independent Professionals in the U.S. Federal Government&quot;</subject>
+    <textOnly>Upcoming Webcast: The Cost and Impact of Independent Professionals in the U.S. Federal Government
+
+
+Learn more at this FREE, interactive webcast
+Tuesday, Nov. 8, 2011 12:00-1:00 PM EST
+RSVP NOW  (https://www1.gotomeeting.com/register/595265761)
+
+This is a must-attend event for all federal employees interested in lunderstanding the cost and impact of independent professionals in the US Federal Government.
+
+Are you involved in hiring independent contractors for government?
+Are you an independent contractor to government agencies of the military?
+
+If so, make attending this webcast a priority.
+ 
+Based on brand new research conducted by the Center for Human Capital Innovation and sponsored by MBO Partners, this webcast will provide you with the immediate and practical steps to engage highly skilled independent professionals at a fraction of the cost you are paying now. 
+ 
+All registrants and attendees will receive a free copy of the white paper and the slides used in the webcast presentation.
+
+Enjoy this latest edition of Leadership Excellence in Government
+
+
+Tuesday Nov. 8, 2011
+12:00-1:00 PM EST
+
+Don’t miss this event!
+RSVP NOW (https://www1.gotomeeting.com/register/595265761)
+
+Please do not hesitate to contact kayboatner@centerforhci.org for more information on this topic.
+
+Regards,
+
+Kay Boatner</textOnly>
+    <type>custom</type>
+</EmailTemplate>

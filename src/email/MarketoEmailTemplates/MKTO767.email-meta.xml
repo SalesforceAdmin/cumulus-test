@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Enrollment Information (1327331449.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Enrollment Information (1327331449.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Patricia,
+ 
+Thanks for letting me know. I appreciate your time and keep us in mind if you are ever pulled back into consulting.
+ 
+Good luck on your new job!
+ 
+Take care,
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: maynardpjc@aol.com [mailto:maynardpjc@aol.com] 
+Sent: Monday, January 23, 2012 3:43 AM
+To: Sara Conde
+Subject: Re: MBO Partners Enrollment Information
+ 
+Hi Sara:
+ 
+Thank you for taking the time to talk with me last week and for forwarding all the information on MBO Partners.  Since I&apos;m not sure yet how long I&apos;ll be consulting, I&apos;ll hold off for now and stay W2 w/Crescent.
+ 
+Regards,
+ 
+Patricia-Jo Maynard
+-----Original Message-----
+From: sconde &lt;sconde@mbopartners.com&gt;
+To: maynardpjc &lt;maynardpjc@aol.com&gt;
+Sent: Thu, Jan 19, 2012 10:08 am
+Subject: MBO Partners Enrollment Information
+Dear Patricia,
+Welcome to MBO Partners! Enclosed are the instructions you will need to become an MBO Associate. You can begin and resume this process at any time. 
+Please begin enrollment by clicking here. Continue the online enrollment by following the instructions. At the end of the enrollment process you will be asked to print out the enrollment packet. Please review this packet and follow the proper instructions. Please do not hesitate to call me should you have any questions or concerns. We look forward to working with you. 
+Regards, 
+Sara Conde
+Enrollment Manager 
+Direct: 703-793-6028 
+Toll Free: 800-556-0270
+MBO Partners
+13454 Sunrise Valley Dr., Ste 300
+Herndon, VA 20171
+http://www.mbopartners.com 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

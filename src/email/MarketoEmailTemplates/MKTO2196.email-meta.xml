@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1354576658.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1354576658.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear James, It was a pleasure speaking with you today.  I’ve enclosed a few resources that you might find helpful in finding your next project.   
+	- Here is a short list of some of our top clients within MBO Access &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Access_Information.pdf&gt;. 	- We have an index of recorded Webinars that will comprehensively cover everything to do with working independently.  You can see them by going here &lt;http://www.mbopartners.com/resources&gt;.	- You can review our “Independence Guide” by going here. &lt;http://www.mbopartners.com/independents-guide&gt; 	- I have attached the net cash estimate we created, please give me a ring when you have a few minutes to review. 	- Lastly, you can view all the information we spoke about over the phone by going here. &lt;http://info.mbopartners.com/advisor-info-s-conde.html&gt; (Please bookmark this page.)
+ I will follow up with you, if you have questions before then, feel free to schedule a convenient time for you using my online schedule. &lt;https://my.timedriver.com/8SLYS&gt; Best of luck finding your next contract, Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.       </textOnly>
+    <type>custom</type>
+</EmailTemplate>

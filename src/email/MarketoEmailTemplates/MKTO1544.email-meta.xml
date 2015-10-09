@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: copy of requested form (1339183740.0)</name>
+    <style>none</style>
+    <subject>RE: copy of requested form (1339183740.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Wonderful  thank  YOU for returning this so promptly. Have a wonderful weekend!  From: dmckague@charter.net [mailto:dmckague@charter.net] 
+Sent: Friday, June 08, 2012 2:46 PM
+To: Sara Conde
+Subject: copy of requested form Sara - here is a scan of the requested form.  Thanks for setting this up for me! Darren&lt;/htm</textOnly>
+    <type>custom</type>
+</EmailTemplate>

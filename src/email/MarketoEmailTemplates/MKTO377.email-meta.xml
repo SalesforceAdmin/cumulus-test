@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: New contract through MBO Partners (1322517304.0)</name>
+    <style>none</style>
+    <subject>RE: New contract through MBO Partners (1322517304.0)</subject>
+    <textOnly>Hi Chris, I&apos;m glad to hear you would like to move forward and work with MBO!  The first step would be for me to be put in contact with their contracts department (or legal team, whomever handles contract negotiations) and I will work to get a Master Service Agreement in place.  I would also like to have a brief conversation with you to go over the enrollment process for you.  I have included a link to my calendar below for you to select a convenient time for you: https://my.timedriver.com/9TGRK   I look forward to speaking with you soon! Nicolette Nicolette Taylor Business Manager MBO Partners t: 703.793.6281 f: 703.793.6456 e: ntaylor@mbopartners.com w: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. -----Original Message----- From: Chris Nehren [mailto:cnehren@pobox.com] Sent: Monday, November 28, 2011 12:49 PM To: Nicolette Taylor Subject: New contract through MBO Partners Hi, Nicolette. My current contract at Shutterstock has ended and I would like to work with MBO for my next contract term with them. What do I need to do in order to make that happen? I can provide you with contact info with their legal counsel if necessary. -- Thanks and best regards, Chris Nehren</textOnly>
+    <type>custom</type>
+</EmailTemplate>

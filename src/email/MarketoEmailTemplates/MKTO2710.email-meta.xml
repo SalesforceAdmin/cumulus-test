@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CSA Value Prop 2</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, what could you do with more hours in your workday?</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+
+MBO Partners helps independent contractors save their billable time by providing invoicing, payroll and expense processing services. That mean less wasted time, less headaches and more doing what you love. 
+
+Check out this story &lt;http://info.mbopartners.com/rs/mbo/images/CSA-Story-August_2013.pdf&gt; about a consultant who found more time for friends, family and travel by outsourcing his administrative tasks to MBO Partners.
+
+Have any questions about how MBO helps independent consultants? Just email me to learn how MBO may be able to help your solo business and maximize your billable hours.
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+ MBO Partners
+
+ e: ntaylor@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

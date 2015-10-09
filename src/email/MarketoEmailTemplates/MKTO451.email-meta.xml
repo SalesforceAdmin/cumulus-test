@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Legacy Contacts.Prospects</name>
+    <style>none</style>
+    <subject>MBO Partners {{lead.First Name:default=edit me}}</subject>
+    <textOnly>Dear {{lead.First Name:default=Sir/Madam}},
+
+I wanted to share the news that MBO Partners just released a study   that you may be interested in. For the first time, there’s real hard   facts about The State of Independence in America (http://info.mbopartners.com/the-state-of-independence.html) that will reveal not just how many millions of independent professionals there are in the country, but also the unique things that motivate them and help them stay happily independent.
+
+That’s not all. We recently re-launched our Web site (www.mbopartners.com) which includes relevant tools such as a Bill Rate Calculator (http://www.mbopartners.com/#billrate), a self-assessment tool on independence (http://www.mbopartners.com/#rightforyou), and a video that shows how we help independents succeed (http://www.mbopartners.com/#howwehelp) in today’s project economy. We encourage you to take a look.
+
+Take a moment to instantly schedule an appointment (https://my.timedriver.com/C9CP) if you’d like to take advantage of my time and interest in the independent professional’s unique challenges and needs.
+
+Are you currently working in a W2 role and thinking of starting your   first contract? Are you already working independently and have a new  project commencing? Now is a great time to connect with MBO Partners.
+
+As always, we’re here to make it easier for independent consultants to do business.
+
+Steven Arhancet
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Share your story! MBO Partner is profiling independent professionals across the country. Read their stories (http://info.mbopartners.com/meet-the-independents), or share your own (http://info.mbopartners.com/meet-the-independents-share.html).</textOnly>
+    <type>custom</type>
+</EmailTemplate>

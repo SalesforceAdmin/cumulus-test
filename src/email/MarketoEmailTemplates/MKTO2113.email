@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p>Dear {{lead.First Name:default=edit me}},</p>
+<p><br />Thank you for signing up to receive the Contractor Engagement Quarterly from MBO Enterprise Solutions!</p>
+<p><br />As you may know, there&rsquo;s a &ldquo;perfect storm&rdquo; brewing where it comes to independent contractor engagement. While workers are increasingly choosing independence and forward-thinking businesses are using ICs more frequently, new and potentially devastating regulations throw a blanket of fear and confusion over it all.</p>
+<p><br />MBO wants to help steer your business away from the storm. With over 25 years of real-world IC engagement experience &ndash; not to mention a finger on the pulse of key IC legal issues &ndash; MBO has the expertise to help your business maximize its return on every consulting dollar&hellip; safely.</p>
+<p><br />Each edition of the <strong>Contractor Engagement Quarterly</strong> is packed with stories, advice, blog links, and useful educational tools. We hope these help you meet the challenges that go hand-in-hand with engaging independent workers.</p>
+<p><br />For more information about MBO Enterprise Solutions and our independent contractor engagement solutions, please call us at 1-800-220-0469, email us at <a title="MBO Enterprise" href="mailto:sales@mboenterprise.com">sales@mboenterprise.com</a>, or visit our website at <a title="MBO Enterprise Homepage" href="http://www.mboenterprise.com">www.mboenterprise.com</a>. We look forward to hearing from you!</p>
+<div><br />Best regards,</div>
+<div><br />MBO Enterprise Solutions</div>
+<div><img title="MBO Enterprise" src="http://info.mbopartners.com/rs/mbo/images/New MBO Logo.jpg" alt="MBO Enterprise Logo" width="154" height="60" /></div>
+<div><a title="MBO Enterprise Homepage" href="http://www.mboenterprise.com">www.mboenterprise.com</a></div></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ></div>
+</body>
+</html>

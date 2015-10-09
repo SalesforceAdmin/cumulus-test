@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Contact information For Sara at MBO Partners (1327096504.0)</name>
+    <style>none</style>
+    <subject>Contact information For Sara at MBO Partners (1327096504.0)</subject>
+    <textOnly>90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Mike,
+
+So nice speaking with you!  To summarize our call you are going to go back to crescent to confirm if the $70 per hour that they would offer  you outside of our program is corp to corp (1099) or if it is W-2. If it’s $70 on a W-2 you should go with their payroll option. If it’s $70 on a 1099 our program would be of benefit to you and we can create a financial snap shot and go into the service offerings in greater detail.
+ 
+Looking forward to hear what they come back with!
+ 
+Take care,
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

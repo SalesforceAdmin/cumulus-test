@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: Invoicing from MBO (1338932477.0)</name>
+    <style>none</style>
+    <subject>FW: Invoicing from MBO (1338932477.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Lisa, Jim sent this over because he received two invoices for the month of may for Stephan and Jolly.  It turns out there was no hold time on their work orders so it released an invoice for 5/1-5/27 and then 5/28-5/31.  I emailed Jim that that was what happened and we will adjust the work orders.  Can you adjust Stephan’s work orders to include hold time? Let me know if you have any questions. Thanks! From: Brinkerhoff, James [mailto:James.Brinkerhoff@analog.com] 
+Sent: Tuesday, June 05, 2012 2:53 PM
+To: Nicolette Taylor
+Cc: Brinkerhoff, James
+Subject: Invoicing from MBO Nicolette I received the attached 2 invoices today.  They cover the same period (5/1 – 5/31/12) as the previous monthly invoice for May.   We are in the process of payment for the prior May invoice(s) already so  I won’t be approving this for payment until the next monthly cycle. Regards,Jim  Jim BrinkerhoffCorporate Information SystemseBusiness Project Manager Analog Devices Inc. 
+2 Technology Way 
+Norwood, MA  02062-9106 T: 781.461.4431  james.brinkerhoff@analog.com &lt;mailto:james.brinkerhoff@analog.com&gt; </textOnly>
+    <type>custom</type>
+</EmailTemplate>

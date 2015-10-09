@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>MBO Partners</title>
+</head>
+<body ><table width="100%" border="0" cellspacing="0" cellpadding="0" ><tr ><td align="center" valign="top" bgcolor="#E9E8E6" ><table width="650" border="0" cellspacing="0" cellpadding="0" ><tr>
+<td>&nbsp;</td>
+</tr>
+<tr ><td ><table width="650" border="0" cellspacing="0" cellpadding="0" ><tr ><td width="230" height="415" valign="top" bgcolor="#339999" ><div class="mktEditable" id="Logo" ><img src="http://info.mbopartners.com/rs/mbo/images/MBOEnterprise-Logo-MBO-Co.png" alt="MBO Partners" height="110" width="230"></div>
+</td>
+<td valign="top" bgcolor="#FFFFFF" ><table width="420" border="0" cellspacing="0" cellpadding="12" ><tr ><td ><div class="mktEditable" id="Header" ><p style="font-family: Helvetica, Arial, sans-serif; color: #4f4e4c; font-size: 23px; line-height: 26px; font-weight: bold; text-align: left;">Recording of recent SIG webinar you attended</p></div>
+</td>
+</tr>
+<tr ><td ><div class="mktEditable" id="Body" >
+<p style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;">Hello&nbsp;{{lead.First Name:default=Attendee}},</p>
+<div style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;">Thank you for attending the webinar, &ldquo;Why Your Company Can't Afford to Get Independent Contractor Engagement Wrong,&rdquo; presented by MBO 
+Enterprise Solutions and hosted by the Sourcing Interests Group.
+ We hope you found the event engaging and relevant.</div>
+<div style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;"><br />Following the event, several attendees requested a recording of the webinar and more information related to independent contractor trends.
+ Below you will find a link to the recording and some additional educational information.</div>
+<div style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;"><br />&bull;&nbsp;&nbsp;&nbsp; Access a recording of the webinar by <a title="Webinar Recording" 
+href="https://sourcinginterests.webex.com/sourcinginterests/lsr.php?AT=pb&amp;SP=EC&amp;rID=6012567&amp;rKey=9569ce5dd7559b37" target="_blank">clicking here</a>.<br />&bull;&nbsp;&nbsp;&nbsp; MBO&rsquo;s <a title="State of Independence" href="http://www.mbopartners.com/state-of-independence/" 
+target="_blank">State of Independence in America</a> report, which includes year-over-year analysis of the Independent Workforce Index.<br />&bull;&nbsp;&nbsp;&nbsp; A link to an article on the Association of Corporate Counsel web site,<a title="ACC Top Ten Article" 
+href="http://www.acc.com/legalresources/publications/topten/Independent-Contractor-Misclassification-Risks.cfm?mkt_tok=3RkMMJWWfF9wsRow5%2FmYJoDpwmWGd5mht7VzDtPj1OY6hBknJLmJK1TtuMFUGpsqOOScDg%3D%3D" target="_blank"> Top Ten Ways to Determine If You Have an Independent Contractor Compliance Issue: 
+Understanding and Recognizing Misclassification Risk</a>.</div>
+<div style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;"><br />On behalf of SIG and the MBO, thank you for your time and interest in this important topic.
+ Please consider us as a resource available to you for anything related to independent contractor compliance and engagement.</div>
+<div style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;"><br />Best regards,</div>
+<div style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;"></div>
+<div style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;">Steve</div>
+<div><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span></div>
+<div><span style="color: #900000; font-weight: bold;">Steve Taggart</span></div>
+<div style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 12px; line-height: 18px; font-weight: normal; text-align: left;"><strong>Account Executive, Enterprise Solutions</strong><br /> MBO Partners</div>
+<div></div>
+<div><span style="font-size: 11px;"><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 703.793.6014</span></span></div>
+<div><span style="font-size: 11px;"><strong><span style="color: #353433; font-family: 'Georgia','serif';">f:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 703.793.6452</span></span></div>
+<div><span style="font-size: 11px;"><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> </span><a href="mailto:staggart@mbopartners.com"><span style="color: #353433; font-family: 
+'Georgia','serif';">staggart@mboenterprise.com</span></a></span></div>
+<div><span style="font-size: 11px;"><strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong><span style="font-family: 'Georgia','serif';"> </span><a href="http://www.mbopartners.com/"><span style="color: #353433; font-family: 
+'Georgia','serif';">www.mboenterprise.com</span></a></span></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr ><td ><div class="mktEditable" id="HorRule1" ><img src="http://www-dev.mbopartners.com/bls-email-templates/images/postcard_stripe.gif" width="650" height="10" alt=""></div>
+</td>
+</tr>
+<tr ><td ><table width="650" border="0" cellspacing="0" cellpadding="12" ><tr ><td ><div class="mktEditable" id="Footer" ><p style="font-family: Helvetica, Arial, sans-serif; color: #45555f; font-size: 11px; line-height: 16px; font-weight: normal; text-align: center;"><b>MBO Partners</b> 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171<br>
+<a href="http://www.mbopartners.com/" target="_blank">Contact Us</a></p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>

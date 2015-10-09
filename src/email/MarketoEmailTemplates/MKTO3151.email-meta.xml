@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Coworking Connection 2</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Client}}, bill rate resources for coworking independents</subject>
+    <textOnly>WELCOME TO THE COWORKING CONNECTION
+Dave Putt
+VP Client and Consulting Services
+With the new year behind us and tax season on the horizon, it&apos;s a natural time to for any self-employed professional to evaluate what they charge their clients. This month, we are focusing on setting the right Bill Rate, featuring this digital &quot;handout &lt;http://info.mbopartners.com/rs/mbo/images/Bill-rate%20Articles-Cover-FINAL.pdf&gt;&quot; you can share with your community of 
+independents.
+
+Here at MBO, we have trained experts 
+that can help independents charge their clients fairly and accurately. If you or your membership have any questions about setting a bill rate as an independent, please email me &lt;mailto:communications@mbopartners.com&gt;.
+INTERACTIVE BILL RATE CALCULATOR
+Setting an accurate bill rate can make or break an independent professional, but determining what to factor into the final figure is a difficult process. 
+
+To help independents start out on the right foot, MBO Partners has created a one-of-a-kind Bill Rate Calculator &lt;http://www.mbopartners.com/billrate&gt;. This interactive tool will help you understand how profit margins, expenses and even insurance costs all contribute to your billable rate. Read More  &lt;http://www.mbopartners.com/billrate&gt;
+WHAT TYPE OF BILLING RATE IS RIGHT FOR ME?
+Each independent professional is different, so why should they use the same type of bill rate?  The truth is, many independents may not know about all of the available methods they can use to generate a fair rate. We share three different strategies for calculating an appropriate bill rate... Read More  &lt;http://www.mbopartners.com/independents-guide/plan/what-type-of-billing-rate-is-right-for-me&gt;
+FEATURED WEBINAR
+Painless Prospecting for Independent Consultants &lt;http://www.mbopartners.com/webinars/2014/painless-prospecting-independent-consultants&gt;
+Hear MBO CEO Gene Zaino walk you through setting your bill rate as a self-employed professional.
+SLIDESHOW
+Bill Rate Webinar Slides &lt;http://info.mbopartners.com/rs/mbo/images/How_To_Calculate_Your_Bill_Rate_Slides.pdf&gt;
+INFOGRAPHIC
+Top 3 Workforce Predictions 2014 &lt;http://www.mbopartners.com/state-of-independence/workforce-predictions-2014.html&gt;
+CONTACT US
+affiliate@mbopartners.com
+703.793.6014
+For more information, sign up &lt;http://info.mbopartners.com/AffiliateReferralProgram_apply.html&gt; for our Affiliate Referral program today.
+
+www.mbopartners.com
+© 2012 MBO Partners. 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171</textOnly>
+    <type>custom</type>
+</EmailTemplate>

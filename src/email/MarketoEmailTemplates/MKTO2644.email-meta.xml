@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>16MayWeb-Social-Media.WeMissedYouMay16</name>
+    <style>none</style>
+    <subject>Sorry We Missed you - Resources from our Social Media Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+You were missed at our  “How Solopreneurs Can Achieve ROI from Social Media&quot; webinar held on Thursday, May 16. Jennifer Abernethy, best-selling author and founder of Socially Delivered™ &amp; The Sales Lounge ®, explained how consultants could convert time spent on social media into postive returns for their business.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+       Recorded webinar &lt;http://www.mbopartners.com/webinar-how-solopreneurs-can-achieve-roi-social-media-marketing&gt;
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO-Social-Media-Webinar_5.16.13.pdf&gt;
+       Featured speaker Jennifer Abernethy website &lt;http://www.sociallydelivered.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

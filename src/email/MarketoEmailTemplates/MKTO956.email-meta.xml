@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Checking In (1328816706.0)</name>
+    <style>none</style>
+    <subject>RE: Checking In (1328816706.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Tom,
+ 
+You have given us everything we need. So the next step would be to introduce me to this client via email and then I can reach out via phone to get the contract process started. I am excited for you to run your first project through us!
+ 
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: Tom Glatt [mailto:tglatt@glattconsulting.com] 
+Sent: Thursday, February 09, 2012 12:07 PM
+To: Sara Conde
+Subject: Checking In
+ 
+Sara,
+ 
+Where are we in the process? I have a small ($2K) engagement I need to get rolling in the next few days. Will be a perfect start for the process given that this is a long-time client with a very simple deliverable.
+ 
+Tom
+ 
+-- 
+Thomas A. Glatt, Jr.
+Glatt Consulting, LLC
+Phone: (888) 217-5988, Ext. 801
+Online: www.glattconsulting.com 
+Email: tglatt@glattconsulting.com 
+Twitter: http://twitter.com/tglatt 
+LinkedIn: http://www.linkedin.com/in/tomglatt
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

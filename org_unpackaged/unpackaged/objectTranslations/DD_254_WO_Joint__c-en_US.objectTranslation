@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DD-254 WO Joint</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DD-254 WO Joints</value>
+    </caseValues>
+    <fields>
+        <label><!-- DD-254 --></label>
+        <name>DD_254__c</name>
+        <relationshipLabel><!-- DD-254 WO Joints --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Date Expired --></label>
+        <name>Date_Expired__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Order Expired WF --></label>
+        <name>Work_Order_Expired_WF__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Order Expired --></label>
+        <name>Work_Order_Expired__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Order --></label>
+        <name>Work_Order__c</name>
+        <relationshipLabel><!-- DD-254 WO Joints --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>DD-254 WO Joint Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- The work order must belong to the associate holding the security clearance. --></errorMessage>
+        <name>Clearance_Associate_matches_WO_Associate</name>
+    </validationRules>
+</CustomObjectTranslation>

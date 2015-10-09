@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The reminder email to go out to all groups. Garrett Zaino OBO Jaime Buckely 6/19/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>June12Web: LinkedIn.Invite 2</name>
+    <style>none</style>
+    <subject>LinkedIn Webinar Registration Reminder</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+ 
+ Don&apos;t forget, our webinar &quot;LinkedIn for Independent Consultants: 5 Steps to Enhance Your Profile &amp; Bring in More Clients&quot; will be held next Thursday, June 28th at 1pm ET.
+
+We&apos;ve invited LinkedIn expert, Melissa Washington &lt;http://info.mbopartners.com/June12Web-LinkedIn-Independent-Consultants.html&gt;, who typically charges over $90 per training session, to educate independent consultants and answer your questions about how to best use the LinkedIn network to find new clients.
+
+During this free, hour-long webinar you will learn how to...
+
+ - Compose a strong profile headline
+ - Connect to the right people
+ - Communicate your expertise
+ - Build the right group and company presence
+ - Gain more clients
+
+
+Register today! &lt;http://info.mbopartners.com/June12Web-LinkedIn-Independent-Consultants.html&gt;
+___________________________________
+The MBO Marketing Team
+t: 1-800-220-0469
+e: info@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

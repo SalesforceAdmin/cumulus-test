@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Email for your Agents (1324325008.0)</name>
+    <style>none</style>
+    <subject>Email for your Agents (1324325008.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Jason,
+ 
+Here is the email; please let me know as you begin to use it.  Feel free to edit as you would like.
+ 
+Thanks!
+ 
+Steve
+ 
+ 
+ 
+ 
+Dear [Agent(s)],
+ 
+We have had an on-going relationship with an organization by the name of MBO Partners for a few years now and I thought it would be a good time to re-communicate our partnership with them.  MBO Partners is a unique organization that caters specifically for self-employed workers.  If you are looking for a quick video to understand who they are, visit them here.  You may also navigate a few of the tools they have on their website by going directly to www.mbopartners.com.  
+ 
+Simply put, MBO Partners promotes they are a superior alternative to running your own LLC or SCorp.  They are a ‘plug and play’ infrastrucure for your real estate business. Here’s a quick summary of the value of using them over running your own entity.  Instead of submitting all your out of pocket business and medical expenses to your CPA, you can get the same tax benefit by submitting them to MBO Partners, here’s a quick list of the most common expenses their members submit to them. 
+ 
+Lastly, they provide true group benefits.  Medical, dental, LTD and even a 401k and Roth 401k plans that allow you to contribue as much as you may do today into your SEP IRA.  You can learn more about the specific benefits by going here.  
+ 
+If this email has stimulated some interest for you; the next step is to reach out to our personal point of contact at MBO Partners, Steven Arhancet.  You can easily book a time to chat with him by using his online schedule by going here. 
+ 
+Regards,
+ 
+[Insert your name]
+ 
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

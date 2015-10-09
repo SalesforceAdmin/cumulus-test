@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Trends Follow-up</name>
+    <style>none</style>
+    <subject>Consulting Trends Webinar Resources</subject>
+    <textOnly>{{lead.First Name:default=Registrant}},
+
+Thank you for registering for our July 18th webinar, The 5 Market Trends Independent Consultants Need to Know in 2013.
+
+Due to technical issues with our original webinar presenter, we have compiled top trends from five members of our executive leadership team. Each has specialized expertise, which we have combined in this webinar to for a diverse set of trends that apply specifically to independent consultants.
+
+Please find the slides and recording below, and email me if you want to ask our experts any questions. I will be sure to have your questions answered promptly.
+1. Webinar Recording
+2. Webinar Slide Deck
+ 
+Thanks, and look out for the August webinar invitenext week!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+ MBO Partners
+ 
+ t: 703-793-6368
+ e: webinar@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

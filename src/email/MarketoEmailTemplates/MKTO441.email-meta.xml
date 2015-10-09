@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1323793995.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1323793995.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Kevin,
+ 
+Link to our benefits: http://www.mbopartners.com/mbo-exec-group-benefits.  You’ll receive a second email with the link to set-up your online account in our system.  Once you finalize this upcoming new project; please let me know so we can get that client set-up in your business center; that will be the next step.
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners (1311713928.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners (1311713928.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     No problem at all, that’s great news.  I’ll send you the link so you can set-up your Business Center.  Once you have that set-up we just wait for the next contract you want to run through MBO.  Once you have this identified you would let me know and I can get that setup in your account.  Your account wouldn’t become officially activated until you started working under that project.
+ 
+Let me know if you have any other questions,
+ 
+Steve
+ 
+From: Rowland Gosling [mailto:rowlandg@gmdata.com] 
+Sent: Wednesday, July 20, 2011 3:40 PM
+To: Steve Arhancet
+Subject: RE: MBO Partners
+ 
+Sorry to rush off earlier. I like what I see and will share this with my wife tonight. I think we can do this.
+ 
+Best Regards,
+ 
+F. Rowland Gosling
+SQL Server DBA/Data Architect
+612-644-9752
+ 
+ 
+From: Steve Arhancet [sarhancet@mbopartners.com]
+Sent: Wednesday, July 20, 2011 1:34 PM
+To: Rowland Gosling
+Subject: MBO Partners
+Rowland,
+ 
+Enclosed are a few things we spoke about:
+ 
+1.       Estimate showing you what your income would look like running through MBO
+2.       Most common types of expenses you can submit for a deduction  
+3.       Bill Rate calculator to help you determine your rate: http://www.mbopartners.com/#billrate
+ 
+Again, our Service fee is 5% of the total amount that comes in from your clients whom you are using through MBO, that fee drops to 1.5% for every dollar after 125k and resets anniversary year of when you start.
+ 
+Regards,
+ 
+Steve
+ 
+Steven Arhancet
+Director of Associate Enrollment and Market Development
+O:703.793.6011 | M:540.560.8837 | F:703.793.6081
+13454 Sunrise Valley Drive #300 Herndon, VA 20171
+sarhancet@mbopartners.com
+www.mbopartners.com
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Information (1312494163.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Information (1312494163.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Jim &amp; Bob,
+ 
+It was a pleasure speaking with you today.  We covered a lot of ground for the time we spent together.  Enclosed are a few items that summarize our conversation.
+ 
+Items for your company
+·         Master Service Agreement that would be the contract between MBO Partners and your firm.
+o   http://info.mbopartners.com/rs/mbo/images/MBO MSA 11-30-10.doc
+·         Summary of the Value of using a program like MBO Partners
+o   http://info.mbopartners.com/rs/mbo/images/BPOA Small Business Sales Proposal JPC Partners.pdf
+·         When you send us new workers you will fill out this form:
+o   http://info.mbopartners.com/rs/mbo/images/MBO_SOW_091208.doc
+·         If you use us for invoicing and you have a new client, you fill out this form
+o   http://info.mbopartners.com/rs/mbo/images/MBO Corp_Client_Template_112008.doc
+ 
+Items for the Consultants who us:
+·         Link to the benefits offered to the consultants who are paid via W2 through MBO
+o   http://www.mbopartners.com/mbo-exec-group-benefits
+·         Example landing area that we use to educate new consultants you send
+o   http://www.mboenterprise.com/pdc
+ 
+I look forward to hearing from you.  Please let me know what your next questions are. As a courtesy I will follow up in a week.
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Webinar topic: The Top Three Questions to Ask if You&apos;re Thinking About Going Solo This is an email to invite participants to join the webinar discussion on Friday, January 28, 2012 with Aassia Haq and Sarah Conde.  Created by Whitney Downer, 1/25/12/</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>27Jan12Web:AreYouReadyToGoSolo.Jan12Webinar-TopThreeQuestionsGoingSolo</name>
+    <style>none</style>
+    <subject>MBO Partners Webinar: Are You Ready to Go Solo?</subject>
+    <textOnly>Dear {{lead.First Name:default=aspiring consultant}},
+
+
+Throughout our many years of working with consultants, we&apos;ve gained a lot of insight and knowledge about how to successfully transition to an independent work lifestyle. I&apos;d like to invite you to join our webinar this Friday as we discuss your readiness for a solo career. Join Aassia Haq, our CMO and Sara Conde, our Consultant Services Advisor as they discuss the top 3 questions to ask yourself before going solo. 
+
+
+Title: Are You Ready to Go Solo? The Top 3 Questions to Ask Yourself
+
+
+Date/Time: Friday, 1/27, at 12:30 PM EST
+
+
+So, the question remains, are YOU ready? Join us and find out. Register now for this webinar - https://www1.gotomeeting.com/register/319302273. 
+
+
+Read more about the webinar, our speakers and what you&apos;ll learn in our recent blog post, http://www.mbopartners.com/blog/top-three-questions-ask-if-you%E2%80%99re-thinking-about-going-solo.
+
+
+Steve
+
+
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

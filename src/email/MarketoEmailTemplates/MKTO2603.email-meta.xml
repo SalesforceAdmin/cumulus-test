@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>25AprilWeb-Presentations.Sorry We Missed</name>
+    <style>none</style>
+    <subject>Sorry We Missed You - Resources from our Presentations Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+You were missed at our  “Powerful Proposal Presentations: How to Influence Executives and Win the Project&quot; webinar held on Thursday, April 25. Dave Underhill, Presentation Expert and founder of Underhill Training and Development, explained how independent consultants can present effectively to executives and win the contract.
+Below you will find links to the webinar resources. We hope you find them informative:
+       Recorded webinar &lt;http://video.mbopartners.com/players/EphkN4xd-mMm4x1IW.html&gt;
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO-Powerful-Proposal-Presentations-Webinar.pdf&gt;
+       Webinar Q&amp;A with Dave Underhill &lt;http://www.mbopartners.com/blog/presenting-executives-webinar-qa-dave-underhill&gt;
+       Continue the Discussion on LinkedIn &lt;http://www.linkedin.com/groupItem?view=&amp;gid=71161&amp;type=member&amp;item=230287522&amp;qid=1cd59a89-54e1-4b9b-84b7-fb79411c151a&amp;trk=group_most_popular-0-b-ttl&amp;goback=%2Egmp_71161&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

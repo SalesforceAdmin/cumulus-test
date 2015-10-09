@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Sequestration Email</name>
+    <style>none</style>
+    <subject>Sequestration and Potential Impact on Client Projects</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+
+As you may know, sequestration &lt;http://www.fas.org/sgp/crs/misc/R41965.pdf&gt; has become an official federal mandate with imminent spending limitations across most U.S. government agencies. If your work is directly or indirectly supporting the U.S. government, these mandated budget cuts could impact your client’s ability to fund existing projects. 
+ 
+MBO Partners is on alert, paying special attention to any early warning signs from clients that could impact MBO Associates. In the event we learn of a potential “Stop Work Order” relative to any MBO projects, we will immediately notify each impacted Associate with the full details. As always, we are here for you, and your MBO Business Manager is ready to answer any questions you may have.
+
+Best regards,
+
+Gene Zaino
+President and CEO
+___________________________________
+MBO Partners
+
+t: 703-793-6000
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

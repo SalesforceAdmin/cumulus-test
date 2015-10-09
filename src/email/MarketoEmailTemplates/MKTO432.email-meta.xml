@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners / Information For The Workers (1323447073.0)</name>
+    <style>none</style>
+    <subject>MBO Partners / Information For The Workers (1323447073.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Ed,
+ 
+It was a pleasure speaking with you.  I’ve enclosed a few things as summary to our call:
+ 
+Link to our true group benefits: http://www.mbopartners.com/mbo-exec-group-benefits-medical-plan-2012Link to a video about How We Help Independent Consultants:http://www.youtube.com/watch?v=zKDzwSTmGv4&amp;hd=1
+Link to the most common types of non-billable expenses you can submit to us: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_List.pdfOur Full Expense Policy: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_Policy.pdf
+You may also look at some of the stories from indepdenents who use MBO Partners:http://info.mbopartners.com/meet-the-independents.html
+Enclosed is the contract that we would send to the client (assuming they don’t send us an agreement).  MBO MSA 11-30-10.docEnclosed is the agreement that is signed between MBO and the workers that you send over (this is signed online when they enroll in our system). Illustration of $75.00 an hour in TN 
+Next Steps:
+ 
+·         Click the link in the previous email to enroll online and set-up your team center; at the end of that process follow the instructions for completing the I9 form and fax the completed form back to me.
+·         Introduce me to the point of contact at the client so we can complete all the paperwork. 
+·         Introduce me to the worker once you have finalized the rate and scope of services; so that I can get them set-up and attached to your team center. 
+ 
+I will follow up with you as promised, if you have questions before then, feel free to schedule a convenient time using my online schedule: https://my.timedriver.com/C9CPC.
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

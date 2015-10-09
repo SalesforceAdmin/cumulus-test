@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This is the email that goes out to all associates explaining the upcoming redistribution</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Kelly redistribution</name>
+    <style>none</style>
+    <subject>An Important Update from Associate Services</subject>
+    <textOnly>Dear {{lead.First Name:default=Valued MBO Associate}},
+
+It could not be with more pleasure and excitement that I share with you some exciting new steps on the MBO Partners journey to even better serve our independent consultant associates and their key clients.
+
+Over the past few years, we’ve added thousands of new and interesting associates across the country. With our growth, we have uncovered opportunities to get even better at focusing on associate needs.
+
+Long in the planning, but being announced today, are some key changes that will affect you, but are designed to improve your experience with MBO Partners, and your customer service relationship with our Business Managers (BM’s).
+
+-  Starting this week, MBO Partners is focusing all business managers regionally, in order to better connect them to associates in a particular region and serve their unique local needs, a step also designed to build the base for better connecting peer associates in a region in the future for new work opportunities. While in the short term, this will mean that many of our associates will be assigned to new Business Managers, in the medium term, the changes will result in more personalized service and access offerings. It’s our vision to create a richer and more accessible network that begins with the regionalization of our BM’s today. 
+
+-  You will receive an email from your current business manager letting you know if she or he will connect you to a new BM and also letting you know that she or he is always available during the transition. Many BMs are being promoted into exciting new positions and training our next generation of managers alongside, so overall, I’ll share that the news is a part of an exciting MBO Partners growth story that ultimately creates bigger opportunities for each of you. 
+
+As a part of this change, I wanted to share that I, too, have a new title, a step that should signal where MBO Partners is going. I am heading a newly-created division, called Associate Services, and will be responsible for coordinating all the regions, their team leaders, and business managers, to assure they are responsive and attentive to your needs. Going forward, this new structure is a way to help ensure not just greater responsiveness, but also greater stability and consistency in the associate service experience.
+
+Please join me in transitioning our core customer service organization to better focus on the person we care about most: YOU.
+
+Thank you,
+
+Kelly Scherer
+___________________________________
+KELLY SCHERER
+Director of Associate Services
+MBO Partners
+ 
+t: 703.793.6025
+f: 703.793.6085
+e: kscherer@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

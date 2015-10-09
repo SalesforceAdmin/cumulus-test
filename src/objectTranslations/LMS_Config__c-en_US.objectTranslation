@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>LMS Config</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>LMS Config</value>
+    </caseValues>
+    <fields>
+        <label><!-- Service URL --></label>
+        <name>Service_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Use One Url --></label>
+        <name>Use_One_Url__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

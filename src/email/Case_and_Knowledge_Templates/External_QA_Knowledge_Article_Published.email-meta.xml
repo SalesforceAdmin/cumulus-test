@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This notification lets a record creator them know their submitted article is now published.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>External Q&amp;A : Knowledge Article Published</name>
+    <style>none</style>
+    <subject>{!External_QA__kav.ArticleNumber}: {!External_QA__kav.Title} has been published as {!External_QA__kav.ValidationStatus}</subject>
+    <type>text</type>
+</EmailTemplate>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Supporting Vendor Documentation (1322510991.0)</name>
+    <style>none</style>
+    <subject>Supporting Vendor Documentation (1322510991.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          James,
+ 
+Enclosed are a few items we spoke about regarding MBO and our incorporation status- things that a lender or a client may want.  I was incorrect about NJ, I think they re-incorporated in VA once we moved down from NJ (we were first started back in 1986).  We recently re-branded for marketing purposes, our old name is ‘mybizoffice’, hence ‘MBO’. 
+ 
+ 
+I’ve also enclosed our W9 and Wire and payment info. Still looking into the fee associated with international receipts.  I’ll let you know as soon as I know.
+ 
+Regards,
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

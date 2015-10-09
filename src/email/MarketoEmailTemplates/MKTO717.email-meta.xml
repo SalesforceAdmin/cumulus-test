@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Call Follow up. (1326823425.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Call Follow up. (1326823425.0)</subject>
+    <textOnly>90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Gary,
+ 
+It was a pleasure speaking with you today.  I’ve enclosed a few resources that you might find helpful in finding your next project.  
+ 
+ We have created an index of past webinars on topics specifically catered for independent consultants.  You can view our index by going here.   
+ In addition we have a 2012 Webinar track that will cover everything to do with working independently.  We have three tracks, you can sign up to receive notifications when new webinars are scheduled by going here. 
+ Lastly, you can view all the information we spoke over the phone by going here. 
+If you have questions before then, feel free to schedule a convenient time for you using my online schedule.
+ 
+Best of luck finding your next contract,
+ 
+Sara
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+ 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

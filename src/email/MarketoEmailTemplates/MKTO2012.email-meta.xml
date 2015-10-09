@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>I-9 (1348240859.0)</name>
+    <style>none</style>
+    <subject>I-9 (1348240859.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Lyn, My name is Sara Conde and I am helping out Nicolette while she is out of the office.  I am sorry you are having trouble with the notary, and I would suggest just trying a different one. We do have a list of approved notaries here &lt;http://www.mbopartners.com/notaries&gt; if you need help knowing where to go.  Please let me know if you have any questions while Nicolette is out.
+Thanks!Sara ___________________________________ SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; If you are in the DC area please check out our upcoming networking event! &lt;http://events.r20.constantcontact.com/register/event?oeidk=a07e6cqaqtk0702919f&amp;llr=kp5x6qkab&gt;  Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.    From: MTRandolph@aol.com &lt;mailto:MTRandolph@aol.com&gt;
+Sent: Thursday, September 20, 2012 7:02:44 PM (UTC-05:00) Eastern Time (US &amp; Canada)
+To: Nicolette Taylor
+Subject: Re: FW:I told the notary that she needed to sign in as in the example.  She said that because it is not for Arizona she&apos;s required to sign on the stamp.  (Didn&apos;t make sense to me, but she insisted.)  She refused to sign again where I requested. I&apos;ll try another notary tomorrow. Lyn In a message dated 9/20/2012 3:13:12 P.M. US Mountain Standard Time, ntaylor@mbopartners.com &lt;mailto:ntaylor@mbopartners.com&gt; writes:Hi Lyn, I received your fax, but unfortunately we cannot accept the I9 as it was signed.  Section 2 needs to be filled out and the notary that signed your document signed outside of that section, therefore the document cannot be accepted as is.  I have attached a clean version of the document along with an example page that shows how the document needs to be completed.  Your signature section was perfect, just the notaries part needs to be corrected.  The document is password protected with the last 4 digits of your SSN. Thank you, and let me know if you have any questions about this!Nicolette From: The UPS Store 5360 [mailto:ups5360@hotmail.com] &lt;mailto:[mailto:ups5360@hotmail.com]&gt; 
+Sent: Thursday, September 20, 2012 3:26 PM
+To: Nicolette Taylor; mtrandolph@aol.com &lt;mailto:mtrandolph@aol.com&gt;
+Subject:   </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,328 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=ProgId content=Word.Document><meta name=Generator content="Microsoft Word 14"><meta name=Originator content="Microsoft Word 14"><link rel=File-List href="cid:filelist.xml@01CD5F8C.0EFB9000"><link rel=Edit-Time-Data href="cid:editdata.mso"><!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+</o:OfficeDocumentSettings>
+</xml><![endif]--><link rel=themeData href="~~themedata~~"><link rel=colorSchemeMapping href="~~colorschememapping~~"><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:SpellingState>Clean</w:SpellingState>
+<w:GrammarState>Clean</w:GrammarState>
+<w:TrackMoves/>
+<w:TrackFormatting/>
+<w:EnvelopeVis/>
+<w:ValidateAgainstSchemas/>
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF/>
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:DoNotExpandShiftReturn/>
+<w:BreakWrappedTables/>
+<w:SplitPgBreakAndParaMark/>
+<w:EnableOpenTypeKerning/>
+</w:Compatibility>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math"/>
+<m:brkBin m:val="before"/>
+<m:brkBinSub m:val="&#45;-"/>
+<m:smallFrac m:val="off"/>
+<m:dispDef/>
+<m:lMargin m:val="0"/>
+<m:rMargin m:val="0"/>
+<m:defJc m:val="centerGroup"/>
+<m:wrapIndent m:val="1440"/>
+<m:intLim m:val="subSup"/>
+<m:naryLim m:val="undOvr"/>
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true" DefSemiHidden="true" DefQFormat="false" DefPriority="99" LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+<w:LsdException Locked="false" Priority="9" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+<w:LsdException Locked="false" Priority="10" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+<w:LsdException Locked="false" Priority="11" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+<w:LsdException Locked="false" Priority="22" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+<w:LsdException Locked="false" Priority="20" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+<w:LsdException Locked="false" Priority="59" SemiHidden="false" UnhideWhenUsed="false" Name="Table Grid"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+<w:LsdException Locked="false" Priority="1" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 1"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+<w:LsdException Locked="false" Priority="34" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+<w:LsdException Locked="false" Priority="29" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+<w:LsdException Locked="false" Priority="30" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 2"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 3"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 4"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 5"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 6"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="19" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+<w:LsdException Locked="false" Priority="21" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+<w:LsdException Locked="false" Priority="31" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+<w:LsdException Locked="false" Priority="32" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+<w:LsdException Locked="false" Priority="33" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+<w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+</w:LatentStyles>
+</xml><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-ansi-font-size:11.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#1F497D;
+	mso-themecolor:dark2;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 10]><style>/* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style><![endif]--><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>Great will do!<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><a name="_MailOriginal"><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>From:</span></b></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'> Joan Trant [mailto:joantrant@gmail.com] <br><b>Sent:</b> Wednesday, July 11, 2012 5:21 PM<br><b>To:</b> Sara Conde<br><b>Subject:</b> Re: I-9<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:12.0pt'><span style='mso-bookmark:_MailOriginal'>Sara, I'll get the mail out to you and Sebastian.&nbsp; Do set up reporting on an hourly basis - thanks!<o:p></o:p></span></p><div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'>On Wed, Jul 11, 2012 at 3:10 PM, Sara Conde &lt;</span><a href="mailto:sconde@mbopartners.com" target="_blank"><span style='mso-bookmark:_MailOriginal'>sconde@mbopartners.com</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'>&gt; wrote:<o:p></o:p></span></p><div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Hi Joan,</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Thank you so much. Yes, an email would suffice, please send it and I will attach to my system. Also, do you want to bill in the unit of hours or in the unit of days? Right now I have it set to bill $500 a day but if we are going to work of $70 per hour I am assuming you will want to track your hours and bill that way.</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Just let me know, either is fine with me. </span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><br>Thanks!</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Sara</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-outline-level:1'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Joan Trant [mailto:</span></span><a href="mailto:joantrant@gmail.com" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>joantrant@gmail.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>] <br><b>Sent:</b> Wednesday, July 11, 2012 11:05 AM</span><o:p></o:p></span></p><div><div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><br><b>To:</b> Sara Conde<br><b>Subject:</b> Re: I-9<o:p></o:p></span></p></div></div><div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Very sorry for the oversight on the I-9.&nbsp; Here you go...finally!<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>There is one final step before we can process payroll: confirming the hourly payment rate.&nbsp;&nbsp;Sebastian and I have been discussing whether the hourly rate should be $70 or $62.50; we are basically determining if the daily rate is divided by seven hours or eight.&nbsp; <o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>In my work with consultants in our field, they quote a seven hour day.&nbsp; MicroRate's standard consultant contract is $500 for an eight hour day.<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Sebastian has agreed to the $70 rate for the next two quarters, and then as sales commission opportunities kick in, he would like to reduce the hourly rate to $62.50, to bring our contract back in line with MicroRate's standard arrangement.&nbsp; I have agreed to the $70 rate, and to revisit this discussion in six months.<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>As a result,&nbsp;Sebastian prefers to&nbsp;maintain the&nbsp;Master Agreement&nbsp;quoting a daily rate with an email that confims the current hourly rate (which may or may not change, pending our ongoing discussions).<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Would an email&nbsp;to you and cc'g Sebastian that confirms the $70/hour payment rate be sufficient for your documentation?&nbsp;&nbsp;Pls advise and if so&nbsp;I'll send that email next.&nbsp; <o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Thanks,<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Joan<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>-- <o:p></o:p></span></p><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Joan Trant<br>M </span><a href="tel:%2B1%20917%20763%206361" target="_blank"><span style='mso-bookmark:_MailOriginal'>+1 917 763 6361</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>skype: joan.trant<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:12.0pt'><span style='mso-bookmark:_MailOriginal'></span><a href="mailto:joantrant@gmail.com" target="_blank"><span style='mso-bookmark:_MailOriginal'>joantrant@gmail.com</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p></div></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>On Mon, Jul 9, 2012 at 6:05 PM, Sara Conde &lt;</span><a href="mailto:sconde@mbopartners.com" target="_blank"><span style='mso-bookmark:_MailOriginal'>sconde@mbopartners.com</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'>&gt; wrote:<o:p></o:p></span></p><div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Hi Joan,</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Documents deleted. Could you send over the I-9 once more? I need you to date next to your signature in section one.</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Thanks!</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Sara</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-outline-level:1'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Joan Trant [mailto:</span></span><a href="mailto:joantrant@gmail.com" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>joantrant@gmail.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>] <br><b>Sent:</b> Monday, July 09, 2012 4:31 PM<br><b>To:</b> Sara Conde<br><b>Subject:</b> Re: I-9</span><o:p></o:p></span></p><div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Sara, welcome back...hope your mini-holiday was wonderful.&nbsp; <o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>I only have Adobe Reader, not Acrobat, and therefore cannot do a password protection&nbsp;for the I-9.&nbsp; I have attached&nbsp;it and my passport copy...pls delete&nbsp;this message and attached&nbsp;docs&nbsp;from your email inbox and&nbsp;from your delete folder, and request other handlers to download them and delete them from any other online locations&nbsp;immediately.<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Thanks,<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Joan<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Joan Trant<br>M </span><a href="tel:%2B1%20917%20763%206361" target="_blank"><span style='mso-bookmark:_MailOriginal'>+1 917 763 6361</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>skype: joan.trant<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'></span><a href="mailto:joantrant@gmail.com" target="_blank"><span style='mso-bookmark:_MailOriginal'>joantrant@gmail.com</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p></div><p class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:12.0pt'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>On Mon, Jul 9, 2012 at 11:26 AM, Sara Conde &lt;</span><a href="mailto:sconde@mbopartners.com" target="_blank"><span style='mso-bookmark:_MailOriginal'>sconde@mbopartners.com</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'>&gt; wrote:<o:p></o:p></span></p><div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Thank you Nicolette.</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Joan- let me know if you have any questions.</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Thanks all,</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Sara</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";color:#999999'>___________________________________</span></span><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#A00B10'> </span></b><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#A00B10'>SARA CONDE</span></b><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'>Consultant Services Advisor </span></b><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'>MBO Partners</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'>t:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'> </span></span><a href="tel:703.793.6028" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif"'>703.793.6028</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'>f:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'> </span></span><a href="tel:703.793.6068" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif"'>703.793.6068</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'>e:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'> </span></span><span style='mso-bookmark:_MailOriginal'></span><a href="mailto:sconde@mbopartners.com" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-bidi-font-family:Calibri;color:#353433'>sconde@mbopartners.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#353433'>w:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";color:#1F497D'> </span></span><span style='mso-bookmark:_MailOriginal'></span><a href="http://www.mbopartners.com/" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-bidi-font-family:Calibri;color:#353433'>www.mbopartners.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:7.0pt;font-family:"Georgia","serif";color:#999999'>Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.&nbsp; If you have received this email in error please notify </span></span><span style='mso-bookmark:_MailOriginal'></span><a href="mailto:postmaster@mbopartners.com" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:7.0pt;font-family:"Georgia","serif";mso-bidi-font-family:Calibri;color:#999999'>postmaster@mbopartners.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:7.0pt;font-family:"Georgia","serif";color:#999999'> and permanently delete the e-mail and files.</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";color:#999999'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><div><div style='border:none;border-top:solid windowtext 1.0pt;padding:3.0pt 0in 0in 0in;border-color:currentColor'><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-outline-level:1'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Nicolette Taylor <br><b>Sent:</b> Thursday, July 05, 2012 4:28 PM<br><b>To:</b> </span></span><a href="mailto:joantrant@gmail.com" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>joantrant@gmail.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'><br><b>Cc:</b> Sara Conde<br><b>Subject:</b> FW: I-9</span><o:p></o:p></span></p></div></div><div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Hi Joan,</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>My name is Nicolette and I am backing up Sara while she is out of the office until Monday.&nbsp; To answer your questions, faxes get routed to our email directly.&nbsp; What I would suggest is scanning in the document, and password protecting it with the last 4 of your SSN.&nbsp; If you would like to wait until Sara is back in the office to work with her on this, she will be back on Monday and you and her can discuss your options.&nbsp; </span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Please let me know if you have any additional questions and if there is anything I can help you with I would be happy to assist you while Sara is out.</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Have a great day,</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Nicolette</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;</span><o:p></o:p></span></p><div><div style='border:none;border-top:solid windowtext 1.0pt;padding:3.0pt 0in 0in 0in;border-color:currentColor'><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-outline-level:1'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Sara Conde <br><b>Sent:</b> Thursday, July 05, 2012 1:14 PM<br><b>To:</b> Nicolette Taylor<br><b>Subject:</b> FW: I-9</span><o:p></o:p></span></p></div></div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>&nbsp;</span></b><o:p></o:p></span></p></div><div class=MsoNormal align=center style='text-align:center'><span style='mso-bookmark:_MailOriginal'><hr size=3 width="100%" align=center></span></div><p class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:12.0pt;mso-outline-level:1'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Joan Trant<br><b>Sent:</b> Thursday, July 05, 2012 1:13:29 PM (UTC-05:00) Eastern Time (US &amp; Canada)<br><b>To:</b> Sara Conde<br><b>Subject:</b> I-9</span><o:p></o:p></span></p><div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Hi, Sara!<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>I got the notary signature on the I-9 and want to&nbsp;send it to you. Asyo know, I'm sensitive about my SS# being on a doc floating in cyberspace.&nbsp; Two questions:<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp; - Does your fax convert to an email?&nbsp; If not, I'll fax the doc.&nbsp; If your faxes get delivered to you as email, it doesn't make sense to send the I-9 via fax.<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;&nbsp; - Are you in the office today?&nbsp; If it makes sense to fax the form, I don't want&nbsp;it sitting by the fax machine and possibley getting misplaced.&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Thanks,<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Joan<br>-- <o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>Joan Trant<br>M </span><a href="tel:%2B1%20917%20763%206361" target="_blank"><span style='mso-bookmark:_MailOriginal'>+1 917 763 6361</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>skype: joan.trant<o:p></o:p></span></p></div><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'></span><a href="mailto:joantrant@gmail.com" target="_blank"><span style='mso-bookmark:_MailOriginal'>joantrant@gmail.com</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p></div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div></div></div></div></div></div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div></div></div></div></div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><br><br clear=all style='mso-special-character:line-break'><o:p></o:p></span></p><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'>&nbsp;<o:p></o:p></span></p></div></div></div></div></div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><br><br clear=all><br>-- <o:p></o:p></span></p><div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'>Joan Trant<br>M +1 917 763 6361<o:p></o:p></span></p></div><div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'>skype: joan.trant<o:p></o:p></span></p></div><div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'></span><a href="mailto:joantrant@gmail.com" target="_blank"><span style='mso-bookmark:_MailOriginal'>joantrant@gmail.com</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p></div><span style='mso-bookmark:_MailOriginal'></span><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>

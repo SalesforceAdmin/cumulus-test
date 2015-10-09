@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p>{{lead.First Name:default=Consultant}},</p>
+<p><span>We'd like to notify you of a breakfast workshop for consultants in Tyson&rsquo;s Corner on March 13th.</span></p>
+<p><span>It&rsquo;s called &ldquo;Same Rain, Bigger Drops&rdquo; and is based on an extremely popular speech given at&nbsp;<em>Consulting Magazine&rsquo;s</em>&nbsp;Consulting Summit a few weeks ago.</span></p>
+<p><span>The breakfast workshop is free, and includes breakfast at the Ritz Carlton. (Well, almost free. To register, you&rsquo;re asked to donate $30 to Make-A-Wish, which is less than the cost of breakfast at the Ritz!). You can register at this link:&nbsp;<a href="http://nynen.com/biggerdrops-va"><span>http://nynen.com/biggerdrops-va</span></a></span></p>
+<p>If you have any questions, feel free to reply to this email!</p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span><br><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">MBO Partners</span></strong><br><br><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong> &nbsp;<span style="color: #353433; font-family: 'Georgia','serif';">703-793-6000</span><br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong> <span style="color: #353433; font-family: 'Georgia','serif';">communications@mbopartners.com</span><br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong> <a href="http://www.mbopartners.com/"><span style="font-family: 'Georgia','serif'; color: #353433;">www.mbopartners.com</span></a></div>
+</body>
+</html>

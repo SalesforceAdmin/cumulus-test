@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: I forgot -- quick question (1325636774.0)</name>
+    <style>none</style>
+    <subject>RE: I forgot -- quick question (1325636774.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Russell,
+ 
+Sorry for the late response; been buried since the break.  See my answers below.
+ 
+Steve
+ 
+From: russell.klein.101@gmail.com [mailto:russell.klein.101@gmail.com] On Behalf Of Russell Klein
+Sent: Friday, December 30, 2011 3:43 PM
+To: Steve Arhancet
+Subject: I forgot -- quick question
+ 
+Steve,
+ 
+In terms of client management...
+- what did we we talk about, when, what&apos;s next, etc.
+ 
+As soon as you secure your first engagement, you would simply introduce me to the point of contact at the client to complete the paperwork once you’ve negotiated the compensation 
+ 
+ 
+Do you have a recommendation of software?
+ 
+You can use the MBO system to do everything; no need to purchase any software.
+ 
+Is that all handled by the MBO dashboard/interface?
+ 
+If so, what happens if someone leaves -- can they export their client data to something transportable??
+ 
+Yes, you can export to different file formats at anytime.
+ 
+Russell
+ 
+ 
+ 
+ 
+ 
+_______________________________________
+Russell Klein, LEED AP
+President, Russell Klein and Associates, LLC
+http://about.me/RussellKlein101
+                    
+www.RussellKleinAssociates.com
+
+
+ 
+ 
+No virus found in this message.
+Checked by AVG - www.avg.com
+Version: 2012.0.1901 / Virus Database: 2109/4712 - Release Date: 12/30/11</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Jun25Webinar-Compliance.Invite 2</name>
+    <style>none</style>
+    <subject>Are you sure you vetted that IC properly?</subject>
+    <textOnly>Do you know the number one trigger for an IC Misclassification Audit? 
+If you are responsible for how your company engages independent consultants, freelancers or small service providers, join our webinar designed for Compliance Officers Tuesday, June 25 at 1 p.m. &lt;http://info.mbopartners.com/Jun25Webinar-Compliance.html&gt;
+Listen to Dave Cassar, VP with the MBO Partners Vendor Advisory Service Team, as he gives you the insights you need to accurately assess your ICs. In addition, get tips from Lonnie Goldman, a senior General Counsel from Silicon Valley, as he speaks candidly about how he has guided several companies dependent on this expert talent.
+ If you want to build a good defense file that protects your company and builds precautions to avoid the number one trigger for IC Misclassification, register today &lt;http://info.mbopartners.com/Jun25Webinar-Compliance.html&gt;.
+___________________________________
+MBO Enterprise Solutions
+t: 1-800-220-0469
+e: sales@mboenterprise.com &lt;mailto:sales@mboenterprise.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

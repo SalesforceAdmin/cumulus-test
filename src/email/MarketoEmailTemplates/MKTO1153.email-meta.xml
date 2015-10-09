@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email that goes out to those who registered but did not attend. Garrett Zaino. 4/2/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>30Mar12Web: Boomer Summit.We missed you</name>
+    <style>none</style>
+    <subject>We missed you at the ROI in You webinar!</subject>
+    <textOnly>Hello {{lead.First Name:default=Sir/Madam}},
+
+Sorry you were not able to attend our webinar, {{my.title:default=edit me}} on {{my.date:default=edit me}}. For your convenience, I am providing you with the recorded webinar and the slides &lt;http://www.mbopartners.com/roi-you-how-baby-boomers-can-cash-build-new-entrepreneurial-business-careers&gt;. I hope you find the content informative and relevant.
+
+In addition, I encourage you to take our quiz to uncover whether you are ready to go solo. If you would like to read the stories of current Boomer Independents, please visit our Meet the Independents &lt;http://info.mbopartners.com/are-you-ready-to-go-solo-quiz.html&gt; site.
+
+I am also proud to provide you with a copy of our Boomer study &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Boomer_Report_Final.pdf&gt; that was released today.
+
+Make sure to join the rest of our webinar series by signing up &lt;http://info.mbopartners.com/2012SeriesSignUp.html&gt; for more information.
+
+Regards,
+
+Gene</textOnly>
+    <type>custom</type>
+</EmailTemplate>

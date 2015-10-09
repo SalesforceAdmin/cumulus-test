@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>25AprilWeb-Presentations.Invite 1</name>
+    <style>none</style>
+    <subject>Webinar: Presenting to Executive Clients</subject>
+    <textOnly>On April 25 at 1 p.m. ET, we will hold a webinar entitled &quot;Powerful Proposal Presentations: How to Influence Executives and Win the Project &lt;http://info.mbopartners.com/25AprilWebPresentations_RegistrationPage.html&gt;.&quot;
+
+
+As an independent consultant, you know the challenge of delivering your proposal to a group of executives when your business is relying on your presentation.
+ 
+Webinar speaker and presentation expert Dave Underhill has over 20 years&apos; experience training clients such as Microsoft, Nike and Verizon on how to deliver clear, concise and compelling presentations. He will provide insight into the executive mindset, helping you break through to executives during proposal presentations.
+
+Register today &lt;http://info.mbopartners.com/25AprilWebPresentations_RegistrationPage.html&gt; to sharpen your skills and build the confidence you need to seal the deal.
+___________________________________
+MBO Partners
+ 
+ t: 703-793-6000
+ e: webinar@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

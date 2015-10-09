@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ExecUNet.Execunet 2</name>
+    <style>none</style>
+    <subject>MBO Bill Rate Webinar Resources</subject>
+    <textOnly>{{lead.First Name:default=Executive}},
+Thank you for requesting more information after our  How Much Could You Charge? webinar. We created this resource guide &lt;http://info.mbopartners.com/rs/mbo/images/Bill-rate%20Articles-Cover-FINAL.pdf&gt; that includes more information on MBO Partners and additional  in-depth educational resources covering bill rate topics. 
+We have also added you to our Independent Consulting Brief (monthly newsletter packed with education, tips and resources) and Independent Consultant Webinar Series email lists.
+
+If you have any questions, or would simply like to learn more about how MBO can help you along your journey to becoming self-employed, please contact me at any time by email. You can also easily schedule a time for us to connect via my online schedule by going here: {{lead.EM TTLink:default=edit me}}
+
+Thanks, and I look forward to hearing from you!
+___________________________________
+Gene Zaino
+President &amp; CEO
+ MBO Partners
+
+ e: gzaino@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

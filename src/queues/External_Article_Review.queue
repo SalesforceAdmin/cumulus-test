@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <name>External_Article_Review</name>
+    <queueSobject>
+        <sobjectType>KnowledgeArticleVersion</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>lmscons__Assignments_Results__c</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>lmsilt__Assignment_Process__c</sobjectType>
+    </queueSobject>
+</Queue>

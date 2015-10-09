@@ -1,0 +1,348 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=ProgId content=Word.Document><meta name=Generator content="Microsoft Word 14"><meta name=Originator content="Microsoft Word 14"><link rel=File-List href="cid:filelist.xml@01CEF113.D442E6F0"><link rel=Edit-Time-Data href="cid:editdata.mso"><!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+</o:OfficeDocumentSettings>
+</xml><![endif]--><link rel=themeData href="~~themedata~~"><link rel=colorSchemeMapping href="~~colorschememapping~~"><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:Zoom>90</w:Zoom>
+<w:SpellingState>Clean</w:SpellingState>
+<w:GrammarState>Clean</w:GrammarState>
+<w:TrackMoves/>
+<w:TrackFormatting/>
+<w:EnvelopeVis/>
+<w:ValidateAgainstSchemas/>
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF/>
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:DoNotExpandShiftReturn/>
+<w:BreakWrappedTables/>
+<w:SplitPgBreakAndParaMark/>
+<w:EnableOpenTypeKerning/>
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math"/>
+<m:brkBin m:val="before"/>
+<m:brkBinSub m:val="&#45;-"/>
+<m:smallFrac m:val="off"/>
+<m:dispDef/>
+<m:lMargin m:val="0"/>
+<m:rMargin m:val="0"/>
+<m:defJc m:val="centerGroup"/>
+<m:wrapIndent m:val="1440"/>
+<m:intLim m:val="subSup"/>
+<m:naryLim m:val="undOvr"/>
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true" DefSemiHidden="true" DefQFormat="false" DefPriority="99" LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+<w:LsdException Locked="false" Priority="9" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+<w:LsdException Locked="false" Priority="10" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+<w:LsdException Locked="false" Priority="11" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+<w:LsdException Locked="false" Priority="22" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+<w:LsdException Locked="false" Priority="20" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+<w:LsdException Locked="false" Priority="59" SemiHidden="false" UnhideWhenUsed="false" Name="Table Grid"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+<w:LsdException Locked="false" Priority="1" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 1"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+<w:LsdException Locked="false" Priority="34" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+<w:LsdException Locked="false" Priority="29" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+<w:LsdException Locked="false" Priority="30" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 2"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 3"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 4"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 5"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false" UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false" UnhideWhenUsed="false" Name="Light List Accent 6"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false" UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false" UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false" UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false" UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false" UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="19" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+<w:LsdException Locked="false" Priority="21" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+<w:LsdException Locked="false" Priority="31" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+<w:LsdException Locked="false" Priority="32" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+<w:LsdException Locked="false" Priority="33" SemiHidden="false" UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+<w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+</w:LatentStyles>
+</xml><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#1F497D;
+	mso-themecolor:dark2;
+	font-weight:normal;
+	font-style:normal;}
+span.EmailStyle21
+	{mso-style-type:personal-reply;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#1F497D;
+	mso-themecolor:dark2;
+	font-weight:normal;
+	font-style:normal;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 10]><style>/* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style><![endif]--><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'><div class=WordSection1><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>Hi Sandeep,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>I hope you are doing well, just a friendly reminder to book a call my </span><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";color:#1F497D;mso-themecolor:dark2'>online schedule by</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'> </span><span style='font-family:"Arial","sans-serif"'><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/1gwVMM7QNF1Qu0w45v6WMqj%5FizvFaIvmuLNwRvjqnZ8m%5FG54SOHLPGnBi9xkJsN3MM%2DLRFA0PZIklSpVHfrGdbFuov9RGhfnQR%5F9kfPWQqRaIr9Viu025oKV%5FWoX%2D%2DSrtmiUMx8KVXdIUTOsX5gwtWW3J8EUdxawy3noZLN7igo8p5sN5aOfb%2DC%2DrSWV923syBvYEgcvztaD%5F13uVYNCsvJY%2DhQCywI1aurdygLi%2DrkWhyE57%2D1njA1s2epRGNNL4RCfagXI85bhY%5F5LQJCjg%2DjbqKwDQjFu34QcTFSDbAmXXoa8bjJJoj7doTQxEGhmKClZHL1rxzaIvHl0Tr4%5FVBCkrCIb%5FWt52%5Fxr6qXcsH6Lan69FhGnsTOemR2QIakW9l6ewvR06wGSZCXA%2D%5FhkVFKUXaWP%5F0y2dbiI6WUkRPhiRNgbKLDE3%2D%5FkkPok9i7CD1eCx8TUSzolFPdG9vfFu8DovOGum1CFlWtMiRlGDBdawhbtXaqVOw8N6JDVm%2DT416KmhRMgoCFYS24BrQ7OA9kEvHyBDcnV6AzedSCZ1ICwxWnQXVOA4zP1rXL0Q5U99QfDF6iiXaSI7aEr0X%2DgKkPrRKOtRAnq5ZY1nweatBetc6MIUdb3ANL3Z7V6V7m6I063%2DsYRVwAus7Ce81UJF0ZSCX8uBF5AjO2mB786zF2PluRc%5FQ76Rttc1KDDpuljk%2DrbXn6d0VmVuV4Lwc879JRPq%2Dzg3RnNy9NIEBtbqsEBsDVVIZxz6koFdLdobPE7c8QmixlAium7fX3VK8qZ56nBB7mi%2DESPSgnSNr22OCExBuf2pHfGs06pG%2D7EYl2SddFfcDgsPYkQWbwmMGi6FTGent7vOsX6NtqZxjFvj0ZeUy%5FsVQOy22IrYBJGaUUtHc3ENvGRW42DS9Ex6IBpqzWV7TyoCnEXlfU6JGXw4hWF6stOW9fuJGy7jkV23x3tkqRKGoZRBGGQNLaZ7LCC3YBPPNAQk7647ULk4oBZynmIkkKlTIlWpZb2fPO%2DKJyC0sZ8hgA4RpurfBpFGzpaUjBLZ3bHbbcF0I4o%2DakiwctXpkSHwkyhzdj4yIvFrPKzfI4m7EQ5Jfw4K8g%5Fdrsvmq5ZIatAyyG%5Fx7yvaOhhJeAFOfq5WGo4MWqaToFHphcpM8Pc3P6teIusLCymubiW1a5SpXEuNKX6%5FWzreJvvg2tt9A0%2D82lmAbb%2DAX3C6bEz1ByWqHfIZxGROCpMNHtn93qbN8Hu1W%2D8A0iEKolzf9iTlqK%2DIxH7VYEYHQSIT4ImVuWsMMc7TUr9XwbPx%5F0ujYo4eZTWp9yHXzSbAoTWwU9H8qhXsBdnfhh3zIWYWrHZNChtzEOApkQCRvicQZGBNF1O03Ep%5FvnrxiAjctti%5FGlmFikojt0pyRtLZhlWxej10zlQdcoCTLBUFLmiZ2Z6yC2n0GE1QRI19zU5jm%2D5Hsu7b92dDuuFkpK4v5rMLLrNMC8ILCrlQ64dwRtIdEpYPSpoGv3w%5FlUkYCag4ktUYiyFxCIokErNX1Q1OUE3lOHZbyZVeYcPq%5FtseKMm6TqFpd3Gg22HH%2DBd9byfsDqb5T5HRXTbPyzYjjBF1t" target="_blank"><span style='font-size:10.0pt'>going here</span></a></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'> </span><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>when you are ready.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>Thanks!<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>Sara<o:p></o:p></span></p><div><p class=MsoNormal><a name="_MailAutoSig"><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#999999;mso-no-proof:yes'>___________________________________</span></a><span style='mso-bookmark:_MailAutoSig'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#A00B10;mso-no-proof:yes'> <o:p></o:p></span></b></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#A00B10;mso-no-proof:yes'>SARA CONDE<o:p></o:p></span></b></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><b style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>Consultant Services Advisor <o:p></o:p></span></b></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>MBO Partners<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>t:</span></b></span><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'> 703.793.6028<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>f:</span></b></span><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'> 703.793.6068<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>e:</span></b></span><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'> </span></span><span style='mso-bookmark:_MailAutoSig'></span><a href="mailto:sconde@mbopartners.com"><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>sconde@mbopartners.com</span></span><span style='mso-bookmark:_MailAutoSig'></span></a><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'><o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>w:</span></b></span><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-no-proof:yes'> </span></span><span style='mso-bookmark:_MailAutoSig'></span><a href="http://www.mbopartners.com/"><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>www.mbopartners.com</span></span><span style='mso-bookmark:_MailAutoSig'></span></a><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'><o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'>We&#8217;ve got some serious perks you&#8217;re eligible to win when you </span></span><span style='mso-bookmark:_MailAutoSig'></span><a href="http://referral.mbopartners.com/referral-program?r=conde"><span style='mso-bookmark:_MailAutoSig'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'>refer a friend</span></span><span style='mso-bookmark:_MailAutoSig'></span></a><span style='mso-bookmark:_MailAutoSig'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'> to MBO Partners! Ask me about them.</span></span><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'><o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><span style='font-size:7.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#999999;mso-no-proof:yes'>Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.&nbsp; If you have received this email in error please notify </span></span><span style='mso-bookmark:_MailAutoSig'></span><a href="mailto:postmaster@mbopartners.com"><span style='mso-bookmark:_MailAutoSig'><span style='font-size:7.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#999999;mso-no-proof:yes'>postmaster@mbopartners.com</span></span><span style='mso-bookmark:_MailAutoSig'></span></a><span style='mso-bookmark:_MailAutoSig'><span style='font-size:7.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#999999;mso-no-proof:yes'> and permanently delete the e-mail and files.<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailAutoSig'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;color:#999999;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p></div><span style='mso-bookmark:_MailAutoSig'></span><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=MsoNormal><a name="_MailOriginal"><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>From:</span></b></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'> Sara <span class=GramE>Conde <br><b>Sent</b></span><b>:</b> Friday, November 22, 2013 5:28 PM<br><b>To:</b> 'Sandeep <span class=SpellE>Shenoy</span>'<br><b>Subject:</b> RE: RE: <span class=SpellE>MBO</span> Partners <o:p></o:p></span></span></p></div></div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>Hi Sandeep,<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>No problem at all, thanks for responding. When you are ready you may easily book a time that is convenient for you on my </span></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";color:#1F497D;mso-themecolor:dark2'>online schedule by</span></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'> </span></span><span style='mso-bookmark:_MailOriginal'></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/1gwVMM7QNF1Qu0w45v6WMqj%5FizvFaIvmuLNwRvjqnZ8m%5FG54SOHLPGnBi9xkJsN3MM%2DLRFA0PZIklSpVHfrGdbFuov9RGhfnQR%5F9kfPWQqRaIr9Viu025oKV%5FWoX%2D%2DSrtmiUMx8KVXdIUTOsX5gwtWW3J8EUdxawy3noZLN7igo8p5sN5aOfb%2DC%2DrSWV923syBvYEgcvztaD%5F13uVYNCsvJY%2DhQCywI1aurdygLi%2DrkWhyE57%2D1njA1s2epRGNNL4RCfagXI85bhY%5F5LQJCjg%2DjbqKwDQjFu34QcTFSDbAmXXoa8bjJJoj7doTQxEGhmKClZHL1rxzaIvHl0Tr4%5FVBCkrCIb%5FWt52%5Fxr6qXcsH6Lan69FhGnsTOemR2QIakW9l6ewvR06wGSZCXA%2D%5FhkVFKUXaWP%5F0y2dbiI6WUkRPhiRNgbKLDE3%2D%5FkkPok9i7CD1eCx8TUSzolFPdG9vfFu8DovOGum1CFlWtMiRlGDBdawhbtXaqVOw8N6JDVm%2DT416KmhRMgoCFYS24BrQ7OA9kEvHyBDcnV6AzedSCZ1ICwxWnQXVOA4zP1rXL0Q5U99QfDF6iiXaSI7aEr0X%2DgKkPrRKOtRAnq5ZY1nweatBetc6MIUdb3ANL3Z7V6V7m6I063%2DsYRVwAus7Ce81UJF0ZSCX8uBF5AjO2mB786zF2PluRc%5FQ76Rttc1KDDpuljk%2DrbXn6d0VmVuV4Lwc879JRPq%2Dzg3RnNy9NIEBtbqsEBsDVVIZxz6koFdLdobPE7c8QmixlAium7fX3VK8qZ56nBB7mi%2DESPSgnSNr22OCExBuf2pHfGs06pG%2D7EYl2SddFfcDgsPYkQWbwmMGi6FTGent7vOsX6NtqZxjFvj0ZeUy%5FsVQOy22IrYBJGaUUtHc3ENvGRW42DS9Ex6IBpqzWV7TyoCnEXlfU6JGXw4hWF6stOW9fuJGy7jkV23x3tkqRKGoZRBGGQNLaZ7LCC3YBPPNAQk7647ULk4oBZynmIkkKlTIlWpZb2fPO%2DKJyC0sZ8hgA4RpurfBpFGzpaUjBLZ3bHbbcF0I4o%2DakiwctXpkSHwkyhzdj4yIvFrPKzfI4m7EQ5Jfw4K8g%5Fdrsvmq5ZIatAyyG%5Fx7yvaOhhJeAFOfq5WGo4MWqaToFHphcpM8Pc3P6teIusLCymubiW1a5SpXEuNKX6%5FWzreJvvg2tt9A0%2D82lmAbb%2DAX3C6bEz1ByWqHfIZxGROCpMNHtn93qbN8Hu1W%2D8A0iEKolzf9iTlqK%2DIxH7VYEYHQSIT4ImVuWsMMc7TUr9XwbPx%5F0ujYo4eZTWp9yHXzSbAoTWwU9H8qhXsBdnfhh3zIWYWrHZNChtzEOApkQCRvicQZGBNF1O03Ep%5FvnrxiAjctti%5FGlmFikojt0pyRtLZhlWxej10zlQdcoCTLBUFLmiZ2Z6yC2n0GE1QRI19zU5jm%2D5Hsu7b92dDuuFkpK4v5rMLLrNMC8ILCrlQ64dwRtIdEpYPSpoGv3w%5FlUkYCag4ktUYiyFxCIokErNX1Q1OUE3lOHZbyZVeYcPq%5FtseKMm6TqFpd3Gg22HH%2DBd9byfsDqb5T5HRXTbPyzYjjBF1t" target="_blank"><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>going here</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.</span></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt'> </span></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'><o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>Have a lovely weekend!<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'>Sara<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#999999;mso-no-proof:yes'>___________________________________</span></span><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#A00B10;mso-no-proof:yes'> <o:p></o:p></span></b></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#A00B10;mso-no-proof:yes'>SARA CONDE<o:p></o:p></span></b></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><b style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>Consultant Services Advisor <o:p></o:p></span></b></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>MBO Partners<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>t:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'> 703.793.6028<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>f:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'> 703.793.6068<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>e:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'> </span></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/0xkILICQIUJaukly7tyUIKb9nifUdJ26qPJ%2DBvq538Qq5lxxebGdIHTOo%2DlbP5MUR9GNNCgKVsJDhV5%2DPcu%2DbZpK8dZHDHjnVTzrrIzATJtEY6FY6vRy5oGQ%5F0kEpuiF1w%5FoTBwq"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>sconde@mbopartners.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'><o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>w:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-no-proof:yes'> </span></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/1gwVMM7QNEZOogl76fOJI7v5kTDSadartLEyVvrtxvAq1kMjIPT6GWrVgvBQOrAKdty0G0dCMdUz5itzMfGPdotj4PJkXky1TBfSmoLMZZ9bWoJGz9hIyo%2DM2WwwrZjRthmfLQ%2C%2C"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#353433;mso-no-proof:yes'>www.mbopartners.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'><o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'>We&#8217;ve got some serious perks you&#8217;re eligible to win when you </span></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/1gwVMM7QNENcs0Jk%2Df2VbKTvkCXBaIymvq5uR%5FTp34As3E57YP7ONAz%5FmtxWDpM%5FOvvDAg0eF5UnzQdMJfSad90S4sB8IHu4ezrZopnJWqdUNOZRmZNH2IOOyXoPof6YlWWZBEgabFx2RxCXe6oLsgj0KbkWeCqG9k7GcNQH2Xss"><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'>refer a friend</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'> to MBO Partners! Ask me about them.</span></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'><o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:7.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#999999;mso-no-proof:yes'>Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.&nbsp; If you have received this email in error please notify </span></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/0xkILICQIUFWplN76u%2DNJ7vNkjfPapm6r7J4G%2DSo0cAzhkV1ZtPbN0qy2stkPbkIb8qfJyAoAKVL2kkKOKXHWqdr0eRHAUqRQjzG1azde6Fja5dl1tN01J6Qy3ksn%5Fqrk1D5DgpdZDQ%5FQA%2C%2C"><span style='mso-bookmark:_MailOriginal'><span style='font-size:7.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#999999;mso-no-proof:yes'>postmaster@mbopartners.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:7.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#999999;mso-no-proof:yes'> and permanently delete the e-mail and files.<o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Georgia","serif";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;color:#999999;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial","sans-serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-themecolor:dark2'><o:p>&nbsp;</o:p></span></span></p><p class=MsoNormal style='mso-outline-level:1'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>From:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'> Sandeep <span class=SpellE>Shenoy</span> [</span></span><a href="mailto:sandeepmshenoy@yahoo.com"><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>mailto:sandeepmshenoy@yahoo.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span class=GramE><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>] <br><b>Sent</b></span></span></span><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>:</span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'> Friday, November 22, 2013 5:27 PM<br><b>To:</b> Sara Conde<br><b>Subject:</b> Re: RE: <span class=SpellE>MBO</span> Partners <o:p></o:p></span></span></p><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='mso-cellspacing:0in;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'><td valign=top style='padding:0in 0in 0in 0in'><p><span style='mso-bookmark:_MailOriginal'>Hi Sara,<br>I am very much interested in learning more about <span class=SpellE>MBO</span> Partners. I had an extremely busy week, was not able to get back. I will setup a time as soon as feasible.<br>Thanks,<br>Sandeep<o:p></o:p></span></p><p><span style='mso-bookmark:_MailOriginal'></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/1gwVMM7QNF5PsFVg4vmObKTsljmOY5mgtLMzCvjrncIx20Fyd6OQdlL9i45wEpYgauCaRw8bB691zwcFSPigXat68NZcLWOKSw7VmuSITcgcV5NY99B79aOGwmc8%5F9CFhnDhE2wYSmN5TzCoeqYJsRrOMZwWWEbU3j6SEQ%2C%2C"><span style='mso-bookmark:_MailOriginal'>Sent from Yahoo Mail on Android</span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><o:p></o:p></span></p></td><span style='mso-bookmark:_MailOriginal'></span></tr></table><div id="_origMsg_"><div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></span></p><div><div><div class=MsoNormal align=center style='text-align:center'><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><hr size=1 width="100%" align=center></span></span></div><p class=MsoNormal style='mso-outline-level:1'><span style='mso-bookmark:_MailOriginal'><b><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>From: </span></b></span><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>Sara Conde &lt;</span></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/0xkILICQIUJaukly7tyUIKb9nifUdJ26qPJ%2DBvq538Qq5lxxebGdIHTOo%2DlbP5MUR9GNNCgKVsJDhV5%2DPcu%2DbZpK8dZHDHjnVTzrrIzATJtEY6FY6vRy5oGQ%5F0kEpuiF1w%5FoTBwq"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>sconde@mbopartners.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>&gt;; <br><b>To: </b></span></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/0xkILICQIUJYu0Nz7uyUMaHokTrZWoGps7NyR%5FTp35Az0lxBZuPEZRP3vfJ6JpgRZM%2D8ORElOYokki4dSMayV6tR4P9WKFu1YW7yh7X2QpdtZ75hyepXyru88VUig9yOp1uJWmtLE1U%2C"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>sandeepmshenoy@yahoo.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'> &lt;</span></span><a href="http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ80w1WHuWQbI1T8vBTBFiSQTr3j66UbIJDN6F62Jwxua29zHIE9%5FC2t0XKIWEXeSNgbzapaqcOvCXzCacvTAKwyyLvAaY0shwlnYcg84aRSp6uwmrwpWni1j2iA3tx3uau%5FnGINpJTkdMMkUsN8n0CRLPa1zbf7IQ9pCU2rPhHtTJl9K4nK%5FNdwgewU3303bfSH%2DpjdKyxibf4vq94Nx1kvYwvcT%5FiG2%2D8CL%2DTTHRY1EKvoiwaAAJWDGBYBNk3kQmk4CYcMa0%2C/0xkILICQIUJYu0Nz7uyUMaHokTrZWoGps7NyR%5FTp35Az0lxBZuPEZRP3vfJ6JpgRZM%2D8ORElOYokki4dSMayV6tR4P9WKFu1YW7yh7X2QpdtZ75hyepXyru88VUig9yOp1uJWmtLE1U%2C"><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>sandeepmshenoy@yahoo.com</span></span><span style='mso-bookmark:_MailOriginal'></span></a><span style='mso-bookmark:_MailOriginal'><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>&gt;; <br><b>Subject: </b>RE: <span class=SpellE>MBO</span> Partners <br><b>Sent: </b>Fri, Nov 22, 2013 9:41:29 PM <o:p></o:p></span></span></p></div><p class=MsoNormal><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt;font-family:"Calibri","sans-serif";mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></span></p><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='mso-cellspacing:0in;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'><td valign=top style='padding:0in 0in 0in 0in'><div><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt'>Hi Sandeep,</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt'>I hope you are doing well. I wanted to follow up on the email I sent below. Are you still interested in learning about <span class=SpellE>MBO</span> Partners at this time?</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt'>&nbsp;</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt'>Thank you,<br>Sara</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><span style='font-size:10.0pt'>___________________________________</span><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span style='mso-bookmark:_MailOriginal'><b>SARA CONDE</b><o:p></o:p

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Case Assignment to Queue</name>
+    <style>none</style>
+    <subject>Case Assignment {!Case_Assignment__c.Name}: {!Case_Assignment__c.fs_topic__c} has been assigned to Queue {!Case_Assignment__c.OwnerFullName}</subject>
+    <type>text</type>
+</EmailTemplate>

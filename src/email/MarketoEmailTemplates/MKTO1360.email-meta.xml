@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The email response for completing the SOI Declare form.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>State of Independence.SOI - Declare</name>
+    <style>none</style>
+    <subject>Congratulations on your Declaration of Independence!</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+Congratulations on declaring your career independence! We’d like to welcome you into the ever-growing group of workers &lt;http://www.mbopartners.com/state-of-independence/meet-the-independents.html&gt; in America who identify themselves as independents. Our goal at MBO Partners is to support your journey and to help you celebrate your successes along the way. 
+
+If you would like to learn more about the services MBO Partners provides independent consultants and contractors, please call us at 800-220-0469, email us at info@mbopartners.com or visit our web site at www.mbopartners.com. We look forward to hearing from you.
+
+Best Regards,
+
+MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

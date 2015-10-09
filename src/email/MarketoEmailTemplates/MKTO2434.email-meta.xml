@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Proper contact at Test (1362505756.0)</name>
+    <style>none</style>
+    <subject>Proper contact at Test (1362505756.0)</subject>
+    <textOnly>Debi,
+Pardon the interruption, but I am hoping you can help me. I’m looking for the best person at Workday to introduce myself to and was hoping you could point me in the right direction. To give you some background, MBO Partners is an independent contractor engagement specialist – in short, we help make it safe and easy for clients and their consultants to work together. Will you please help connect me with the person responsible for your contingent workforce program or the stakeholder most concerned about worker misclassification risk at your company?Thank you in advance for your help, and if it turns out that the right person to speak with is you, I hope that you can find a few minutes on your calendar to schedule a quick call with me. Respectfully,SteveP.S. In case it helps my credibility, here is a recent Forbes Article &lt;http://www.forbes.com/sites/kathycaprino/2013/02/26/ready-to-chuck-your-corporate-job-solopreneurship-is-a-growing-movement-for-women/&gt; that discusses MBO. 
+
+___________________________________Steve TaggartAccount Executive, Enterprise SolutionsMBO Partnerst: 703.793.6014f: 703.793.6452e:staggart@mboenterprise.com &lt;mailto:staggart@mbopartners.com&gt;w:www.mboenterprise.com &lt;http://www.mbopartners.com/&gt;Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

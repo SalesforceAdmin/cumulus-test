@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>31OctWeb-SOW.SOW Guide Follow-Up</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, your SOW guide is ready</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+As a follow up to our SOW webinar held on October 31st, I would like you to be one of the first to view our new downloadable guide, &quot;Scoping Out the Statement of Work &lt;http://info.mbopartners.com/rs/mbo/images/Statement-Scope-of-Work-2013.pdf&gt;.&quot;
+In it, you&apos;ll find out the difference between the terms Scope and Statement, why you need a strong SOW, and tips and strategies to create your own. You&apos;ll also find an SOW checklist and a customizable template to help you get started.
+Get the full guide &lt;http://info.mbopartners.com/rs/mbo/images/Statement-Scope-of-Work-2013.pdf&gt; today!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

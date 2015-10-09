@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>21Feb13Web:SuperConnecting.Invite 2</name>
+    <style>none</style>
+    <subject>Webinar Reminder: Learn 3 Tips for Superconnecting</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+ 
+We would like to remind you that on February 21 at 1 p.m. ET, we will hold a webinar entitled &quot;Three Expert Tips for Superconnecting: How to Build the Relationships That Build Business &lt;http://info.mbopartners.com/21Feb13WebSuperConnecting_RegistrationPage.html&gt;.&quot;
+
+Our expert guest this month is Judy Robinett, a former corporate CEO, funding guru and entreprenuer who developed a new style of networking that&apos;s been referred to as &quot;superconnecting.&quot; Judy&apos;s creative technique will teach you how to connect with the right people in the right ways to take your business to the next level.
+
+ 
+
+Register today &lt;http://info.mbopartners.com/21Feb13WebSuperConnecting_RegistrationPage.html&gt; to revolutionize your independent business in 2013. 
+___________________________________
+MBO Partners
+t: 1-800-220-0469
+e: info@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Follow Up (1334591255.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Follow Up (1334591255.0)</subject>
+    <textOnly>-    1024x768  
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                                 Dear Oleg,  Some time ago you requested information regarding the services offered by MBO Partners.  Now might not be the right time for you.  Whatever your work life stage, I also hope you can join me in celebrating the news that independent work life in America has arrived. Our company is well into a year-long effort called The State of Independence in America. I encourage you to view some very interesting findings on the size and trends for independent work in our nation. Are you working on a contract/project now or are you currently working W2 at the moment? Regards, Nicolette ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;http://info.mbopartners.com/meet-the-independents.html&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p style="font-family: 'Times New Roman'; font-size: 16px;"><span style="font-family: georgia, palatino; font-size: 14px;">{{lead.First Name:default=Consultant}},</span></p>
+<p><span style="font-family: georgia, palatino;"><span style="font-size: 14px;">Because you've expressed interest in MBO's educational resources in the past, I'd like to introduce you to two other tools we have developed for independent consultants.</span></span></p>
+<p><span style="font-family: georgia, palatino;"><span style="font-size: 14px;">1. Our <a href="http://www.mbopartners.com/right-for-you">Is It Right For You</a> quiz gives consultants of all experiences levels the chance to answer detailed questions about their solo business. It's fast, simple and by the end of it, you will know whether MBO Partners is a fit for you.</span></span></p>
+<p><span style="font-family: georgia, palatino;"><span style="font-size: 14px;">2. For our consultants with experience, our <a href="http://www.mbopartners.com/billrate">Bill Rate Calculator</a> is a valuable resource. This handy tool can show you everything that should go into your bottom line bill rate, and it will provide you with an approximate figure to get you started.</span></span></p>
+<p><span style="font-family: georgia, palatino;"><span style="font-size: 14px;">I hope you enjoy our interactive resources, and please let me know if you have any questions.</span></span></p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span><br><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">Jaime MacDonell</span></strong><br><strong><span style="color: #353433; font-family: 
+'Georgia','serif';">Marketing Manager</span></strong><br> <span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span><br> <br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong> <span style="color: #353433; font-family: 
+'Georgia','serif';">703-793-6368</span><br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong> <span style="color: #353433; font-family: 'Georgia','serif';">jmacdonell@mbopartners.com</span><br> <strong><span style="color: #353433; font-family: 
+'Georgia','serif';">w:</span></strong> <a href="http://www.mbopartners.com/"><span style="font-family: 'Georgia','serif'; color: #353433;">www.mbopartners.com</span></a></div>
+</body>
+</html>

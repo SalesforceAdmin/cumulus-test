@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Follow Up (1350506974.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Follow Up (1350506974.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Gary, I wanted to let you know I received your voicemail from this morning and I just did not have any time available to call you back today.  If you could please schedule something on my calendar for us to touch base and talk about the MBO Program I would really appreciate it as my schedule is pretty busy the next 2 days.  You may do so by clicking here: online calendar &lt;http://mkto-l0128.com/track?t=c&amp;enid=bWlkPW1ib0JldGFjdXN0LTAtMC0wLTAtcHJvZC0wJm1zZ2lkPTAmZGlkPTEyMzQmc249MCZlaWQ9U2FyYWhtYXJpZUBBdHQubmV0JnVpZD0wJmV4dHJhPU1URTFmSE55WTJsa1BUazNmRzFoYVd4cFpEMWpNR0ZsT0RjeE9TMHhPRFF6TFRRM1pqUXRZakpqWXkxaU9XVTNaV1psTVdFNE1qTXRPVGQ4Wm5KdmJUMXVkR0Y1Ykc5eVFHMWliM0JoY25SdVpYSnpMbU52Ylh4emRXSnFQVVpYT2lCTlFrOGdVR0Z5ZEc1bGNuTWdVbVZtWlhKeVlXdz09JiYm&amp;&amp;&amp;https://my.timedriver.com/9TGRK?mkt_tok=2xUAKZjCSFBLtE976u6QJ4nMiyGOdJ280dYXY52MuKVUsyIUGIalUg%3D%3D&gt;.  If you do not see any times that work for you, please let me know a few times you are available and I will try to squeeze it into my schedule tomorrow or Friday. Thank you and I apologize for the delay in getting back to you!Nicolette    ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; If you are in the DC area please check out our upcoming networking event! &lt;http://events.r20.constantcontact.com/register/event?oeidk=a07e6cqaqtk0702919f&amp;llr=kp5x6qkab&gt;   Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

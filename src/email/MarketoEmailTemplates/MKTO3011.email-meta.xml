@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Complete MBO Access (1386953769.0)</name>
+    <style>none</style>
+    <subject>Complete MBO Access (1386953769.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Stan, Your account is almost ready! The last step is logging into MBO Access &lt;https://access.mbopartners.com/&gt; and completing the “Industry Expertise” and “Disciplines” sections of your profile. You can do this by clicking on your name in the upper right hand corner and then clicking on “Edit profile &amp; privacy.” This information needed for our workmen’s comp. policy and must be completed before I can activate your account and get you billing.  Your user ID and password is the same as your MBO Business Center. Please let me know if you have any questions.
+Thanks,Meghan ___________________Meghan MoulConsultant Services Advisor MBO Partners t: 703.793.6359f: 703.793.6473e: mmoul@mbopartners.com &lt;mailto:mmoul@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;  Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=moul&gt; to MBO Partners! Ask me about them. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

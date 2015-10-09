@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>Contact.Enrollment_Manager__c</field>
+    </columns>
+    <columns>
+        <field>ACCOUNT.NAME</field>
+    </columns>
+    <columns>
+        <field>CREATED_DATE</field>
+    </columns>
+    <columns>
+        <field>Account.TOTBilling__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Referring_Client__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Referring_Contact__c</field>
+    </columns>
+    <columns>
+        <field>Contact.How_Heard_AD__c</field>
+    </columns>
+    <description>Report that shows any Associates that are sold as directs, but who work at an Enterprise client. These should be reviewed to assure that they are true directs and not actually Enterprise referrals that should have been enrolled by the Enterprise team.</description>
+    <filter>
+        <criteriaItems>
+            <column>Contact.Enrollment_Manager__c</column>
+            <operator>contains</operator>
+            <value>Conde,Moul,Stringer</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Contact.Referring_Client__c</column>
+            <operator>contains</operator>
+            <value>Amazon,Anthem,Athene,ATK,Axis,Best,Biogen,Bonneville,Booz,CACI,CDW,Citigroup,CSX,Duke,Entergy,Evoqua,NextEra,Hewlett,Insight,Brands,Levi,Logistics,McAfee,Microsoft,Millennium,Mitsubishi,Pfizer,Pitney,PRI,Elsevier,SAE,Schlumberger,Siemens,PwC,UnitedHealth,Warner,Whirlpool</value>
+        </criteriaItems>
+    </filter>
+    <format>Tabular</format>
+    <name>Enterprise Associates Enrolled by CSA</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>AccountList</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <sortColumn>CREATED_DATE</sortColumn>
+    <sortOrder>Desc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+        <startDate>2015-01-01</startDate>
+    </timeFrameFilter>
+</Report>

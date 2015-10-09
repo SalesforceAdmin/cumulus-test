@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Follow up from MBO Partners (1323441412.0)</name>
+    <style>none</style>
+    <subject>Follow up from MBO Partners (1323441412.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Dear Sandra, 
+ 
+Some time ago you requested information regarding the services offered by MBO Partners.  Now might not be the right time for you.  If you would like to simply reply to this email with a good time in the future to reach out - I will make sure I follow up with you then. 
+ 
+Regards,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

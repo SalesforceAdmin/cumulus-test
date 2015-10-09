@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Registrant/Non-attendee email</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Sept6Web: LeadGen.Sorry We Missed You</name>
+    <style>none</style>
+    <subject>Since You Missed it - Free Resources from our Lead Generation Webinar</subject>
+    <textOnly> 
+Hello {{lead.First Name:default=Webinar Registrant}},</textOnly>
+    <type>custom</type>
+</EmailTemplate>

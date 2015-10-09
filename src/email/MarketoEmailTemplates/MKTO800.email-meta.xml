@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners / Kenneth (1327534179.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners / Kenneth (1327534179.0)</subject>
+    <textOnly>Consultant Services Email      90 Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Ken,
+ 
+My name is Sara Conde and I work with Steve at MBO Partners. I will be your direct contact moving forward. You can find information on our benefits by clicking here. If you would like to schedule a time to speak please feel free to reach out to me directly or book an appointment in my online calendar.
+ 
+Look forward to working with you!
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Kenneth Milstead [mailto:milstead@medelle.com] 
+Sent: Wednesday, January 25, 2012 5:40 PM
+To: Steve Arhancet
+Subject: Re: MBO Partners / Kenneth
+ 
+Steve,
+ 
+Let&apos;s definitely talk soon! I think I have a contract coming up for which your services may be useful.
+ 
+When we talked before, you had good health insurance plans available. Is this still the case? If so, do you have info about options and rates that you could send me?
+ 
+Thanks,
+Ken
+ 
+ 
+From: Steve Arhancet &lt;sarhancet@mbopartners.com&gt;
+To: milstead@medelle.com 
+Sent: Friday, December 30, 2011 1:12 AM
+Subject: MBO Partners / Kenneth
+ 
+Dear Kenneth,
+I noticed that you recently visited our website! We had a conversation some time ago regarding our services. As a courtesy I wanted to personally reach out and offer any assistance I can to help you find the answers you might be looking for. If you would like to chat, you may easily book a time convenient for you in my online schedule by going here https://my.timedriver.com/C9CPC.
+Regards,
+Steven
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: (703) 793-6011
+f: 703.793.6081
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

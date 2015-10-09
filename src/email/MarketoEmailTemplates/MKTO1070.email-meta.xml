@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Created by Whitney Downer, 3/5/12.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>3Mar12Web:ConsultingRates.Sorry you missed 1</name>
+    <style>none</style>
+    <subject>Consulting Rate Resources Right at Your Fingertips</subject>
+    <textOnly>Hello {{lead.First Name:default=Sir/Madam}},
+
+Sorry you missed the webinar, {{my.title:default=edit me}} on {{my.date:default=edit me}}. Since you weren&apos;t able to attend the live session, we&apos;ve added the link recorded version to our site, http://www.mbopartners.com/resources. Also, if you&apos;d like to view the slides, I&apos;ve included a link for that as well, http://info.mbopartners.com/rs/mbo/images/MBOPartners_Bill_Rate_Webinar_3.2.12.pdf.
+
+In addition, I have included an article that we recently wrote regarding the cost-based method. The article summarizes how to calculate your bill rate using the cost-based method as did much of our discussion on Friday. Hopefully you will find some of the resources and tips in the article helpful. Here is the link to the article: http://info.mbopartners.com/rs/mbo/images/Cost-Based_Bill_Rate_Article.pdf.
+
+Make sure to join the rest of our webinar series by signing up here http://info.mbopartners.com/2012SeriesSignUp.html.
+
+Regards,
+
+{{my.advisor:default=edit me}}</textOnly>
+    <type>custom</type>
+</EmailTemplate>

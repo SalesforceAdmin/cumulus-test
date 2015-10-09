@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SOI Announcement to Alumni</name>
+    <style>none</style>
+    <subject>16 Million Strong: New MBO Partners Survey Shares Size &amp; Story of Independence in America</subject>
+    <textOnly>Dear {{lead.First Name:default=Valued MBO Alumni}},
+
+My name is Marcelle Saab, MBO Partners’ program manager responsible for 
+interaction with our Alumni. I’m happy to share with you that as part of its continued commitment to independent workers, MBO Partners announced its release of a landmark national study on the state of independence in America (http://www.marketwire.com/press-release/landmark-national-study-reveals-millions-join-new-age-career-independence-surprising-1557357.htm). 
+
+Independence is not just a work choice, it’s a life choice. That’s what our study revealed. Whether you want to discover the size (16 million, but predicted to grow to more than 20 million), or the story of satisfaction and motivation that’s revealed, I encourage you to visit our newly launched study site (http://info.mbopartners.com/stateofindependence), and participate in the conversation. You may enjoy viewing this story graphic about the study (http://info.mbopartners.com/whoaretheindependents?) – a real silver lining in what is otherwise a gloomy jobs picture in our nation today. 
+
+Our State of Independence team study team is not all about the stats – they are also having some fun with this. You may enjoy following their efforts at a new Facebook community page (http://www.facebook.com/pages/The-State-of-Independence/126879364075991), where you can read blogs and comments from other independents and workforce experts reacting to the study. 
+
+Earlier this summer, I had shared with you news about the launch of our new Web site (www.mbopartners.com) and a related, refreshed branding. 
+
+What’s your reaction to our efforts? Do they resonate? I’m curious to hear from you. 
+
+Best regards,
+
+Marcelle Saab
+___________________________________
+Marcelle Saab
+Program Manager
+MBO Partners
+
+t: 703.793.6006
+f: 703.793.6084
+e: msaab@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners - Time Approval  Notification (1343256046.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners - Time Approval  Notification (1343256046.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Jeff, Good evening to you J. If you go to Expenses -&gt; Review Expenses you can see a full list of what has been approved, etc. Right now everything you have entered to date has been approved aside from the rail from July 2nd (we need a receipt for that one.) I only see to meal expenses that were entered: StatusDateTypeApproved AmountReimbursement StatusClient PaidAuthorized &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseStatusHistory&amp;id=109316_1666&gt;Jun 4, 2012 &lt;https://app1.mbopartners.com/servlet/entry&gt;Parking96.00Payment Pending : $96.00$0.00Authorized &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseStatusHistory&amp;id=109318_1728&gt;Jun 4, 2012 &lt;https://app1.mbopartners.com/servlet/entry&gt;Rail248.00Payment Pending : $248.00$0.00Authorized &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseStatusHistory&amp;id=109320_1728&gt;Jun 5, 2012 &lt;https://app1.mbopartners.com/servlet/entry&gt;Medical31.65Payment Pending : $31.65$0.00Authorized &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseStatusHistory&amp;id=109311_2613&gt;Jun 14, 2012 &lt;https://app1.mbopartners.com/servlet/entry&gt;Meals and Entertainment53.99Payment Pending : $53.99$0.00Authorized &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseStatusHistory&amp;id=109322_1728&gt;Jun 15, 2012 &lt;https://app1.mbopartners.com/servlet/entry&gt;Office Equipment513.59Payment Pending : $513.59$0.00Authorized &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseStatusHistory&amp;id=109313_2675&gt;Jun 21, 2012 &lt;https://app1.mbopartners.com/servlet/entry&gt;Meals and Entertainment46.11Payment Pending : $46.11$0.00Authorized &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseStatusHistory&amp;id=109306_4038&gt;Jun 27, 2012 &lt;https://app1.mbopartners.com/servlet/entry&gt;Medical25.00Payment Pending : $25.00$0.00Authorized &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseStatusHistory&amp;id=109308_5&gt;Jun 27, 2012 &lt;https://app1.mbopartners.com/servlet/entry&gt;Medical32.02Payment Pending : $32.02$0.00PendingJul 2, 2012 &lt;https://app1.mbopartners.com/servlet/entry?display=ExpenseUpdate&amp;eid=20120719235048784400000000&gt;Rail248.00Not Authorized$0.00Total$1,294.36 It is possible you entered them and did not save them? Let me know if I can help. 
+Thanks Jeff,
+Sara From: Jeff Sheftic [mailto:jeffsheftic@yahoo.com] 
+Sent: Wednesday, July 25, 2012 7:03 AM
+To: Sara Conde
+Subject: Re: MBO Partners - Time Approval Notification Good morning Sara. I see that two of my meal expenses got approved. There should have been to others. Did you see them?
+Thanks,
+Jeff
+Sent from Yahoo! Mail on Android From: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt; &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt;; 
+To: &lt;jeffsheftic@yahoo.com &lt;mailto:jeffsheftic@yahoo.com&gt;&gt;; 
+Subject: MBO Partners - Time Approval Notification 
+Sent: Tue, Jul 24, 2012 11:04:08 PM You have had the following time entries approved today:
+07/16/2012  Broadridge Securities - Jeff Sheftic - Regular  1.0 Day
+07/17/2012  Broadridge Securities - Jeff Sheftic - Regular  1.0 Day
+07/18/2012  Broadridge Securities - Jeff Sheftic - Regular  1.0 Day
+07/19/2012  Broadridge Securities - Jeff Sheftic - Regular  1.0 Day
+07/20/2012  Broadridge Securities - Jeff Sheftic - Regular  1.0 Day
+
+
+If you have questions please contact Sara Conde, at 703-793-6028 or sconde@mbopartners.com &lt;javascript:return&gt;.
+
+This is a system generated email that you have requested by selecting it on the System Notification page.
+
+***Do not reply to this email.  If you have questions regarding the content of this notification please contact your Business Manager directly.*** </textOnly>
+    <type>custom</type>
+</EmailTemplate>

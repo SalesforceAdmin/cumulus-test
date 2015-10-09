@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Important Vendor Qualification Information from MBO Partners (Action Required) (</name>
+    <style>none</style>
+    <subject>Important Vendor Qualification Information from MBO Partners (Action Required) (1386366431.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Allison, It was a pleasure speaking with you today. Based on our conversation, MBO believes that you may indeed operate as an independent business in Canada. We must now determine if you meet the criteria for operating as a sub-contracted vendor in Canada as you work on your project.   Action Required: Please complete this Qualification Questionnaire &lt;http://www.mbopartners.com/redirect/vqq.html&gt;. We recommend setting aside about 30 minutes.   What Comes Next: Once you’ve completed the questionnaire, MBO will contact you to discuss your responses, determine next steps (which may include submitting supporting documentation), and prepare you for enrollment. Best regards, ___________________Meghan MoulConsultant Services Advisor MBO Partners t: 703.793.6359f: 703.793.6473e: mmoul@mbopartners.com &lt;mailto:mmoul@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;  Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=moul&gt; to MBO Partners! Ask me about them. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

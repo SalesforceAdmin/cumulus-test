@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Welcome to MBO Partners (1389019867.0)</name>
+    <style>none</style>
+    <subject>Welcome to MBO Partners (1389019867.0)</subject>
+    <textOnly>-     
+	- 
+	-   160 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hello Jessica,  Thank you for the inquiry you submitted at the MBO Partners website.  I wanted to introduce myself as the person at MBO Partners responsible for all new associate and partnership requests. I’ll be your main point of contact to provide you an overview of our services and answer any specific questions you may have. Please disregard the message you received from Steve. You may easily book a time that is convenient for you on my online schedule by going here. &lt;https://my.timedriver.com/PK2TP+&gt; You can  watch a short video about who we are on You Tube &lt;http://youtu.be/zKDzwSTmGv4&gt;. You can learn more about how MBO works by clicking here &lt;http://www.mbopartners.com/how-mbo-works&gt;. I look forward to speaking with you and sharing more information about MBO Partners! Emily ___________________________________EMILY STRINGERConsultant Services Advisor MBO Partners t: 703.793.6282f: 703.793.6457e: estringer@mbopartners.com &lt;mailto:estringer@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

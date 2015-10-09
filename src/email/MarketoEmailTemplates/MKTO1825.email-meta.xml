@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners - Only in US (1343072772.0)</name>
+    <style>none</style>
+    <subject>MBO Partners - Only in US (1343072772.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Arun, Thank you for requesting more information from MBO Partners.   Below you’ll find the links to information you requested: 
+	- You’re copy of the consulting rate guide is broken out into three calculation methods which are hyperlinked from our table of contents which you can access by clicking here &lt;http://www.mbopartners.com/files/pdfs/mbo-bill-rate-resource-guide.pdf&gt;. 	- Short 2 minute video &lt;http://www.youtube.com/watch?v=zKDzwSTmGv4&gt; on MBO.
+ At this time MBO only conducts business in the United States, if anything changes we will most certainly reach out.  Thanks again for connecting and best of luck, Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

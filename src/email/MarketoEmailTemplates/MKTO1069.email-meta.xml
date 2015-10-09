@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Created by Whitney Downer, 2/28/12. This email is sent following the webinar to thank them for joining as well as direct them to additional resources.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>3Mar12Web:ConsultingRates.Thank you attending 1</name>
+    <style>none</style>
+    <subject>Consulting Rate Resources Right at Your Fingertips</subject>
+    <textOnly>Hello {{lead.First Name:default=Sir/Madam}},
+
+Thank you for attending our webinar, {{my.title:default=edit me}} on {{my.date:default=edit me}}. I hope you found it informative and the discussion was useful to you. You can find a copy of the presentation slides here, http://info.mbopartners.com/rs/mbo/images/MBOPartners_Bill_Rate_Webinar_3.2.12.pdf. 
+
+In addition, I have included an article that we recently wrote regarding the cost-based method. The article summarizes how to calculate your bill rate using the cost-based method as did much of our discussion on Friday. Hopefully you will find some of the resources and tips in the article helpful. Here is the link to the article: http://info.mbopartners.com/rs/mbo/images/Cost-Based_Bill_Rate_Article.pdf
+
+Make sure to join the rest of our webinar series http://info.mbopartners.com/2012SeriesSignUp.html by signing up to receive more information.
+
+Regards,
+
+{{my.advisor:default=Steve}}</textOnly>
+    <type>custom</type>
+</EmailTemplate>

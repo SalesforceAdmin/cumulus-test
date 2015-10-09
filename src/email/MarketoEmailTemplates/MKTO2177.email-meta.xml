@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Introduction to your New Business Manager! (1354115751.0)</name>
+    <style>none</style>
+    <subject>Introduction to your New Business Manager! (1354115751.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Steve, I have enjoyed working with you during your enrollment with MBO Partners and your project with Aubrey Group. Now that you are familiar with the basic processes, I’d like to introduce you to your dedicated Business Manager, Emily Stringer, who will help you get the most out of our business support services. She will also introduce you to MBO Access, our online community of consultants, valuable resources, and information about the organizations that use MBO to engage their consultants. As your primary point of contact, Emily will be able to offer you in-depth guidance on our programs, serving as your advocate to support you on any day-to-day issues regarding payments, invoices, expenses, and setting up new client contracts. I have reviewed your account history with Emily and she looks forward to working with you.  Of course, I am always here to help with anything as well. Emily will be reaching out to you soon to introduce herself and orient you to MBO Access, and she can always be reached directly at 703-793-6282 or estringer@mbopartners.com &lt;mailto:estringer@mbopartners.com&gt;  It has been a real pleasure assisting you in your orientation to MBO Partners.  Best wishes!Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.   </textOnly>
+    <type>custom</type>
+</EmailTemplate>

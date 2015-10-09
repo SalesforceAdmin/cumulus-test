@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Information (1340915310.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Information (1340915310.0)</subject>
+    <textOnly>-     
+	- 
+	-   110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Michael, It was a pleasure speaking with you today.  I’ve enclosed a few resources that you might find helpful: ·         Private informational section about MBO Partners, you can access here &lt;http://info.mbopartners.com/advisor-info-s-arhancet.html&gt;
+	- There are some webinars and videos we have created that might assist you in finding your next contract:
+http://www.mbopartners.com/mbo-partners-webcast-index &lt;http://www.mbopartners.com/mbo-partners-webcast-index&gt; 
+	- You may also look at some of the stories from independents who use MBO Partners:
+http://info.mbopartners.com/meet-the-independents.html &lt;http://info.mbopartners.com/meet-the-independents.html&gt; If you have questions before then, feel free to schedule a convenient time for you using my online schedule: https://my.timedriver.com/C9CPC &lt;https://my.timedriver.com/C9CPC&gt;. I’ll follow up with you in 2 weeks as promised. Regards, Steve ___________________________________Steve ArhancetDirector, Consultant ServicesMBO Partners t: 703.793.6011f: 703.793.6081m: 540.560.8837e: sarhancet@mbopartners.com &lt;mailto:sarhancet@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Enterprise 2011</name>
+    <style>none</style>
+    <subject>Happy Holidays</subject>
+    <textOnly>Thank you for offering us the opportunity to work with you throughout the year.  We would like to wish you a joyous and memorable holiday season, with the hopes that the coming New Year continues to bring you happiness and success. 
+ 
+To view your e-card please click on the link below, or enter it into your browser.
+http://www.customecards.net/mbo_partners/
+    
+Warmest Holiday Regards,
+
+MBO Partners
+13454 Sunrise Valley Dr., Suite 300
+Herndon, VA 20171
+www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

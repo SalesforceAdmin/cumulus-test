@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DD-254</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DD-254&apos;s</value>
+    </caseValues>
+    <fields>
+        <label><!-- All Work Orders Expired --></label>
+        <name>All_Work_Orders_Expired__c</name>
+    </fields>
+    <fields>
+        <label><!-- CNWDI Access --></label>
+        <name>CNWDI_Access__c</name>
+    </fields>
+    <fields>
+        <label><!-- COMSEC Access --></label>
+        <name>COMSEC_Access__c</name>
+    </fields>
+    <fields>
+        <label><!-- Classification --></label>
+        <name>Classification__c</name>
+        <picklistValues>
+            <masterLabel>Secret</masterLabel>
+            <translation><!-- Secret --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Top Secret</masterLabel>
+            <translation><!-- Top Secret --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Clearance Activation Date --></label>
+        <name>Clearance_Activation_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact Name --></label>
+        <name>Contact_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contract Expiration Date --></label>
+        <name>Contract_Expiration_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- DD-254 Date --></label>
+        <name>Date_Completed__c</name>
+    </fields>
+    <fields>
+        <label><!-- GCA Address --></label>
+        <name>GCA_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- GCA Name --></label>
+        <name>GCA_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- GCA POC Email --></label>
+        <name>GCA_POC_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- GCA POC Name --></label>
+        <name>GCA_POC_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- GCA POC Phone --></label>
+        <name>GCA_POC_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Investigation End Date --></label>
+        <name>JPAS_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Investigation Start Date --></label>
+        <name>JPAS_Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- NATO Access --></label>
+        <name>NATO_Access__c</name>
+    </fields>
+    <fields>
+        <label><!-- NATO Indoc Date --></label>
+        <name>NATO_Indoc_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Prime Contract Number --></label>
+        <name>Prime_Contract_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Prime Contractor Cage Code --></label>
+        <name>Prime_Contractor_Cage_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Prime Contractor --></label>
+        <name>Prime_Contractor__c</name>
+    </fields>
+    <fields>
+        <label><!-- Revision Number --></label>
+        <name>Revision_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Revision --></label>
+        <name>Revision__c</name>
+    </fields>
+    <fields>
+        <label><!-- SCI Access --></label>
+        <name>SCI_Access__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safeguarding --></label>
+        <name>Safeguarding__c</name>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Security Clearance --></label>
+        <name>Security_Clearance__c</name>
+        <relationshipLabel><!-- DD-254&apos;s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Subcontract Number or PO Number --></label>
+        <name>Subcontract_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Number of Expired WOs --></label>
+        <name>Total_Number_of_Expired_WOs__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Number of WOs --></label>
+        <name>Total_Number_of_WOs__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Summary --></label>
+        <name>Work_Summary__c</name>
+    </fields>
+    <layouts>
+        <layout>DD-254 Layout</layout>
+        <sections>
+            <label><!-- Accesses --></label>
+            <section>Accesses</section>
+        </sections>
+        <sections>
+            <label><!-- Contract Information --></label>
+            <section>Contract Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Government Contracting Agency --></label>
+            <section>Government Contracting Agency</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

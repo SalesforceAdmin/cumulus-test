@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SIA KA Invite</name>
+    <style>none</style>
+    <subject>Please Join Us at the Risk Forum</subject>
+    <textOnly>Dear {{lead.First Name:default=CWS Invitee}}
+
+The SIA Risk Forum is gearing up to be an exciting and informative conference, and MBO Enterprise Solutions is proud to be a sponsor again this year. To kick off the 2 day event, we invite (http://info.mbopartners.com/rs/mbo/images/MBOInvite_Final.pdf) you to be our guest at a fun-filled evening on Tuesday, October 4th. A series of special  MBO announcements will be part of the round-trip transportation from Red Rock Resort to the MGM Grand where we will dine at Emeril’s New Orleans Fish House and then enjoy premium seating at Cirque du Soleil’s KA. It’s certain to be an enlightening evening, and we hope you can join in on the fun!
+
+Space is limited so please RSVP as soon as possible to confirm your attendance. I look forward to seeing you there,
+
+Dave
+
+MBO Enterprise Solutions
+
+MBO Partners Enterprise Solutions cordially invites you to a Las Vegas evening to remember...
+
+Tuesday, October 4, 2011
+
+6:00 PM: Pick up at Red Rock Resort
+6:15 PM: MBO Exclusive Business Announcements
+7:00 PM: Dinner at Emeril&apos;s New Orleans Fish House
+9:30 PM: Cirque du Soleil&apos;s KA at the MGM Grand
+
+*Transportation to Red Rock Resort provided past performance*
+
+Kindly RSVP by September 16, 2011
+
+Email Julie Cohen: jcohen@mbopartners.com
+
+___________________________________ 
+DAVE PUTT
+Director of Client Services, Enterprise Solutions
+MBO Partners
+
+t: 703.793.6020
+f: 703.793.6089
+e: dputt@mbopartners.com 
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

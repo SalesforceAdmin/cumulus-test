@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Qualification</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Qualifications</value>
+    </caseValues>
+    <fields>
+        <label><!-- Any Change in Company Name or Structure? --></label>
+        <name>Any_Change_in_Company_Name_or_Structure__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Articles of Incorporation/DBA --></label>
+        <name>Articles_of_Incorporation_DBA__c</name>
+        <picklistValues>
+            <masterLabel>Not on File</masterLabel>
+            <translation><!-- Not on File --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On File</masterLabel>
+            <translation><!-- On File --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Auto Amount --></label>
+        <name>Auto_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Auto on COI --></label>
+        <name>Auto_COI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Auto Details --></label>
+        <name>Auto_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Auto Expiration --></label>
+        <name>Auto_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Auto Waived --></label>
+        <name>Auto_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Change in Name or Structure? --></label>
+        <name>Change_in_Business_Setup__c</name>
+    </fields>
+    <fields>
+        <label><!-- Company Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- Qualifications --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Crime/Fidelity Bond Amount --></label>
+        <name>CrimeFidelity_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Crime/Fidelity Bond on COI --></label>
+        <name>CrimeFidelity_COI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Crime/Fidelity Bond Details --></label>
+        <name>CrimeFidelity_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Crime/Fidelity Bond Waived --></label>
+        <name>CrimeFidelity_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Crime/Fidelity Bond Expiration --></label>
+        <name>Crime_Fidelity_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employer&apos;s Liability Amount --></label>
+        <name>EL_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employer&apos;s Liability on COI --></label>
+        <name>EL_COI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employer&apos;s Liability Details --></label>
+        <name>EL_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employer&apos;s Liability Expiration --></label>
+        <name>EL_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employer&apos;s Liability Waived --></label>
+        <name>EL_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Evidence of marketing to other clients --></label>
+        <name>Evidence_of_marketing_to_other_clients__c</name>
+        <picklistValues>
+            <masterLabel>Not on File</masterLabel>
+            <translation><!-- Not on File --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On File</masterLabel>
+            <translation><!-- On File --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Evidence of work with other clients --></label>
+        <name>Evidence_of_work_with_other_clients__c</name>
+        <picklistValues>
+            <masterLabel>Not on File</masterLabel>
+            <translation><!-- Not on File --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On File</masterLabel>
+            <translation><!-- On File --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Excess/Umbrella Amount --></label>
+        <name>ExcessUmbrella_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Excess/Umbrella on COI --></label>
+        <name>ExcessUmbrella_COI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Excess/Umbrella Waived --></label>
+        <name>ExcessUmbrella_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Excess/Umbrella Details --></label>
+        <name>Excess_Umbrella_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Excess/Umbrella Expiration --></label>
+        <name>Excess_Umbrella_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- General Liability on COI --></label>
+        <name>GL_COI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Genral Liability Details --></label>
+        <name>GL_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- General Liability Expiration --></label>
+        <name>GL_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- General Liability Waived --></label>
+        <name>GL_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- General Liability Amount --></label>
+        <name>General_Liability_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead Referring Client --></label>
+        <name>Lead_Referring_Client__c</name>
+    </fields>
+    <fields>
+        <label><!-- Not Staff --></label>
+        <name>Not_Staff__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Amount --></label>
+        <name>Other_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other on COI --></label>
+        <name>Other_COI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Details --></label>
+        <name>Other_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Expiration --></label>
+        <name>Other_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Waived --></label>
+        <name>Other_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Professional Liability (E&amp;O) Expiration --></label>
+        <name>PLExpiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Professional Liability (E&amp;O) Amount --></label>
+        <name>PL_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Professional Liability (E&amp;O) on COI --></label>
+        <name>PL_COI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Professional Liability (E&amp;O) Details --></label>
+        <name>PL_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Professional Liability (E&amp;O) Waived --></label>
+        <name>PL_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client --></label>
+        <name>Qualification_Client__c</name>
+        <relationshipLabel><!-- Qualifications --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Associate Number --></label>
+        <name>Qualificaton_Associate_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Time of Completion --></label>
+        <name>Time_of_Completion__c</name>
+    </fields>
+    <fields>
+        <label><!-- Worker&apos;s Comp Amount --></label>
+        <name>WCAmount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Worker&apos;s Comp on COI --></label>
+        <name>WC_COI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Worker&apos;s Comp Details --></label>
+        <name>WC_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Worker&apos;s Comp Waived --></label>
+        <name>WC_Waived__c</name>
+    </fields>
+    <fields>
+        <label><!-- W-9 Form --></label>
+        <name>W_9_Form__c</name>
+        <picklistValues>
+            <masterLabel>Not on File</masterLabel>
+            <translation><!-- Not on File --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On File</masterLabel>
+            <translation><!-- On File --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Worker&apos;s Comp Expiration --></label>
+        <name>Work_Comp_Expiration__c</name>
+    </fields>
+    <fields>
+        <label><!-- 1099 Worker(s) Qualification on File --></label>
+        <name>fb_1099WorkersFile__c</name>
+    </fields>
+    <fields>
+        <label><!-- 1099 Worker(s) --></label>
+        <name>fb_1099Workers__c</name>
+    </fields>
+    <fields>
+        <label><!-- Behaviorals --></label>
+        <name>fb_independentClassification__c</name>
+        <picklistValues>
+            <masterLabel>Medium</masterLabel>
+            <translation><!-- Medium --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N/A</masterLabel>
+            <translation><!-- N/A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Strong</masterLabel>
+            <translation><!-- Strong --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Weak</masterLabel>
+            <translation><!-- Weak --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- W-2 Worker(s) Paystub/W-2 on File --></label>
+        <name>fb_w2File__c</name>
+    </fields>
+    <fields>
+        <label><!-- W-2 Worker(s) --></label>
+        <name>fb_w2Worker__c</name>
+    </fields>
+    <fields>
+        <label><!-- Balance Sheet/491 Form --></label>
+        <name>fd_balanceSheet__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Documentation --></label>
+        <name>fd_clientDocumentation__c</name>
+    </fields>
+    <fields>
+        <label><!-- D&amp;B Printout --></label>
+        <name>fd_dbPrintout__c</name>
+    </fields>
+    <fields>
+        <label><!-- Marketing --></label>
+        <name>fd_marketingDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- SOW --></label>
+        <name>fd_sow__c</name>
+    </fields>
+    <fields>
+        <label><!-- Stock Performance Printout --></label>
+        <name>fd_stockPerformance__c</name>
+    </fields>
+    <fields>
+        <label><!-- W-9 --></label>
+        <name>fd_w9__c</name>
+    </fields>
+    <fields>
+        <label><!-- 1099 Worker(s) Names --></label>
+        <name>fs_1099WorkerNames__c</name>
+    </fields>
+    <fields>
+        <label><!-- Articles/DBA --></label>
+        <name>fs_articlesDBA__c</name>
+    </fields>
+    <fields>
+        <label><!-- Company Name --></label>
+        <name>fs_companyName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Company Size --></label>
+        <name>fs_companySize__c</name>
+        <picklistValues>
+            <masterLabel>Large Business</masterLabel>
+            <translation><!-- Large Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Business</masterLabel>
+            <translation><!-- Small Business --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Manager --></label>
+        <name>fs_enrollmentManager__c</name>
+    </fields>
+    <fields>
+        <label><!-- Behaviorals Explanation --></label>
+        <name>fs_independentClassificationExplanation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Marketing URL --></label>
+        <name>fs_marketingURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Qualification Result --></label>
+        <name>fs_qualificationResult__c</name>
+        <picklistValues>
+            <masterLabel>Failed</masterLabel>
+            <translation><!-- Failed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Incomplete</masterLabel>
+            <translation><!-- Incomplete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Passed</masterLabel>
+            <translation><!-- Passed --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Result Reasons --></label>
+        <name>fs_resultReasons__c</name>
+        <picklistValues>
+            <masterLabel>Client Cancelled Project</masterLabel>
+            <translation><!-- Client Cancelled Project --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elected to go Exec</masterLabel>
+            <translation><!-- Elected to go Exec --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Stopped Responding</masterLabel>
+            <translation><!-- Stopped Responding --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Walked Away From Project</masterLabel>
+            <translation><!-- Walked Away From Project --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Went Direct</masterLabel>
+            <translation><!-- Went Direct --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Went Direct With Client</masterLabel>
+            <translation><!-- Went Direct With Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Went Exec</masterLabel>
+            <translation><!-- Went Exec --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Went Staff</masterLabel>
+            <translation><!-- Went Staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Went Sub</masterLabel>
+            <translation><!-- Went Sub --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Company Lead --></label>
+        <name>rs_companyContact__c</name>
+        <relationshipLabel><!-- Qualifications --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Qualification Advisor --></label>
+        <name>rs_qualificationAdvisor__c</name>
+        <relationshipLabel><!-- Qualifications --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- W-2 Worker(s) Names --></label>
+        <name>workerNames__c</name>
+    </fields>
+    <layouts>
+        <layout>Annual</layout>
+        <sections>
+            <label><!-- Company Information --></label>
+            <section>Company Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Insurances --></label>
+            <section>Insurances</section>
+        </sections>
+        <sections>
+            <label><!-- Workers --></label>
+            <section>Workers</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Enrollment Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Insurances --></label>
+            <section>Insurances</section>
+        </sections>
+        <sections>
+            <label><!-- Large Business --></label>
+            <section>Large Business</section>
+        </sections>
+        <sections>
+            <label><!-- Qual-Wid1 --></label>
+            <section>Qual-Wid1</section>
+        </sections>
+        <sections>
+            <label><!-- Small Business --></label>
+            <section>Small Business</section>
+        </sections>
+        <sections>
+            <label><!-- Worker(s) --></label>
+            <section>Worker(s)</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Qualification Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Insurances --></label>
+            <section>Insurances</section>
+        </sections>
+        <sections>
+            <label><!-- Qual-Wid1 --></label>
+            <section>Qual-Wid1</section>
+        </sections>
+        <sections>
+            <label><!-- Small Business --></label>
+            <section>Small Business</section>
+        </sections>
+        <sections>
+            <label><!-- Worker(s) --></label>
+            <section>Worker(s)</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Annual --></label>
+        <name>Annual</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Enrollment --></label>
+        <name>Enrollment</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- New SOW --></label>
+        <name>New_SOW</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please set an expiration --></errorMessage>
+        <name>Auto_Expiration</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set an expiration --></errorMessage>
+        <name>CrimeFidelity_Expiration</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set an expiration --></errorMessage>
+        <name>EL_Expiration</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set an expiration --></errorMessage>
+        <name>ExcessUmbrella_Expiration</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set an expiration --></errorMessage>
+        <name>GL_Expiration</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set an expiration --></errorMessage>
+        <name>Other_Expiration</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set an expiration --></errorMessage>
+        <name>PL_Expiration</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please select an available Result Reason --></errorMessage>
+        <name>Require_Reason</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please enter the names of the W-2 workers --></errorMessage>
+        <name>W2_Name_Required</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set an expiration --></errorMessage>
+        <name>WC_Expiration</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please enter the names of the 1099 workers --></errorMessage>
+        <name>x1099_Names_Required</name>
+    </validationRules>
+</CustomObjectTranslation>

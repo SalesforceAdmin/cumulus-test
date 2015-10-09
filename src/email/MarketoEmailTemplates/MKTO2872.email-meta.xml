@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CEQ Q4</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Client}}, your Q4 Contractor Engagement Quarterly is here</subject>
+    <textOnly>THE TWO SIDES OF MBO PARTNERS: THINGS MAY NOT ALWAYS BE WHAT THEY SEEM
+
+For a variety of reasons this past year, I have begun to look differently at MBO Partners. Part of the reason is that I tend to be curious about “contingent workforce intermediation businesses” in general, and especially those that don’t seem to conform to the norm... Read More  &lt;http://www.staffingindustry.com/Research-Publications/Blogs/Andrew-Karpie-s-Blog/The-Two-Sides-of-MBO-Partners-Things-May-Not-Always-Be-What-They-Seem2&gt;
+
+RECENT RECLASSIFICATION CASES: THE 70,000 POUND GORILLA IN THE ROOM
+
+I recently found myself in front of the TV unable to turn off King Kong. Not the jittery original version or the tedious high-tech bust from a few years ago, but that semi-appealing 70s melodrama... Read More  &lt;http://www.mboenterprise.com/blog/recent-reclassification-cases-70000-pound-gorilla-room&gt;
+
+THE STATE OF THE LABOR MARKET: 3 REVELATIONS
+
+After speaking with leaders in the business community, self-employed workers and the heads of Federal agencies, I saw that there was more going on than what could be expressed in one sound bite... Read More  &lt;http://www.mboenterprise.com/blog/state-labor-market-3-revelations&gt;
+
+THE GREATEST MYTH OF INDEPENDENT CONSULTING
+ 
+
+In case you haven’t seen it, MBO Partners released the third annual State of Independence in America workforce research report. The report contains... Read More &lt;http://www.mboenterprise.com/blog/greatest-myth-independent-consulting#overlay-context=blog/3-big-takeaways-sia2013&gt;
+
+FEATURED WEBINAR
+Sourcing Talent for 2013 and Beyond: Whose Job is it, Anyway? &lt;http://info.mbopartners.com/Oct29Webinar-SourcingTalent.html&gt;
+Tuesday, October 29, 2013 1:00 p.m. ET
+
+INFOGRAPHIC
+America&apos;s Independents: Self-Employed, Successful and Stimulating the Economy &lt;http://www.mbopartners.com/state-of-independence/americas-self-employed.html&gt;
+
+NEWS
+Freelancers Are Getting Pulled Into Worker Misclassification Fights &lt;http://www.businessweek.com/articles/2013-10-22/freelancers-are-getting-pulled-into-worker-misclassification-fights&gt;, Bloomberg Businessweek
+
+The Top 6 Reasons Independent Work is Here to Stay &lt;http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/18/the-top-6-reasons-independent-work-is-here-to-stay&gt;, U.S. News and World Report
+
+BLOGS
+3 Big Takeaways from #SIA2013 &lt;http://www.mboenterprise.com/blog/3-big-takeaways-sia2013&gt;
+
+Top Five Reasons to Use an ICES (In Graphic Detail) &lt;http://www.mboenterprise.com/blog/top-five-reasons-use-ices-graphic-detail&gt;
+© 2012 MBO Partners. 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171</textOnly>
+    <type>custom</type>
+</EmailTemplate>

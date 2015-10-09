@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Created by Marcelle Saab Email to be sent to early adopters</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Early Adopter Blast.Early Adopters</name>
+    <style>none</style>
+    <subject>MBO Partners Has Selected You to Be an Early Adopter</subject>
+    <textOnly>Dear {{lead.First Name:default=MBO Associate}},
+
+My name is Marcelle Saab, and I’m responsible for making sure MBO Partners is investing in the right efforts and programs to serve our elite associate base better.
+
+I’d like you to be the first to know that MBO Partners is launching a new, free networking platform, to be called MBO Access. Through the recommendation of the company’s business manager team, you are one of just 50 Associates selected to participate as an Early Adopter. We believe that you can both benefit from this tool, and that your early feedback can help the entire community of elite associates gain even more from the MBO business relationship.
+ 
+What is MBO Access?
+
+MBO Access was built to enable you, the Associate, to better and more easily and efficiently find like-minded or connected members that can initiate the path to your next project. MBO Access also will provide you with an invitation-only, exclusive platform to network with other Associates, Alumni, and with major MBO Clients, to learn about projects and various opportunities – targeted to your specific industries and geographical locations.
+
+A three-month study commissioned by MBO conducted prior to the development of MBO Access, revealed that the path to a new project is typically driven by a personal introduction to someone with contacts in the right field or company. From this key insight, we invested in creating a program tailored specifically for you.
+
+MBO Access will give you the ability to:
+
+- Connect with fellow Associates with similar skills and expertise
+- Learn vital information about and connect with MBO clients of interest
+- Follow/subscribe to interesting content
+- Search through and submit interest in relevant projects
+- Learn from Industry experts
+- Start discussions on topics of interest with other Associates
+- Take advantage of exclusive corporate perks
+- Connect with a Talent Agent to assist in finding your next opportunity
+- Call on a Talent Resource to assist in finding your next opportunity
+- Call on a Talent Resource to assist with various tasks
+- Share projects and opportunities with your connections and the community
+- Join a group with like-minded professionals
+- Learn which connections are affiliated with clients that interest you
+
+What are my duties if I decide to become an Early Adopter?
+
+As an Early Adopter, you will be expected to:
+
+- Explore MBO Access, and give the MBO team general feedback about your experience - Your feedback will be given high priority and likely have a part in shaping the system
+- Connect with other Associates, and Clients
+- Subscribe to content that interests you
+- Join or start a group based on your Industry and Function
+- Start discussions about topics that you are passionate about
+- Share projects or opportunities that you are aware of
+
+MBO cares about you, the associate, and has invested dollars and time in delivering an industry-leading platform to help you succeed, at no incremental cost to you. Can you help us determine if we’re on track?
+
+Please reply to this email by 1/18/2012 or call me directly at 703-793-6006 if you are interested in participating. I will also be following up to confirm interest in this exclusive opportunity. MBO Partners thanks you for being a valued associate, and I personally look forward to your involvement and contributions within MBO Access!
+
+Best Regards,
+___________________________________
+Marcelle Saab
+Program Manager, Associate Retention
+MBO Partners
+ 
+t: 703.793.6006
+f: 703.793.6084
+e: msaab@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

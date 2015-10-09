@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Prospect Email Blast</name>
+    <style>none</style>
+    <subject>Ready to charge $300 an hour? Visit MBO’s new and improved bill rate calculator and guide</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+We have some exciting news here at MBO Partners. One of our most popular tools, the bill rate calculator &lt;http://www.mbopartners.com/#billrate&gt;, has been upgraded! We have made it easier for you to find the hourly rate you should be charging your clients.
+
+Check it out today and you’ll have the opportunity to download the new 20-page bill rate resource guide!
+
+We also launched a monthly Independent Consulting Brief &lt;http://www.mbopartners.com/independent-consulting-brief&gt; this past April, which is a great way to stay up-to-date on our webinar schedules, blogs, events and more.
+ 
+Regards,
+ {{lead.EM FName:default=Steve}}
+___________________________________
+{{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}}
+
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703-793-6000
+
+f: 703-793-6070
+e: {{lead.EM Email:default=sarhancet@mbopartners.com}} 
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

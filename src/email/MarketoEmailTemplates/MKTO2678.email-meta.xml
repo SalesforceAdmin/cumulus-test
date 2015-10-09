@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Jun25Webinar-Compliance.Thank You</name>
+    <style>none</style>
+    <subject>Thank You For Attending - Resources from our Compliance Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+Thank you for attending MBO&apos;s webinar titled &quot;Compliance Officer Training: The Refresher Course on IC Qualification&quot; held on Tuesday, June 25. Jay Lash, VP of Market Strategies at MBO Partners - Enterprise Solutions, hosted a conversation between legal expert Lonnie Goldman and Dave Cassar, MBO Partners VP of Operations, about helping Compliance Officers better understand the growing complexities and misconceptions surrounding of independent contractor classification.
+Below you will find links related to the presentation:
+       Webinar Recording &lt;http://video.mbopartners.com/players/v4uFa2n9-mMm4x1IW.html&gt;
+Webinar Slide Deck &lt;http://info.mbopartners.com/rs/mbo/images/2013-06-compliance-officer-training-webinar.ppsx&gt; &lt;http://sig.org/webinars.php&gt;
+       Connect with Jay &lt;http://www.linkedin.com/in/jaylash&gt;
+       Post-Webinar Survey &lt;http://www.surveymonkey.com/s/WJFYMPY&gt;  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

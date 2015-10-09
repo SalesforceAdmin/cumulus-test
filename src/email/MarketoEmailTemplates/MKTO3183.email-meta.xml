@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>IC Engage_March12_2014.Thank You Aug</name>
+    <style>none</style>
+    <subject>Thank you for attending - Resources from our Contractor Engagement webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+Thank you for attending our  “5 Steps to Risk-Free Independent Contractor Engagement&quot; webinar held on Wednesday, March 12. We discussed 5 actionable steps to cut misclassification risk, control contractor spend and build a program that keeps independent consultants happy and productive.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+       Recorded webinar &lt;http://video.mbopartners.com/players/ysvxaim0-mMm4x1IW.html&gt;
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/March%2012_14%20IC%20Engage_PDF.pdf&gt;
+       IC Engage Informational Brochure &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_IC_Engage_Brochure.pdf&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

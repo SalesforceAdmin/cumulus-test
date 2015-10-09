@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p>Dear {{lead.First Name:default=edit me}},</p>
+<p>Thank you for downloading the MBO Partners&rsquo; Bill Rate Resource Guide from ZDNet/Tech Republic. I hope that you found the material helpful with the difficult task of determining an appropriate consulting bill rate to charge clients.</p>
+<p>My name is {{lead.EM FName:default=edit me}}&nbsp;{{lead.EM LName:default=edit me}} and I am a Consultant Services Advisor at MBO Partners. For more than 25 years, our company has led the independent consulting sector in America. Our services make it easy for independent consultants and their clients to do business. We handle many of the administrative burdens that bog down consultants and their clients alike, freeing their time and energy to grow their businesses. To learn more, visit: <a title="MBO Partners" href="http://www.mbopartners.com/"><span style="color: blue;">www.mbopartners.com</span></a></p>
+<p>If you now have a bill rate established -- this may be a good time to talk with someone on my team one-on-one so we can help your business project a true net cash flow, or assist with other challenges facing your consulting practice. <a title="Cash Flow Estimate" href="http://info.mbopartners.com/rs/mbo/images/Sample_Consulting_CashFlow_Estimate.pdf"><span style="color: blue;">Click here</span></a> to get a preview of a sample estimate. You may simply book an appointment online here, {{lead.EM TTLink:default=edit me}}, to schedule a time <strong>to have a free, custom Cash Flow Estimate prepared for you</strong>.</p>
+<p>You may also wish to sign-up for our monthly <a title="ICB Registration" href="http://www.mbopartners.com/independent-consulting-brief"><span style="color: blue;">Independent Consulting Brief</span></a> to stay up to date on the many resources that we provide to the consulting marketplace.</p>
+<p>I wish you every success in growing or starting your own independent IT consulting business.</p>
+<div><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span></div>
+<div><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">{{lead.EM FName:default=edit me}}&nbsp;{{lead.EM LName:default=edit me}}</span></strong></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">Consultant Services Advisor </span></strong></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> {{lead.Lead Owner Phone Number:default=edit me}}</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">f:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 703.793.6068</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> {{lead.EM Email:default=edit me}}<a href="mailto:sconde@mbopartners.com"></a></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong><span style="color: #1f497d; font-family: 'Georgia','serif';"> </span><span style="color: #353433; font-family: 'Georgia','serif';"><a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></div>
+<div><span style="color: #1f497d; font-size: 10pt; font-family: 'Georgia','serif';">&nbsp;</span></div>
+<div><span style="color: #999999; font-size: 7pt; font-family: 'Georgia','serif';">Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.&nbsp; If you have received this email in error please notify <a href="mailto:postmaster@mbopartners.com"><span style="color: #999999;">postmaster@mbopartners.com</span></a> and permanently delete the e-mail and files.</span></div></span>
+</div>
+</body>
+</html>

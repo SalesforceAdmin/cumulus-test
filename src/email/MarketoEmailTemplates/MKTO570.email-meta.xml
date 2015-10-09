@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Follow Up (1325087326.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Follow Up (1325087326.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Dave,
+ 
+I wanted to follow up with you from our conversation regarding the services provided by MBO Partners that might help you when you start your next consulting contract.  How are things going? I hope you have found and are working on a project, and wanted to remind you that we may be a great resource to help maximize your income stream and reduce your stresses of operating a consulting practice.
+Here are a few tools that summarize our conversation from before:
+There are some webinars and videos we have created that might assist you in finding your next contract:http://www.mbopartners.com/mbo-partners-webcast-index
+MBO Partners continues to invest in being a leader for independent consultants across the country. I also wanted to share the news that we released a study you may be interested in. For the first time, there’s real hard facts about The State of Independence in America that will reveal not just how many millions of independent professionals there are in the country, but also the unique things that motivate them and help them stay happily independent. You may also look at some of the stories from indepdenents who use MBO Partners:http://info.mbopartners.com/meet-the-independents.html
+ 
+If you have questions before then, feel free to schedule a convenient time for you using my online schedule: https://my.timedriver.com/9TGRK
+ 
+Regards,
+Nicolette
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>Lead.fs_fullName__c</field>
+    </columns>
+    <columns>
+        <field>PHONE</field>
+    </columns>
+    <columns>
+        <field>EMAIL</field>
+    </columns>
+    <columns>
+        <field>Lead.Qualified_Grade__c</field>
+    </columns>
+    <columns>
+        <field>Lead.pi__score__c</field>
+    </columns>
+    <columns>
+        <field>Lead.pi__campaign__c</field>
+    </columns>
+    <columns>
+        <field>OWNER</field>
+    </columns>
+    <description>Qualification Grade A/B, Pardot Score over 124, Excludes Spam</description>
+    <filter>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>equals</operator>
+            <value>Customer Prospect</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.Qualified_Grade__c</column>
+            <operator>contains</operator>
+            <value>A,B</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.pi__score__c</column>
+            <operator>greaterThan</operator>
+            <value>124</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.fs_salesStatusReason__c</column>
+            <operator>notEqual</operator>
+            <value>Spam</value>
+        </criteriaItems>
+    </filter>
+    <format>Tabular</format>
+    <name>SQLs Owned By Customer Prospect Queue #2</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>LeadList</reportType>
+    <scope>org</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

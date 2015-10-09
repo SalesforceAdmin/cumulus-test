@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Jan10Web:Disrupt-Yourself.Thank You Jan10</name>
+    <style>none</style>
+    <subject>Thank You for Attending our Webinar on Career Disruption</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+Thank you for taking the time to attend our New Year webinar, “Disrupt Yourself: Four Rules for Reinventing Your Career in 2013.&quot; To follow-up on the information provided on Thursday, January 10th, please find links to reference resources below.
+       Recorded webinar &lt;http://www.mbopartners.com/webinar-disrupt-yourself-four-rules-reinventing-your-career-2013&gt;
+       Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO-Disrupt-Yourself-Webinar_Slides.pdf&gt;
+        &lt;http://www.mycoachingcircle.com/&gt;Featured Speaker Whitney Johnson Website &lt;http://www.whitneyjohnson.com/&gt;
+       Whitney&apos;s Book: Dare, Dream Do &lt;http://www.amazon.com/Dare-Dream-Do-Remarkable-Things/dp/1937134121&gt; 
+We invite you to sign-up &lt;http://info.mbopartners.com/2012SeriesSignUp.html&gt; to stay informed about future webinars in our series. If you have any topic recommendations or feedback, please email webinar@mbopartners.com &lt;mailto:webinar@mbopartners.com&gt;. 
+
+Thank you,
+MBO PARTNERS
+t: 1-800-220-0469
+
+e: info@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

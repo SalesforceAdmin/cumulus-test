@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Lead Nurturing.Value Prop 5</name>
+    <style>none</style>
+    <subject>Simple Tax Management for Independent Consultants</subject>
+    <textOnly>Are quarterly estimated tax filings a source of stress for your independent business?
+MBO Partners manages your business expenses so you get the immediate tax benefit each time you draw a paycheck. You pay taxes on your net earnings as you pay yourself, rather than estimating quarterlies. 
+That means no more &quot;shoe box&quot; of receipts to go through every time you file, a lower audit risk for your return and more money in your pocket.
+You can learn more about how MBO works here &lt;http://www.mbopartners.com/how-mbo-works&gt;.
+Email info@mbopartners.com &lt;mailto:info@mbopartners.com&gt; today to talk to a Consultant Services Advisor, or give us a call at 1-800-220-0469.
+___________________________________
+
+MBO Partners
+
+A Better Way for Independent Consultants to Do Business
+
+t: 1-800-220-0469
+
+e: info@mbopartners.com
+
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

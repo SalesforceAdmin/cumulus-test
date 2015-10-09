@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Bill Rate Result</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Bill Rate Results</value>
+    </caseValues>
+    <fields>
+        <label><!-- Annual Bill Rate --></label>
+        <name>Annual_Bill_Rate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Annual Expenses --></label>
+        <name>Annual_Expenses__c</name>
+    </fields>
+    <fields>
+        <label><!-- Annual Hours --></label>
+        <name>Annual_Hours__c</name>
+    </fields>
+    <fields>
+        <label><!-- Annual Income --></label>
+        <name>Annual_Income__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate --></label>
+        <name>Associate__c</name>
+        <relationshipLabel><!-- Bill Rate Results --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Fed Tax Amount --></label>
+        <name>Fed_Tax_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Gross Margin --></label>
+        <name>Gross_Margin__c</name>
+    </fields>
+    <fields>
+        <label><!-- Profit Annual Billings --></label>
+        <name>Profit_Annual_Billings__c</name>
+    </fields>
+    <fields>
+        <label><!-- Profit Annual Income --></label>
+        <name>Profit_Annual_Income__c</name>
+    </fields>
+    <fields>
+        <label><!-- Profit Fed Tax Amount --></label>
+        <name>Profit_Fed_Tax_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Profit Hourly Rate --></label>
+        <name>Profit_Hourly_Rate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Profit Margin --></label>
+        <name>Profit_Margin__c</name>
+    </fields>
+    <fields>
+        <label><!-- Profit State Tax Amount --></label>
+        <name>Profit_State_Tax_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Prospective Associate --></label>
+        <name>Prospective_Associate__c</name>
+        <relationshipLabel><!-- Bill Rate Results --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- State Tax Amount --></label>
+        <name>State_Tax_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- State Tax Rate --></label>
+        <name>State_Tax_Rate__c</name>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State__c</name>
+    </fields>
+    <fields>
+        <label><!-- Target Bill Rate --></label>
+        <name>Target_Bill_Rate__c</name>
+    </fields>
+    <layouts>
+        <layout>Bill Rate Result Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

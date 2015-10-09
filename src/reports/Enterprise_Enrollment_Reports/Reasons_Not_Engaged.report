@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>OWNER</field>
+    </columns>
+    <columns>
+        <field>FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>Lead.Associate_Status__c</field>
+    </columns>
+    <columns>
+        <field>STATUS</field>
+    </columns>
+    <columns>
+        <field>Lead.Sub_Status__c</field>
+    </columns>
+    <columns>
+        <field>Lead.fs_salesStatusReason__c</field>
+    </columns>
+    <columns>
+        <field>Lead.Referring_Client__c</field>
+    </columns>
+    <columns>
+        <field>CREATED_DATE</field>
+    </columns>
+    <description>Created for QBR data</description>
+    <filter>
+        <criteriaItems>
+            <column>Lead.Referring_Client__c</column>
+            <operator>equals</operator>
+            <value>SAE International</value>
+        </criteriaItems>
+    </filter>
+    <format>Tabular</format>
+    <name>Reasons Not Engaged</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>LeadList@Lead.Enrollment_Manager__c</reportType>
+    <scope>org</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <endDate>2014-07-31</endDate>
+        <interval>INTERVAL_CUSTOM</interval>
+        <startDate>2012-01-01</startDate>
+    </timeFrameFilter>
+</Report>

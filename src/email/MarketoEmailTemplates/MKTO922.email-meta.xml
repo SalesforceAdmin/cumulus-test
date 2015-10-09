@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Not Interested.1 Not Interested</name>
+    <style>none</style>
+    <subject>MBO Partners / {{lead.Full Name:default=edit me}}</subject>
+    <textOnly>Dear {{lead.First Name:default=edit me}},
+
+We noticed that you recently visited our website from our  conversation some time ago regarding our services.  As a courtesy I  wanted to personally reach out and offer any assitance I can to help you  find the answers you might be looking for.  You may easily book a time  convienent for you in my online schedule by going here {{lead.EM TTLink:default=https://my.timedriver.com/C9CPC}}.
+
+Regards,
+
+{{lead.EM FName:default=Steve}}
+___________________________________
+{{lead.Lead Owner First Name:default=Steve}} {{lead.Lead Owner Last Name:default=Arhancet}}
+{{lead.Lead Owner Job Title:default=Director, Consultant Services}}
+MBO Partners
+
+t: {{lead.Lead Owner Phone Number:default=703.793.6011}}
+f: 703.793.6081
+e: {{lead.Lead Owner Email Address:default=sarhancet@mbopartners.com}}
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>5Apr13Web:Gen-X.We Missed You Feb21</name>
+    <style>none</style>
+    <subject>Since You Missed it - Resources from our Gen X Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+
+You were missed at our “Working to Live, Not Living to Work: Five Insights into the Gen X Workforce&quot; webinar held on Thursday, April 4. Steve King and Carolyn Ockels, Partners at Emergent Research, explained how Gen X is leading the move to independent work in America. Although you were not able to attend, we appreciate your interest.
+Below you will find links to the webinar resources. We hope you find them informative:
+       Recorded webinar &lt;http://f5159bf2f10bd6337d85-21700ed84a5e5d3baebf7221604c63ee.r66.cf2.rackcdn.com/2013-04-04-Working_to_Live_Not_Living_to_Work.mp4&gt; 
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Gen_X_Webinar_Slides.pptx&gt;
+       Gen X Report PDF &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_2013_Gen-X_Report.pdf&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

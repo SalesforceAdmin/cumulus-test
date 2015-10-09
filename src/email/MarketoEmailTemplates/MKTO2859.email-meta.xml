@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Oct29Webinar-SourcingTalent.Invite 1</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Compliance Officer}}, your talent sourcing webinar invitation</subject>
+    <textOnly>{{lead.First Name:default=Compliance Officer}},
+
+Companies are inventing innovative ways to engage the growing number of expert contractors in America. How are they doing it?
+
+In our next webinar &lt;http://info.mbopartners.com/Oct29Webinar-SourcingTalent.html&gt;, we have invited two talent acquisition specialists, joining host Jay Lash, to discuss this trend. Joining Jay is MaryAnne Garcia, Sr. Manager of Recruiting from Insight Enterprises, Inc., and Alie Degon, serial technology entrepreneur and executive recruiter in the Seattle, Washington area. Using data from the latest MBO State of Independence Report, Aberdeen Group and other research, our panelists will give you their perspective on expert recruiting techniques.
+
+Register today! &lt;http://info.mbopartners.com/Oct29Webinar-SourcingTalent.html&gt;
+___________________________________
+Jay Lash
+VP, Market Strategies
+ MBO Partners
+ 
+
+ e: entcommunications@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

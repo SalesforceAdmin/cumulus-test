@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The invitation to the HCI Webinar</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>16May2012:HCI Webinar.HCI Webinar 16May2012 Invite</name>
+    <style>none</style>
+    <subject>Engaging Independent Contractors: Whose Role Is It, Procurement or HR or Both?</subject>
+    <textOnly>Independent consultants are becoming a more strategic component of the  workforce plan, but is it a vendor sourcing task or a talent acquisition  task? Please join me at this webinar where we will discuss how and why  collaboration between HR and Procurment is critical when you engage  independent consultants.
+
+Engaging Independent Contractors: Whose role is it, Procurement or HR or Both? &lt;http://lists.humancapitalinstitute.org/lt.php?c=6248&amp;m=4066&amp;nl=2&amp;s=da97b71df56065174e8f3296c674d15b&amp;lid=141788&amp;l=-http--www.hci.org/cfe/track/independent-contractor-engagement&gt;
+
+
+DATE/TIME:
+Wednesday, May 16, 2012 | 12:00 pm EDT
+
+
+PRESENTER:
+Debra Berns,
+Deputy General Counsel, Employment 
+ &amp; Benefits, UnitedHealth Group Inc.
+
+Ann Odehnal,
+Staff VP, Talent Management, WellPoint, Inc.
+
+Chris Dwyer,
+Senior Analyst, Aberdeen Group, Inc.
+
+Jay Lash,
+VP of Market Strategies, MBO Enterprise Solutions
+
+
+UNDERWRITER:
+MBO Enterprise Solutions &lt;http://lists.humancapitalinstitute.org/lt.php?c=6248&amp;m=4066&amp;nl=2&amp;s=da97b71df56065174e8f3296c674d15b&amp;lid=141788&amp;l=-http--www.hci.org/cfe/track/independent-contractor-engagement&gt;
+
+
+Do HR and Procurement leaders talk about independent contractors in their organizations? For the sake of legal risks, optimal performance, and business strategy execution, they should.
+
+Thank you,
+Jay Lash</textOnly>
+    <type>custom</type>
+</EmailTemplate>

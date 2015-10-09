@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " ><span class="mktEditable" id="edit_text" ><div id="14924" class="mktEditable">
+<p>Hello {{lead.First Name:default=Sir/Maddam}},<br /><br />Join me on {{my.date2:default=edit me}} to learn how to calculate your bill rate -- or hourly rate for services. In this hour-long webinar, you will see an overview of the possible approaches to calculating your bill rate. Then, you will learn step-by-step directions on&nbsp;the cost-based pricing method.</p>
+<p>&nbsp;</p>
+<p>{{my.title:default=edit me}} also will include the story of a real-life MBO associate's approach to calculating the right personal rate.</p>
+<p>&nbsp;</p>
+<p>Join us on {{my.date2:default=edit me}}, from 12:30-1:30 pm EST.</p>
+<p>&nbsp;</p>
+<p><a href="http://info.mbopartners.com/Calculating-Bill-Rate.html" target="_blank">Register today!</a></p>
+<p>&nbsp;</p>
+<p>I look forward to discussing this topic further with you.</p>
+<p>&nbsp;</p>
+<p>Regards,</p>
+<p>&nbsp;</p>
+<p>{{my.advisor:default=Steve}}</p>
+</div></span>
+</div>
+<div><span style="font-family: 'Georgia','serif'; color: #999999; font-size: 10pt;">___________________________________</span></div>
+<div><strong><span style="font-family: georgia,palatino; color: #a00b10; font-size: 10.5pt;">{{lead.Lead Owner First Name:default=Steve}} {{lead.Lead Owner Last Name:default=Arhancet}}</span></strong></div>
+<div><strong><span style="font-family: georgia,palatino; color: #353433; font-size: 10.5pt;">{{lead.Lead Owner Job Title:default=Director, Consultant Services}}</span></strong></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;">MBO Partners</span></div>
+<br>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>t:</strong> {{lead.Lead Owner Phone Number:default=703.793.6011}}</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>f:</strong> 703.793.6081</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>e:</strong> {{lead.Lead Owner Email Address:default=sarhancet@mbopartners.com}}</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>w:</strong> <a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></div>
+</body>
+</html>

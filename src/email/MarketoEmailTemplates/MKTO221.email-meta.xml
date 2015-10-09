@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Insurance Question (1316800712.0)</name>
+    <style>none</style>
+    <subject>Insurance Question (1316800712.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Sue,
+ 
+You have 31 days from the date you were activated, which was 09/16/2011 to elect your benefits. If you do not do it during this time frame then you can do it during open enrollment in December, so it is activated on Jan 1st, 2011.
+ 
+Regards,
+ 
+Steve</textOnly>
+    <type>custom</type>
+</EmailTemplate>

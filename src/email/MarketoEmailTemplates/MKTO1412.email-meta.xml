@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The email that will go out to leads from the ZDNet campaign. Garrett Zaino OBO Steve Arhancet. 5/22/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ZDNet.ZDNet Reach out</name>
+    <style>none</style>
+    <subject>Another Free Resource For You: Consulting Cash Flow Estimate</subject>
+    <textOnly>Dear {{lead.First Name:default=edit me}},
+
+Thank you for downloading the MBO Partners’ Bill Rate Resource Guide from ZDNet/Tech Republic. I hope that you found the material helpful with the difficult task of determining an appropriate consulting bill rate to charge clients.
+
+My name is {{lead.EM FName:default=edit me}} {{lead.EM LName:default=edit me}} and I am a Consultant Services Advisor at MBO Partners. For more than 25 years, our company has led the independent consulting sector in America. Our services make it easy for independent consultants and their clients to do business. We handle many of the administrative burdens that bog down consultants and their clients alike, freeing their time and energy to grow their businesses. To learn more, visit: www.mbopartners.com 
+
+If you now have a bill rate established -- this may be a good time to talk with someone on my team one-on-one so we can help your business project a true net cash flow, or assist with other challenges facing your consulting practice. Visit &lt;http://info.mbopartners.com/rs/mbo/images/Sample_Consulting_CashFlow_Estimate.pdf&gt; to get a preview of a sample estimate. You may simply book an appointment online here, {{lead.EM TTLink:default=edit me}}, to schedule a time to have a free, custom Cash Flow Estimate prepared for you.
+
+You may also wish to sign-up for our monthly Independent Consulting Brief, http://www.mbopartners.com/independent-consulting-brief, to stay up to date on the many resources that we provide to the consulting marketplace.
+
+I wish you every success in growing or starting your own independent IT consulting business.
+___________________________________
+{{lead.EM FName:default=edit me}} {{lead.EM LName:default=edit me}}
+Consultant Services Advisor 
+MBO Partners
+ 
+t: {{lead.Lead Owner Phone Number:default=edit me}}
+f: 703.793.6068
+e: {{lead.EM Email:default=edit me}} 
+w: www.mbopartners.com 
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

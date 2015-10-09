@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1324339497.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1324339497.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          John,
+ 
+It was a pleasure speaking with you.  I’ve enclosed a few things as summary to our call:
+ 
+Link to our true group benefits: http://www.mbopartners.com/mbo-exec-group-benefits-2012Link to a summary of the value of using MBO Partners: http://info.mbopartners.com/rs/mbo/images/Welcome_to_MBO_Partners.pdfLink to a video about How We Help Independent Consultants:http://www.youtube.com/watch?v=zKDzwSTmGv4&amp;hd=1
+Link to the most common types of non-billable expenses you can submit to us: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_List.pdfOur Full Expense Policy: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_Policy.pdf
+Using MBO Partners versus working on a 1099 basis:http://info.mbopartners.com/rs/mbo/images/MBO_Partners_vs_1099_Comparison.pdf
+You may also look at some of the stories from independents who use MBO Partners:http://info.mbopartners.com/meet-the-independents.html
+ 
+I will follow up with you as promised, if you have questions before then, feel free to schedule a convenient time using my online schedule: https://my.timedriver.com/C9CPC.
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

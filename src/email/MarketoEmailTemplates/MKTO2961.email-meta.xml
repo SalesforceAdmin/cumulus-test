@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>12DecWeb-ACA.Invite 1</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, webinar on how Obamacare affects self-employed professionals</subject>
+    <textOnly>Please join us on Thursday, December 12 at 1 p.m. ET, when we will hold a webinar titled &quot;The Affordable Care Act: What Independent Workers Need to Know &lt;http://www.mbopartners.com/webinars/2013/affordable-care-act-what-independent-workers-need-know&gt;.&quot;
+
+With all the news stories and media confusion relating to the new Affordable Care Act, it&apos;s easy for independent consultants to get lost in the shuffle. 
+That&apos;s why MBO CEO Gene Zaino and VP of Business Development Dave Putt are cutting through the noise in MBO&apos;s next webinar. Learn how the new policies affect you and your solo business, and have your ACA questions answered by the experts. 
+Register today &lt;http://www.mbopartners.com/webinars/2013/affordable-care-act-what-independent-workers-need-know&gt;!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

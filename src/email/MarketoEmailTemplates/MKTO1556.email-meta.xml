@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: My work inappropriate email of the day... (1339530630.0)</name>
+    <style>none</style>
+    <subject>RE: My work inappropriate email of the day... (1339530630.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Haha love it! From: Heather White 
+Sent: Tuesday, June 12, 2012 3:13 PM
+To: Sara Conde; Jonathan Lochhaas; Bruce Bentley; Garrett Zaino; Jason Patterson
+Subject: My work inappropriate email of the day... Heather WhiteManager, Interactive SolutionsMBO Partners t. 703.793.6378m. 571.276.8025f. 703.793.6070e. hwhite@mbopartners.com &lt;mailto:hwhite@mbopartners.com&gt;w. www.mbopartners.com &lt;http://www.mbopartners.com&gt; </textOnly>
+    <type>custom</type>
+</EmailTemplate>

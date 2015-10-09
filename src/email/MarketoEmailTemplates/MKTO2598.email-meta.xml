@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Lead Email 5</name>
+    <style>none</style>
+    <subject>The Independents Guide from MBO Partners: Calculate Your Bill Rate</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+How long has it been since you evaluated how much you are billing your clients? To help you stay up-to-date, MBO Partners presents How Much Should I Charge &lt;http://www.mbopartners.com/independents-guide/plan/how-much-should-i-charge&gt;? This 22-page downloadable guide will provide both basic information and advanced techniques for setting the perfect bill rate.
+
+ 
+
+
+This is another part of our fast-growing Independent&apos;s Guide &lt;http://www.mbopartners.com/independents-guide&gt;, the online library of educational content for independent workers. 
+
+Please don’t hesitate to contact MBO Partners if you have questions or suggestions for new content.
+___________________________________
+MBO Partners
+t: 703-793-6000
+ e: info@mbopartners.com &lt;mailto:info@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

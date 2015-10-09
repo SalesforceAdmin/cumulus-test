@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>A junction object between Clients and Associates; used to show which clients and associates have worked together; used by the connection center</description>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Active__c</fullName>
+        <description>Updated by Business Center, Pushed to Access.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>1 = 1 or more WOs between specific Associate and Client are &apos;active&apos;;
+0 = all else</inlineHelpText>
+        <label>Active</label>
+        <precision>3</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>AssociateFName__c</fullName>
+        <externalId>false</externalId>
+        <formula>Associate__r.FirstName</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Associate First Name</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>AssociateID__c</fullName>
+        <externalId>false</externalId>
+        <formula>Associate__r.Associate_Number__c</formula>
+        <label>Associate ID</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>AssociateLName__c</fullName>
+        <externalId>false</externalId>
+        <formula>Associate__r.LastName</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Associate Last Name</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Associate__c</fullName>
+        <description>Displays the associate for this engagement; used by the connection center</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The associate for this engagement</inlineHelpText>
+        <label>Associate</label>
+        <lookupFilter>
+            <active>true</active>
+            <errorMessage>Associate must be direct or client referred</errorMessage>
+            <filterItems>
+                <field>Contact.Account.RecordTypeId</field>
+                <operation>equals</operation>
+                <value>Client Referred Associate, Direct Associate</value>
+            </filterItems>
+            <isOptional>false</isOptional>
+        </lookupFilter>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>Clients</relationshipLabel>
+        <relationshipName>Clients</relationshipName>
+        <relationshipOrder>1</relationshipOrder>
+        <reparentableMasterDetail>false</reparentableMasterDetail>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MasterDetail</type>
+        <writeRequiresMasterRead>false</writeRequiresMasterRead>
+    </fields>
+    <fields>
+        <fullName>City__c</fullName>
+        <description>Text (255) field used to display the city of the work order - inserted/updated from MBO</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Please enter the city for this work order</inlineHelpText>
+        <label>City</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>ClientName__c</fullName>
+        <description>This field is used to display the text version of the clients name; used in the connection center</description>
+        <externalId>false</externalId>
+        <formula>Client__r.Name</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Client Name</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Client__c</fullName>
+        <description>Displays the client for this engagement; used by the connection center</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The client for this engagement</inlineHelpText>
+        <label>Client</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Associates</relationshipLabel>
+        <relationshipName>Associates</relationshipName>
+        <relationshipOrder>0</relationshipOrder>
+        <reparentableMasterDetail>false</reparentableMasterDetail>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MasterDetail</type>
+        <writeRequiresMasterRead>false</writeRequiresMasterRead>
+    </fields>
+    <fields>
+        <fullName>CompanyID__c</fullName>
+        <externalId>false</externalId>
+        <formula>Client__r.Company_Number__c</formula>
+        <label>Company ID</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Country__c</fullName>
+        <description>Text (255) field used to display the Country of the Work Order - imported/updated from MBO</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Please select the Country of the work Order</inlineHelpText>
+        <label>Country</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>EndDate__c</fullName>
+        <description>Date field displays the end date of the work order - inserted or updated from MBO</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Please select the Work Order End Date</inlineHelpText>
+        <label>End Date</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>MBORecordID__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <externalId>true</externalId>
+        <label>MBO Record ID</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
+        <fullName>StartDate__c</fullName>
+        <description>Date field used to display the start date of the work order - updated/inserted by MBO</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Please select the Work order start date</inlineHelpText>
+        <label>Start Date</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>State__c</fullName>
+        <description>Text (255) fields used to display the state for the work order - inserted/updated from MBO</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Please select the State for the Work Order</inlineHelpText>
+        <label>State</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>Engagement</label>
+    <nameField>
+        <displayFormat>E-{000000}</displayFormat>
+        <label>Engagement Number</label>
+        <trackHistory>false</trackHistory>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Engagements</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ControlledByParent</sharingModel>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <fullName>syncUpdate_active</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          ISCHANGED( Active__c )
+)</errorConditionFormula>
+        <errorDisplayField>Active__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_associate</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          ISCHANGED(Associate__c )
+)</errorConditionFormula>
+        <errorDisplayField>Associate__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_client</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          ISCHANGED(Client__c )
+)</errorConditionFormula>
+        <errorDisplayField>Client__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+</CustomObject>

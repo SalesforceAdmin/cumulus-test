@@ -1,0 +1,16 @@
+@isTest
+global class MockHttpResponseGeneratorSanchivan implements HttpCalloutMock{
+
+    // Implement this interface method
+    global HTTPResponse respond(HTTPRequest req) {
+    	// Create a fake response
+        HttpResponse res = new HttpResponse();
+        res.setHeader('Content-Type', 'application/json');
+        
+        String jiveResponse = '{\"type\":\"person\",\"displayName\":\"testing\",\"jive\":{\"username\":\"testings\",\"profile\":[{\"value\":\"President&CEO,MBOPartners2\",\"jive_label\":\"Title\"},{\"value\":\"11/06/2011\",\"jive_label\":\"JoinDate\"},{\"value\":\"LivedinNYformostofmylifeandthenmovedtotheDCareainthelate90s.BackgroundismostlyentrepreneurialwithsomeformalFinance,AccountingandBusinesstraining.NowIamfocusedonmakingiteasierthaneveryforpeopletotakecontrolandbuildtheirownindependentcareerandbusinesswithMBOPartners.\",\"jive_label\":\"Biography\"},{\"value\":\"ContractTalentmanagement,Entrepreneurship,GeneralBusinessConsulting,ManagementandFinance.\",\"jive_label\":\"Expertise\"},{\"value\":\"IamanentrepreneurwholovestobuildcompaniesandnowIcanhelpothersbuildasuccessfulbusinessesoftheirown.Itssorewarding.\",\"jive_label\":\"Whatdoyoudo?\"},{\"value\":\"Isurroundmyselfwithgreatpeople,challengethem,guidethem,supportthembutletthemowntheirowntheircontributionstotheteam.\",\"jive_label\":\"MyStyle\"},{\"value\":\"http://www.mbopartners.com\",\"jive_label\":\"Website\"},{\"value\":\"\",\"jive_label\":\"BusinessManager\"},{\"value\":\"http://www.facebook.com/genezaino\",\"jive_label\":\"Facebook\"},{\"value\":\"http://www.linkedin.com/in/genezaino\",\"jive_label\":\"LinkedIn\"},{\"value\":\"https://twitter.com/#!/GeneZaino\",\"jive_label\":\"Twitter\"}]},\"resources\":{\"following\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/people/2010/@following\",\"allowed\":[\"GET\"]},\"followers\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/people/2010/@followers\",\"allowed\":[\"GET\"]},\"images\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/people/2010/images\",\"allowed\":[\"GET\",\"POST\"]},\"streams\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/people/2010/streams\",\"allowed\":[\"GET\",\"POST\"]},\"self\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/people/2010\",\"allowed\":[\"GET\",\"DELETE\",\"PUT\"]},\"html\":{\"ref\":\"https://uat.access.mbopartners.com/people/gzaino\",\"allowed\":[\"GET\"]},\"followingIn\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/people/2010/followingIn\",\"allowed\":[\"GET\"]},\"avatar\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/people/2010/avatar\",\"allowed\":[\"GET\"]},\"members\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/members/people/2010\",\"allowed\":[\"GET\"]},\"activity\":{\"ref\":\"https://uat.access.mbopartners.com/api/core/v3/people/2010/activities\",\"allowed\":[\"GET\"]}},\"id\":\"2010\"}\'';
+        
+        res.setBody(jiveResponse);
+        res.setStatusCode(200);
+        return res;
+    }
+}

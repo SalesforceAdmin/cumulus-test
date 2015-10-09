@@ -1,0 +1,13 @@
+Hello {!Receiving_User.FirstName},
+
+{!if(Opportunity.fs_accountFirstName__c!="", Opportunity.fs_accountFirstName__c,if(Opportunity.fs_pendingAssociateFirst__c!="",Opportunity.fs_pendingAssociateFirst__c,"MBO Associate"))} has successfully been assigned the following project: {!Opportunity.Name}.
+
+You may view the Work Market project here: {!Opportunity.fs_wmAssignmentURL__c}.
+
+And the Salesforce Opportunity here:
+https://na8.salesforce.com/{!Opportunity.Id}
+
+Please reach out to the associate to assist them in beginning their work; and working with the client if necessary.
+
+Best Regards,
+MBO Partners

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1313770193.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1313770193.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Kevin,
+ 
+It was a pleasure speaking with you.  I’ve enclosed a few things as summary to our call:
+ 
+Link to our benefits: http://www.mbopartners.com/mbo-exec-group-benefitsLink to a summary of the value of using MBO Partners: http://info.mbopartners.com/rs/mbo/images/Welcome_to_MBO_Partners.pdfLink to the most common types of non-billable expenses you can submit to us: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_List.pdfOur Full Expense Policy: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_Policy.pdf
+ 
+I will follow up with you as a courtesy, but feel free to email or call me should you have any questions.
+ 
+You can check me out at the MLG Event at www.mlgpro.com.  Your point of contact for next week will be Nicolette Taylor, I’ve cc’ed her on this email.  
+ 
+For us to prepare your net cash illustration please answer the following:
+ 
+1.       Monthly billing amount
+2.       State where most of the work will be provided
+3.       Average amount of non-billable expenses per month
+4.       Number of exemptions you would take on federal and state
+5.       Type of medical plan premium you want shown taken out
+6.       How much into 401k Roth and 401k Traditional (if you want that shown)
+ 
+Or just pick up the phone and call Nicolette and she can do this over the phone with you in 10 minutes.
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

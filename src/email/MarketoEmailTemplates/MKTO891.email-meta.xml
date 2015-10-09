@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Call Follow Up (1328196291.0)</name>
+    <style>none</style>
+    <subject>Call Follow Up (1328196291.0)</subject>
+    <textOnly>90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Tom,
+ 
+Hope you are doing well. I wanted follow up on my voicemail. When you have a moment could you give me a quick ring; I want  to touch base on 3 items:
+ 
+·         Sending in money to MBO for the payment of 50% of your deliverable (which you have already received from  you client)
+·         Discuss a few additional licensing questions.
+·         Get your client’s contact information (when you are ready.)
+ 
+Thanks Tom!
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

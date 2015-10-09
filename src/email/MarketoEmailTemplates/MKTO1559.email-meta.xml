@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email is an invitation to the Advisory Board</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ICEB Advisory Board Invitation</name>
+    <style>none</style>
+    <subject>Apply to Join MBO Partners&apos; Advisory Board</subject>
+    <textOnly>Dear {{lead.First Name:default=Executive Board Nominee}},
+
+ In our continuous efforts to provide our MBO Associates with optimal product and service solutions to succeed in their independent careers, we are pleased to announce an exciting new initiative!
+
+ We are developing an Independent Consultant Executive Board (ICEB), whose mission is to provide MBO Partners with valuable insight and advice that will have significant impact and influence on the company’s service levels, product development offerings, market intelligence, marketing strategies, and policies.  
+
+ We will be selecting 7 Associates, diverse in demographic, age, consulting career length, and occupation, to commit to the following:
+
+- 1 year or 18 month term
+ - Sign-off on Confidentiality and Non-compete
+ - Bi-Monthly meetings, which will generally last for approximately 2 hours (at least once in person per year); others Skype
+ - Participation in at least 80% of meetings
+ - Honest, informative and relevant contributions
+ - Preparation for each of the meetings (agenda to be mailed out one week prior to meeting)
+
+Minutes will be distributed within one week following meeting along with recommendations. Associates will be compensated $500 per meeting in attendance plus related expenses.  Participation in the ICEB will result in an elevated status as an Associate with access to privileged information and events. 
+
+ If you have an interest in participating, please click here &lt;https://mbopartners.us2.qualtrics.com/SE/?SID=SV_0ILSEtyQJB4iP3u&gt; to apply to be considered for the ICEB. We look forward to hearing from you!
+ 
+ Best Regards,
+
+___________________________________
+GENE ZAINO
+ President &amp; CEO
+ MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

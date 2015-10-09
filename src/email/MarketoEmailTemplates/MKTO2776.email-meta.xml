@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>26Sept13:SOI.Invite 2 SOI</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, your #SOI2013 research webinar reminder</subject>
+    <textOnly>Join us on September 26 at 1 p.m. ET, when we will hold a webinar titled &quot;The Future of Work: Self-Employed Workers Are America’s Hidden Growth Engine &lt;http://info.mbopartners.com/26Sept13SOI_RegistrationPage.html&gt;.&quot;
+
+In this hour-long webinar, MBO Partners&apos; CEO Gene Zaino will discuss the latest research on the self-employed workforce, from demographics to economic influence, with Steve King and Carolyn Ockels, Partners at Emergent Research.
+There will be plenty of time in the presentation for any questions you may have about this group that was not outlined in the full report.
+Register today &lt;http://info.mbopartners.com/26Sept13SOI_RegistrationPage.html&gt;!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

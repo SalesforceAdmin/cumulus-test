@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SIG Webcast October 2012.Follow-up</name>
+    <style>none</style>
+    <subject>Recording of recent SIG webinar you attended</subject>
+    <textOnly>Recording of recent SIG webinar you attended
+Hello {{lead.First Name:default=Attendee}},
+Thank you for attending the webinar, “Why Your Company Can&apos;t Afford to Get Independent Contractor Engagement Wrong,” presented by MBO Enterprise Solutions and hosted by the Sourcing Interests Group. We hope you found the event engaging and relevant.
+
+Following the event, several attendees requested a recording of the webinar and more information related to independent contractor trends. Below you will find a link to the recording and some additional educational information.
+
+•    Access a recording of the webinar by clicking here &lt;https://sourcinginterests.webex.com/sourcinginterests/lsr.php?AT=pb&amp;SP=EC&amp;rID=6012567&amp;rKey=9569ce5dd7559b37&gt;.
+•    MBO’s State of Independence in America &lt;http://www.mbopartners.com/state-of-independence/&gt; report, which includes year-over-year analysis of the Independent Workforce Index.
+•    A link to an article on the Association of Corporate Counsel web site, Top Ten Ways to Determine If You Have an Independent Contractor Compliance Issue: 
+Understanding and Recognizing Misclassification Risk.
+
+On behalf of SIG and the MBO, thank you for your time and interest in this important topic. Please consider us as a resource available to you for anything related to independent contractor compliance and engagement.
+
+Best regards,
+
+Steve
+___________________________________
+Steve Taggart
+Account Executive, Enterprise Solutions
+ MBO Partners
+
+t: 703.793.6014
+f: 703.793.6452
+e: staggart@mboenterprise.com &lt;mailto:staggart@mbopartners.com&quot;&gt;&lt;span style=&gt;
+w: www.mboenterprise.com &lt;http://www.mbopartners.com/&quot;&gt;&lt;span style=&gt;
+
+MBO Partners 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171
+
+Contact Us &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

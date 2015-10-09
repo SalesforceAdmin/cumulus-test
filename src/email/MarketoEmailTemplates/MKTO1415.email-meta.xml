@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Engagements In The Queue (1337718159.0)</name>
+    <style>none</style>
+    <subject>RE: Engagements In The Queue (1337718159.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Tom, So good to hear from you. I am sorry I have not gotten back to you yet, I have been in and out of meetings all day. I am excited that you have some prospects on the way – that’s great news! Let’s schedule a time to talk by using my online schedule by go here.   Until then, you may introduce me to your Best Practies PMP Training contact (Mark Tolbert) via email when you are ready and I will take it from there. I will not sign anything without your permssion and I will copy you on all communciations. Most people just say something like this:  Hi Mark, It’s my pleasure to introduce Sara Conde (copied above) who is my representtivie at MBO Partners. MBO handles my back office and billing and Sara will be in touch to discuss details with you. Thank you,Tom As far as ManTech goes, yes we have an MSA with them. You can have your contact email mantech@mbopartners.com when he is ready to submit you and have MBO sign the PO etc. We will take care of all the paperwork.  Again, I will ask your permission before signing. Looking forward to connecting with you!Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.  From: &lt;https://my.timedriver.com/8SLYS&gt; Tom Erickson [mailto:terickson@apnbok.com] 
+Sent: Tuesday, May 22, 2012 4:15 PM
+To: Sara Conde
+Subject: Engagements In The Queue Sara, This is a note to explain the message I left on your phone today. Things are looking up – a little.  A fellow who runs a PMP training company wants me to deliver his courseware a couple times in June, and I am closing on an engagement that could be long term for 24-40 hours a week.   The name of the first outfit is Best Practices PMP Training, owned and operated by Mark Tolbert.  The second opportunity is with ManTech SRS Technologies -  believe they have an MSA in place. I would like to schedule a call to help me get started with the paperwork.  When is a good time? Tom</textOnly>
+    <type>custom</type>
+</EmailTemplate>

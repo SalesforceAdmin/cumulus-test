@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p><span style="font-family: georgia, palatino;">Dear&nbsp;{{lead.First Name:default=Valued Contact}},</span></p>
+<p><span style="font-family: georgia, palatino;">Yesterday, you may have received an email about a survey we are conducting on independent consulting talent. Some people responded that they had difficulty completing the survey due to technical errors.</span></p>
+<p><span style="font-family: georgia, palatino;">This has been fixed. You can <a href="http://cl.exct.net/?ju=fe351672746c077f771476&amp;ls=fdeb1c7172650c7b7c157670&amp;m=fef91275706402&amp;l=fecc1c767464067f&amp;s=fe1f1c747362017f761377&amp;jb=ffcf14&amp;t=">complete the survey here</a>.</span></p>
+<p><span style="font-family: georgia, palatino;">Thank you for being part of this important research, and we apologise for any inconvenience this has caused.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-family: georgia, palatino;">Sincerely,</span></p>
+<p><span style="font-family: georgia, palatino;">The Aberdeen Group</span></p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ></div>
+</body>
+</html>

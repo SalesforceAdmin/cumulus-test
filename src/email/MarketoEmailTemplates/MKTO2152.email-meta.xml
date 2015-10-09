@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Information (1353008321.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Information (1353008321.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Zola, It was a pleasure speaking with you today.  I’ve enclosed a few resources that you might find helpful as discussed  
+	- Here is a short list of some of our top clients within MBO Access &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Access_Information.pdf&gt;. 
+ 
+	- To view an index of recorded Webinars that will cover everything to do with working independently.  You can see them by going here &lt;http://www.mbopartners.com/resources&gt;.
+ 
+	- In addition, we have released the Independent&apos;s Guide &lt;http://mkto-l0128.com/track?t=c&amp;enid=bWlkPW1ib0JldGFjdXN0LTAtMC0wLTAtcHJvZC0wJm1zZ2lkPTAmZGlkPTEyMzQmc249MCZlaWQ9bmljay52b3V0c2FraXNAY29tY2FzdC5uZXQmdWlkPTAmZXh0cmE9TVRZd2ZITnlZMmxrUFRrM2ZHMWhhV3hwWkQwd01tSmxaRFF3WVMxaU0ySmhMVFExT1RndFltTXlPUzB5TVdFNU1EQTNNREUzTW1RdE9UZDhabkp2YlQxdWRHRjViRzl5UUcxaWIzQmhjblJ1WlhKekxtTnZiWHh6ZFdKcVBWSkZPaUJJWVhabGNtWnZjbVFnVkhKMWMzUWdWMlZoYkdoMFZHVmphQ0JCYkd4cFlXNWpaU0JRY205d2IzTmhiQ0FnYzJsbmJtVmtJR0Z1WkNCaGRIUmhZMmhsWkNBPT0mJiY=&amp;&amp;&amp;http://www.mbopartners.com/independents-guide?mkt_tok=2xUAKZjCdVhavglg5OmNMajmlibgeZeluL1uHbno19tUsyIUGIalUg%3D%3D&gt; that has a great deal of information for Independent Consultants at different stages of their careers.
+ 
+	- Lastly, you can view all the information we spoke over the phone by going here &lt;http://info.mbopartners.com/advisor-info-n-taylor.html&gt;.  
+ If you are interested in seeing more about how we help Enterprise Organizations to get a feel for that side of our business, please go here:  http://www.mboenterprise.com/how-we-help &lt;http://www.mboenterprise.com/how-we-help&gt;  Here are also a few case studies we have done with our Enterprise clients: http://www.mboenterprise.com/case-studies &lt;http://www.mboenterprise.com/case-studies&gt;  If you have questions, feel free to schedule a convenient time for you using my online schedule &lt;https://my.timedriver.com/9TGRK&gt;. I look forward to speaking with you soon, Have a great weekend! Nicolette___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

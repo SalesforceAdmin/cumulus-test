@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Karpie Release</name>
+    <style>none</style>
+    <subject>New contract work platforms for the 21st century</subject>
+    <textOnly>{{lead.First Name:default=Client contact}},
+
+I know it&apos;s hard to keep up with the dynamic trends in contract work arrangements - and since MBO Partners is right in the middle of these trends, we want to share some recent insights, research and news with you. 
+
+MBO, along with many experts in our industry, sees a significant and rapid evolution developing in the way enterprise organizations tap into the talent of the independent professional class of worker. There is an entirely new ecosystem of services and technologies emerging that will create a 21st Century contract worker enablement platform. To learn more, please see our recent news release &lt;http://www.mbopartners.com/mbo-partners-recognized-keystone-platform-future-work&gt; and if you can attend, please register for a live webinar &lt;http://www.mbopartners.com/webinars/2014/engaging-21st-century-independent-professional-workforce&gt; featuring industry experts and futurists on this topic.
+
+Thanks,
+___________________________________
+ Gene Zaino
+ President and CEO
+ MBO Partners
+ 
+
+t: 703.793.6001
+e: gzaino@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

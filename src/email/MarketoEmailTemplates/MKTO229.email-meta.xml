@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1317241894.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1317241894.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Juan,
+ 
+It is a pleasure meeting you!  As Steve mentioned I will be your point of contact and would be happy to speak with you about our services and what the next steps would be for you to work with MBO.  I have attached a link below to my time trade calendar below and you may select a time that is convenient for you to speak.
+ 
+ 
+https://my.timedriver.com/9TGRK. 
+ 
+I look forward to speaking with you soon!
+ 
+Thank you,
+ 
+ 
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: Steve Arhancet 
+Sent: Wednesday, September 28, 2011 3:50 PM
+To: jcvcolina@gmail.com
+Cc: Nicolette Taylor
+Subject: MBO Partners
+ 
+Juan,
+ 
+Thanks for your email today.  I am involved in the implementation of a new account at MBO Partners and so in my stead, Nicolette Taylor will be your main point of contact.  She will reach out to you based on your questions. 
+ 
+Regards,
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

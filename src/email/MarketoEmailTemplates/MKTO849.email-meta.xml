@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Helping Tools (1327964944.0)</name>
+    <style>none</style>
+    <subject>RE: Helping Tools (1327964944.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Suzanne,
+ 
+So good to hear from you. I just sent out an email to all of the webinar participants with additional information. If you would like to discuss any of the aspects of our webinar via phone please feel free to schedule an appointment by clicking here.
+ 
+Looking forward to working with you!
+ 
+Sara
+_________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+
+Begin forwarded message:
+From: Suzanne Hain &lt;suzannehain@gmail.com&gt;
+Date: January 30, 2012 9:10:30 AM EST
+To: Webinar &lt;webinar@mbopartners.com&gt;
+Subject: Helping Tools
+At the end of the webinar Aassia mentioned that we had to respond to an email to get the tools.  If this is the right email, please forward the tools that will help me make this important decision.
+ 
+Thank you,
+Suzanne Hain
+suzannehain@gmail.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

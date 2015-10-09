@@ -1,0 +1,523 @@
+<project name="sf-dev" default="describeDEV" basedir="." xmlns:sf="antlib:com.salesforce">
+
+    <!-- Load the package requirements from version.properties -->
+    <loadproperties srcFile="${basedir}/version.properties"/>
+
+    <!-- Load environment variables -->
+    <property environment="env" />
+
+    <!-- Check if the CUMULUSCI_PATH environment variable is set -->
+    <fail>
+        <condition>
+            <not><isset property="env.CUMULUSCI_PATH" /></not>
+        </condition>
+        CUMULUSCI_PATH is Required!
+
+        This project uses the CumulusCI build scripts which must be checked out and 
+        referenced in an environment variable before you can run the build scripts.
+
+        To configure the build scripts, do the following:
+
+        1. Clone the CumulusCI GitHub repository to a local folder: 
+            https://github.com/SalesforceFoundation/CumulusCI
+
+        2. Set the CUMULUSCI_PATH environment variable to the path to CumulusCI
+
+        If you are on a unix based system, the following commands should work:
+
+            git clone https://github.com/SalesforceFoundation/CumulusCI ~/CumulusCI
+            export CUMULUSCI_PATH=~/CumulusCI
+    </fail>
+    
+    <!-- Load CumulusCI build targets -->
+    <import file="${env.CUMULUSCI_PATH}/build/build.xml" />
+
+<!--
+    UPDATE THE PATH OF THE PROPERTY FILE TO THE LOCATION OF YOUR BUILD.PROPERTIES FILE
+-->
+    <property file="..\build.properties"/>
+
+    <taskdef resource="com/salesforce/antlib.xml" uri="antlib:com.salesforce">
+        <classpath>
+          <pathelement location="../ant-salesforce.jar" />
+        </classpath>
+    </taskdef>
+
+
+<!--
+  Use the below to retrieve and deploy changes to your specific development environment
+  YOU MUST MODIFY EACH TARGET NAME AND VARIABLE FOR THE ENVIRONMENT YOU WISH TO AUTHENTICATE AGAINST.
+  YOU MAY COPY EACH TARGET TO CREATE MULTIPLE TARGETS FOR SEVERAL ENVIRONMENTS.
+-->
+
+<!-- Retreive Targets - clone this script for each environment you are working on, be sure to update the environment name -->
+    <target name="retPROD">
+      <sf:retrieve
+        username="${sf.unprod}"
+        password="${sf.pwprod}"
+        serverurl="${sf.urlprod}"
+        retrieveTarget="src"
+        unpackaged="src/package.xml"/>
+    </target>
+
+    <target name="retMASTER">
+      <sf:retrieve
+        username="${sf.unmaster}"
+        password="${sf.pwmaster}"
+        serverurl="${sf.urlmaster}"
+        retrieveTarget="src"
+        unpackaged="src/package.xml"/>
+    </target>
+
+    <target name="retUAT">
+      <sf:retrieve
+        username="${sf.unuat}"
+        password="${sf.pwuat}"
+        serverurl="${sf.urluat}"
+        retrieveTarget="src"
+        unpackaged="src/package.xml"/>
+    </target>
+
+    <target name="retDEV">
+      <sf:retrieve
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        retrieveTarget="src"
+        unpackaged="src/package.xml"/>
+    </target>
+
+    <target name="retGJZ">
+      <sf:retrieve
+        username="${sf.ungjz}"
+        password="${sf.pwgjz}"
+        serverurl="${sf.urlgjz}"
+        retrieveTarget="src"
+        unpackaged="src/package.xml"/>
+    </target>
+
+    <target name="retJOE">
+      <sf:retrieve
+        username="${sf.unjoe}"
+        password="${sf.pwjoe}"
+        serverurl="${sf.urljoe}"
+        retrieveTarget="src"
+        unpackaged="src/package.xml"/>
+    </target>
+
+    <target name="retKIR">
+      <sf:retrieve
+        username="${sf.unkir}"
+        password="${sf.pwkir}"
+        serverurl="${sf.urlkir}"
+        retrieveTarget="src"
+        unpackaged="src/package.xml"/>
+    </target>
+
+    <target name="retKIRAN">
+      <sf:retrieve
+        username="${sf.unkiran}"
+        password="${sf.pwkiran}"
+        serverurl="${sf.urlkiran}"
+        retrieveTarget="src"
+        unpackaged="src/package.xml"/>
+    </target>
+
+<!-- Deploy Targets - clone this script for each environment you are working on, be sure to update the environment name -->
+    <target name="deployPROD">
+      <sf:deploy
+        username="${sf.unprod}"
+        password="${sf.pwprod}"
+        serverurl="${sf.urlprod}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"/>
+    </target>
+
+    <target name="deployUAT">
+      <sf:deploy
+        username="${sf.unuat}"
+        password="${sf.pwuat}"
+        serverurl="${sf.urluat}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"/>
+    </target>
+
+    <target name="deployDEV">
+      <sf:deploy
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"/>
+    </target>
+
+    <target name="deployGJZ">
+      <sf:deploy
+        username="${sf.ungjz}"
+        password="${sf.pwgjz}"
+        serverurl="${sf.urlgjz}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"/>
+    </target>
+
+    <target name="deployJOE">
+      <sf:deploy
+        username="${sf.unjoe}"
+        password="${sf.pwjoe}"
+        serverurl="${sf.urljoe}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"/>
+    </target>
+
+    <target name="deployKIR">
+      <sf:deploy
+        username="${sf.unkir}"
+        password="${sf.pwkir}"
+        serverurl="${sf.urlkir}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"/>
+    </target>
+
+    <target name="deployKIRAN">
+      <sf:deploy
+        username="${sf.unkiran}"
+        password="${sf.pwkiran}"
+        serverurl="${sf.urlkiran}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"/>
+    </target>
+
+<!-- Validation Targets - clone this script for each environment you are working on, be sure to update the environment name -->
+    <target name="vDeployPROD">
+      <sf:deploy
+        username="${sf.unprod}"
+        password="${sf.pwprod}"
+        serverurl="${sf.urlprod}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"
+        checkOnly="true"/>
+    </target>
+
+    <target name="vDeployUAT">
+      <sf:deploy
+        username="${sf.unuat}"
+        password="${sf.pwuat}"
+        serverurl="${sf.urluat}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"
+        checkOnly="true"/>
+    </target>
+
+    <target name="vDeployDEV">
+      <sf:deploy
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"
+        checkOnly="true"/>
+    </target>
+
+    <target name="vDeployGJZ">
+      <sf:deploy
+        username="${sf.ungjz}"
+        password="${sf.pwgjz}"
+        serverurl="${sf.urlgjz}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"
+        checkOnly="true"/>
+    </target>
+
+    <target name="vDeployJOE">
+      <sf:deploy
+        username="${sf.unjoe}"
+        password="${sf.pwjoe}"
+        serverurl="${sf.urljoe}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"
+        checkOnly="true"/>
+    </target>
+
+    <target name="vDeployKIR">
+      <sf:deploy
+        username="${sf.unkir}"
+        password="${sf.pwkir}"
+        serverurl="${sf.urlkir}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"
+        checkOnly="true"/>
+    </target>
+
+    <target name="vDeployKIRAN">
+      <sf:deploy
+        username="${sf.unkiran}"
+        password="${sf.pwkiran}"
+        serverurl="${sf.urlkiran}"
+        deployRoot="src"
+        rollbackOnError="true"
+        ignoreWarnings="true"
+        checkOnly="true"/>
+    </target>
+
+
+<!--
+  DEV Specific Retrievals
+  - use these scripts to re-initialize the DEV repository -
+    YOU MUST MAKE SURE ALL FOLDERS ARE DESCRIBED BELOW
+-->
+    <target name="describeDEV">
+      <mkdir dir="Describe"/>
+      <sf:describeMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        resultFilePath="Describe/describe.log"/>
+    </target>
+
+    <target name="describeMASTER">
+      <mkdir dir="Describe"/>
+      <sf:describeMetadata
+        username="${sf.unmaster}"
+        password="${sf.pwmaster}"
+        serverurl="${sf.urlmaster}"
+        resultFilePath="Describe/describe.log"/>
+    </target>
+
+    <target name="describeFolderDEV">
+      <mkdir dir="FolderMetadata"/>
+      <mkdir dir="FolderMetadata/Report"/>
+      <mkdir dir="FolderMetadata/Dashboard"/>
+      <mkdir dir="FolderMetadata/Document"/>
+      <mkdir dir="FolderMetadata/EmailTemplate"/>
+      <sf:listMetadata 
+        username="${sf.undev}"
+        password="${sf.pwdev}" 
+        serverurl="${sf.urldev}" 
+        metadataType="Report" 
+        folder="Inactive_Salesforce_Users" 
+        resultFilePath="FolderMetadata/Report/Inactive_Salesforce_Users.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="unfiled$public"
+        resultFilePath="FolderMetadata/Report/unfiled$public.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="B2B_Reports"
+        resultFilePath="FolderMetadata/Report/B2B_Reports.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Consulting_Services_Reports"
+        resultFilePath="FolderMetadata/Report/Consulting_Services_Reports.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Draft_Folder"
+        resultFilePath="FolderMetadata/Report/Draft_Folder.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Employee_Role_Analytics"
+        resultFilePath="FolderMetadata/Report/Employee_Role_Analytics.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Enterprise_Client_Sales"
+        resultFilePath="FolderMetadata/Report/Enterprise_Client_Sales.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Enterprise_Enrollment_Reports"
+        resultFilePath="FolderMetadata/Report/Enterprise_Enrollment_Reports.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Forecast_Test"
+        resultFilePath="FolderMetadata/Report/Forecast_Test.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Sales_Forecast_Report"
+        resultFilePath="FolderMetadata/Report/Sales_Forecast_Report.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Security_Clearance_Reports"
+        resultFilePath="FolderMetadata/Report/Security_Clearance_Reports.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="System_Admin_Reports"
+        resultFilePath="FolderMetadata/Report/System_Admin_Reports.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Report"
+        folder="Sales_Forecast_Report"
+        resultFilePath="FolderMetadata/Report/Sales_Forecast_Report.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Dashboard"
+        folder="CompanyDashboards"
+        resultFilePath="FolderMetadata/Dashboard/CompanyDashboards.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="System_Images"
+        resultFilePath="FolderMetadata/Document/System_Images.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="AWDuplicateCheckforSalesforce"
+        resultFilePath="FolderMetadata/Document/AWDuplicateCheckforSalesforce.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="ILT_Documents"
+        resultFilePath="FolderMetadata/Document/ILT_Documents.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="LMS_Consumer_Documents"
+        resultFilePath="FolderMetadata/Document/LMS_Consumer_Documents.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="ProspectInsight"
+        resultFilePath="FolderMetadata/Document/ProspectInsight.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="SharedDocuments"
+        resultFilePath="FolderMetadata/Document/SharedDocuments.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="TimeDriver"
+        resultFilePath="FolderMetadata/Document/TimeDriver.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="ajaxtemplates"
+        resultFilePath="FolderMetadata/Document/ajaxtemplates.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="Document"
+        folder="ajaxtools"
+        resultFilePath="FolderMetadata/Document/ajaxtools.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="EmailTemplate"
+        folder="Business_Manager_Communications"
+        resultFilePath="FolderMetadata/EmailTemplate/Business_Manager_Communications.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="EmailTemplate"
+        folder="unfiled$public"
+        resultFilePath="FolderMetadata/EmailTemplate/unfiled$public.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="EmailTemplate"
+        folder="Case_and_Knowledge_Templates"
+        resultFilePath="FolderMetadata/EmailTemplate/Case_and_Knowledge_Templates.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="EmailTemplate"
+        folder="LMS"
+        resultFilePath="FolderMetadata/EmailTemplate/LMS.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="EmailTemplate"
+        folder="MarketoEmailTemplates"
+        resultFilePath="FolderMetadata/EmailTemplate/MarketoEmailTemplates.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="EmailTemplate"
+        folder="User_Sent_Templates"
+        resultFilePath="FolderMetadata/EmailTemplate/User_Sent_Templates.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="EmailTemplate"
+        folder="Workflow_emails"
+        resultFilePath="FolderMetadata/EmailTemplate/Workflow_emails.log"/>
+      <sf:listMetadata
+        username="${sf.undev}"
+        password="${sf.pwdev}"
+        serverurl="${sf.urldev}"
+        metadataType="EmailTemplate"
+        folder="WorkflowNotifications"
+        resultFilePath="FolderMetadata/EmailTemplate/WorkflowNotifications.log"/>
+    </target>
+</project>

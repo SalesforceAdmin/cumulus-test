@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Questions #2 (1312907840.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Questions #2 (1312907840.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Harold,
+ 
+Great questions, see answers below. 
+ 
+Steve
+ 
+From: Harold Anthony [mailto:hanthonyg@yahoo.com] 
+Sent: Monday, August 08, 2011 11:06 PM
+To: Steve Arhancet
+Subject: Re: MBO Questions #2
+ 
+Thanks Steve,
+    Here some more questions.
+ 
+1)     Follow up to the Network Equipment:  If the device cost $3000 will I still be able to deduct the $2500 or will I have to purchase below the $2500?
+You will be able to deduct a max of $2500 for that item, even though the item cost more.
+ 
+New Questions:
+    2) Deductions:
+    2A) Will I be able to deduct the residential phone line?
+ 
+Yes, Phone lines are allowed if you are using for business use, even if it is a phone line to your residence.  You can do a percentage of the bill for business use should it be only used as a percentage.
+ 
+ 
+     I currently use Vonage VoIP for home phone service.  It does not allow my fax to work.  I plan on getting a lan line to be able to use Fax services.  This will be a residential phone line but only 
+being purchased/used for the FAX service, (no long distance). I don&apos;t want to purchase a Business line as it will just be more expensive.    
+ 
+You can expense the additional charge for business use 
+ 
+ 
+    2B) I have a current cell phone that I do all of my calls with.  Will I be able to deduct a portion of that bill for my business calls or do I have to have a separate phone?
+ 
+You can deduct a percentage of your bill as business use.  You would send in the summary page of the full bill and then indicate what percentage of that total amount is for business use (1-100%)
+ 
+    2C) I have Internet services.  If I find a remote contract where I work from home will I be able to deduct a portion of my monthly bill?
+ 
+Yes
+ 
+    3) Page 5 of the MB Welcome Agreement:  &quot;This authorization shall remain valid for the term of this coverage but no longer than 30 months from the date the authorization is signed.&quot;
+       Is this just for the Aetna health care?  Also, if I find something cheaper within 1-2 months I&apos;m I locked into the MBO sponsored coverage?
+ 
+Yes, this is just for Aetna Health Care. You can always leave the MBO Health Care and opt into your own plan at any time.  You would likely want to drop our coverage at the end of the month and then have your new benefits begin the 1st of the next month to avoid any gaps in coverage.
+ 
+ 
+    4) I was going through the &quot;http://www.mbopartners.com/#whoweare&quot; portion of the website and it states a lot of &quot;We are not&quot; quotes.  We are not a &quot;Staffing Agency, Incorporation Service, Accountants, Lawyers, etc.  So, do I still need to find my own tax accountant and lawyer?  I thought going through this process, you guys would set up the Corp for me?
+ 
+You are using MBO Partners as an alternative to incorporating, finding accountants, lawyers, etc.  Technically, you are a w2 employee of MBO Partners, however you are still responsible for finding your own work, preforming the work and negotiating your own rates.  You will not have a entity with its own TIN through MBO.  You will be paid to your SSN (as a W2 at the end of the year).  The neat this is that the amount of the W2 will be based on your billings received, minus expenses, taxes, retirement contributions, etc.
+ 
+ 
+ 
+    5) My original goal was to use this service as I thought it would be quicker if I had a pending project/contract.   Is there a length of time that I have to commit to MBO?   Meaning, I start with you guys and get a contract.  It last 3 months.   During that time I complete my research and decide to execute my next project on my own not utilizing MBO.  Is there a penalty of some type?  
+ 
+There are no obligations to use MBO, no commitments.  You use us and then can stop using us at any time. You could stop using MBO mid project if you wanted  that is completely up to you.  There are no penalties.  The only way we make money is by taking a percentage of the money received from the client once they pay.
+ 
+ 
+Sincerely,
+Harold Anthony
+From: Steve Arhancet &lt;sarhancet@mbopartners.com&gt;
+To: Harold Anthony &lt;hanthonyg@yahoo.com&gt;
+Sent: Monday, August 8, 2011 2:27 PM
+Subject: RE: MBO Questions
+Harold,
+ 
+ 
+The item you describe seems to fall under our office equipment (i.e. software)  the limit is $2,500/item, and an annualized cap of $10,000 per year. 
+ 
+Regards,
+ 
+Steve
+ 
+From: Harold Anthony [mailto:hanthonyg@yahoo.com] 
+Sent: Sunday, August 07, 2011 12:27 PM
+To: Steve Arhancet
+Subject: MBO Questions
+ 
+Steve,
+    I&apos;m considering a purchase of some type of high priced network device or firewall for the intent of using it to practice on and learn for certification purposes and potential contracts.  Would this be tax deductible?   
+ 
+    For instance I looking to purchase a Cisco ASA firewall device and or a Juniper SRX firewall device.  The Cisco device can cost around $700 and the Juniper device will run about $3000.
+ 
+Sincerely,
+Harold Anthony
+No virus found in this message.
+Checked by AVG - www.avg.com
+Version: 10.0.1391 / Virus Database: 1520/3818 - Release Date: 08/07/11
+ 
+No virus found in this message.
+Checked by AVG - www.avg.com
+Version: 10.0.1392 / Virus Database: 1520/3822 - Release Date: 08/08/11
+&lt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

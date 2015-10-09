@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CSA Value Prop 3.0</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, do you know about the Team Center?</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+
+There are more self-employed professionals starting out in America every day - and working in teams can give those independents a competitive edge. MBO&apos;s Team Center is a way for consultants to use state of the art technology to organize they way they manage a team of independent workers.
+
+If you work with a team of consultants, check out this story &lt;http://info.mbopartners.com/rs/mbo/images/CSA-Story-October_2013.pdf&gt; about three MBO Associates who use the Team Center to manage a successful business.
+
+Have any questions about how MBO can help your consulting team? Just email me to learn more about how the Team Center takes your small business to the next level..
+___________________________________
+Sara Conde
+Consultant Services Advisor
+ MBO Partners
+
+ e: sconde@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

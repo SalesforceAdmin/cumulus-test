@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ></span>
+<p></p>
+<p ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia,palatino; font-size: 14px;">Hello {{lead.First Name:default=Webinar Registrant}},</span></span>
+</p>
+<span class="mktEditable" id="edit_text" ></span>
+<p ><span class="mktEditable" id="edit_text" ><span class="mktEditable" id="edit_text" ><span><span style="font-family: georgia, palatino; font-size: 14px;">Thank you for attending our&nbsp;&nbsp;<strong>“</strong><strong>Working to Live, Not Living to Work: Five Insights into the Gen X Workforce</strong><strong>"</strong>&nbsp;webinar held on Thursday, April 4. Steve King and Carolyn Ockels, Partners at Emergent Research, explained how Gen X is leading the move to independent work in America.</span><br></span></span>
+</span>
+</p>
+<p ><span ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino; font-size: 14px;"><strong>Below you will find links to the <strong>webinar resources</strong>. We hope you find them informative:</strong></span></span>
+</span>
+</p>
+<ol ><li ><span ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://f5159bf2f10bd6337d85-21700ed84a5e5d3baebf7221604c63ee.r66.cf2.rackcdn.com/2013-04-04-Working_to_Live_Not_Living_to_Work.mp4">Recorded webinar</a></span></span>
+</span>
+</li>
+<li ><span ><span class="mktEditable" id="edit_text" >&nbsp;&nbsp;&nbsp;<span style="font-family: georgia, palatino; font-size: 14px;">&nbsp;&nbsp;&nbsp;<a href="http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Gen_X_Webinar_Slides.pptx">Webinar slide deck</a></span></span>
+</span>
+</li>
+<li ><span ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino; font-size: 14px;">&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://info.mbopartners.com/rs/mbo/images/MBO_Partners_2013_Gen-X_Report.pdf">Gen X Report PDF</a></span></span>
+</span>
+</li>
+</ol>
+<p><span style="font-family: georgia,palatino; font-size: 14px;">If you have any topic recommendations or feedback, please email <a title="webinar@mbopartners.com" href="mailto:webinar@mbopartners.com">webinar@mbopartners.com</a>.</span></p>
+<p><span style="font-family: georgia,palatino; font-size: 14px;">Thank you,</span></p>
+<p><span style="font-family: georgia,palatino; font-size: 14px;"><strong><span style="color: #991324;">MBO PARTNERS<br></span></strong><strong><span style="color: #991324;"><span style="color: #808080;">t: 1-800-220-0469<br>
+e: info@mbopartners.com</span></span></strong></span></p>
+<p><span style="font-family: georgia,palatino; font-size: 14px;"><strong><span style="color: #991324;"><br></span></strong></span></p>
+</div>
+</body>
+</html>

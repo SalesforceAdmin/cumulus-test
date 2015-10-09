@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Expense question (1342649542.0)</name>
+    <style>none</style>
+    <subject>RE: Expense question (1342649542.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Buddy, You just have to supply the summery page of the bill, if you would like you can block out the other numbers. Thanks,Sara From: William Goodwin iv [mailto:wgoodwiniv@yahoo.com] 
+Sent: Wednesday, July 18, 2012 2:36 PM
+To: Sara Conde
+Subject: Expense question  When posting an expense for phone/internet, do I have to include a receipt or is there another form I can include? I would prefer not to list all 12 pages of phone numbers for everyone on my plan. Thanks, Buddy</textOnly>
+    <type>custom</type>
+</EmailTemplate>

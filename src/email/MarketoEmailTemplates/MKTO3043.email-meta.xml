@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Inquiry (1387807369.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Inquiry (1387807369.0)</subject>
+    <textOnly>-     
+	- 
+	-   160 Clean      false false false  EN-US X-NONE X-NONE             MicrosoftInternetExplorer4                                                                                                                                                               Dear Wanda,  I wanted to follow up on the emails below regarding the services offered by MBO Partners, now may not be the right time for you.  You may find some of the resources we developed specifically for independent consultants helpful: ·         The Independent’s Guide &lt;http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ8ygZaFe6Uco5P2vZSBkKzSy%2DxjqTOKZhHdekjmsR567qkhU0xi4mEunLVMB0CS0FYZx6zUac0vQrrI5EUblq9zl7WDLMWhAU8tKkr4qv6RIDkq0mXzBXq2x%2DDG2ZY8O6v00WFOLx9tPMC7Gwp3QAKSePuzQ3fz78o8DILzcJ9j046%5FcZHAt1R7UqeZxzJtI31efFtW%2DC4krCj5P56WRc2gdQdSVreLm%2DGJbqxXwB58h2%2Dgw8AGyFHB20HVKlo1A%2C%2C/1gwVMM7QNEZOogl76fOJI7v5kTDSadartLEyAPni198710x7fPjcdUb6gddUU80%5Fbv2hFQ0bTsJ59S1zIOq2f7ZU%2DOBWBxLnXhDIobDIZoZEc5Zy5dts66qpyFlQ%2DPCXuWr5GlYndVZFZQqobvpzoHi0FA%2C%2C&gt;·         Recorded Independent Consulting Webinar Index &lt;http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ8ygZaFe6Uco5P2vZSBkKzSy%2DxjqTOKZhHdekjmsR567qkhU0xi4mEunLVMB0CS0FYZx6zUac0vQrrI5EUblq9zl7WDLMWhAU8tKkr4qv6RIDkq0mXzBXq2x%2DDG2ZY8O6v00WFOLx9tPMC7Gwp3QAKSePuzQ3fz78o8DILzcJ9j046%5FcZHAt1R7UqeZxzJtI31efFtW%2DC4krCj5P56WRc2gdQdSVreLm%2DGJbqxXwB58h2%2Dgw8AGyFHB20HVKlo1A%2C%2C/1gwVMM7QNEZOogl76fOJI7v5kTDSadartLEyG%5FL13dos2k1tPfzdPVLqhsdQCJs9a%5FrBDAkELIRuy1EKAtW0V7pK2fZrH0OnUzes1afxWKxfY7141sND%5FpG%5F1XQHps27xw7hHGQ4dWJ1TTO6QL4ssTqiY7RmDCc%2C&gt;·         Reports on Independent Consulting in America &lt;http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ8ygZaFe6Uco5P2vZSBkKzSy%2DxjqTOKZhHdekjmsR567qkhU0xi4mEunLVMB0CS0FYZx6zUac0vQrrI5EUblq9zl7WDLMWhAU8tKkr4qv6RIDkq0mXzBXq2x%2DDG2ZY8O6v00WFOLx9tPMC7Gwp3QAKSePuzQ3fz78o8DILzcJ9j046%5FcZHAt1R7UqeZxzJtI31efFtW%2DC4krCj5P56WRc2gdQdSVreLm%2DGJbqxXwB58h2%2Dgw8AGyFHB20HVKlo1A%2C%2C/1gwVMM7QNEZOogl76fOJI7v5kTDSadartLEyG%5FL13dos2k1tPfzdPVLqhsdQCJs9a%5FrBDAkELIRuy1EKAtW0V7pK2fZrH0OnUzes1afxWKxfY7141sND%5FpG%5F1XQHps27xw7hHGQ4dWJ1TTO6QL4ssTqiY7RmDCc%2C&gt;·         Independent Consulting Brief Monthly &lt;http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ8ygZaFe6Uco5P2vZSBkKzSy%2DxjqTOKZhHdekjmsR567qkhU0xi4mEunLVMB0CS0FYZx6zUac0vQrrI5EUblq9zl7WDLMWhAU8tKkr4qv6RIDkq0mXzBXq2x%2DDG2ZY8O6v00WFOLx9tPMC7Gwp3QAKSePuzQ3fz78o8DILzcJ9j046%5FcZHAt1R7UqeZxzJtI31efFtW%2DC4krCj5P56WRc2gdQdSVreLm%2DGJbqxXwB58h2%2Dgw8AGyFHB20HVKlo1A%2C%2C/1gwVMM7QNEZOogl76fOJI7v5kTDSadartLEyAPni198710x7fPiCO07hm8ZdCJs8YqScEwsVFc9syxhnDu%2DeIdJYz9R2MUuRWw3rgrTRY94bd59E%5FdBz9qOv2kIEk8ePhl7AGXZbElx5TzCoeqYJsRrOMZwWWEbU3j6SEQ%2C%2C&gt; If you would like to connect, please let me know. Best regards,Emily ___________________________________Emily StringerConsultant Services Advisor MBO Partners t: 703.793.6282f: 703.793.6457e: estringer@mbopartners.com &lt;estringer@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.   From: Emily Stringer 
+Sent: Wednesday, December 18, 2013 4:19 PM
+To: &apos;wandapetty@jevonmanagement.com&apos;
+Subject:  Dear Wanda,  I hope you are doing well. I wanted to follow up on the email Nicolette sent below. Are you still interested in learning about MBO Partners at this time? Thank you,Emily   Emily StringerConsultant Services Advisor MBO Partners t: 703.793.6282f: 703.793.6457e: estringer@mbopartners.com &lt;http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ8wglKFOGHeM5S9fdUBVK9Vhvtj6PJao5Nfro9385sub2s3D1V7Niahk7NVGI6ZSFqTCiEUO0sjw3TM8EOURuTw0zNJoYUrXEmiJAT%2DIiFdZ6uwmeO0W7M1SzeZH5K3ZG33lfsIoNPj%5FomkhULz3VyUsT66Qzd4%2D0JnSVq2OJvgB9ir%2DhCF%5F9y5DujTibu4IP7RMp6e7jrh9vKlq0rYiguiJx7cWyDeAOwXLyReCgg3yKHzjINFh13IhcPBewgvxe2ii5Cc9wCXyWFxXR%2Dgiln/2wsVMp2RfFRLlUp05OyYML3jmifTNJuntuNwAuPZxsA1hBpmR83kAkvMjeVjMIdiX%2DLJVik8P5F3ywdrGNCRUIkW7tkIHmWCbDesg4fNPYZKa5Na3c1U%2DO32%5FCVWjg%2C%2C&gt;w: www.mbopartners.com &lt;http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ8wglKFOGHeM5S9fdUBVK9Vhvtj6PJao5Nfro9385sub2s3D1V7Niahk7NVGI6ZSFqTCiEUO0sjw3TM8EOURuTw0zNJoYUrXEmiJAT%2DIiFdZ6uwmeO0W7M1SzeZH5K3ZG33lfsIoNPj%5FomkhULz3VyUsT66Qzd4%2D0JnSVq2OJvgB9ir%2DhCF%5F9y5DujTibu4IP7RMp6e7jrh9vKlq0rYiguiJx7cWyDeAOwXLyReCgg3yKHzjINFh13IhcPBewgvxe2ii5Cc9wCXyWFxXR%2Dgiln/1gwVMM7QNEZOogl76fOJI7v5kTDSadartLEyVvrtxvAq1kMjIPT6GWrVgvBUKqAecLmkClVHOLxNwRpTEdOXTIRs86NJJxSnfAvLjPLZSZocerBp%2D%2Dhg852inTMh746m&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ8wglKFOGHeM5S9fdUBVK9Vhvtj6PJao5Nfro9385sub2s3D1V7Niahk7NVGI6ZSFqTCiEUO0sjw3TM8EOURuTw0zNJoYUrXEmiJAT%2DIiFdZ6uwmeO0W7M1SzeZH5K3ZG33lfsIoNPj%5FomkhULz3VyUsT66Qzd4%2D0JnSVq2OJvgB9ir%2DhCF%5F9y5DujTibu4IP7RMp6e7jrh9vKlq0rYiguiJx7cWyDeAOwXLyReCgg3yKHzjINFh13IhcPBewgvxe2ii5Cc9wCXyWFxXR%2Dgiln/0xkILICQIUFWplN76u%2DNJ7vNkjfPapm6r7J4G%2DSo0cAzhkV1ZtPbN0qy2stkPbkIb8qbNzA8BsBby1sPMcy5fZZL8cZfO0WeUW3rrPTPS716fedw%2DtYz9Ky%5F%5F0kEpuiF1w%5FoTBwq&gt; and permanently delete the e-mail and files. To: wandapetty@jevonmanagement.com &lt;mailto:wandapetty@jevonmanagement.com&gt;
+CC: 
+BCC: 
+Attachment: 
+
+Subject: MBO Partners Inquiry
+Body:
+
+
+Dear Wanda,
+
+Thank you for the inquiry you submitted at the MBO Partners website. I wanted to introduce myself as the person at MBO Partners responsible for all new associate and partnership requests. I&apos;ll be your main point of contact to provide you an overview of our services and answer any specific questions you may have. You may easily book a time that is convenient for you on my online schedule by going here.&lt;https://my.timedriver.com/9TGRK &lt;https://my.timedriver.com/9TGRK&gt;&gt;
+
+You can also watch a short video about who we are on You Tube&lt;http://youtu.be/zKDzwSTmGv4 &lt;http://youtu.be/zKDzwSTmGv4&gt;&gt;. You can learn more about how MBO works by clicking here&lt;http://www.mbopartners.com/how-mbo-works &lt;http://www.mbopartners.com/how-mbo-works&gt;&gt;.
+
+
+I look forward to speaking with you and sharing more information about MBO Partners!
+
+Nicolette
+
+
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com &lt;mailto:ntaylor@mbopartners.com&gt; 
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; 
+
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt;and permanently delete the e-mail and files.   </textOnly>
+    <type>custom</type>
+</EmailTemplate>

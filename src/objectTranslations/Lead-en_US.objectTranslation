@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Associate</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Information --></label>
+            <section>Associate Information</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Information Narrow --></label>
+            <section>Associate Information Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact information --></label>
+            <section>Contact information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Member Profile --></label>
+            <section>LinkedIn Member Profile</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information Narrow1 --></label>
+            <section>Marketing Information Narrow1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Qualifiers --></label>
+            <section>Sales Qualifiers</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Athena Survey Taker</layout>
+        <sections>
+            <label><!-- Contact information --></label>
+            <section>Contact information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Panel --></label>
+            <section>Subscription Panel</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Client</layout>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Member Profiles --></label>
+            <section>LinkedIn Member Profiles</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information Narrow1 --></label>
+            <section>Marketing Information Narrow1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Client Referred Associate</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact information --></label>
+            <section>Contact information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Is It Right For Me Widget --></label>
+            <section>Is It Right For Me Widget</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Informaiton --></label>
+            <section>Sales Informaiton</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Direct Associate</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact information --></label>
+            <section>Contact information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Is MBO Right For Me Widget --></label>
+            <section>Is MBO Right For Me Widget</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Client</layout>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Member Profile --></label>
+            <section>LinkedIn Member Profile</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information Narrow1 --></label>
+            <section>Marketing Information Narrow1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>FeedAssociate</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Information --></label>
+            <section>Associate Information</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Information Narrow --></label>
+            <section>Associate Information Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact information --></label>
+            <section>Contact information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Member Profile --></label>
+            <section>LinkedIn Member Profile</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information Narrow1 --></label>
+            <section>Marketing Information Narrow1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Qualifiers --></label>
+            <section>Sales Qualifiers</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Qualification</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact information --></label>
+            <section>Contact information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Info Wide --></label>
+            <section>Marketing Info Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Consultation Call --></label>
+        <name>Consultation_Call</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Create Work Status Call Task --></label>
+        <name>Create_Work_Status_Call_Task</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Deferred --></label>
+        <name>LeadDeferred</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Direct Enrollment --></label>
+        <name>LeadEnrollment</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Lost --></label>
+        <name>LeadLost</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Exec Enrollment --></label>
+        <name>New_Exec_Enrollment</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Staff Enrollment --></label>
+        <name>New_Staff_Enrollment</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Sub Enrollment --></label>
+        <name>New_Sub_Enrollment</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Send Enrollment Email --></label>
+        <name>SendEnrollment</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Working --></label>
+        <name>Working</name>
+    </quickActions>
+    <workflowTasks>
+        <name>Please_Check_On_The_Consultant_To_See_If_They_Are_Still_A_Working_Prospect</name>
+        <subject><!-- Please Check On The Consultant To See If They Are Still A &apos;Working&apos; Prospect --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Please_Check_On_The_Consultant_To_See_If_They_Are_Still_Sold</name>
+        <subject><!-- Please Check On The Consultant To See If They Are Still Sold. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Please_initiate_the_background_and_or_drug_check</name>
+        <subject><!-- Please initiate the background and/or drug check. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Someone_filled_out_an_inquiry_form_on_our_site_please_respond_to_them</name>
+        <subject><!-- Someone filled out an inquiry form on our site - please respond to them --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_23</name>
+        <subject><!-- Please initiate the background and/or drug check. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_29</name>
+        <subject><!-- Please confirm you receive a complete and accurate I9 form. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_30</name>
+        <subject><!-- Please confirm you receive the completed on-boarding documents. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_31</name>
+        <subject><!-- Please confirm the accurate work order is supplied by client (work order activated in VMS, if applicable). --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_33</name>
+        <subject><!-- Please confirm you receive all supporting qualification documentation. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_36</name>
+        <subject><!-- (Attempt 1) Please call the new inquiry and consult them to see if it&apos;s a good fit --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_4</name>
+        <subject><!-- Please contact the Parked Lead regarding their work status. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_40</name>
+        <subject><!-- (Attempt 1) Please contact the Associate and assist with enrollment completion. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_44</name>
+        <subject><!-- (Attempt 1) Please contact the Associate and assist with enrollment completion --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_46</name>
+        <subject><!-- Please initiate the enrollment documentation process. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Task_5</name>
+        <subject><!-- Please call the Prospect regarding their work status. --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Time_Based_Workflow_1_Day</name>
+        <subject><!-- Time-Based Workflow 1 Day --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>ToDo_26</name>
+        <subject><!-- Please initiate the background and/or drug check --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>VASTcall</name>
+        <subject><!-- Complete VAST consultation call --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

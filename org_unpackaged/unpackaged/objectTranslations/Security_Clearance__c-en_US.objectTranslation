@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Security Clearance</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Security Clearances</value>
+    </caseValues>
+    <fields>
+        <label><!-- Activation Date --></label>
+        <name>Activation_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Associate__c</name>
+        <relationshipLabel><!-- Security Clearances --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Classification --></label>
+        <name>Classification__c</name>
+        <picklistValues>
+            <masterLabel>Secret</masterLabel>
+            <translation><!-- Secret --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Top-Secret</masterLabel>
+            <translation><!-- Top-Secret --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Furthest DD254 End Date --></label>
+        <name>Furthest_DD254_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Has DD254 --></label>
+        <name>Has_DD254__c</name>
+    </fields>
+    <fields>
+        <label><!-- Investigation Begin Date --></label>
+        <name>Investigation_Begin_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Investigation End Date --></label>
+        <name>Investigation_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Status --></label>
+        <name>MBO_Status__c</name>
+        <picklistValues>
+            <masterLabel>Active</masterLabel>
+            <translation><!-- Active --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Debriefed</masterLabel>
+            <translation><!-- Debriefed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Requested</masterLabel>
+            <translation><!-- Requested --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Security Clearance Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please set the Investigation Begin and End Dates to activate the Security Clearance. --></errorMessage>
+        <name>Begin_and_End_Date_Required_if_Active</name>
+    </validationRules>
+    <workflowTasks>
+        <name>Please_Remind_Associate_of_Security_Clearance_expiration_date</name>
+        <subject><!-- Please Remind Associate of Security Clearance expiration date. --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

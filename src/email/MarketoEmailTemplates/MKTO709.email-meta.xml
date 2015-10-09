@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Call Follow Up (1326750517.0)</name>
+    <style>none</style>
+    <subject>MBO Call Follow Up (1326750517.0)</subject>
+    <textOnly>90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Kimberly,
+ 
+It was so nice speaking with you today. Per our call I would be happy to provide with MBO’s insurance broker “The Insurance Exchange.”
+ 
+Michael Cronin, CLCS
+Account Executive, Commercial Lines
+ 
+THE INSURANCE EXCHANGE, INC. 
+9713 Key West Ave., Suite #401
+Rockville, MD 20850 
+(800)346-1403 (toll free)
+(301)545-1579 (direct)
+(301)330-1270 (fax)
+Cronin.M@Tie-Inc.com
+ 
+ 
+I highly recommend them. Good luck and keep us in mind for your next consulting project.
+ 
+Take care,
+Sara 
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

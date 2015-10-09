@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Medical Insurance Update</name>
+    <style>none</style>
+    <subject>Medical Insurance Decline Reason - Update Needed</subject>
+    <textOnly>Good morning {{lead.First Name:default=Associate}},
+ 
+Our records show that during enrollment, you selected “uninsured” when asked about your medical benefits.  We are updating our census information for our upcoming benefits renewal and wanted to confirm that this information is still accurate.  
+ 
+Would you please help us update our records by clicking here (http://info.mbopartners.com/Insuranceupdate) to complete our one survey question?
+ 
+Best regards,
+Carol 
+
+
+Carol Baxter
+Human Resources Manager
+Direct: 703-793-6045
+MBO Partners
+www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

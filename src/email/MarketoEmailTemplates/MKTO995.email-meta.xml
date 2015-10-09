@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>UNGENT I-9 ISSUE TIME SENSITIVE! (1329320724.0)</name>
+    <style>none</style>
+    <subject>UNGENT I-9 ISSUE TIME SENSITIVE! (1329320724.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi George, We received an error for your e-verify case as the incorrect SSN was entered.  In in section 1, you initially entered “056-64-5290”, yet in Section 2 you entered “050-64-5290” which should have been used.   Please print out the copy of your I-9 (attached), and cross out the SSN in Section 1 and correct with the correct information, then initial and date next to the changes.  Once you have finished this please email for fax directly back to me.   You only have 3 days to fix this so this is extremely urgent. Please let me know if you have any questions. Thank you,Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e:  &lt;mailto:sconde@mbopartners.com&quot;&gt;sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com&lt;span style=&apos;mso-bookmark:_MailAutoSig&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

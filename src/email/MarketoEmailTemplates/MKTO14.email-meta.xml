@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email is to be sent out as a Thank you email when a lead completes the form.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ES Talk To Us</name>
+    <style>none</style>
+    <subject>Thank You for Requesting to Speak with MBO Enterprise Solutions</subject>
+    <textOnly>Dear {{First Name:default=Sir/Maddam}},
+
+Thank you for your interest in speaking to us about MBO Enterprise Solutions.
+
+Your request has been forwarded to our Enterprise Business Development team. Someone from the team will follow up with you soon to set up a time to speak about how MBO Enterprise Solutions can help your organization work with independent contractors more safely, efficiently, and productively.
+
+Best regards,
+
+Dave Putt
+Vice President, Enterprise Business Development
+MBO Enterprise Solutions
+An MBO Partners Company</textOnly>
+    <type>custom</type>
+</EmailTemplate>

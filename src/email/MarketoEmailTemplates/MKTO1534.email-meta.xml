@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Disqualified.1 Disqualified</name>
+    <style>none</style>
+    <subject>MBO Partners / {{lead.Full Name:default=edit me}}</subject>
+    <textOnly>Dear {{lead.First Name:default=Sir/Madam}},
+
+It’s been some time since we last spoke, but I appreciate your  interest in working with MBO Partners, and wanted to check in and share  some news with you.
+
+We recently launched a new Web site (http://www.mbopartners.com/) with a set of powerful tools built-in to help those assessing and getting ready for independent work to find their right fit (http://www.mbopartners.com/#rightforyou).
+
+I wanted to share these tools with you personally, and encourage you to take a quick look.
+
+Perhaps you are happily independent now, and have found a solution to  manage your business life -- or you may have returned to working full  time, or perhaps be in the midst of a search.
+
+Whatever your work life stage, I hope you can join me in celebrating  the news that independence in America has arrived. Our company just  released news of a major national study – the first-ever national baseline to size and track the independent work sector (http://info.mbopartners.com/stateofindependence).  It’s part of a year-long effort called The State of Independence in  America. I encourage you to view the study’s very interesting findings on the size and trends for independent work in our nation.
+
+I do hope you will take time to learn if MBO Partners is right for you or not (http://www.mbopartners.com/#rightforyou). Please stay in touch and let me know how I can help further your career.
+
+{{lead.Lead Owner First Name:default=Steve}}
+___________________________________
+{{lead.Lead Owner First Name:default=Steve}} {{lead.Lead Owner Last Name:default=Arhancet}}
+{{lead.Lead Owner Job Title:default=Director, Consultant Services}}
+MBO Partners
+
+t: {{lead.Lead Owner Phone Number:default=703.793.6011}}
+f: 703.793.6081
+e: {{lead.Lead Owner Email Address:default=sarhancet@mbopartners.com}}
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

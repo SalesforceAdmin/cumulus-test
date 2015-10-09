@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners / Atrium Payment (1313505106.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners / Atrium Payment (1313505106.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Tricia,
+ 
+I wanted to share some basic time and expense entry instructions with you.
+ 
+Login to https://app1.mbopartners.com, using the username/password created by you.
+ 
+Expenses:
+Click on “expenses” located at the top of the screenClick on “add a new expense”Select the appropriate expense type from the list on the rightEnter in the required details (all fields marked with an asterisk)Upload receipt if necessary Click “save”; if the expense appears in Green you’re all set, if it appears in Orange you need to upload a receipt and if it appears in Black then you are missing information and you need to re-checkIf you prefer not to upload your receipt click on the tab labeled “Expense Report.”  This will create a cover sheet for your expenses 
+Along with the cover sheet please fax (703-793-6070) or email (doc@mbopartners.com) all receipts to MBO. If you email please copy me as 
+well.
+ 
+Regards,
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+ 
+From: Tricia Daniels [mailto:tricia@eventmarketingpartners.com] 
+Sent: Saturday, August 13, 2011 8:38 AM
+To: Steve Arhancet
+Cc: Jessica Hartman
+Subject: RE: MBO Partners / Atrium Payment
+Importance: High
+ 
+Hi Steve,
+ 
+Sorry for the delay . . . things have just been crazy between travel, work and having my 6-year old grandson for the summer (not much gets done when he’s around J).  I have FINALLY gone in and set up my account and now need to do the expense portion.  Can the money just sit in my business center until I am ready to invoice?  How does that work?
+ 
+Maybe we can touch base on Monday to discuss.
+ 
+Thanks for your patience!
+ 
+Tricia
+ 
+Tricia Daniels
+Program Manager
+Event Marketing Partners
+Phone:  407-406-8588
+Fax:  352-357-6963
+ 
+From: Steve Arhancet [mailto:sarhancet@mbopartners.com] 
+Sent: Friday, August 12, 2011 2:14 PM
+To: Tricia Daniels (tricia@eventmarketingpartners.com)
+Cc: Jessica Hartman
+Subject: MBO Partners / Atrium Payment
+ 
+Tricia,
+ 
+Unexpectedly, we received payment for you today for the work you did with EMP.  We however cannot pay you until you enroll in our system.  We will unfortunately have to send this money back to Atrium and wait for you to enroll, at which time we will request for them to repay the invoice we send.  
+ 
+Can you please let me know when you plan to finish your enrollment?  If we can finish your enrollment today or Monday at the latest, we can have this deposited in your business center, but any longer and it will need to be sent back. 
+ 
+I will call you as well.
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

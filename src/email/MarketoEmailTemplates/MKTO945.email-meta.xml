@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Information (1328731196.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Information (1328731196.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                                
+Hi Jim,
+ 
+It was a pleasure speaking with you today.  I’ve enclosed a few resources that describe the services that MBO provides.  
+ 
+We have created an index of past webinars on topics specifically catered for independent consultants.  You can view our index by going here.   
+In addition we have a 2012 Webinar track that will cover everything to do with working independently.  We have three tracks, you can sign up to receive notifications when new webinars are scheduled by going here. 
+You can view all the information we spoke over the phone by going here.   
+I also thought that you may be interested in information about paying your 1099 consultants through MBO from your company to mitigate some of your risk.
+ 
+Here is a list of items that highlight the benefits to your company:
+ 
+Complete overview of the value and service we provide to companies who refer us consultants to be engaged. 
+We eliminate reclassification risk and mitigate co-employment and business liability risk for your company. 
+ 
+ 
+If you have questions in the future, feel free to schedule a convenient time for you using my online schedule.
+ 
+ 
+Have a great day,
+Nicolette 
+ 
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

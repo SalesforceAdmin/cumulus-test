@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " ><span class="mktEditable" id="edit_text" ></span>
+<p ><span class="mktEditable" id="edit_text" >&nbsp;<img title="2012 Webinar Series" src="http://info.mbopartners.com/rs/mbo/images/MBO-webinar-logo-4.12.png" alt="2012 Webinar Series" width="337" height="211" align="bottom"></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" >&nbsp;</span>
+</p>
+<p ><span class="mktEditable" id="edit_text" >Hello {{lead.First Name:default=Webinar Registrant}},</span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" >Thank you for taking the time out of your busy schedule to attend our webinar <strong>“The Consultant's Guide to Lead Generation: Three Steps to Securing New Clients</strong><strong>."</strong> We hope you were able to gain some new insight into growing your independent business. To follow-up on the information provided on Thursday, September 6th, we wanted to share a few resources.</span>
+</p>
+<ol ><li ><span class="mktEditable" id="edit_text" ><span>&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://f5159bf2f10bd6337d85-21700ed84a5e5d3baebf7221604c63ee.r66.cf2.rackcdn.com/20120906_Consultants_Guide_to_Lead_Generation.wmv">Recorded webinar</a></span></span>
+</li>
+<li><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://info.mbopartners.com/rs/mbo/images/MBOPartners-Webinar-LeadGen.pdf">Webinar slide deck</a></span></li>
+<li><span>&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.linkedin.com/in/bretsmithhip">Featured Speaker&nbsp;Bret Smith LinkedIn</a></span></li>
+<li><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.mbopartners.com/blog/how-define-and-reach-your-target-client-audience">How to Define and Reach Your Target Client Audience</a><strong>&nbsp;</strong></span></li>
+</ol>
+<p></p>
+<p ><span class="mktEditable" id="edit_text" >We invite you to <a title="2012 Webinar Series Sign-up" href="http://info.mbopartners.com/2012SeriesSignUp.html">sign-up</a> to stay informed about future webinars in our series. If you have any topic recommendations or feedback, please email <a title="webinar@mbopartners.com" href="mailto:webinar@mbopartners.com">webinar@mbopartners.com</a>.&nbsp;</span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" >Thank you,</span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia,palatino; font-size: 14px;"><strong><span style="color: #991324;">MBO PARTNERS<br></span></strong><strong><span style="color: #991324;"><span style="color: #808080;">t: 1-800-220-0469<br>
+e: info@mbopartners.com</span></span></strong></span></span>
+</p>
+<p></div>
+</body>
+</html>

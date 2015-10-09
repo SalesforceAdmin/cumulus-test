@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Conversation  Appointment Confirmation (1320766987.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Conversation  Appointment Confirmation (1320766987.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Sandra,
+ 
+Thank you for letting me know.  Unfortunately I am not available during those times today, but am available tomorrow or Thursday.  I have included a link to my calendar for you to select a time that works best for you.
+ 
+https://my.timedriver.com/9TGRK
+ 
+I look forward to speaking with you!
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: bell_s@verizon.net [mailto:bell_s@verizon.net] 
+Sent: Tuesday, November 08, 2011 10:11 AM
+To: Nicolette Taylor
+Subject: Re: MBO Partners Conversation Appointment Confirmation
+ 
+Dear Ms. Taylor.
+ 
+I regret to inform you that I need to reschedule my appointment with you. I can do anytime this afternoon from 1-3pm.
+ 
+Thank you.
+ 
+Sandra Bell
+ 
+ 
+On 11/01/11, Nicolette Taylor&lt;no-reply@timedriver.com&gt; wrote:
+  
+ 
+  
+
+ Appointment Confirmation
+
+Your appointment with Nicolette Taylor of MBO is confirmed.
+  
+ Activity: 
+MBO Partners Conversation 
+Date: 
+Tuesday, November 8, 2011
+Time: 
+11:00am EST (45 minutes)
+Instructions: 
+Nicolette Taylor will call you at 301-502-0293
+ Click on an icon below to add this appointment to your calendar 
+
+
+
+
+
+ 
+Powered by TimeTrade
+ 
+&lt;/htm</textOnly>
+    <type>custom</type>
+</EmailTemplate>

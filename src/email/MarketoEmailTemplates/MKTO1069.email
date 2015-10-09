@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " ><span class="mktEditable" id="edit_text" ><p>&nbsp;<img title="2012 Webinar Series" src="http://info.mbopartners.com/rs/mbo/images/2012webinar-head.gif" alt="2012 Webinar Series" width="350" height="158" align="baseline" /></p>
+<p>Hello {{lead.First Name:default=Sir/Madam}},</p>
+<p>Thank you for attending our webinar, {{my.title:default=edit me}} on {{my.date:default=edit me}}. I hope you found it informative and the discussion was useful to you. You can find a copy of the presentation slides <a href="http://info.mbopartners.com/rs/mbo/images/MBOPartners_Bill_Rate_Webinar_3.2.12.pdf" target="_blank">here</a>.</p>
+<p>In addition, I have&nbsp;included an article that we recently wrote regarding the cost-based method. The article summarizes how to <a href="http://info.mbopartners.com/rs/mbo/images/Cost-Based_Bill_Rate_Article.pdf">calculate your bill rate using the cost-based method</a> as did much of our discussion on Friday. Hopefully you will find some of the resources and tips in the article helpful.&nbsp;</p>
+<p>Make sure to join the rest of our <a href="http://info.mbopartners.com/2012SeriesSignUp.html" target="_blank">webinar series</a> by signing up&nbsp;to receive&nbsp;more information.</p>
+<p>Regards,</p>
+<p>{{my.advisor:default=Steve}}</p></span>
+</div>
+<div><span style="font-family: 'Georgia','serif'; color: #999999; font-size: 10pt;">___________________________________</span></div>
+<div><strong><span style="font-family: georgia,palatino; color: #a00b10; font-size: 10.5pt;">{{lead.Lead Owner First Name:default=Steve}} {{lead.Lead Owner Last Name:default=Arhancet}}</span></strong></div>
+<div><strong><span style="font-family: georgia,palatino; color: #353433; font-size: 10.5pt;">{{lead.Lead Owner Job Title:default=Director, Consultant Services}}</span></strong></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;">MBO Partners</span></div>
+<br>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>t:</strong> {{lead.Lead Owner Phone Number:default=703.793.6011}}</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>f:</strong> 703.793.6081</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>e:</strong> {{lead.Lead Owner Email Address:default=sarhancet@mbopartners.com}}</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>w:</strong> <a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></div>
+</body>
+</html>

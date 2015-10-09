@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: The Caso Show (1343330975.0)</name>
+    <style>none</style>
+    <subject>RE: The Caso Show (1343330975.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Mike, MBO does not work with product sales at all. If there is any transactions for product sales that would need to be conducted outside of MBO, we only work in billing professional services. If there are any billable expenses our fee is not charged on those, only on labor. 
+Thanks,
+Sara From: Michael Cornecelli [mailto:michaelg.cornecelli@gmail.com] 
+Sent: Thursday, July 26, 2012 1:00 PM
+To: Sara Conde
+Subject: Re: The Caso Show Hi Sara, I forgot what you mentioned to this point: If I need a client to write me one check, which covers two different costs, (my consulting fee and some product) can MBO write a check from my account to the product owner? MBO would of course receive the money from the client first.On Tue, Jul 24, 2012 at 11:30 AM, Sara Conde &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt; wrote:Hi Mike, Great talking to you here is a link to the show: www.thecasoshow.com &lt;http://www.thecasoshow.com&gt; and then FB page www.facebook.com/thecasoshow &lt;http://www.facebook.com/thecasoshow&gt;  Take care!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028 &lt;tel:703.793.6028&gt;f: 703.793.6068 &lt;tel:703.793.6068&gt;e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. 
+ -- Michael Cornecellip)  571-201-5450e) Michaelg.Cornecelli@gmail.com &lt;mailto:Michaelg.Cornecelli@gmail.com&gt; </textOnly>
+    <type>custom</type>
+</EmailTemplate>

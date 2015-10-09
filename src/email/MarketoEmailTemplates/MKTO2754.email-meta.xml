@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Conference Nurturing 4</name>
+    <style>none</style>
+    <subject>T Minus 0: Wine, Cheese or Chocolate?</subject>
+    <textOnly>{{lead.First Name:default=Conference attendee}}, I&apos;d like to talk to you about MBO at the conference, and I&apos;m willing to part with wine, cheese and chocolate to make it happen. Meet MBO at our reception tonight in the Cuvee Room at ENO Wine Bar, 5:30 to 8.  
+See you there,
+Jay
+___________________________________
+Jay Lash
+VP of Market Strategies
+ MBO Partners
+ 
+ t:  703-793-6005
+ e: jlash@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

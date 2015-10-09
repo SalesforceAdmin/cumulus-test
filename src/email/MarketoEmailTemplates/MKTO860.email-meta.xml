@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Thank You for Registering for Our Webinar (1328043936.0)</name>
+    <style>none</style>
+    <subject>RE: Thank You for Registering for Our Webinar (1328043936.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Suzanne,
+ 
+Not sure why the link did not yield the PDF for you; I was able to access it on internet explorer. I have attached it along with the slide deck above. Please let me know if you need any additional information or if you would like to speak.
+ 
+Take care!
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: Suzanne Hain [mailto:suzannehain@gmail.com] 
+Sent: Tuesday, January 31, 2012 9:41 AM
+To: Sara Conde
+Subject: Re: Thank You for Registering for Our Webinar
+ 
+Dear Sarah,
+Neither of those links yielded a document, just a blank web screen.  Are there directions for what web browser to use or anything?  Otherwise, is it possible just to email a pdf of the documents?
+Suzanne Hain
+On Mon, Jan 30, 2012 at 6:01 PM, Sara Conde &lt;sconde@mbopartners.com&gt; wrote:
+
+Dear Suzanne,
+
+Thank you for registering for our &quot;Are You Ready to Go Solo?&quot; Webinar on Friday, January 27, 2012. We hope you found it informative. You can find a copy of the 30-minute presentation here. We have also created a document containing some frequently asked questions, key tips, and other resources to help you determine if you are ready to go solo. 
+
+As mentioned, this is just the first of a series of webinars MBO Partners will be hosting over the year. We invite you to join our mailing list to keep in touch regarding upcoming events.
+
+Regards,
+
+Sara Conde
+
+___________________________________
+SARA CONDE
+Consultant Services Advisor
+MBO Partners
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+
+
+If you no longer wish to receive these emails, click on the following link: Unsubscribe
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

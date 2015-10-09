@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Lead Email 7</name>
+    <style>none</style>
+    <subject>Thought Leadership: New Guide from MBO Partners</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+Do your potential clients see you as an expert in your field? More importantly, do they see you at all?
+Thought leadership is the art of gaining respect among your community, and mastering it can take your consultancy to the next level, attracting more leads. Do you produce content, speak at conferences, or attract social media followers? 
+To help you, MBO Partners has created a new downloadable guide on Thought Leadership &lt;http://www.mbopartners.com/independents-guide/grow/thought-leadership&gt; to help you plan and create a thought leadership platform to connect to your audience. We will walk you through the process with practical, actionable steps that will make you more visible so you can win more business.
+___________________________________
+MBO Partners
+t: 703-793-6000
+ e: info@mbopartners.com &lt;mailto:info@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

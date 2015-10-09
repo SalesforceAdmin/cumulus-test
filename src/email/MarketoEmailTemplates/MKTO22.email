@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">Good morning {{lead.First Name:default=Associate}},</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">&nbsp;</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">Our records show that during enrollment, you selected &ldquo;uninsured&rdquo; when asked about your medical benefits.&nbsp; We are updating our census information for our upcoming benefits renewal and wanted to confirm that this information is still accurate.&nbsp; </span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">&nbsp;</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">Would you please help us update our records by clicking <a href="http://info.mbopartners.com/Insuranceupdate"><u>here</u></a> to complete our one survey question?</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">&nbsp;</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">Best regards,</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">Carol </span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif';"><br /></span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif'; color: #000000;">Carol Baxter</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif'; color: #000000;">Human Resources Manager</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif'; color: #000000;">Direct: 703-793-6045</span></div>
+<div><span style="font-size: 10pt; font-family: 'Arial','sans-serif'; color: #000000;">MBO Partners<br /> <a href="http://www.mbopartners.com/">www.mbopartners.com</a></span></div></span>
+</div>
+</body>
+</html>

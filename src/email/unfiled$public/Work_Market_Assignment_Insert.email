@@ -1,0 +1,10 @@
+Hello {!if(Opportunity.fs_accountFirstName__c!="", Opportunity.fs_accountFirstName__c,if(Opportunity.fs_pendingAssociateFirst__c!="",Opportunity.fs_pendingAssociateFirst__c,"MBO Associate"))},
+
+You have been assigned the following project: {!Opportunity.Name}.
+
+You may view the project here: {!Opportunity.fs_wmAssignmentURL__c}.
+
+A member of the MBO Partners team will be in touch within the next 24 hours to assist you with next steps.
+
+Best Regards,
+MBO Partners

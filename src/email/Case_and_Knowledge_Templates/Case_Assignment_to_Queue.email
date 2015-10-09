@@ -1,0 +1,6 @@
+Case Assignment {!Case_Assignment__c.Name}: {!Case_Assignment__c.fs_topic__c} has been assigned to Queue {!Case_Assignment__c.OwnerFullName}.
+
+Please view the Case Assignment ({!Case_Assignment__c.Link}) and assign it accordingly.
+
+Case Assignment preview:
+{!Case_Assignment__c.fs_description__c}

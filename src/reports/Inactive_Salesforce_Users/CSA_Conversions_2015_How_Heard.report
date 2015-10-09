@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <buckets>
+        <bucketType>picklist</bucketType>
+        <developerName>BucketField_69568830</developerName>
+        <masterLabel>How Heard</masterLabel>
+        <nullTreatment>n</nullTreatment>
+        <sourceColumnName>Lead.How_Heard__c</sourceColumnName>
+        <useOther>false</useOther>
+        <values>
+            <sourceValues>
+                <sourceValue>News or Article</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Webinar or Event</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Center for Human Capital Innovation</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Human Capital Institute</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Sourcing Interest Group</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Staffing Industry Analyst</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Search Engine</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>LinkedIn</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Twitter</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Facebook</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Word of Mouth</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>YouTube</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Zintro</sourceValue>
+            </sourceValues>
+            <sourceValues>
+                <sourceValue>Digital Ad</sourceValue>
+            </sourceValues>
+            <value>Marketing</value>
+        </values>
+    </buckets>
+    <columns>
+        <field>LEAD_OWNER</field>
+    </columns>
+    <columns>
+        <field>CONVERTED_DATE</field>
+    </columns>
+    <columns>
+        <field>FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>Lead.How_Heard_AD__c</field>
+    </columns>
+    <columns>
+        <field>Lead.Referring_Client__c</field>
+    </columns>
+    <columns>
+        <field>Lead.Referring_Contact__c</field>
+    </columns>
+    <columns>
+        <field>Lead.rs_referringAffiliate__c</field>
+    </columns>
+    <columns>
+        <field>CREATED_DATE</field>
+    </columns>
+    <columns>
+        <field>LAST_UPDATE</field>
+    </columns>
+    <filter>
+        <criteriaItems>
+            <column>Lead.Enrollment_Manager__c</column>
+            <operator>equals</operator>
+            <value>Sara Conde,Meghan Moul,Emily Stringer,Nicolette Taylor</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>RECORDTYPE</column>
+            <operator>equals</operator>
+            <value>Lead.CRA,Lead.Direct_Associate</value>
+        </criteriaItems>
+    </filter>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>BucketField_69568830</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>CSA Conversions 2015 How Heard</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>OpportunityLead</reportType>
+    <scope>org</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>CONVERTED_DATE</dateColumn>
+        <interval>INTERVAL_CURFY</interval>
+    </timeFrameFilter>
+</Report>

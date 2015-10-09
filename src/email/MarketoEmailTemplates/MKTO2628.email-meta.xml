@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MTI Emails.MTI Email 2</name>
+    <style>none</style>
+    <subject>Let MBO interview you, get $50</subject>
+    <textOnly>Dear {{lead.First Name:default=Associate}},
+
+MBO Partners is looking for volunteers to be featured on our Meet The Independents &lt;http://www.mbopartners.com/state-of-independence/meet-the-independents.html&gt; site, representing {{company.State:default=your state}}. The site features consultant profiles that are shared with MBO&apos;s large online audience and distributed in monthly newsletters reaching more than 20,000 business professionals.
+
+It&apos;s a great brand awareness opportunity for your business, and if you&apos;re selected, we will send you a $50 Amazon gift card as our way of saying thanks!
+
+To learn more about marketing your business with MBO&apos;s network, reply to this email.
+
+Thanks, and have a great day!
+___________________________________
+ Jaime MacDonell
+ Marketing Manager
+ MBO Partners
+ 
+ t: 703-793-6368
+e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Benefits for Small Companies (1329251648.0)</name>
+    <style>none</style>
+    <subject>Benefits for Small Companies (1329251648.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean      false false false  EN-US X-NONE X-NONE             MicrosoftInternetExplorer4                                                                                                                                                               Hi Angela,
+It was nice speaking with you today. Your best bet to secure benefits for your employees is by going with a Professional Employer Organization (PEO.) If you just type “PEO” into Google you will find many to choose from. Please let me know if I can help. Take care,Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e:  &lt;mailto:sconde@mbopartners.com&quot;&gt;sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com&lt;span style=&apos;mso-bookmark:_MailAutoSig&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

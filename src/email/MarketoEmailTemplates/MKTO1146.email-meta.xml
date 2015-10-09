@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>PMI and MBO! (1332509441.0)</name>
+    <style>none</style>
+    <subject>PMI and MBO! (1332509441.0)</subject>
+    <textOnly>-     
+	- 
+	-   110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Davin, How’s it going?  It’s been a while since we last spoke.  I hope the last two articles we provided for PMI received some good traffic on the PMI site.  I wanted to see if there are other things we can be doing with PMI.  We can start working on another article, or perhaps there is a speaking opportunity we could be involved in.  Gene has been flying around the country doing interviews for ABC News, Fortune and other media outlets talking to the rise of the independent workforce.  You had also mentioned in the past PMI might start up a webinar series again.   Look forward to hearing back from you, Steve___________________________________Steve ArhancetDirector, Consultant ServicesMBO Partners t: 703.793.6011f: 703.793.6081m: 540.560.8837e: sarhancet@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:sarhancet@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

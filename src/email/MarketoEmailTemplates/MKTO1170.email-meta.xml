@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Inquiry (1333640865.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Inquiry (1333640865.0)</subject>
+    <textOnly>-    1024x768  
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Dear Ken,   As a courtesy, I wanted to follow up on the voicemail I left you.  My name is Nicolette Taylor and I’ll be responsible for answering any questions you may have and providing you an overview of our services.  You may easily book a time that is convenient for you to chat using my online schedule. You may also watch a short video about who we are on YouTube.  You may also look at some of the stories from indepdenents &lt;https://my.timedriver.com/9TGRK&gt; who use MBO Partners. I look forward to speaking with you, Nicolette </textOnly>
+    <type>custom</type>
+</EmailTemplate>

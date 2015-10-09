@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Not Interested.2 Not Interested</name>
+    <style>none</style>
+    <subject>MBO Partners / {{lead.Full Name:default=edit me}}</subject>
+    <textOnly>Dear {{lead.First Name:default=Sir/Madam}},
+
+I hope you&apos;re doing well. We’re reaching out because we know you have had an interest in MBO Partners in the past.
+
+I&apos;d like to share a few of our resources designed specifically for independent consultants. If you haven&apos;t already, check out our Bill Rate Calculator &lt;http://www.mbopartners.com/#billrate&gt;,  an interactive tool that can guide you in creating a rate that includes your operating expenses, estimated billable hours and target profit margin.  
+
+Additionally, we have created an online library of content relevant to both new and experienced independents. It&apos;s called the Independent&apos;s Guide &lt;http://www.mbopartners.com/independents-guide&gt;, and it&apos;s constantly updated with new articles, blogs, and downloadable guides. We even have custom templates you can use for creating a Statement of Work &lt;http://www.mbopartners.com/independents-guide/launch/creating-independent-consulting-scope-work-document-tips-and-template&gt; document. 
+
+As always, we’re here to make it easier for independent consultants to do business. If you would like to chat, you may book a time in my online schedule by going here {{lead.EM TTLink:default=https://my.timedriver.com/8SLYS}}
+
+Best regards,
+
+{{lead.EM FName:default=Sara}}
+
+ ___________________________________
+{{lead.EM FName:default=Sara}} {{lead.EM LName:default=Conde}} 
+Consultant Services Advisor
+
+MBO Partners
+ 
+t: {{lead.EM Phone:default=703-793-6028}}
+f: 703-793-6070
+e: {{lead.EM Email:default=sconde@mbopartners.com}} 
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

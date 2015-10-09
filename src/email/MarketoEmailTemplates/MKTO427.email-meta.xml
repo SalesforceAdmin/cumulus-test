@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Follow Up To Inquiry (1323441730.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Follow Up To Inquiry (1323441730.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                                
+ 
+Dear Pete, 
+ 
+I hope all is well.  Some time ago you requested information regarding the services offered by MBO Partners.  If you are still interested in hearing about the services MBO has to offer please do not hesitate to reach out to me.  If now is not the right time for you please let me know and I would be happy to reach out to you at a future date that works for you.
+ 
+Regards,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

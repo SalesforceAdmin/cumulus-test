@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Appointments (1330007790.0)</name>
+    <style>none</style>
+    <subject>Appointments (1330007790.0)</subject>
+    <textOnly>-    1024x768  
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Tracey, I saw that you scheduled two appointments on my calendar for today, one at 1:00pm and the other at 4:00pm.  Which time did you want me to reach out to you?  Please advise. Thank you and have a great day,Nicolette ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e:  &lt;bbentley@mbopartners.com&quot;&gt;ntaylor@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com&lt;span style=&apos;mso-bookmark:_MailAutoSig&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Backoffice Support (1385137933.0)</name>
+    <style>none</style>
+    <subject>RE: Backoffice Support (1385137933.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Charles, It’s a pleasure to “meet” you! As Debbie mentioned, we will take care of the back-office administrative support, including invoicing, collecting payments, withholding taxes, insurance coverage, etc. For more information, please refer to our one-page document &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Introduction.pdf&gt;.   &lt;http://link.mbopartners.com/track?t=c&amp;enid=bWlkPW1ib0JldGFjdXN0LTAtMC0wLTAtcHJvZC0wJm1zZ2lkPTAmZGlkPTEyMzQmc249MCZlaWQ9d2R2b2l0QGdtYWlsLmNvbSZ1aWQ9MCZleHRyYT1NVEU1ZkhOeVkybGtQVE0wTUh4dFlXbHNhV1E5WVdRek1qazNZbU10WW1Jek5DMDBOV0l4TFdFME1EVXRPV1k1TURNek9EazRNRGhpTFRNME1IeG1jbTl0UFhOamIyNWtaVUJ0WW05d1lYSjBibVZ5Y3k1amIyMThjM1ZpYWoxSmJuUnliMlIxWTNScGIyNGdkRzhnVFVKUElGQmhjblJ1WlhKej0mJiY=&amp;&amp;&amp;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Introduction.pdf?mkt_tok=2xUAKZjCbFVPuk5iy%2FuUI6Dh0TbPd%2FLC0dYXY52MuKVUsyIUGIalUg%3D%3D&gt;MBO Partners will be invoicing for and accepting payments on my behalf of Debbie. To get everything fully initiated, please fill out and return the below form as soon as possible: 
+	- Independent Consultant Statement of Work &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Independent_Consultant_Statement_of_Work.pdf&gt;– Please complete, sign, and return
+ Additionally, the following links provide important information on MBO that you will find useful: 
+	- MBO Payment Information &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Wire_and_Payment_Information.pdf&gt; 	- W-9 for MBO Partners &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_W-9.pdf&gt;	- Certificate of Liability Insurance &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Sample_COI.pdf&gt;
+ If you have any questions about MBO Partners, please feel free to reach out to me directly. Thanks again, and I look forward to working with you!   ___________________Meghan MoulConsultant Services Advisor MBO Partners t: 703.793.6359f: 703.793.6473e: mmoul@mbopartners.com &lt;mailto:mmoul@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;  Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=moul&gt; to MBO Partners! Ask me about them. From: Debbie Bauer [mailto:dbauer80va@outlook.com] 
+Sent: Thursday, November 21, 2013 8:57 PM
+To: &apos;Charles Joyner&apos;
+Cc: Meghan Moul
+Subject: Backoffice Support Charles –  As I mentioned, I’m hiring a company to handle my backoffice invoicing to Celerity.  Meghan is my point of contact for MBO; she will be reaching out to you to arrange the details of invoicing. ThanksDebbie</textOnly>
+    <type>custom</type>
+</EmailTemplate>

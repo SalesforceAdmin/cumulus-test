@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: I need restart my service with MBO (1344963342.0)</name>
+    <style>none</style>
+    <subject>RE: I need restart my service with MBO (1344963342.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi David, My name is Nicolette Taylor and I am a Consultant Services Advisor with MBO.  Jess Hartman forwarded me your information as she is working in other areas of the company now and not doing enrollments and I would like to schedule a time for us to speak briefly so I can introduce myself and walk you through what needs to be done to get you reactivated with MBO.  I have included a link to my calendar below, please schedule a time that works for you and I will reach out. Online schedule &lt;https://my.timedriver.com/9TGRK&gt; I look forward to speaking with you soon! Thank you,Nicolette  From: David Chan [mailto:kluenchan@gmail.com] 
+Sent: Monday, August 13, 2012 6:30 PM
+To: Jessica Hartman
+Subject: I need restart my service with MBO Hello Jessica, I just start a job at Logan LA. So I need to reactivate MBO account. How do I go from doing it. ThanksDavid Chan562-665-4609  Logan LA4221 Redwood Ave. #2Los Angeles, CA 90066</textOnly>
+    <type>custom</type>
+</EmailTemplate>

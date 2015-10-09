@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>22AugWeb-Digital-Strategies.Invite 1</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, MBO Webinar on Consulting Technology</subject>
+    <textOnly>Please join us on August 22 at 1 p.m. ET, when we will hold a webinar titled &quot;Digital Strategies for Independent Professionals: How the Right Tech Tools Can Boost Your Bottom Line &lt;http://info.mbopartners.com/22AugWebDigitalStrategies_RegistrationPage.html&gt;.&quot;
+
+In today&apos;s workforce, independent consultants are expected to be mobile and tech-savvy. If your client calls you while you are away from the office, could you handle their request?
+ 
+There are many new technologies tailored to fit common independent consulting issues like this one. To help you stay up-to-date, MBO Partners is excited to welcome Hajj Flemings, tech columnist and founder of Brand Camp University, as the guest expert in our next webinar. Hajj will show you ways that your technical skills and the right apps can boost your brand and your bottom line.  
+Register today &lt;http://info.mbopartners.com/22AugWebDigitalStrategies_RegistrationPage.html&gt;!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

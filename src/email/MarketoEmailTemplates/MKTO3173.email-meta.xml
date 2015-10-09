@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>4Mar2014-Karpie.Sorry Missed</name>
+    <style>none</style>
+    <subject>Sorry we missed you - Resources from our Technology Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+You were missed at our  “Technology is Changing How Businesses Engage the 21st Century Independent Professional&quot; webinar held on Tuesday, March 4. Cloud expert Holger Mueller and Andrew Karpie from The Research Platform joined MBO CEO Gene Zaino to outline how technology is evolving alongside the independent workforce.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+       Recorded webinar &lt;http://video.mbopartners.com/players/JHiqDSJH-mMm4x1IW.html&gt;
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO_March%204_%20Webinar_V6_FINAL.pdf&gt;
+       Connect with Gene &lt;http://www.linkedin.com/in/genezaino&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " class="mktEditable" id="edit_text" ><p>Hello {{lead.First Name:default=future associate}},</p>
+<p>I hope you are doing well. I wanted to follow up with you from our conversation regarding the services provided by MBO Partners.&nbsp; You mentioned you may be starting a new consulting contract. How is that going?</p>
+<p>Here are a few tools that summarize our conversation from before:</p>
+<ul>
+<li>There are some webinars and videos we have created that might assist you in finding your next contract if you have not already found one:</li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.mbopartners.com/resources/presentations">http://www.mbopartners.com/resources/presentations</a></p>
+<ul>
+<li>MBO Partners continues to invest in being a leader for independent consultants across the country. I also wanted to share the news that we released a study you may be interested in. For the first time, there&rsquo;s real hard facts about <a href="http://www.mbopartners.com/state-of-independence/index.html">The State of Independence in America</a> that will reveal not just how many millions of independent professionals there are in the country, but also the unique things that motivate them and help them stay happily independent.</li>
+</ul>
+<p>I look forward to hearing from you.</p>
+<p><span style="font-family: georgia, palatino;">Best regards,</span></p>
+<div>
+<div>{{lead.EM FName:default=Sara}}</div>
+<div><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span></div>
+<div><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">{{lead.EM FName:default=Sara}} {{lead.EM LName:default=Conde}}</span><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;</span></strong></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">Consultant Services Advisor<br /></span></strong></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> {{lead.EM Phone:default=703-793-6028}}<br /></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">f:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 703-793-6070</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong><span style="color: #353433;"><span style="font-family: 'Georgia','serif';"> {{lead.EM Email:default=sconde@mbopartners.com}}</span><strong>&nbsp;</strong></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong><span style="font-family: 'Georgia','serif';"> <span style="color: #353433;"><a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></span></div>
+</div></div>
+</body>
+</html>

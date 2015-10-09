@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CEQ Q3</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Client}}, your Q3 CEQ is here</subject>
+    <textOnly>LEGAL CASE STUDY: BEWARE OF SHIFTING MISCLASSIFICATION LAWS
+
+The standards for determining whether an individual is an Employee or an Independent Contractor differ between Federal agencies and also in numerous states pursuant to their laws. Read More  &lt;http://www.mboenterprise.com/blog/pay-attention-state-laws-concerning-independent-contractors-recent-massachusetts-example&gt;
+
+A TIGHT DEADLINE, A FORTUNE 100 COMPANY, AND AN MBO SUCCESS
+
+It’s not every day one of the world’s largest and most successful retailers calls you up for advice.Recently, MBO took on a big challenge for an exciting new client... Read More  &lt;http://www.mboenterprise.com/blog/fast-easy-and-simple-fortune-100-company-trusts-mbo-get-results&gt;
+
+MBO HITS BROADWAY: A NIGHT OF NETWORKING IN NYC
+
+MBO Partners hosted another successful networking event last month, this time in the Big Apple!  On the evening of June 6th... Read More  &lt;#&gt;
+
+RECORDING, SLIDES, AND RESOURCES FROM JULY&apos;S COMPLIANCE WEBINAR
+
+Listen to our most recent webinar and see what experts like Lonnie Goldman and Dave Cassar have to say about the main issues surrounding the engagement of ICs. Read More  &lt;#&gt;
+
+FEATURED RESOURCE
+Aberdeen Research Report &lt;http://info.mbopartners.com/rs/mbo/images/AberdeenReport.pdf&gt;
+Access your copy of original research on IC engagement practices.
+
+WEBCASTS
+Webinar 1
+August 29, 2013
+Click here &lt;#&gt; to register today
+
+TOOLS
+What do you need to know when engaging a new contractor? We’ll show you. MBO’s convenient new “Independent Supplier SOW” template &lt;http://info.mbopartners.com/rs/mbo/images/Independent_Supplier_SOW_Short_Form.pdf&gt; can help your businesses more easily initiate contractor engagements – even if you’re not an MBO client.
+
+FEATURED INDEPENDENT
+How Important is Executive Sponsorship in an Enterprise Initiative? &lt;http://www.mboenterprise.com/blog/how-important-executive-sponsorship-enterprise-initiative&gt;
+Read the story here &lt;http://www.mbopartners.com/state-of-independence/meet-the-independents-ct.php&gt;.
+© 2012 MBO Partners. 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171</textOnly>
+    <type>custom</type>
+</EmailTemplate>

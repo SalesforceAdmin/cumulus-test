@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Case Task</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Case Tasks</value>
+    </caseValues>
+    <fields>
+        <label><!-- Assigned Date --></label>
+        <name>Assigned_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Associate&apos;s Name --></help>
+        <label><!-- Associate Name --></label>
+        <name>Associate_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Number --></label>
+        <name>Associate_Number__c</name>
+    </fields>
+    <fields>
+        <help><!-- The client that referred the reporter --></help>
+        <label><!-- Associate Referring Client --></label>
+        <name>Associate_Referring_Client__c</name>
+    </fields>
+    <fields>
+        <help><!-- The reporter&apos;s associate service --></help>
+        <label><!-- Associate Service --></label>
+        <name>Associate_Service__c</name>
+    </fields>
+    <fields>
+        <help><!-- The date the customer needs the issue resolved by. --></help>
+        <label><!-- Case Due Date --></label>
+        <name>Case_Due_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- The priority the customer believes the case is. --></help>
+        <label><!-- Case Priority --></label>
+        <name>Case_Priority__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case Task SLA --></label>
+        <name>Case_Task_SLA__c</name>
+    </fields>
+    <fields>
+        <label><!-- Closed Date --></label>
+        <name>Closed_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- The date this request needs to be complete by in order to complete the related case in time. --></help>
+        <label><!-- Due Date --></label>
+        <name>Due_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Duration --></label>
+        <name>Duration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case Task Priority --></label>
+        <name>ctPriority__c</name>
+        <picklistValues>
+            <masterLabel>High</masterLabel>
+            <translation><!-- High --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Normal</masterLabel>
+            <translation><!-- Normal --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Additional information the task worker needs to complete the task. --></help>
+        <label><!-- Description --></label>
+        <name>fs_description__c</name>
+    </fields>
+    <fields>
+        <help><!-- Notes provided to case worker upon task completion. --></help>
+        <label><!-- Resolution --></label>
+        <name>fs_resolution__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>fs_status__c</name>
+        <picklistValues>
+            <masterLabel>Assigned</masterLabel>
+            <translation><!-- Assigned --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Completed</masterLabel>
+            <translation><!-- Completed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New</masterLabel>
+            <translation><!-- New --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- The type of task requested for completion. Will send task to the associated queue, based on the Topic. --></help>
+        <label><!-- Topic --></label>
+        <name>fs_topic__c</name>
+        <picklistValues>
+            <masterLabel>401K Inquiry/Return of Excess</masterLabel>
+            <translation><!-- 401K Inquiry/Return of Excess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Apply Negative Invoice</masterLabel>
+            <translation><!-- Apply Negative Invoice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Approve Expense</masterLabel>
+            <translation><!-- Approve Expense --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Approve Negative Expense</masterLabel>
+            <translation><!-- Approve Negative Expense --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Claims - WC, Life, LTD</masterLabel>
+            <translation><!-- Claims - WC, Life, LTD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Collection Request</masterLabel>
+            <translation><!-- Collection Request --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit Memo</masterLabel>
+            <translation><!-- Credit Memo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Denied Expense Escalation</masterLabel>
+            <translation><!-- Denied Expense Escalation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-Verify</masterLabel>
+            <translation><!-- E-Verify --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Evidence of Insurability</masterLabel>
+            <translation><!-- Evidence of Insurability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Garnishment</masterLabel>
+            <translation><!-- Garnishment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ledger Insurance Premiums</masterLabel>
+            <translation><!-- Ledger Insurance Premiums --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ledger Pay Records</masterLabel>
+            <translation><!-- Ledger Pay Records --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manual Invoice</masterLabel>
+            <translation><!-- Manual Invoice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manual Payment Advance</masterLabel>
+            <translation><!-- Manual Payment Advance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manual Wire Advance</masterLabel>
+            <translation><!-- Manual Wire Advance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Push Invoice</masterLabel>
+            <translation><!-- Push Invoice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Refund Request</masterLabel>
+            <translation><!-- Refund Request --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reverse Payroll</masterLabel>
+            <translation><!-- Reverse Payroll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Security Clearance/DD-254</masterLabel>
+            <translation><!-- Security Clearance/DD-254 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service Fee Adjustment</masterLabel>
+            <translation><!-- Service Fee Adjustment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Terminate/Backdate Insurance</masterLabel>
+            <translation><!-- Terminate/Backdate Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Troubleshooting</masterLabel>
+            <translation><!-- Troubleshooting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unauthorize Time</masterLabel>
+            <translation><!-- Unauthorize Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Update Fidelity</masterLabel>
+            <translation><!-- Update Fidelity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Upload W-2</masterLabel>
+            <translation><!-- Upload W-2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Urgent Tech Support</masterLabel>
+            <translation><!-- Urgent Tech Support --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visit/Badge Request</masterLabel>
+            <translation><!-- Visit/Badge Request --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Void Invoice</masterLabel>
+            <translation><!-- Void Invoice --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Case --></label>
+        <name>rs_case__c</name>
+        <relationshipLabel><!-- Case Tasks --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Assignment Layout</layout>
+        <sections>
+            <label><!-- Case Task Details --></label>
+            <section>Case Task Details</section>
+        </sections>
+        <sections>
+            <label><!-- Case Task Information --></label>
+            <section>Case Task Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Reporting Associate Info --></label>
+            <section>Reporting Associate Info</section>
+        </sections>
+        <sections>
+            <label><!-- case task info 1 --></label>
+            <section>case task info 1</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please enter a resolution upon completion of the assignment --></errorMessage>
+        <name>Completed_Resolution</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Close_Task --></label>
+        <name>Close_Task</name>
+    </webLinks>
+</CustomObjectTranslation>

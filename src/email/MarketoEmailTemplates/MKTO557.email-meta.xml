@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1325004699.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1325004699.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Russell,
+ 
+Hello, my name is Steven Arhancet, Enrollment Advisor with MBO Partners.  I received your contact information from John Capozzi, who has enjoyed our program and thought it would be worthwhile for us to discuss MBO Services to see if it is something that you might find valuable.  You can schedule a convenient time by using my online calendar: https://my.timedriver.com/C9CPC. 
+ 
+You can also watch a short video about who we are on youtube: 
+http://www.youtube.com/watch?v=zKDzwSTmGv4&amp;hd=1.
+ 
+I look forward to speaking with you,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

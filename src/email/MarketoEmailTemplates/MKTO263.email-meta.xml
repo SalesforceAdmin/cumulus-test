@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Follow up from MBO (1319475100.0)</name>
+    <style>none</style>
+    <subject>Follow up from MBO (1319475100.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Kyle,
+ 
+My name is Nicolette and I am an Enrollment Specialist with MBO.  Brendan Dillon forwarded me your information because he let us know that you are not going to be able to work with Booz Allen on the project you had initially reached out about, but you may be interested in working with MBO on other projects in the future outside of Booz.  I would be happy to speak with you if you are interested in MBO and have attached a link to my calendar below for you to select a convenient time for us to speak.  
+ 
+https://my.timedriver.com/9TGRK
+ 
+I look forward to speaking with you!
+ 
+Nicolette
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

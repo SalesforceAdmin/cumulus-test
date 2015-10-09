@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>insurace important need answer ASAP (1341245937.0)</name>
+    <style>none</style>
+    <subject>insurace important need answer ASAP (1341245937.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Allen, I noticed that you canceled some of your insurance benefits in our system. Right now they are effective until the end of July (since you already paid this month’s premium.) Would you like to ask my HR to reverse it out to make it as though you never elected coverage in the first place? If we do that the July premium will be refunded and you will not have coverage for the month of July. Please let me know ASAP. Thanks,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Referral (1352413902.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Referral (1352413902.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Todd, Hello, my name is Nicolette Taylor, a Consultant Services Advisor with MBO Partners.  I received your contact information from Sunny Lee.  Sunny has enjoyed our program and thought it would be worthwhile for us to discuss MBO Services &lt;http://www.youtube.com/watch?v=zKDzwSTmGv4&amp;hd=1&gt; to see if it is something that you might find valuable.  You can schedule a convenient time by using my online calendar &lt;https://my.timedriver.com/9TGRK&gt;. I look forward to speaking with you! Have a great evening, Nicolette ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

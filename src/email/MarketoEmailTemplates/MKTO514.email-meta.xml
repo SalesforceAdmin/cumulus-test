@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Conversation Appointment Confirmation (1324058748.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Conversation Appointment Confirmation (1324058748.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Sounds good.  Have a good holiday.
+ 
+Steve
+ 
+From: Jambu Sreenivasan [mailto:sjambu73@gmail.com] 
+Sent: Friday, December 16, 2011 12:16 PM
+To: Steve Arhancet
+Subject: Re: MBO Partners Conversation Appointment Confirmation
+ 
+Hello Steve,
+ 
+Thank you for the information you have provided your service. If I decide to work with you in the future, I will contact you.
+ 
+Seasonal Greetings!
+ 
+Warmly,
+Jambu
+ 
+On Wed, Dec 14, 2011 at 12:37 PM, Steve Arhancet &lt;no-reply@timedriver.com&gt; wrote:
+  
+ 
+  
+
+ Appointment Confirmation 
+
+Your appointment with Steve Arhancet of MBO is confirmed.
+  
+ Activity: 
+MBO Partners Conversation 
+Date: 
+Thursday, December 15, 2011
+Time: 
+1:00pm EST (30 minutes)
+Instructions: 
+Steve Arhancet will call you at 6172596262
+ Click on an icon below to add this appointment to your calendar 
+
+
+
+
+
+ 
+Powered by TimeTrade
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

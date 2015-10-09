@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Lead Email 4</name>
+    <style>none</style>
+    <subject>New Guide from MBO Partners: Expand Your Business</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+To prepare you and your independent business for a productive 2013, MBO Partners brings our newest guide: Is It Time to Expand Your Solo Business? &lt;http://www.mbopartners.com/independents-guide/grow/Expand-Business&gt; This 7-page downloadable guide will provide strategies and techniques you can use to determine when and how to take your business to the next level.
+
+ 
+
+
+This is another part of our fast-growing Independent&apos;s Guide &lt;http://www.mbopartners.com/independents-guide&gt;, the online library of educational content for independent workers. 
+
+Please don’t hesitate to contact MBO Partners if you have questions or suggestions for new content.
+___________________________________
+MBO Partners
+t: 703-793-6000
+ e: info@mbopartners.com &lt;mailto:info@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

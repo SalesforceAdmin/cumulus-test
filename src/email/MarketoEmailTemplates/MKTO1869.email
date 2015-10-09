@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p><span style="font-family: georgia,palatino;">Dear {{lead.First Name:default=Consultant}},</span><br /><br /><span style="font-family: georgia,palatino;">I noticed that you have visited our <a title="MBO Partners: Bill Rate" href="http://www.mbopartners.com/#billrate">bill rate calculator</a> and I wanted to share the news that we have made some updates to it in case you wanted to take a fresh look. Perhaps it&rsquo;s time to re-assess your hourly rate, or set a new one?</span></p>
+<p><span style="font-family: georgia,palatino;">In case you don&rsquo;t already have it, here&rsquo;s the link to download our free 20-page <a title="MBO Partners: Bill Rate Resource Guide" href="http://www.mbopartners.com/files/pdfs/mbo-bill-rate-resource-guide.pdf">Bill Rate Resource Guide</a>. I hope that the material is helpful to you in determining an appropriate consulting bill rate to charge clients.</span></p>
+<p><span style="font-family: georgia,palatino;">Additionally, this spring we launched our popular, free monthly <a title="MBO Partners: ICB" href="http://www.mbopartners.com/independent-consulting-brief">Independent Consulting Brief</a>. Sign-up today!</span><span style="font-family: georgia,palatino;"><br /><br />Regards,<br /> {{lead.EM FName:default=Steve}}</span></p>
+<p><span style="color: #999999; font-family: georgia,palatino; font-size: 10pt;">___________________________________</span><span style="font-family: georgia,palatino;"><strong><span style="color: #a00b10;"><br />{{lead.EM FName:default=Steve}}&nbsp;{{lead.EM LName:default=Arhancet}}</span></strong></span><span style="font-family: georgia,palatino;"><strong><span style="color: #353433;"><br />Consultant Services Advisor</span></strong></span><br /><span style="color: #353433; font-family: georgia,palatino;">MBO Partners <br /></span></p>
+<div><span style="font-family: georgia,palatino;"><strong>t:</strong>&nbsp;703-793-6000<br /></span></div>
+<div><span style="font-family: georgia,palatino;"><strong>f:</strong>&nbsp;703-793-6070</span></div>
+<div><span style="font-family: georgia,palatino;"><strong>e:</strong>&nbsp;{{lead.EM Email:default=sarhancet@mbopartners.com}}<strong>&nbsp;</strong></span></div>
+<div><span style="font-family: georgia,palatino;"><strong>w:</strong>&nbsp;<a href="http://www.mbopartners.com/">www.mbopartners.com</a></span></div></span>
+</div>
+</body>
+</html>

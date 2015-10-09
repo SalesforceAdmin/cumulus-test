@@ -1,0 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p>Sorry for the confusion on the prior email. The wrong communication was sent.</p>
+<p>Dear {{lead.First Name:default=Consultant}},</p>
+<p>I hope all is well! We had a conversation some time ago regarding our  services and I wanted to reach out to let you know that I am moving to a  new role within the organization. You will have a new point of contact  here to answer any questions about our program, as well as to assist you  in setting up your account with MBO Partners when you are ready to move  forward.&nbsp;</p>
+<p>Emily Stringer is looking forward to assisting you and she may be  reached at estringer@mbopartners.com, or on the phone at 703-793-6202.  She has a great deal of experience working with prospective MBO  Associates and is highly capable of handling your enrollment if/when the  time is right.</p>
+<p>I&rsquo;ve briefed her on our discussions, so feel free to reach out to her  as needed. It was a pleasure speaking with you and we look forward to  hearing from you again soon!</p>
+<p><span>Best regards,</span></p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span><br><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">Nicolette Taylor</span></strong><br><strong><span style="color: #353433; font-family: 'Georgia','serif';">Account Executive</span></strong><br> <span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span><br><br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong> <span style="color: #353433; font-family: 'Georgia','serif';">ntaylor@mbopartners.com</span><br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong> <a href="http://www.mbopartners.com/"><span style="font-family: 'Georgia','serif'; color: #353433;">www.mbopartners.com</span></a></div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Northrop Grumman Contact (1328127845.0)</name>
+    <style>none</style>
+    <subject>RE: Northrop Grumman Contact (1328127845.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Nicolette,
+ 
+Great!  We have worked with Northrop Grumman in the past so depending on the division you will be working with, we may or may not have to do a brand new contract.  If Matt reaches out to me we can discuss to determine if a new contract is needed.  I will wait until tomorrow to reach out to him to give him some time to follow up on your email but will put it on my calendar to reach out tomorrow.
+ 
+Please let me know if you have any additional questions.
+ 
+Thanks!
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Mark Shackelford [mailto:mark.shackelford77@gmail.com] 
+Sent: Wednesday, February 01, 2012 9:38 AM
+To: Nicolette Taylor
+Subject: Northrop Grumman Contact
+ 
+Hi, Nicolette,
+
+I&apos;ll be speaking later today to Matt D&apos;Anello of Northrop Grumman Consulting Agreements and Gov&apos;t Services regarding administrative paperwork to come on board.  I&apos;ll also send him an email introducing MBO and you.  You might expect to hear from him or if you want to push contact to him after I introduce MBO, his info is:
+
+Matt D&apos;Anello
+310-331-6637
+matthew.danella@ngc.com
+
+Regards,
+Mark
+-- 
+Mark Shackelford
+937-490-9619</textOnly>
+    <type>custom</type>
+</EmailTemplate>

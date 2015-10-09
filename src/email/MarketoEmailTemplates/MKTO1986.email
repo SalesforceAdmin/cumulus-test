@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p><span style="color: black; font-size: 14px; font-family: Georgia, serif;">Dear {{lead.First Name:default=Consultant}},</span></p>
+<p><span style="font-size: 14px;"><span style="color: black; font-family: Georgia, serif;">We would like to remind you that you can join us <strong>Tuesday, September 18 at 1pm EST</strong> for our free webinar:&nbsp;</span><a title="Register here!" href="http://info.mbopartners.com/Sept18WebProposals.html"><strong><span style="font-family: Georgia, serif;">Win New Consulting Business: The Four Keys to Writing a Successful Proposal</span></strong></a><span style="color: black; font-family: Georgia, serif;">.</span></span></p>
+<p><span style="color: black; font-size: 14px; font-family: Georgia, serif;">In this free webinar, prominent proposal writer Tom Sant, whom the American Management Association calls, &ldquo;America&rsquo;s foremost practitioner of proposal writing<em>,"</em>&nbsp;will teach you four keys to make your proposal stand out&mdash; and win the contract. </span></p>
+<p><span style="font-size: 14px;"><span style="font-family: Georgia, serif;">Grow your business by </span><a title="Register here!" href="http://info.mbopartners.com/Sept18WebProposals.html"><span style="font-family: Georgia, serif;">registering</span></a><span style="font-family: Georgia, serif;"> today.</span></span></p>
+<p>&nbsp;</p>
+<div><span style="color: #999999; font-size: 14px; font-family: Georgia, serif;">___________________________________</span></div>
+<div><span style="font-size: 14px;"><strong><span style="color: #a00b10; font-family: Georgia, serif;">MBO Partners</span></strong></span></div>
+<div><span style="font-size: 14px;"><strong><span style="color: #353433; font-family: Georgia, serif;">t:</span></strong><span style="color: #353433; font-family: Georgia, serif;"> 1-800-220-0469</span></span></div>
+<div><span style="font-size: 14px;"><strong><span style="color: #353433; font-family: Georgia, serif;">e:</span></strong><span style="color: #353433; font-family: Georgia, serif;"> <a title="info@mbopartners.com" href="mailto:info@mbopartners.com">info@mbopartners.com</a></span></span></div></span>
+</div>
+</body>
+</html>

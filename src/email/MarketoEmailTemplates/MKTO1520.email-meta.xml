@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>(1338920540.0)</name>
+    <style>none</style>
+    <subject>(1338920540.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          I spoke with Dallas this morning. He heard about us after reading the HBR article. He has his own consulting company currently, Cornerstone Advisory Partners and he is the sole owner, but has 6 other partners that do different types of work and they go out and find work and help each other get placed on projects. Mostly business/executive coaching and other strategy/process based work. He was very interested in our model and thinks it might be a good fit for him because right now he is managing all of the admin of the business on his own and wants a better way to do it. Depending on how he envisions the setup we will be a good fit for him. I sent him follow up information and he will review and follow up with me to brainstorm different setup possibilities ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

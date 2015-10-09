@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners / Steven (1323885629.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners / Steven (1323885629.0)</subject>
+    <textOnly>Consultant Services Email      110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Awesome thanks for taking a look at us; feel free to book a time if you want to chat. 
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+ 
+From: steve [mailto:steve@mathews-angus.com] 
+Sent: Wednesday, December 14, 2011 12:54 PM
+To: Steve Arhancet
+Subject: Re: MBO Partners / Steven
+ 
+Thanks Steve, I thought I&apos;d check out the current state of MBO&apos;s services to see where opportunity may lead.  I&apos;ll follow up after I complete an initial assessment.
+ 
+Thanks again,
+-Steve
+ 
+ 
+On Dec 14, 2011, at 12:11 PM, Steve Arhancet wrote:
+
+
+Dear Steven,
+
+I noticed that you recently visited our website! We had a conversation some time ago regarding our services. As a courtesy I wanted to personally reach out and offer any assistance I can to help you find the answers you might be looking for. If you would like to chat, you may easily book a time convenient for you in my online schedule by going here https://my.timedriver.com/C9CPC.
+
+Regards,
+
+Steven
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: (703) 793-6011
+f: 703.793.6081
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

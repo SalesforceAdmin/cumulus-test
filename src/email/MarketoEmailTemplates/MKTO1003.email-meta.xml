@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1329405527.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1329405527.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Edel, Thank so much for reaching out to MBO. Unfortunately we are only structured to work in the United States. Additionally, we do not do any type of job placement but rather handle the back office administration for consultants once they have a project. Good luck in your search!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e:  &lt;mailto:sconde@mbopartners.com&quot;&gt;sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com&lt;span style=&apos;mso-bookmark:_MailAutoSig&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>true</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableEnhancedLookup>false</enableEnhancedLookup>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>fb_VASTAccount__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>VAST Account</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fn_MBOExecAdvRateDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Exec Advanced Rate Detail</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_MBOExecRateDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Exec Rate Detail</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_MBOStaffRateDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Staff Rate Detail</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_MBOSubAdvRateDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Sub Advanced Rate Detail</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_MBOSubRateDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Sub Rate Detail</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_accountEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>Account Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_amEmail__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_client__r.Account_Manager__r.Email__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Account Manager Email Address</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_amPhone__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_client__r.Account_Manager__r.fs_phone__c</formula>
+        <label>Account Manager Phone</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_enrollmentCodes__c</fullName>
+        <externalId>false</externalId>
+        <label>Enrollment Codes</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_execAdvRate__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Exec Adv Rate</label>
+        <precision>4</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fn_execRate__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Exec Rate</label>
+        <precision>4</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fn_mboExecAdvRate_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fn_execAdvRate__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>MBO Exec Adv Rate</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fn_mboStaffRate_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fn_staffRate__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>MBO Staff Rate</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fn_mboSubAdvRate_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fn_subAdvRate__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>MBO Sub Adv Rate</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fn_mboSubRate_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fn_subRate__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>MBO Sub Rate</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fn_modReqEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>Modification Request Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_modReqFullName__c</fullName>
+        <externalId>false</externalId>
+        <label>Modification Request Full Name</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_oaEmail__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_client__r.AccountExecutive__r.Email__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Operational Assistant Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_oaFullName__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_client__r.AccountExecutive__r.Name</formula>
+        <label>Operational Assistant Full Name</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_paymentTerms_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fn_paymentTerms__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Payment Terms</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_paymentTerms__c</fullName>
+        <externalId>false</externalId>
+        <label>Payment Terms</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_staffRate__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Staff Rate</label>
+        <precision>4</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fn_subAdvRate__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Sub Adv Rate</label>
+        <precision>4</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fn_subRate__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Sub Rate</label>
+        <precision>4</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fs_AM__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_client__r.Account_Manager__r.Name</formula>
+        <label>Account Manager</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_TEEntry__c</fullName>
+        <externalId>false</externalId>
+        <label>Time &amp; Expense Entry</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_accountEmail_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fn_accountEmail__c</formula>
+        <label>Account Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_activationEmailExecURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Activation Email MBO Exec URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_activationEmailStaffURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Activation Email MBO Staff URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_activationEmailSubURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Activation Email MBO Sub URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_apContactEmail_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fs_apContactEmail__c</formula>
+        <label>AP Contact Email Address</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_apContactEmail__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_apEscalation__r.Email</formula>
+        <label>AP Contact Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_apContactFullName_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_apEscalation__r.FirstName + &quot; &quot; + rs_apEscalation__r.LastName</formula>
+        <label>AP Contact Full Name</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_apContactPhone_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fs_apContactPhone__c</formula>
+        <label>AP Contact Phone</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_apContactPhone__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_apEscalation__r.Phone</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>AP Contact Phone</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_athenaClientExecutiveEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>Athena Client Executive Email URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_athenaContractorEmail1__c</fullName>
+        <externalId>false</externalId>
+        <label>Athena Contractor Email URL 1</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_athenaContractorEmail2__c</fullName>
+        <externalId>false</externalId>
+        <label>Athena Contractor Email URL 2</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_athenaManagerEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>Athena Manager Email URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_bmSLA1__c</fullName>
+        <externalId>false</externalId>
+        <label>BM SLA 1</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_bmSLA2__c</fullName>
+        <externalId>false</externalId>
+        <label>BM SLA 2</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_bmSLA3__c</fullName>
+        <externalId>false</externalId>
+        <label>BM SLA 3</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_bmSLADetail__c</fullName>
+        <externalId>false</externalId>
+        <label>BM SLA Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_brokeringInformation__c</fullName>
+        <externalId>false</externalId>
+        <label>Brokering Information</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_cemFollow__c</fullName>
+        <externalId>false</externalId>
+        <label>CEM Follow-up Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_clientContractURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Contract URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_clientContractorGroup__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Contractor Group Information</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_clientDescription__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Description</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_clientExecutiveIntroEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Executive Intro Email URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_clientIncumbentData__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Incumbent Data</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_clientNeedMBOSelection__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Need and MBO Selection</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_clientPresentation__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Presentation URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_clientProposal__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Proposal URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_clientSuppliedComms__c</fullName>
+        <externalId>false</externalId>
+        <label>Client-Supplied Communications</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_clientWebsite__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Website</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_contractorFAQURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Contractor FAQ URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_discoveryQuestionnaire__c</fullName>
+        <externalId>false</externalId>
+        <label>Discovery Questionnaire URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_discussionWEnrollee__c</fullName>
+        <externalId>false</externalId>
+        <label>Discussion with Enrollee</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_discussion__c</fullName>
+        <externalId>false</externalId>
+        <label>Discussion</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_emSLA1__c</fullName>
+        <externalId>false</externalId>
+        <label>EM SLA 1</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_emSLA2__c</fullName>
+        <externalId>false</externalId>
+        <label>EM SLA 2</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_emSLA3__c</fullName>
+        <externalId>false</externalId>
+        <label>EM SLA 3</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_emSLA4__c</fullName>
+        <externalId>false</externalId>
+        <label>EM SLA 4</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_enrollmentProcessFlowBasicURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Enrollment Process Flow Basic URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_enrollmentProcessFlowDetailedURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Enrollment Process Flow Detailed URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_exampleReport1__c</fullName>
+        <externalId>false</externalId>
+        <label>Example Report URL 1</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_exampleReport2__c</fullName>
+        <externalId>false</externalId>
+        <label>Example Report URL 2</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_exampleReport3__c</fullName>
+        <externalId>false</externalId>
+        <label>Example Report URL 3</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_execAdvRateType__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Exec Adv Rate Type</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Mark-up</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Percentage of (Margin)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>ISSI</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_execRateType__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Exec Rate Type</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Mark-up</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Percentage of (Margin)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>ISSI</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_expensePolicyDetail_COPY__c</fullName>
+        <externalId>false</externalId>
+        <label>Expense Policy Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_expensePolicyDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>Expense Policy Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_expensePolicyURL_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fs_expensePolicyURL__c</formula>
+        <label>Expense Policy URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_expensePolicyURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Expense Policy URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_fundingSource_COPY__c</fullName>
+        <externalId>false</externalId>
+        <label>Funding Source</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_funding__c</fullName>
+        <externalId>false</externalId>
+        <label>Funding</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_insuranceRequirements__c</fullName>
+        <externalId>false</externalId>
+        <label>Insurance Requirements</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_introEmail1Desc__c</fullName>
+        <externalId>false</externalId>
+        <label>Intro Email 1 Description</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_introEmail1URL__c</fullName>
+        <externalId>false</externalId>
+        <label>Intro Email 1 URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_introEmail2Desc__c</fullName>
+        <externalId>false</externalId>
+        <label>Intro Email 2 Description</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_introEmail2URL__c</fullName>
+        <externalId>false</externalId>
+        <label>Intro Email 2 URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_introEmail3Desc__c</fullName>
+        <externalId>false</externalId>
+        <label>Intro Email 3 Description</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_introEmail3URL__c</fullName>
+        <externalId>false</externalId>
+        <label>Intro Email 3 URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_invoiceSchedule__c</fullName>
+        <externalId>false</externalId>
+        <label>Invoice Schedule</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_issueEscalationDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>Issue Escalation Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_managerFAQ__c</fullName>
+        <externalId>false</externalId>
+        <label>Manager FAQ URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_managerIntroEmail1__c</fullName>
+        <externalId>false</externalId>
+        <label>Manager Intro Email URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_managerIntroEmail2__c</fullName>
+        <externalId>false</externalId>
+        <label>Manager Intro Email URL 2</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_managerIntro__c</fullName>
+        <externalId>false</externalId>
+        <label>Manager Intro URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_mboExecAdvRateType_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>TEXT( fs_execAdvRateType__c )</formula>
+        <label>MBO Exec Adv Rate Type</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_mboExecRateType_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>TEXT(fs_execRateType__c)</formula>
+        <label>MBO Exec Rate Type</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_mboExec_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fn_execRate__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>MBO Exec Rate</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>fs_mboStaffRateType_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>TEXT( fs_staffRateType__c )</formula>
+        <label>MBO Staff Rate Type</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_mboSubAdvRateType_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>TEXT( fs_subAdvRateType__c )</formula>
+        <label>MBO Sub Adv Rate Type</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_mboSubRateType_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>TEXT( fs_subRateType__c )</formula>
+        <label>MBO Sub Rate Type</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_mspContactEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>MSP Contact Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_mspContactFullname__c</fullName>
+        <externalId>false</externalId>
+        <label>MSP Contact Fullname</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_mspContactPhone__c</fullName>
+        <externalId>false</externalId>
+        <label>MSP Contact Phone</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>fs_mspVMSDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>MSP VMS Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_oaIntro_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fs_oaIntro__c</formula>
+        <label>OS Intro</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_oaIntro__c</fullName>
+        <externalId>false</externalId>
+        <label>OS Intro</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_oaTaskURL_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fs_oaTasksURL__c</formula>
+        <label>OS Task URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_oaTasksURL__c</fullName>
+        <externalId>false</externalId>
+        <label>OS Tasks URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_onBoardingChecklistURL__c</fullName>
+        <externalId>false</externalId>
+        <label>On-Boarding Checklist URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_onBoardingDocuments__c</fullName>
+        <externalId>false</externalId>
+        <label>On-boarding Documents</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_onBoardingInst__c</fullName>
+        <externalId>false</externalId>
+        <label>On-boarding inst.</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_otherContractorCommDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>Other Contractor Communication Details</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_paymentCalendarURL_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fs_paymentCalendarURL__c</formula>
+        <label>Payment Calendar URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_paymentCalendarURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Payment Calendar URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_paymentSchedule__c</fullName>
+        <externalId>false</externalId>
+        <label>Payment Schedule</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_paymentTermsDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>Payment Terms Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_paymentTimelineURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Payment Timeline URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_postConsultationEmailURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Post-Consultation Email URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_pricingDetailRateComponents__c</fullName>
+        <externalId>false</externalId>
+        <label>Pricing Detail or Rate Components</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_pricingMatrix__c</fullName>
+        <externalId>false</externalId>
+        <label>Pricing Matrix URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_processDiagram__c</fullName>
+        <externalId>false</externalId>
+        <label>Process Diagram</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_progNotifURLExt__c</fullName>
+        <externalId>false</externalId>
+        <label>Program Notification URL External</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_progNotifURLInt__c</fullName>
+        <externalId>false</externalId>
+        <label>Program Notification URL Internal</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_rateCalculatorURL_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fs_rateCalculator__c</formula>
+        <label>Rate Calculator URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_rateCalculator__c</fullName>
+        <externalId>false</externalId>
+        <label>Rate Calculator</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_reenrollmentInstructions__c</fullName>
+        <externalId>false</externalId>
+        <label>Re-Enrollment Instructions</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_referralTemplateDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>Referral Template Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_referralTemplate__c</fullName>
+        <externalId>false</externalId>
+        <label>Referral Template</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_reporting__c</fullName>
+        <externalId>false</externalId>
+        <label>Reporting Summary and Schedule</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_screeningRequirementsURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Screening Requirements URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_screening__c</fullName>
+        <externalId>false</externalId>
+        <label>Screening</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_sla__c</fullName>
+        <externalId>false</externalId>
+        <label>Enrollment Manager SLA Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_specialRules__c</fullName>
+        <externalId>false</externalId>
+        <label>Account Manager Special Instructions</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_staffRateType__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Staff Rate Type</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Mark-up</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Percentage of (Margin)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>ISSI</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_subAdvRateType__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Sub Adv Rate Type</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Mark-up</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Percentage of (Margin)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>ISSI</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_subRateType__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Sub Rate Type</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Mark-up</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Percentage of (Margin)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>ISSI</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_successFactorsDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>Success Factors Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_successFactorsURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Success Factors URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_taxInformation_COPY__c</fullName>
+        <externalId>false</externalId>
+        <label>Tax Information</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_taxInformation__c</fullName>
+        <externalId>false</externalId>
+        <label>Tax Information</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_terms__c</fullName>
+        <externalId>false</externalId>
+        <label>Terms</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Net 30</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Net 45</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Net 60</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Net 90</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_timeMilestoneExpenseDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>Time Milestone Expense Entry Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_timeMilestoneExpenseURL2__c</fullName>
+        <externalId>false</externalId>
+        <label>Time Milestone Expense Entry URL 2</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_timeMilestoneExpenseURL3__c</fullName>
+        <externalId>false</externalId>
+        <label>Time Milestone Expense Entry URL 3</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_timeMilestoneExpenseURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Time Milestone Expense Entry URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_vastEngageSubAssociate__c</fullName>
+        <externalId>false</externalId>
+        <label>VAST Engage Subs As Associates</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vastFollowUpEmailSub__c</fullName>
+        <externalId>false</externalId>
+        <label>VAST Follow-Up Email to Sub</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vastInsuranceValidation__c</fullName>
+        <externalId>false</externalId>
+        <label>VAST Insurance Validation</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vastInsuranceWaiver__c</fullName>
+        <externalId>false</externalId>
+        <label>VAST Insurance Waiver Information</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vastProcessQual__c</fullName>
+        <externalId>false</externalId>
+        <label>VAST Process After Qual</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vastSummary__c</fullName>
+        <externalId>false</externalId>
+        <label>VAST Summary</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_vastTier2WorkerEval__c</fullName>
+        <externalId>false</externalId>
+        <label>Vast Tier 2 Worker Evaluation</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vendorQualCriteria__c</fullName>
+        <externalId>false</externalId>
+        <label>Vendor Qualification Criteria URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_vettingQuestionsURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Vetting Questions URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_vmsContactEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Contact Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vmsContactFullname__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Contact Fullname</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vmsContactPhone__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Contact Phone</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>fs_vmsImportInstructionsURL__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Import Instructions URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_vmsImport__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Import</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_vmsLoginDetail__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Login Detail</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_vmsLoginPassword__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Login Password</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vmsLoginUsername__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Login Username</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_vmsUsageGuideURL__c</fullName>
+        <externalId>false</externalId>
+        <label>VMS Usage Guide URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_welcomeSiteURL_COPY__c</fullName>
+        <externalId>false</externalId>
+        <formula>fs_welcomeSiteURL__c</formula>
+        <label>Welcome Site URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_welcomeSiteURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Welcome Site URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_woSetupGuide__c</fullName>
+        <externalId>false</externalId>
+        <label>Work Order Setup Guide</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>rs_MSP__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>MSP</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>CRG (MSP)</relationshipLabel>
+        <relationshipName>CRG_MSAP</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_VMS__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>VMS</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>CRG (VMS)</relationshipLabel>
+        <relationshipName>CRG_VMS</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_apEscalation__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>AP Escalation</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>CRG (AP Escalation)</relationshipLabel>
+        <relationshipName>CRG_AP</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_clientContact__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Main Client Contact</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>CRG (Client Contact)</relationshipLabel>
+        <relationshipName>CRG_Contact</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_client__c</fullName>
+        <externalId>false</externalId>
+        <label>Client</label>
+        <lookupFilter>
+            <active>true</active>
+            <errorMessage>Please select a company as the client.</errorMessage>
+            <filterItems>
+                <field>Account.RecordTypeId</field>
+                <operation>equals</operation>
+                <value>Company, Rolodex</value>
+            </filterItems>
+            <isOptional>false</isOptional>
+        </lookupFilter>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Client Reference Guides</relationshipLabel>
+        <relationshipName>CRG</relationshipName>
+        <relationshipOrder>0</relationshipOrder>
+        <reparentableMasterDetail>true</reparentableMasterDetail>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MasterDetail</type>
+        <writeRequiresMasterRead>false</writeRequiresMasterRead>
+    </fields>
+    <fields>
+        <fullName>rs_escalation1__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Escalation 1</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>CRG (Escalation 1)</relationshipLabel>
+        <relationshipName>CRG_esc1</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_escalation2__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Escalation 2</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>CRG (Escalation 2)</relationshipLabel>
+        <relationshipName>CRG_esc2</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_escalation3__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Escalation 3</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>CRG (Escalation 3)</relationshipLabel>
+        <relationshipName>CRG_esc3</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_escalation4__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Escalation 4</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>CRG (Escalation 4)</relationshipLabel>
+        <relationshipName>CRG_esc4</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <label>Client Reference Guide</label>
+    <listViews>
+        <fullName>All</fullName>
+        <columns>NAME</columns>
+        <columns>rs_client__c</columns>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <label>Client Reference Guide Title</label>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Client Reference Guides</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ControlledByParent</sharingModel>
+</CustomObject>

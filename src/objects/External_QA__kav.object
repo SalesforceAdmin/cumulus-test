@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <articleTypeChannelDisplay>
+        <articleTypeTemplates>
+            <channel>App</channel>
+            <template>Toc</template>
+        </articleTypeTemplates>
+        <articleTypeTemplates>
+            <channel>Prm</channel>
+            <template>Toc</template>
+        </articleTypeTemplates>
+        <articleTypeTemplates>
+            <channel>Csp</channel>
+            <template>Toc</template>
+        </articleTypeTemplates>
+        <articleTypeTemplates>
+            <channel>Pkb</channel>
+            <template>Toc</template>
+        </articleTypeTemplates>
+    </articleTypeChannelDisplay>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>An article that answers an external question.</description>
+    <enableFeeds>true</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <fields>
+        <fullName>Answer__c</fullName>
+        <description>This content answers the article question.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>This content answers the article question.</inlineHelpText>
+        <label>Answer</label>
+        <length>32768</length>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Delivery_Tone__c</fullName>
+        <description>This field describes the tone of the external message.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Describes the tone of the message; e.g. Empathetic, Informal, Conversational.</inlineHelpText>
+        <label>Delivery Tone</label>
+        <required>false</required>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Expiration__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>An expiration date for time-sensitive content. If filled, a notification will be sent to article creator near that date.</inlineHelpText>
+        <label>Expiration</label>
+        <required>false</required>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Internal_Comments__c</fullName>
+        <description>Internal comments not available for external use.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Internal comments not available for external use.</inlineHelpText>
+        <label>Internal Comments</label>
+        <length>32768</length>
+        <type>Html</type>
+        <visibleLines>10</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Internal_Links__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Links available if you are inside the MBO Firewall.</inlineHelpText>
+        <label>Internal Links</label>
+        <length>32768</length>
+        <type>Html</type>
+        <visibleLines>10</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Items_to_Consider__c</fullName>
+        <description>A list of possible scenarios to consider when answering the question.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Scenarios to consider when answering the question.</inlineHelpText>
+        <label>Items to Consider</label>
+        <length>32768</length>
+        <type>Html</type>
+        <visibleLines>10</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Keywords__c</fullName>
+        <description>Enter keywords to improve article search.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Enter keywords to improve article search.</inlineHelpText>
+        <label>Keywords</label>
+        <required>false</required>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Rationale__c</fullName>
+        <description>This field helps explain the article&apos;s answer.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Helps explain the article’s answer by providing MBO justification.</inlineHelpText>
+        <label>Rationale</label>
+        <length>32768</length>
+        <type>Html</type>
+        <visibleLines>10</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Related_Articles__c</fullName>
+        <description>Related knowledge articles that may inform this article.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Related knowledge articles that may inform this article.</inlineHelpText>
+        <label>Related Articles</label>
+        <length>32768</length>
+        <type>Html</type>
+        <visibleLines>10</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Relevant_Links__c</fullName>
+        <description>Links to relevant outside sources.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Links to relevant outside sources.</inlineHelpText>
+        <label>External Links</label>
+        <length>32768</length>
+        <type>Html</type>
+        <visibleLines>10</visibleLines>
+    </fields>
+    <label>External Q&amp;A</label>
+    <pluralLabel>External Q&amp;As</pluralLabel>
+    <startsWith>Vowel</startsWith>
+</CustomObject>

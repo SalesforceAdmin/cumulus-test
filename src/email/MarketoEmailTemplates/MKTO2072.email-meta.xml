@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ACC 2012.ACC Follow-up</name>
+    <style>none</style>
+    <subject>Following up with you after the ACC Annual Meeting</subject>
+    <textOnly>Dear {{lead.First Name:default=ACC Attendee}},
+
+Thank you for taking the time to stop by the MBO Enterprise Solutions booth at the ACC Annual Meeting. It was a pleasure speaking with you about how MBO helps companies like yours to engage their independent contractors more safely and easily.
+
+As promised, we are following up with you to offer an executive briefing that takes a close look at IC risk and best practices for mitigating it. The briefing summarizes what we have learned from over 25 years of specializing in IC engagements and implementing over 50 IC compliance programs at Fortune 500 and other large companies.
+
+No one understands independent consulting like MBO. We have the research to support why there will continue to be increased demand for these expert resources and increased risk to businesses that do not vet and engage them appropriately. Executives in Legal, Procurement, and HR departments have told us that this briefing was critical to their business case for change.
+
+If you are interested in scheduling an executive briefing with the experts at MBO, please let me know and we will find a time that fits your schedule.
+
+Thanks for your time and interest!
+
+Respectfully,
+ Steve
+
+P.S. If you haven’t seen it yet, here is an article from the ACC web site that has been downloaded over 1,000 times. I thought you may find it interesting: Top Ten Ways to Determine If You Have an Independent Contractor Compliance Issue: Understanding and Recognizing Misclassification Risk &lt;http://www.acc.com/legalresources/publications/topten/Independent-Contractor-Misclassification-Risks.cfm&gt;.
+
+__________________________________
+Steve Taggart
+Account Executive, Enterprise Solutions
+MBO Partners
+ 
+t: 703.793.6014
+f: 703.793.6452
+e: staggart@mboenterprise.com
+w: www.mboenterprise.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

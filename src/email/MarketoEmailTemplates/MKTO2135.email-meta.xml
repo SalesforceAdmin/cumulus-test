@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Dec6Web:Career-Change.Dec6 Invite 1</name>
+    <style>none</style>
+    <subject>Looking for a career change in the New Year?</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+ 
+ On Dec 6th at 1pm ET, we will hold a webinar entitled &quot;From Burned Out to Fired Up: 3 Principles to Guide Your Independent Transition &lt;http://info.mbopartners.com/Dec6Web_Career-Change.html&gt;.&quot;
+
+
+With the new year fast approaching, are you considering a career change? 2013 could be the year you start your own independent consultancy. Pursuing independence is empowering, but emotional preparation is essential for a smooth transition.
+
+To help you make that transition successfully, we&apos;ve invited Ingrid Sarrat of My Coaching Circle &lt;http://www.mycoachingcircle.com/&gt;, a certified Transition, Career and Life Coach, to explain the concept of emotional intelligence (EQ), and how you can apply its principles to help your independent business take off. EQ has been used by clients such as Fedex and the United Nations to improve leadership, accelerate change, deepen employee engagement, and strengthen customer loyalty.
+
+During this free, hour-long webinar you will ...
+
+
+ - Learn about Emotional Intelligence (EQ)
+ - Find out why EQ is important when making a career change
+ - Apply EQ to your transition to independence
+ - Use EQ principles in a real-life case study
+
+
+
+Register today &lt;http://info.mbopartners.com/Dec6Web_Career-Change.html&gt; to get started on the path to independence!
+___________________________________
+MBO Partners
+t: 1-800-220-0469
+e: info@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

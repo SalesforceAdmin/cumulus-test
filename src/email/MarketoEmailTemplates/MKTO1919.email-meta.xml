@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Steve Taggart and Jay Lash have requested this email be sent as an invitational email blast</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>HCI Webcast Sept12.Invite 1</name>
+    <style>none</style>
+    <subject>HCI Webcast: HR executive roundtable on independent contractor talent management</subject>
+    <textOnly>Hello,
+
+I thought this upcoming webcast could be helpful to you.  It is HR focused, but appropriate for anyone interested in listening in on a panel of HR and Talent Acquisition executives who will discuss best practices in the human capital management of their independent contract talent. 
+
+Webcast: Why HR Should Own Independent Contract Talent Management and How to Do It
+
+Date: Wednesday, Sept 12, 2012 at 12:00pm EST 
+
+(Not a good time for you? There are recasts on Sept 13 and 14 also available to you)
+
+Registration: Click here to register &lt;http://www.hci.org/lib/why-hr-should-own-independent-contract-talent-management-and-how-do-it&gt; 
+
+We are anticipating a great turnout and hope you can join the discussion. If you think this may not be right for you, but you have a colleague who might be interested, please consider passing this invite along.
+
+Kind regards,
+ Steve
+
+P.S. In case you missed it, you can click this link to view the previously recorded HCI webcast “Engaging Independent Contractors: Whose Role Is It, Procurement, or HR or Both?” &lt;http://c985816.r16.cf2.rackcdn.com/51612_EngagingIndependentContractors_6008.wmv&gt;
+___________________________________
+Steve Taggart 
+Account Executive, Enterprise Solutions
+MBO Partners
+ 
+t: 703.793.6014
+f: 703.793.6452
+e: staggart@mboenterprise.com
+w: www.mboenterprise.com
+
+About MBO Enterprise Solutions
+
+MBO is an Independent Contractor Engagement Specialist that provides companies with a smarter way to minimize risk and maximize the return on their contract talent. 
+
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

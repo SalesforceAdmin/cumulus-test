@@ -1,0 +1,6 @@
+<apex:page showHeader="false" sidebar="false" >
+<!--    <apex:iframe height="900" width="1500" src="https://app1.mbopartners.com/web/login" scrolling="true"/> -->
+        <div style="margin: 0 auto; width:100%; height:auto;">
+            <object type="text/html" data="https://app1.mbopartners.com/web/login" style="width:100%; height:auto; min-height:900px;"/>
+        </div>
+</apex:page>

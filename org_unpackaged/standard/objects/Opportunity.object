@@ -1,0 +1,3157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>AddInfluence</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <businessProcesses>
+        <fullName>Client Contract</fullName>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Closed Lost</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed Won</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Developing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dropped</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Operation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Qualifying</fullName>
+            <default>false</default>
+        </values>
+    </businessProcesses>
+    <businessProcesses>
+        <fullName>Opportunity Management Process</fullName>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Deferred</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Identifying</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inactive</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lost</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Working</fullName>
+            <default>false</default>
+        </values>
+    </businessProcesses>
+    <businessProcesses>
+        <fullName>Work Order</fullName>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Active</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inactive</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pending</fullName>
+            <default>false</default>
+        </values>
+    </businessProcesses>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <enableEnhancedLookup>true</enableEnhancedLookup>
+    <enableFeeds>true</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <fields>
+        <fullName>AccountId</fullName>
+        <inlineHelpText>The name of the company we have the opportunity with</inlineHelpText>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Account_Manager__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Select the AM for this account</inlineHelpText>
+        <label>Account Manager</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Shannon Daly</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Emily Dyche</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Heather Rocco</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Mike Cavaluzzi</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Brendan Dillon</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Jenna Powell</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Kimball Norup</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>David Putt</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Steve Taggart</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Jackie Crook</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Amount</fullName>
+        <inlineHelpText>The total of total price across all products (Hidden)</inlineHelpText>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>Authority__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Explain who has the authority on deciding for this opportunity; the decision making process</inlineHelpText>
+        <label>Authority</label>
+        <length>32000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>CampaignId</fullName>
+        <inlineHelpText>The main campaign associated with this record (Hidden)</inlineHelpText>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Campaign__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Campaign</label>
+        <referenceTo>Campaign</referenceTo>
+        <relationshipLabel>Opportunities</relationshipLabel>
+        <relationshipName>Opportunities</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Client_Tier__c</fullName>
+        <externalId>false</externalId>
+        <formula>TEXT(rs_client__r.Tier__c)</formula>
+        <label>Client Tier</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>CloseDate</fullName>
+        <inlineHelpText>Estimated date of when the decision for this opportunity will be made</inlineHelpText>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>Competition__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Select the competition we have for this opportunity</inlineHelpText>
+        <label>Competition</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Do nothing</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Take the risk themselves</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Internal Solution</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>New competition</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Allbany</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Collabarus</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Icon</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Kelly Services</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Pro Unlimited</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Source Right</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Synergy</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Zero Chaos</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Workforce Logic</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Clearpath</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Secure Talent</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Volt</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>ContractId</fullName>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Credit_worthiness__c</fullName>
+        <description>Decides the credit status</description>
+        <externalId>false</externalId>
+        <formula>TEXT(Account.Credit_Worthiness__c)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>Select the status of the credit check</inlineHelpText>
+        <label>Credit worthiness</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Date_of_credit_check__c</fullName>
+        <description>Historical date</description>
+        <externalId>false</externalId>
+        <formula>Account.Date_of_credit_check__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The date the credit check occurred</inlineHelpText>
+        <label>Date of credit check</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Decision_Criteria__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Explain what the client is going to consider to make their decision</inlineHelpText>
+        <label>Decision Criteria</label>
+        <length>32000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Description</fullName>
+        <inlineHelpText>Miscellaneous information about the opportunity (Hidden)</inlineHelpText>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>Discovery_Kickoff__c</fullName>
+        <description>A benchmark date</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The date planned to have the implementation team involved</inlineHelpText>
+        <label>Discovery Kickoff</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Dropped_Reason__c</fullName>
+        <description>Allows the user to enter a reason for dropping the opportunity</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Enter the reason for dropping the opportunity</inlineHelpText>
+        <label>Dropped Reason</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>ExpectedRevenue</fullName>
+        <inlineHelpText>The weighted total of &quot;Amount*Probability&quot; (Hidden)</inlineHelpText>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>Final_Confirmation_meeting__c</fullName>
+        <description>Benchmark date</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The date of the meeting to ensure the client wants to give us the deal</inlineHelpText>
+        <label>Final Confirmation meeting</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>How_to_solve__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The associate types we are going to enroll</inlineHelpText>
+        <label>How to solve</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Commissioned Professional (EXEC)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Consultant (EXEC)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Freelancer (EXEC)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Independent Contractor (EXEC)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Payroller (STAFF)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Readiness to Serve (STAFF)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Small Consulting Firms (SUB)</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>IsPrivate</fullName>
+        <inlineHelpText>Flags the record as a private opportunity (Hidden)</inlineHelpText>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>LID__LinkedIn_Company_Id__c</fullName>
+        <deprecated>false</deprecated>
+        <description>LinkedIn Id of the company</description>
+        <externalId>false</externalId>
+        <label>LinkedIn Company Id</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>LeadSource</fullName>
+        <inlineHelpText>Where the opportunity came from (Hidden)</inlineHelpText>
+        <picklist>
+            <picklistValues>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Webform</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Phone</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Import</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Money_Client_budget__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The clients funding strategy</inlineHelpText>
+        <label>Money / Client budget</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Name</fullName>
+        <inlineHelpText>The name of the opportunity.  Best Practice: &quot;Account Name - description of company section it deals with&quot;</inlineHelpText>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>Need__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The need for our solution</inlineHelpText>
+        <label>Need</label>
+        <length>32000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>New_competition__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Only use if other is selected as a form of competition.  Enter what the competition is here</inlineHelpText>
+        <label>New competition</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>NextStep</fullName>
+        <inlineHelpText>The next step in the opportunity (Hidden)</inlineHelpText>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>OwnerId</fullName>
+        <inlineHelpText>Sales rep responsible for nurturing this opportunity</inlineHelpText>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Presentation_Date__c</fullName>
+        <description>Benchmark</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The date we plan on presenting to the client</inlineHelpText>
+        <label>Presentation Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Pricebook2Id</fullName>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Probability</fullName>
+        <inlineHelpText>The gut feeling for whether or not we will win the opportunity</inlineHelpText>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>Program_start__c</fullName>
+        <description>Benchmark</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Estimated date new enrollments will begin</inlineHelpText>
+        <label>Program start</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Progressive_ICs__c</fullName>
+        <description>Forecast of size of deal</description>
+        <externalId>false</externalId>
+        <formula>TotalOpportunityQuantity</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The average net new IC&apos;s enrolled across every solution over each month of the progressive state</inlineHelpText>
+        <label>Progressive ICs</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Progressive_Length__c</fullName>
+        <description>Part of the forecast of the size of the deal</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The # of months of ramp-up needed</inlineHelpText>
+        <label>Progressive Length</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Progressive_Monthly_Management_Fee__c</fullName>
+        <description>Part of the estimate of the size of the deal</description>
+        <externalId>false</externalId>
+        <formula>Amount</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The average monthly management fee from every solution over each month of the progressive state</inlineHelpText>
+        <label>Progressive Monthly Management Fee</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Progressive_Monthly_Spend__c</fullName>
+        <description>Part of the estimate of the size of the deal</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The average monthly spend from everyone solution over each month of the progressive state</inlineHelpText>
+        <label>Progressive Monthly Spend</label>
+        <summarizedField>OpportunityLineItem.Progressive_Spend__c</summarizedField>
+        <summaryForeignKey>OpportunityLineItem.OpportunityId</summaryForeignKey>
+        <summaryOperation>sum</summaryOperation>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Summary</type>
+    </fields>
+    <fields>
+        <fullName>Progressive_Monthly_Weighted_Fee__c</fullName>
+        <description>Part of the estimate of the size of the deal</description>
+        <externalId>false</externalId>
+        <formula>Amount  *  Probability</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The average monthly revenue from every solution over each month of the progressive state</inlineHelpText>
+        <label>Progressive Monthly Weighted Fee</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Project_Manager__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Select the PM for this opportunity</inlineHelpText>
+        <label>Project Manager</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Steve Arhancet</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>David Cassar</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Amy Chatterton</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Patrick Nealon</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Heather Rocco</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Dustin Talley</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>RFP_Date_Received__c</fullName>
+        <description>Benchmark</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Enter the date we received the RFP</inlineHelpText>
+        <label>RFP Date Received</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>RFP_Response_Due__c</fullName>
+        <description>Benchmark</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Enter the date the RFP is due</inlineHelpText>
+        <label>RFP Response Due</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Reason_for_Loss__c</fullName>
+        <description>Part of the close of the deal</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Explain the reason for our loss</inlineHelpText>
+        <label>Reason for Loss</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Requires_Security_Clearance__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Requires Security Clearance</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>StageName</fullName>
+        <inlineHelpText>Qualifying - Need to identify the DUTCHMAN
+Developing - Need to estimate the size of the solution
+Closing - Implement closing strategy
+Closed Won - We won the deal
+Closed Lost - Prospect decided not to use us
+Dropped - We decided to withdraw</inlineHelpText>
+        <picklist>
+            <picklistValues>
+                <fullName>Qualifying</fullName>
+                <closed>false</closed>
+                <default>false</default>
+                <description>identify the DUTCHMAN</description>
+                <forecastCategory>Pipeline</forecastCategory>
+                <probability>10</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Developing</fullName>
+                <closed>false</closed>
+                <default>false</default>
+                <description>The solutions will be selected, the duration before the steady state is reached will be established, the average fee will be entered, and a broad forecast will be generated.</description>
+                <forecastCategory>BestCase</forecastCategory>
+                <probability>50</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Closing</fullName>
+                <closed>false</closed>
+                <default>false</default>
+                <description>To confirm both parties interests, determine when the implementation team is introduced, and pinpoint when associates are expected to begin enrolling</description>
+                <forecastCategory>Forecast</forecastCategory>
+                <probability>75</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Closed Won</fullName>
+                <closed>true</closed>
+                <default>false</default>
+                <forecastCategory>Closed</forecastCategory>
+                <probability>100</probability>
+                <won>true</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Operation</fullName>
+                <closed>true</closed>
+                <default>false</default>
+                <forecastCategory>Closed</forecastCategory>
+                <probability>100</probability>
+                <won>true</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Closed Lost</fullName>
+                <closed>true</closed>
+                <default>false</default>
+                <forecastCategory>Omitted</forecastCategory>
+                <probability>0</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Dropped</fullName>
+                <closed>true</closed>
+                <default>false</default>
+                <forecastCategory>Omitted</forecastCategory>
+                <probability>0</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Identifying</fullName>
+                <closed>false</closed>
+                <default>false</default>
+                <description>Newly found opportunities at client&apos;s</description>
+                <forecastCategory>Pipeline</forecastCategory>
+                <probability>0</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Deferred</fullName>
+                <closed>false</closed>
+                <default>false</default>
+                <description>Opportunities that don&apos;t have a signed contract and where negotiations have stalled</description>
+                <forecastCategory>Omitted</forecastCategory>
+                <probability>25</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Lost</fullName>
+                <closed>true</closed>
+                <default>false</default>
+                <description>Opportunities that were not awarded to MBO Partners</description>
+                <forecastCategory>Omitted</forecastCategory>
+                <probability>0</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Working</fullName>
+                <closed>false</closed>
+                <default>false</default>
+                <description>Opportunities at clients where we are actively engaged in negotiations to provide a solution.</description>
+                <forecastCategory>Pipeline</forecastCategory>
+                <probability>10</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Sold</fullName>
+                <closed>true</closed>
+                <default>false</default>
+                <description>Opportunities that have signed contracts and will begin sending us referrals.</description>
+                <forecastCategory>Closed</forecastCategory>
+                <probability>100</probability>
+                <won>true</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Pending</fullName>
+                <closed>false</closed>
+                <default>false</default>
+                <description>Opportunities that have not been activated yet</description>
+                <forecastCategory>Pipeline</forecastCategory>
+                <probability>50</probability>
+                <won>false</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Active</fullName>
+                <closed>true</closed>
+                <default>false</default>
+                <description>This is the stage for work orders - once a work order is active, we know it is closed/won.</description>
+                <forecastCategory>Closed</forecastCategory>
+                <probability>100</probability>
+                <won>true</won>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Inactive</fullName>
+                <closed>true</closed>
+                <default>false</default>
+                <description>Opportunities that have gone dormant after being active for some time.</description>
+                <forecastCategory>Closed</forecastCategory>
+                <probability>100</probability>
+                <won>true</won>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Steady_State_ICs__c</fullName>
+        <description>Part of the estimate of the size of the deal</description>
+        <externalId>false</externalId>
+        <formula>TotalOpportunityQuantity  *  Progressive_Length__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The number of IC&apos;s enrolled from every solution at a steady state</inlineHelpText>
+        <label>Steady State ICs</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Steady_State_Monthly_Management_Fee__c</fullName>
+        <description>Part of the estimate of the size of the deal</description>
+        <externalId>false</externalId>
+        <formula>Amount  *  Progressive_Length__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The monthly income from every solution at a steady state</inlineHelpText>
+        <label>Steady State Monthly Management Fee</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Steady_State_Monthly_Spend__c</fullName>
+        <description>Part of the estimate of the size of the deal</description>
+        <externalId>false</externalId>
+        <formula>Progressive_Monthly_Spend__c  *  Progressive_Length__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The monthly IC spend from every solution at a steady state</inlineHelpText>
+        <label>Steady State Monthly Spend</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Steady_State_Weighted_Monthly_Fee__c</fullName>
+        <description>Part of the estimate of the size of the deal</description>
+        <externalId>false</externalId>
+        <formula>Amount   *  Probability *  Progressive_Length__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The monthly revenue from every solution at a steady state</inlineHelpText>
+        <label>Steady State Weighted Monthly Fee</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Steady_State__c</fullName>
+        <description>Benchmark</description>
+        <externalId>false</externalId>
+        <formula>Program_start__c +  (Progressive_Length__c *(365.24/12))</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>The date we are expected to reach the steady state</inlineHelpText>
+        <label>Steady State</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Timeframe_of_decision__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The estimated date of the decision</inlineHelpText>
+        <label>Timeframe of decision</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>TotalOpportunityQuantity</fullName>
+        <inlineHelpText>The total of quantity across all the products (Hidden)</inlineHelpText>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>Type</fullName>
+        <inlineHelpText>Opportunity type (Hidden)</inlineHelpText>
+        <picklist>
+            <picklistValues>
+                <fullName>Quick Start</fullName>
+                <default>true</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Incumbent</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Consulting study</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Unique_differentiators__c</fullName>
+        <description>Part of the DUTCHMAN sales process</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Our competitive advantage</inlineHelpText>
+        <label>Unique differentiators</label>
+        <length>32000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fd_billingChangeDate__c</fullName>
+        <externalId>false</externalId>
+        <label>Billing Change Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>fd_deferralDate__c</fullName>
+        <externalId>false</externalId>
+        <label>Deferral Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>fd_expectedInvoiceDate__c</fullName>
+        <externalId>false</externalId>
+        <label>Expected 1st Invoice Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>fd_stageChangeDate__c</fullName>
+        <externalId>false</externalId>
+        <label>Stage Change Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>fn_billing__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Updated by the MBO System</inlineHelpText>
+        <label>Billings to Date</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_expected6moBilling__c</fullName>
+        <externalId>false</externalId>
+        <label>Expected Billings 1st 6 Months</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>fn_expectedSteadyMonthlyBilling__c</fullName>
+        <externalId>false</externalId>
+        <label>Expected Steady State Monthly Billing</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>fn_expectedTimeToSteady__c</fullName>
+        <externalId>false</externalId>
+        <label>Expected Time To Reach Steady State</label>
+        <precision>3</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_expectedTransitions__c</fullName>
+        <externalId>false</externalId>
+        <label>Expected New Transitions in 1st 6 Months</label>
+        <precision>3</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_pAllowedCost__c</fullName>
+        <externalId>false</externalId>
+        <label>Maximum Budget</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>fn_pUnitAllowed__c</fullName>
+        <externalId>false</externalId>
+        <label>Primary Units Allowed</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_pUnitCompleted__c</fullName>
+        <externalId>false</externalId>
+        <label>Jobs/Hours Completed</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_pUnitCost__c</fullName>
+        <externalId>false</externalId>
+        <label>Primary Unit Cost</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>fn_sUnitCompleted__c</fullName>
+        <externalId>false</externalId>
+        <label>Overtime Completed</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fn_sUnitCost__c</fullName>
+        <externalId>false</externalId>
+        <label>Secondary Unit Cost</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>fn_stageAge__c</fullName>
+        <externalId>false</externalId>
+        <formula>IF(
+   NOT(ISBLANK(fd_stageChangeDate__c)),
+   TODAY() - fd_stageChangeDate__c,
+   TODAY() - DATEVALUE(CreatedDate)
+)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Stage Age</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_accountFirstName__c</fullName>
+        <externalId>false</externalId>
+        <formula>Account.FirstName</formula>
+        <label>Account First Name</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_advance__c</fullName>
+        <externalId>false</externalId>
+        <label>Allow Advances</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_allowedExpense__c</fullName>
+        <externalId>false</externalId>
+        <label>Maximum Expense</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>fs_associateEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>Associate Email Address</label>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_billFee__c</fullName>
+        <externalId>false</externalId>
+        <label>Billing Fee</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_city__c</fullName>
+        <externalId>false</externalId>
+        <label>City</label>
+        <length>40</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_clientEmail__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Email</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_country__c</fullName>
+        <externalId>false</externalId>
+        <label>Country</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_endStatus__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Updated by the MBO System</inlineHelpText>
+        <label>End Date Status</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Not Confirmed</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Confirmed - will end on date</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Confirmed - will be extended</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Confirmed - will get new WO</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_endType__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Updated by the MBO System</inlineHelpText>
+        <label>End Date Type</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Actual</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Client Estimate</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>MBO Estimate</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Member Estimate</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_mboRecordId__c</fullName>
+        <externalId>true</externalId>
+        <label>MBO Record ID</label>
+        <length>30</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_pONumber__c</fullName>
+        <externalId>false</externalId>
+        <label>Purchase Order Number</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_pendingAssociateFirst__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_leadAssociate__r.FirstName</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Pending Associate First Name</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_postalCode__c</fullName>
+        <externalId>false</externalId>
+        <label>Postal Code</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_pricingType__c</fullName>
+        <externalId>false</externalId>
+        <label>Pricing Type</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Flat</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Hourly</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Dual-rate Hourly</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_sUnitAllowed__c</fullName>
+        <externalId>false</externalId>
+        <label>Secondary Units Allowed</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_serviceFee__c</fullName>
+        <externalId>false</externalId>
+        <label>Service Fee Override</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_stageReason__c</fullName>
+        <externalId>false</externalId>
+        <label>Stage Reason</label>
+        <picklist>
+            <controllingField>fs_subStage__c</controllingField>
+            <picklistValues>
+                <fullName>Better Suited for Direct Referral</fullName>
+                <controllingFieldValues>Not Qualified</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Competitor</fullName>
+                <controllingFieldValues>Could Not Sell</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Diversity</fullName>
+                <controllingFieldValues>Could Not Sell</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Hostile Partnering Environment</fullName>
+                <controllingFieldValues>Not Qualified</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Incumbent Relationship</fullName>
+                <controllingFieldValues>Could Not Sell</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Lack of Executive Sponsorship</fullName>
+                <controllingFieldValues>Not Qualified</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Looking for Low Bid</fullName>
+                <controllingFieldValues>Not Qualified</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>MBO Exec Not Understood</fullName>
+                <controllingFieldValues>Could Not Sell</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>MSP/VMS Strategy Not Associate Friendly</fullName>
+                <controllingFieldValues>Not Qualified</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Payroll Only</fullName>
+                <controllingFieldValues>Not Qualified</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Price</fullName>
+                <controllingFieldValues>Could Not Sell</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Relationship to Winner</fullName>
+                <controllingFieldValues>Could Not Sell</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Worker Classification</fullName>
+                <controllingFieldValues>Not Qualified</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <visibleLines>5</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_state__c</fullName>
+        <externalId>false</externalId>
+        <label>State</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_street1__c</fullName>
+        <externalId>false</externalId>
+        <label>Street 1</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>fs_street2__c</fullName>
+        <externalId>false</externalId>
+        <label>Street 2</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>fs_subStage__c</fullName>
+        <externalId>false</externalId>
+        <label>Sub-stage</label>
+        <picklist>
+            <controllingField>StageName</controllingField>
+            <picklistValues>
+                <fullName>Could Not Sell</fullName>
+                <controllingFieldValues>Lost</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not Qualified</fullName>
+                <controllingFieldValues>Lost</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Qualifying</fullName>
+                <controllingFieldValues>Working</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Developing</fullName>
+                <controllingFieldValues>Working</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Closing</fullName>
+                <controllingFieldValues>Working</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_wMAssignmentID__c</fullName>
+        <externalId>false</externalId>
+        <label>Work Market Assignment ID</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_wOID__c</fullName>
+        <externalId>false</externalId>
+        <label>MBO Work Order ID</label>
+        <length>30</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_wmAssignmentURL__c</fullName>
+        <externalId>false</externalId>
+        <formula>&apos;http://www.workmarket.com/assignments/details/&apos;+fs_wMAssignmentID__c</formula>
+        <label>Work Market Assignment URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_wmCompanyId__c</fullName>
+        <externalId>false</externalId>
+        <label>WM Company ID</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_woEnd__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Updated by the MBO System</inlineHelpText>
+        <label>End Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>fs_woStart__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Updated by the MBO System</inlineHelpText>
+        <label>Start Date</label>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>myTeam__c</fullName>
+        <externalId>false</externalId>
+        <formula>Owner.ManagerId =  $User.Id</formula>
+        <label>My Team</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>rs_accountExecutive__c</fullName>
+        <deleteConstraint>Restrict</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Account Executive</label>
+        <referenceTo>My_Biz_Office_User__c</referenceTo>
+        <relationshipLabel>Contracts</relationshipLabel>
+        <relationshipName>Opportunities</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_client__c</fullName>
+        <deleteConstraint>Restrict</deleteConstraint>
+        <externalId>false</externalId>
+        <inlineHelpText>Updated by the MBO System</inlineHelpText>
+        <label>Client</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Work Orders</relationshipLabel>
+        <relationshipName>workOrder</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_leadAssociate__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Pending Associate</label>
+        <referenceTo>Lead</referenceTo>
+        <relationshipLabel>Work Orders</relationshipLabel>
+        <relationshipName>workOrders</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <listViews>
+        <fullName>AllContractsActive</fullName>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.CREATED_DATE</columns>
+        <columns>CORE.USERS.FULL_NAME</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.RECORDTYPE</field>
+            <operation>equals</operation>
+            <value>Opportunity.Client_Contract</value>
+        </filters>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Sold</value>
+        </filters>
+        <label>All Contracts - Active</label>
+        <sharedTo>
+            <group>CorporateStaff</group>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>AllContractsLost</fullName>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.CREATED_DATE</columns>
+        <columns>CORE.USERS.FULL_NAME</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.RECORDTYPE</field>
+            <operation>equals</operation>
+            <value>Opportunity.Client_Contract</value>
+        </filters>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Lost</value>
+        </filters>
+        <label>All Contracts - Lost</label>
+        <sharedTo>
+            <group>CorporateStaff</group>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>AllContractsMisc</fullName>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.CREATED_DATE</columns>
+        <columns>CORE.USERS.FULL_NAME</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.RECORDTYPE</field>
+            <operation>equals</operation>
+            <value>Opportunity.Client_Contract</value>
+        </filters>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Active,Pending</value>
+        </filters>
+        <label>All Contracts - Misc</label>
+        <sharedTo>
+            <role>Admin</role>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>AllContractsPending</fullName>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.CREATED_DATE</columns>
+        <columns>CORE.USERS.FULL_NAME</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.RECORDTYPE</field>
+            <operation>equals</operation>
+            <value>Opportunity.Client_Contract</value>
+        </filters>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Identifying,Deferred,Working</value>
+        </filters>
+        <label>All Contracts - Pending</label>
+        <sharedTo>
+            <group>CorporateStaff</group>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>AllOpportunities</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All Opportunities</label>
+    </listViews>
+    <listViews>
+        <fullName>AllWorkOrders</fullName>
+        <columns>fs_wMAssignmentID__c</columns>
+        <columns>OPPORTUNITY.CREATED_DATE</columns>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>rs_leadAssociate__c</columns>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>rs_client__c</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>fs_woEnd__c</columns>
+        <columns>fs_endStatus__c</columns>
+        <columns>fs_endType__c</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.RECORDTYPE</field>
+            <operation>equals</operation>
+            <value>Opportunity.Work_Order</value>
+        </filters>
+        <label>All Work Orders</label>
+        <sharedTo>
+            <group>CorporateStaff</group>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>Closed_Negative</fullName>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>CORE.USERS.ALIAS</columns>
+        <columns>Reason_for_Loss__c</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Lost</value>
+        </filters>
+        <label>Closed Negative</label>
+    </listViews>
+    <listViews>
+        <fullName>Closed_Positive</fullName>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>CORE.USERS.ALIAS</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Sold</value>
+        </filters>
+        <label>Closed Positive</label>
+    </listViews>
+    <listViews>
+        <fullName>Closing</fullName>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>CORE.USERS.ALIAS</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Working</value>
+        </filters>
+        <label>Closing</label>
+    </listViews>
+    <listViews>
+        <fullName>Developing</fullName>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>CORE.USERS.ALIAS</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Working</value>
+        </filters>
+        <label>Developing</label>
+    </listViews>
+    <listViews>
+        <fullName>MyOpportunities</fullName>
+        <filterScope>Mine</filterScope>
+        <label>My Opportunities</label>
+        <sharedTo>
+            <group>CorporateStaff</group>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>Qualifying</fullName>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>CORE.USERS.ALIAS</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>OPPORTUNITY.STAGE_NAME</field>
+            <operation>equals</operation>
+            <value>Working</value>
+        </filters>
+        <label>Qualifying</label>
+    </listViews>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
+    <recordTypes>
+        <fullName>B2B</fullName>
+        <active>true</active>
+        <businessProcess>Opportunity Management Process</businessProcess>
+        <description>An opportunity for the B2B sales team</description>
+        <label>B2B</label>
+        <picklistValues>
+            <picklist>Account_Manager__c</picklist>
+            <values>
+                <fullName>Brendan Dillon</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>David Putt</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Emily Dyche</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Heather Rocco</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Jackie Crook</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Jenna Powell</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Kimball Norup</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Mike Cavaluzzi</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Shannon Daly</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Steve Taggart</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Competition__c</picklist>
+            <values>
+                <fullName>Allbany</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Clearpath</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Collabarus</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Do nothing</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Icon</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Internal Solution</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Kelly Services</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>New competition</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pro Unlimited</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Secure Talent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Source Right</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Synergy</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Take the risk themselves</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Volt</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Workforce Logic</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Zero Chaos</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>ForecastCategoryName</picklist>
+            <values>
+                <fullName>Best Case</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Closed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Commit</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Omitted</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pipeline</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>How_to_solve__c</picklist>
+            <values>
+                <fullName>Commissioned Professional %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Consultant %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Freelancer %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Independent Contractor %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Payroller %28STAFF%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Readiness to Serve %28STAFF%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Small Consulting Firms %28SUB%29</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>LeadSource</picklist>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Project_Manager__c</picklist>
+            <values>
+                <fullName>Amy Chatterton</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>David Cassar</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Dustin Talley</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Heather Rocco</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Patrick Nealon</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Steve Arhancet</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Type</picklist>
+            <values>
+                <fullName>Consulting study</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incumbent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Quick Start</fullName>
+                <default>true</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_pricingType__c</picklist>
+            <values>
+                <fullName>Flat</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_stageReason__c</picklist>
+            <values>
+                <fullName>Better Suited for Direct Referral</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Competitor</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Diversity</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Hostile Partnering Environment</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incumbent Relationship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Lack of Executive Sponsorship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Looking for Low Bid</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>MBO Exec Not Understood</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>MSP%2FVMS Strategy Not Associate Friendly</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Payroll Only</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Price</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Relationship to Winner</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Worker Classification</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_subStage__c</picklist>
+            <values>
+                <fullName>Closing</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Could Not Sell</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Developing</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Qualified</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Qualifying</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Client_Contract</fullName>
+        <active>true</active>
+        <businessProcess>Client Contract</businessProcess>
+        <description>This is a sales process for the acquiring a client contract or program</description>
+        <label>Client Contract</label>
+        <picklistValues>
+            <picklist>Account_Manager__c</picklist>
+            <values>
+                <fullName>Emily Dyche</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Heather Rocco</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Shannon Daly</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Competition__c</picklist>
+            <values>
+                <fullName>Allbany</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Collabarus</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Do nothing</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Icon</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Kelly Services</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>New competition</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pro Unlimited</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Source Right</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Synergy</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Take the risk themselves</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Workforce Logic</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Zero Chaos</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>ForecastCategoryName</picklist>
+            <values>
+                <fullName>Best Case</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Closed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Commit</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Omitted</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pipeline</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>How_to_solve__c</picklist>
+            <values>
+                <fullName>Commissioned Professional %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Consultant %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Freelancer %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Independent Contractor %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Payroller %28STAFF%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Readiness to Serve %28STAFF%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Small Consulting Firms %28SUB%29</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>LeadSource</picklist>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Project_Manager__c</picklist>
+            <values>
+                <fullName>Amy Chatterton</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>David Cassar</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Heather Rocco</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Patrick Nealon</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Steve Arhancet</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Type</picklist>
+            <values>
+                <fullName>Consulting study</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incumbent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Quick Start</fullName>
+                <default>true</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_endStatus__c</picklist>
+            <values>
+                <fullName>Confirmed - will be extended</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Confirmed - will end on date</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Confirmed - will get new WO</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Confirmed</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_endType__c</picklist>
+            <values>
+                <fullName>Actual</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Client Estimate</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>MBO Estimate</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Member Estimate</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_pricingType__c</picklist>
+            <values>
+                <fullName>Flat</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_stageReason__c</picklist>
+            <values>
+                <fullName>Better Suited for Direct Referral</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Competitor</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Diversity</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Hostile Partnering Environment</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incumbent Relationship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Lack of Executive Sponsorship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Looking for Low Bid</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>MBO Exec Not Understood</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>MSP%2FVMS Strategy Not Associate Friendly</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Payroll Only</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Price</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Relationship to Winner</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Worker Classification</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_subStage__c</picklist>
+            <values>
+                <fullName>Could Not Sell</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Qualified</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Work_Order</fullName>
+        <active>true</active>
+        <businessProcess>Work Order</businessProcess>
+        <description>This is a work order</description>
+        <label>Work Order</label>
+        <picklistValues>
+            <picklist>Account_Manager__c</picklist>
+            <values>
+                <fullName>Emily Dyche</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Heather Rocco</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Shannon Daly</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Competition__c</picklist>
+            <values>
+                <fullName>Allbany</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Collabarus</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Do nothing</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Icon</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Kelly Services</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>New competition</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pro Unlimited</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Source Right</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Synergy</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Take the risk themselves</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Workforce Logic</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Zero Chaos</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>ForecastCategoryName</picklist>
+            <values>
+                <fullName>Best Case</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Closed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Commit</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Omitted</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pipeline</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>How_to_solve__c</picklist>
+            <values>
+                <fullName>Commissioned Professional %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Consultant %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Freelancer %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Independent Contractor %28EXEC%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Payroller %28STAFF%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Readiness to Serve %28STAFF%29</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Small Consulting Firms %28SUB%29</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>LeadSource</picklist>
+            <values>
+                <fullName>Import</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Phone</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Webform</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Project_Manager__c</picklist>
+            <values>
+                <fullName>Amy Chatterton</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>David Cassar</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Heather Rocco</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Patrick Nealon</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Steve Arhancet</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Type</picklist>
+            <values>
+                <fullName>Consulting study</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incumbent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Quick Start</fullName>
+                <default>true</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_endStatus__c</picklist>
+            <values>
+                <fullName>Confirmed - will be extended</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Confirmed - will end on date</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Confirmed - will get new WO</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Confirmed</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_endType__c</picklist>
+            <values>
+                <fullName>Actual</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Client Estimate</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>MBO Estimate</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Member Estimate</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_pricingType__c</picklist>
+            <values>
+                <fullName>Dual-rate Hourly</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Flat</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Hourly</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_stageReason__c</picklist>
+            <values>
+                <fullName>Better Suited for Direct Referral</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Competitor</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Diversity</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Hostile Partnering Environment</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incumbent Relationship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Lack of Executive Sponsorship</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Looking for Low Bid</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>MBO Exec Not Understood</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>MSP%2FVMS Strategy Not Associate Friendly</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Payroll Only</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Price</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Relationship to Winner</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Worker Classification</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_subStage__c</picklist>
+            <values>
+                <fullName>Could Not Sell</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Qualified</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <searchLayouts>
+        <customTabListAdditionalFields>OPPORTUNITY.NAME</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
+        <customTabListAdditionalFields>OPPORTUNITY.CLOSE_DATE</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>OPPORTUNITY.NAME</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ACCOUNT.NAME</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ACCOUNT.SITE</lookupDialogsAdditionalFields>
+        <lookupFilterFields>OPPORTUNITY.NAME</lookupFilterFields>
+        <lookupFilterFields>ACCOUNT.NAME</lookupFilterFields>
+        <lookupFilterFields>rs_client__c</lookupFilterFields>
+        <lookupFilterFields>Campaign__c</lookupFilterFields>
+        <lookupPhoneDialogsAdditionalFields>OPPORTUNITY.NAME</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ACCOUNT.NAME</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ACCOUNT.SITE</lookupPhoneDialogsAdditionalFields>
+        <searchFilterFields>ACCOUNT.NAME</searchFilterFields>
+        <searchFilterFields>OPPORTUNITY.NAME</searchFilterFields>
+        <searchFilterFields>rs_client__c</searchFilterFields>
+        <searchFilterFields>Campaign__c</searchFilterFields>
+        <searchFilterFields>fs_woStart__c</searchFilterFields>
+        <searchFilterFields>fs_woEnd__c</searchFilterFields>
+        <searchResultsAdditionalFields>OPPORTUNITY.NAME</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ACCOUNT.NAME</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ACCOUNT.SITE</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>OPPORTUNITY.STAGE_NAME</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>OPPORTUNITY.CLOSE_DATE</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
+    <validationRules>
+        <fullName>Deferral_Date</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    ISPICKVAL(StageName, &quot;Deferred&quot;),
+    ISBLANK(fd_deferralDate__c)
+)</errorConditionFormula>
+        <errorDisplayField>fd_deferralDate__c</errorDisplayField>
+        <errorMessage>Please set a deferral date</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Developing_Phase</fullName>
+        <active>false</active>
+        <description>Requires aspects of the developing phase to be completed before advancing</description>
+        <errorConditionFormula>AND(
+    ISPICKVAL(fs_subStage__c,&quot;Closing&quot;),
+    ISBLANK(&quot;Steady_State_Monthly_Management_Fee__c&quot;)
+)</errorConditionFormula>
+        <errorMessage>Please complete the information for the Developing Phase</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Dropped_reason</fullName>
+        <active>false</active>
+        <description>Requires user to enter a reason for dropping the opportunity</description>
+        <errorConditionFormula>ISPICKVAL( StageName, &quot;Dropped&quot;)   &amp;&amp;   ISBLANK(Dropped_Reason__c)</errorConditionFormula>
+        <errorDisplayField>Dropped_Reason__c</errorDisplayField>
+        <errorMessage>Enter the reason for dropping the opportunity</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Est_Launch_Req</fullName>
+        <active>true</active>
+        <description>Requires Estimated launch date if opportunity moves to closed/won stage</description>
+        <errorConditionFormula>AND(
+    ISPICKVAL(StageName,&quot;Sold&quot;),
+    ISBLANK(Program_start__c)
+)</errorConditionFormula>
+        <errorDisplayField>Program_start__c</errorDisplayField>
+        <errorMessage>Est Launch Date must be entered if opportunity is in Sold stage</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>LID__Check_CompanyId_Value</fullName>
+        <active>true</active>
+        <description>Throws an exception message if the company id contains non-numerics</description>
+        <errorConditionFormula>AND(
+	(LID__LinkedIn_Company_Id__c &lt;&gt; NULL),
+	NOT(ISNUMBER(LID__LinkedIn_Company_Id__c))
+)</errorConditionFormula>
+        <errorDisplayField>LID__LinkedIn_Company_Id__c</errorDisplayField>
+        <errorMessage>CompanyId should be a numeric value</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>NewCompetitionRequired</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    INCLUDES(Competition__c,&quot;New Competition&quot;),
+    ISBLANK(New_competition__c)
+)</errorConditionFormula>
+        <errorDisplayField>New_competition__c</errorDisplayField>
+        <errorMessage>Please enter the name of the new competitor</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Qualification_Phase</fullName>
+        <active>true</active>
+        <description>Requires aspects of the qualification phase to be completed before advancing</description>
+        <errorConditionFormula>AND(
+    OR(
+       ISPICKVAL(fs_subStage__c, &quot;Developing&quot;),
+       ISPICKVAL(fs_subStage__c, &quot;Closing&quot;)
+    ),
+    OR(
+       ISBLANK(&quot;Decision_Criteria__c&quot;),
+       ISBLANK(&quot;Unique_differentiators__c&quot;),
+       ISBLANK(&quot;Timeframe_of_decision__c&quot;),
+       ISBLANK(&quot;Competition__c&quot;),
+       ISBLANK(&quot;How_to_solve__c&quot;),
+       ISBLANK(&quot;Money_Client_budget__c&quot;),
+       ISBLANK(&quot;Authority__c&quot;),
+       ISBLANK(&quot;Need__c&quot;)
+    )
+)</errorConditionFormula>
+        <errorMessage>Please complete the information for the Qualification Phase</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Reason_for_Loss_Required_when_Lost</fullName>
+        <active>false</active>
+        <errorConditionFormula>AND( ISPICKVAL( StageName , &quot;Closed Lost&quot;) , Reason_for_Loss__c =&quot;&quot;)</errorConditionFormula>
+        <errorDisplayField>Reason_for_Loss__c</errorDisplayField>
+        <errorMessage>Please indicate why the Opportunity was lost.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>StageReason_Required</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    OR(
+       ISPICKVAL(fs_subStage__c,&quot;Could Not Sell&quot;),
+       ISPICKVAL(fs_subStage__c,&quot;Not Qualified&quot;)
+    ),
+    ISBLANK(fs_stageReason__c)
+)</errorConditionFormula>
+        <errorDisplayField>fs_stageReason__c</errorDisplayField>
+        <errorMessage>Please select an available Stage Reason</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Stage_Sold</fullName>
+        <active>true</active>
+        <errorConditionFormula>ISPICKVAL(StageName,&quot;SOLD&quot;)</errorConditionFormula>
+        <errorDisplayField>StageName</errorDisplayField>
+        <errorMessage>Please submit for approval as opposed to manually setting to Sold.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>SubStage_Required</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    OR(
+       ISPICKVAL(StageName,&quot;Lost&quot;),
+       ISPICKVAL(StageName,&quot;Working&quot;)
+    ),
+    ISPICKVAL(fs_subStage__c,&quot;&quot;)
+)</errorConditionFormula>
+        <errorDisplayField>fs_subStage__c</errorDisplayField>
+        <errorMessage>Please select an available value</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>stageReason_Competitor</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    INCLUDES(fs_stageReason__c,&quot;Competitor&quot;),
+    ISBLANK(Competition__c)
+)</errorConditionFormula>
+        <errorDisplayField>Competition__c</errorDisplayField>
+        <errorMessage>Please select a competitor.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_account</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED( AccountId )
+)</errorConditionFormula>
+        <errorDisplayField>AccountId</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_client</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED( rs_client__c )
+)</errorConditionFormula>
+        <errorDisplayField>rs_client__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_endDate</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED(fs_woEnd__c)
+)</errorConditionFormula>
+        <errorDisplayField>fs_woEnd__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_endDateStatus</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED(fs_endStatus__c)
+)</errorConditionFormula>
+        <errorDisplayField>fs_endStatus__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_endDateType</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED(fs_endType__c)
+)</errorConditionFormula>
+        <errorDisplayField>fs_endType__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_opportunityName</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED(  Name  )
+)</errorConditionFormula>
+        <errorDisplayField>Name</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_owner</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED( OwnerId )
+)</errorConditionFormula>
+        <errorDisplayField>OwnerId</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_stage</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED( StageName)
+)</errorConditionFormula>
+        <errorDisplayField>StageName</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_startDate</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED(fs_woStart__c)
+)</errorConditionFormula>
+        <errorDisplayField>fs_woStart__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_totalBilling</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields if they are managed by the MBO System sync</description>
+        <errorConditionFormula>AND(
+          NOT(
+                    $User.Id = &apos;00580000003Xfjx&apos;
+          ),
+          RecordType.Name = &apos;Work Order&apos;,
+          ISCHANGED(fn_billing__c)
+)</errorConditionFormula>
+        <errorDisplayField>fn_billing__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+</CustomObject>

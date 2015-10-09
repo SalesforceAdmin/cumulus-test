@@ -1,0 +1,8 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><div>Dear {{lead.First Name:default=valued participant}},</div>
+<div>Thank you for signing up to receive updates on future webinars. We will keep you informed of all upcoming events. You can check back at any time at <a href="http://info.mbopartners.com/Webinar.html">http://info.mbopartners.com/Webinar.html</a>.</div></span>
+</div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: From Jake Levenson (1325714173.0)</name>
+    <style>none</style>
+    <subject>RE: From Jake Levenson (1325714173.0)</subject>
+    <textOnly>From Jake Levenson      110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Jake,
+ 
+Here are a few things:
+ 
+·         Updated estimate per your notes below so you can have an accurate illustration for yourself.
+·         The updated contract; made for use with MBO Partners that would be executed between MBO and the Client
+ 
+Next steps:
+ 
+·         Introduce me to the point of contact at the client once they have accepted your proposal for work (usually via email is best.  Steve meet x, x meet Steve).  I will then reach out to them, ask about the agreement; deliver one already completed; explain the relationship and work on any other paperwork that is necessary for you to get started. 
+·         I need to clarify some questions with you regarding the expenses, total budget that I was not clear on based on the Appendix A and if the client had confirmed this or if it was still being proposed.
+ 
+Regards,
+ 
+Steve
+ 
+From: Jake Levenson [mailto:jlevenson@mac.com] 
+Sent: Wednesday, January 04, 2012 11:20 AM
+To: Steve Arhancet
+Subject: From Jake Levenson
+ 
+Steve,
+Thanks for the cash flow estimate.  I kind wish it was in some kind of excel form I can play around with and not bother you with every little change, but this is very useful.  Ok, a couple quick notes.
+I think $75.00 an hour is going to be what IFAW settles on I should put down about $1000 in anticipated membership fees Office expense is probably around $2,000 a year, maybe $5,000 year one If I do private medical dental, it’ll be about $750 a month.  Like I said, I’ll probably do that at first and then move to MBO’s after 3 months. Computer or other equipment is probably going to be about $5,000 in year one and less thereafter I’ll probably have about $4,000 in non-billable travel.
+I’m currently confused about this whole definition of billable time so I gotta make sure I’m clear on that.  Attached is the contract template I used to use when I worked for the organization.   There’s also attached a doc that I used to outline what I’ll be working on it.
+
+Ok, so what’s the next step?
+
+Jake</textOnly>
+    <type>custom</type>
+</EmailTemplate>

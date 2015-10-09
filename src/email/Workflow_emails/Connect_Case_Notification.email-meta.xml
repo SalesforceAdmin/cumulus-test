@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Plain_letterhead</letterhead>
+    <name>Connect Case Notification</name>
+    <style>freeForm</style>
+    <subject>MBO Connect: {!Case.Subject}</subject>
+    <textOnly>Salesforce case {!Case.CaseNumber} was created by {!Case.Submitter_Name__c} ({!Case.Submitter_Email__c}) at {!Case.CreatedDate}
+
+{!Case.Subject}
+
+{!Case.Description}</textOnly>
+    <type>html</type>
+</EmailTemplate>

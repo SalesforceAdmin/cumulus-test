@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Operational Notices.Social Security Notification</name>
+    <style>none</style>
+    <subject>Important Social Security Notice from MBO Partners</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+This week, President Obama signed the American Taxpayer Relief Act of 2012 (better known as the “Fiscal Cliff Bill”) into law.
+Among other things, the Act eliminates the 2% reduction in employee-side Social Security tax that had been in place during 2011 and 2012. As a result, your 2013 Social Security tax liability will increase by 2% to its pre-2011 level.
+Also note that the 2013 Social Security wage base limit has increased to $113,700. This means that MBO Partners will withhold Social Security tax on the first $113,700 of your 2013 billings.
+Please let me know if you have any questions.
+Best regards,
+___________________________________
+ {{company.BM FName:default=Kelly}} {{company.BM LName:default=Marshall}}
+ Business Manager
+ MBO Partners
+ 
+ t: {{company.BM Phone:default=703-793-6000}}
+ e: {{company.BM Email:default=info@mbopartners.com}}
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

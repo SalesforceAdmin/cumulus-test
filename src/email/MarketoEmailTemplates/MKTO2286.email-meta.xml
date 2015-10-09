@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Lead Email 2</name>
+    <style>none</style>
+    <subject>New Year, New Content in The Independent&apos;s Guide</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+We&apos;ve kicked off the New Year with new content in The Independent&apos;s Guide &lt;http://www.mbopartners.com/independents-guide&gt;, MBO&apos;s free online library of educational content for both aspiring and experienced independent consultants. 
+New this month:
+
+
+ - Top Business Consulting Frameworks &lt;http://www.mbopartners.com/independents-guide/succeed/top-business-frameworks&gt; (Downloadable Guide)
+ - Seven Tips for Client Report Writing &lt;http://www.mbopartners.com/independents-guide/succeed/seven-tips-client-report-writing&gt; (Article)
+ - How to Give Powerful Presentations &lt;http://www.mbopartners.com/independents-guide/succeed/how-to-give-powerful-presentations&gt; (Downloadable Guide)
+ - What is a Portable Employer of Record? &lt;http://www.mbopartners.com/independents-guide/launch/what-is-PER&gt; (Article)
+
+
+
+To learn more about how MBO Partners can help you plan, launch, succeed and grow your independent business, email us at info@mbopartners.com &lt;mailto:info@mbopartners.com&gt; or give us a call at 703-793-6000.
+___________________________________
+MBO Partners
+t: 703-793-6000
+ e: info@mbopartners.com &lt;mailto:info@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

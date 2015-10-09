@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Contest Winner Email</name>
+    <style>none</style>
+    <subject>A Story in Pictures: The Home Office Makeover</subject>
+    <textOnly>Hello {{lead.First Name:default=MBO Associate}},
+
+Independent&apos;s day is here, and with it, the end of our First Annual Home Office Makeover Sweepstakes!
+
+MBO Associates who referred a friend or colleague earned an official entry, with a chance to win some awesome gear for their home offices.
+
+Check out our blog &lt;http://www.mbopartners.com/blog/and-home-office-makeover-winner&gt; to see the results, and follow our story as we turn a room in the luck winner&apos;s house into a top-of-the-line, high-tech office!
+___________________________________
+MBO Partners
+ 
+ t: 703-793-6000
+ e: communications@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

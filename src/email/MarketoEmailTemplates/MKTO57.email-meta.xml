@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Hello from Thea @ TAS: Elavon New Hire Paperwork (1312386871.0)</name>
+    <style>none</style>
+    <subject>RE: Hello from Thea @ TAS: Elavon New Hire Paperwork (1312386871.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Ashley,
+ 
+Can you please review:
+1.       Righttorepresent.doc, you will need to sign and return this to me    (There is some non-compete information in this, so please read carefully).  We can review any points on the phone that I think are worth suggest changing, should you want to.  There is some stiff language in this document you need to be aware of.
+2.       Info Cubic Release.pdf, you will need to sign and return this to me
+3.       I’ve recommended a few changes in the contract, which I generally went over on your voicemail.  Please call or email me back to confirm you are okay with me presenting these changes to Thea.
+ 
+Regards,
+ 
+Steve
+ 
+From: A DCruz [mailto:dcruz_a@yahoo.com] 
+Sent: Wednesday, August 03, 2011 9:52 AM
+To: Steve Arhancet
+Subject: Fw: Hello from Thea @ TAS: Elavon New Hire Paperwork
+ 
+ 
+----- Forwarded Message -----
+From: Thea Bensel &lt;thea@tas-inc.com&gt;
+To: dcruz_a@yahoo.com
+Sent: Monday, August 1, 2011 4:41 PM
+Subject: Hello from Thea @ TAS: Elavon New Hire Paperwork
+Ashley, 
+ 
+It was a pleasure speaking with you! Please find the new-hire paperwork discussed, attached. Kindly review, sign and scan back. If you have any questions, feel free to call me at (678) 650-0610. Thanks! 
+ 
+Regards, 
+ 
+Thea Bensel
+Recruiting Manager
+ 
+C: (678) 650-0610 | F: (404) 329 0021 | thea@tas-inc.com
+Trans Atlantic Systems | www.tas-inc.com
+1945 Cliff Valley Way, Suite 270, Atlanta, GA 30329 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

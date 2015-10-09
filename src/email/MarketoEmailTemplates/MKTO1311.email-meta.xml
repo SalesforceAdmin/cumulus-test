@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners and Kimberly Brown (1335979404.0)</name>
+    <style>none</style>
+    <subject>MBO Partners and Kimberly Brown (1335979404.0)</subject>
+    <textOnly>-     
+	- 
+	-   110 Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Greg, My name is Sara Conde and I am a Consultant Services Advisor with MBO Partners. I was given you contact information by Kimberly Brown. She let me know that she will be working on a project for BRTRC and I wanted to introduce myself as your contact at MBO Partners. We have done work with your firm in the past and we already have a master services agreement in place (see attached.) All we would need to bring Kimberly on is a statement of work outlining the details of the project. Kimberly quoted a rate of $175 per hour. Will you be uplifting her rate to cover the 5% MBO Service fee? If so, please list her rate at $183.75 per hour when you send over the statement of work. On behalf of everyone at MBO Partners we look forward to working with your firm again. Please feel free to reach out to me with any questions. Best regards,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

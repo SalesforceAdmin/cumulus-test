@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Information (1336145455.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Information (1336145455.0)</subject>
+    <textOnly>-    1024x768  
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Dear Gigi, Julie and Kathy,  It was a pleasure speaking with you today.  I’ve enclosed a few resources for your review about the MBO Business Model, how we help our consultants, as well as how we can provide the solutions your company is looking for. 
+	- You can view all the information we spoke over the phone by going here &lt;http://info.mbopartners.com/advisor-info-n-taylor.html&gt;.  
+ 
+	- You can see the 4 ways MBO helps our clients by going here: http://www.mboenterprise.com/how-we-help &lt;http://www.mboenterprise.com/how-we-help&gt; 
+ As I mentioned on the call, I would like to have a follow up call after you have had a chance to review the information to talk about logistics and next steps.  When you are ready for this, feel free to schedule a convenient time for you using my online schedule.  I would be happy to meet you in person or do another conference call like today. In the meantime if you have any questions for me please do not hesitate to reach out to me. Have a great weekend, Nicolette___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;https://my.timedriver.com/9TGRK&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

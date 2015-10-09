@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Copy of estimate (1348757380.0)</name>
+    <style>none</style>
+    <subject>Copy of estimate (1348757380.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Heidi, It was so nice meeting with you today! As promised, I have attached copy of your estimate, please let me know if you would like me to run any other figures. The enrollment link will come in a separate email. Have a wonderful day!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; If you are in the DC area please check out our upcoming networking event! &lt;http://events.r20.constantcontact.com/register/event?oeidk=a07e6cqaqtk0702919f&amp;llr=kp5x6qkab&gt;  Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

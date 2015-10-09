@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>First round of invitations for the 27Apri12Web: Women. Garrett Zaino 4/20/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>27Apr12Web: Women.Invite 1</name>
+    <style>none</style>
+    <subject>What&apos;s The Third Path? Register for Our New Webinar Today</subject>
+    <textOnly>Dear Consultant,
+ 
+ For today’s professional woman, is career a black-and-white choice between full time work and staying at home, or is there a third path?
+
+Join Aassia Haq, CMO of MBO Partners, for a webinar &lt;http://info.mbopartners.com/Independent-Consulting-for-Women.html&gt; on Friday April 27, 2012 from 12:30-1:30 pm, EDT (11:30-12:30 CST) as she discusses the surprising statistics around independent work for women in America, and why it may be a viable path for entrepreneurial women. 
+
+In this free, one hour session, you’ll learn how to:
+
+ -  Assess readiness for the ‘Third Path’
+ -  The factors that to consider before starting on the path 
+ -  How to find role models and mentors to guide you 
+ -  How to overcome key obstacles to success
+
+Don’t miss the chance to learn why independent women professionals find better work/life balance; remain more engaged in their work choices and why a majority who choose the Third Path do not want to return to traditional work. As an advocate for the women in the independent workforce, Aassia will share stories and steps to success drawn from her years of experience in a traditional corporate role at PepsiCo, her tenure as CEO of online work marketplace ALUMRISE.COM, and her experiences as independent consulting professional – all to help guide professional women explore alternatives to full-time traditional employment. 
+
+Register or share with a friend today! &lt;http://info.mbopartners.com/Independent-Consulting-for-Women.html&gt;
+
+We hope you can join us,  
+
+MBO Partners 
+
+www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

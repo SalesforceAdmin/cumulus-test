@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Follow up from Inquiry (1325864223.0)</name>
+    <style>none</style>
+    <subject>Follow up from Inquiry (1325864223.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Sheila,
+ 
+You may log into your business center by going to www.mbopartners.com and clicking “login” at the type right corner of the page.  From there you will enter your username which is mccoysk and then enter your password.  If you do not recall your password you may click the “forgot your password” link and you will be sent a new password.  Once you access the business center you may update your personal information in the system.
+ 
+Please let me know if you have any additional questions.
+ 
+Thank  you and have a great weekend!
+Nicolette
+ 
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Thank You for Your Interest in MBO Partners (1324304610.0)</name>
+    <style>none</style>
+    <subject>RE: Thank You for Your Interest in MBO Partners (1324304610.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Matt,
+ 
+That email was an auto generated email that goes out automatically when someone places an inquiry in our system.  I actually sent you an email with additional information on Tuesday per your request.  Please let me know if you did not receive the email and I will resend it to you.
+ 
+Thank you,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: mpodowitz@pathfinderadvisors.com [mailto:mpodowitz@pathfinderadvisors.com] 
+Sent: Monday, December 19, 2011 9:21 AM
+To: Nicolette Taylor
+Subject: RE: Thank You for Your Interest in MBO Partners
+ 
+Nicolette,
+ 
+Thank you for your e-mail, but it is apparent you did not read or simply chose not to honor the request for information I submitted via the MBO Partners website. I am not interested in speaking with an &quot;Enrollment Manager&quot; or a salesperson by any title until I better understand specifically what services you offer and on what basis you charge for them. Once I have more information and have had a chance to evaluate it, I will call you for an appointment -- or not -- depending on whether I am interested in potentially becoming a client.
+ 
+Thank you.
+ 
+Matt Podowitz
+ 
+--
+
+Matthew H. Podowitz
+Principal
+
+Pathfinder Advisors
+Creating business value by optimizing performance
+Compliance | Operations | Technology | Transactions
+mpodowitz@pathfinderadvisors.com
+
+Web http://www.pathfinderadvisors.com
+ 
+-------- Original Message --------
+Subject: Thank You for Your Interest in MBO Partners
+From: &quot;Nicolette Taylor&quot; &lt;ntaylor@mbopartners.com&gt;
+Date: Tue, December 13, 2011 12:34 pm
+To: mpodowitz@pathfinderadvisors.com
+Dear Matt,
+Thank you for taking the time to contact MBO Partners. My name is Nicolette Taylor, an MBO Partners Enrollment Manager, and I will reach out to you within one business day.
+If you prefer, you can easily schedule a phone appointment with me by visiting https://my.timedriver.com/9TGRK.
+I look forward to speaking with you!
+Best regards,
+Nicolette
+___________________________________
+Nicolette Taylor 
+Enrollment Manager
+MBO Partners
+ 
+t: (703) 793-6281
+f: 703.793.6070
+e: ntaylor@mbopartners.com 
+w: www.mbopartners.com
+ 
+
+
+&lt;/htm</textOnly>
+    <type>custom</type>
+</EmailTemplate>

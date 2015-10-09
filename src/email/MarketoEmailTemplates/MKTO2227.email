@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
+<style type="text/css">
+body,td,th {
+        font-size: larger;
+}
+</style>
+<!--TO CHANGE BACKGROUND OF EMAIL UPDATE THE "bgcolor" HEX CODE BELOW...-->
+<title></title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" bgcolor="#921302" ><div ><div class="mktEditable" ><!--...AND UPDATE "bgcolor" HEX CODE BELOW HERE TOO-->
+
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#921302">
+<tr>
+<td valign="top" align="center">
+<table width="550" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<tr>
+<td><!--REPLACE "mbo_partners" IN THE LINK BELOW WITH THE CUSTOMER FOLDER NAME-->
+<img src="http://my.customecards.net/mbo_partners/_build_ecard/stationary/masthead.jpg?cache=0" width="550" border="0" align="center"></td>
+</tr>
+<tr>
+<td style="font-size:12px;color:#505964;line-height:130%;font-family:Arial; padding-left:20px;padding-right:20px;">
+<p><!--DOUBLE CHECK CUSTOMER MAILING LIST FOR "FIRST NAMES", IF THEY DON'T EXIST IN THE LIST, DELETE "[fname]"...
+                                                                                SOME CUSTOMERS WILL HAVE FIRST AND LAST NAMES, OR A SURNAME FOR CONTACTS, CHECK TO SEE IF THESE ARE REQUESTED BY THE CUSTOMER.
+                                                                        -->
+ <!--ENTER THE GREETING PROVIDED BY THE CUSTOMER, IF NO GREETING IS AVAILABLE USE THE DEFAULT GREETING:
+                                                                                "Thank you for offering us the opportunity to work with you throughout the year.  We would like to wish you a joyous and memorable holiday season, with the hopes that the coming New Year continues to bring both of our companies happiness and success."                                                                             
+                                                                        -->
+<br>
+Thank you for offering us the opportunity to work with you throughout the year. We would like to wish you a joyous and memorable holiday season, with the hopes that the coming New Year continues to bring you happiness and success.</p>
+<p><!-- DON'T UPDATE THIS LINE UNLESS THE CUSTOMER REQUESTS IT-->
+ To view your e-card please click on the link below, or enter it into your browser.<br>
+<!--REPLACE "mbo_partners" IN THE FIRST LINK BELOW WITH THE CUSTOMER FOLDER NAME-->
+ <a href="http://my.customecards.net/mbo_partners/index.php?cache=0" target="_blank" style="color:#921302;font-weight:bold;">my.customecards.net/mbo_partners/</a> <!----></p>
+<center>
+<p><!--REPLACE "mbo_partners" IN BOTH LINKS BELOW WITH THE CUSTOMER FOLDER NAME...
+                                                                                        UPDATE THE "thumb.jpg" FILE BY SAVEING OVER THE EXISTING FILE W/ THE MATCHING GREETING COVER THUMB (FOUND IN ECARD RESOURCES FILE)
+                                                                                -->
+ <a href="http://my.customecards.net/mbo_partners/index.php?cache=0" target="_blank"><img src="http://my.customecards.net/mbo_partners/_build_ecard/stationary/thumb.jpg?cache=0" width="323" height="240" border="0" style="margin-top:20px;margin-bottom:20px;"></a> <!----></p>
+<p><!--REPLACE "mbo_partners" IN THE LINK BELOW WITH THE CUSTOMER FOLDER NAME...
+                                                                                        UPDATE "signature.jpg" IN PHOTOSHOP AND SAVE OVER THE EXISTING FILE
+                                                                                -->
+ <img src="http://my.customecards.net/mbo_partners/_build_ecard/stationary/signature.jpg?cache=0" width="329" height="72"><br>
+<!---->
+ <!--REPLACE "mbo_partners" IN THE LINK BELOW WITH THE CUSTOMER FOLDER NAME...
+                                                                                        UPDATE "logo.jpg" IN PHOTOSHOP AND SAVE OVER THE EXISTING FILE
+                                                                                -->
+ <img src="http://my.customecards.net/mbo_partners/_build_ecard/stationary/logo.jpg?cache=0" width="270" height="103"> <!---->
+<br>
+<br></p>
+</center>
+</td>
+</tr>
+<tr>
+<td><!--REPLACE "mbo_partners" IN THE LINK BELOW WITH THE CUSTOMER FOLDER NAME-->
+<!----></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;color:#dfdede;font-family:Arial;font-size:11px;line-height:19px;padding-top:10px;padding-bottom:20px;"><!--UPDATE THE TEMPLATE INFORMATION BELOW...
+                                                REPLACE "COMPANY ADDRESS" W/ CUSTOMER ADDRESS... 
+                                                REPLACE "CITY,STATE,ZIP" W/ CUSTOMER CITY, STATE, ZIP... 
+                                                REPLACE "PH 000.000.0000" W/ CUSTOMER PHONE NUMBER...
+                                                REPLACE "#" IN HREF W/ CUSTOMER EMAIL   
+                                        -->
+<p>13454 Sunrise Valley Drive, Suite 300 &bull; Herndon, VA, 20171 &bull; PH 703.793.6000 &bull; <a href="http://www.mbopartners.com/" target="_blank" style="color:#dfdede;">www.mbopartners.com</a></p>
+<!----></td>
+</tr>
+</table>
+
+<!--
+E-MARKETING ASSOCIATES
+WWW.E-MARKETINGASSOCIATES.COM
+ECARD STATIONARY TEMPLATE
+CREATED BY: DUSTIN W.SCHMIDT
+--></div>
+</div>
+</body>
+</html>

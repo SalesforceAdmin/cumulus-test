@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>OWNER</field>
+    </columns>
+    <columns>
+        <field>FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>Lead.How_Heard__c</field>
+    </columns>
+    <columns>
+        <field>Lead.How_Heard_AD__c</field>
+    </columns>
+    <columns>
+        <field>STATUS</field>
+    </columns>
+    <columns>
+        <field>Lead.Sub_Status__c</field>
+    </columns>
+    <columns>
+        <field>Lead.Associate_Status__c</field>
+    </columns>
+    <filter>
+        <criteriaItems>
+            <column>Lead.How_Heard__c</column>
+            <operator>equals</operator>
+            <value>Webinar or Event</value>
+        </criteriaItems>
+    </filter>
+    <format>Tabular</format>
+    <name>ExecuNet Webinar Sales Results</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>LeadList</reportType>
+    <scope>org</scope>
+    <showDetails>true</showDetails>
+    <sortColumn>Lead.How_Heard_AD__c</sortColumn>
+    <sortOrder>Asc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <endDate>2013-12-12</endDate>
+        <interval>INTERVAL_CUSTOM</interval>
+        <startDate>2013-10-01</startDate>
+    </timeFrameFilter>
+</Report>

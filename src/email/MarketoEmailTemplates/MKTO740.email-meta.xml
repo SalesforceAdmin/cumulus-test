@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Answers (1326982623.0)</name>
+    <style>none</style>
+    <subject>RE: Answers (1326982623.0)</subject>
+    <textOnly>Answers      90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Jake,
+ 
+Thanks so much – I don’t see anything in here about diving. Didn’t you say that that was a possibility? Just want to make sure I have everything covered before sending it to our insurance company.
+ 
+Thanks!
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: Jake Levenson [mailto:jlevenson@mac.com] 
+Sent: Thursday, January 19, 2012 6:49 AM
+To: Sara Conde
+Subject: Answers
+ 
+Hi Sara,
+
+Detailed description of work:  most of what I do is behind a computer screen analyzing data. but occasionally, usually between July and August my work probably involves going out on research vessels to photograph whales or record their sounds.    My work also includes an education program in Dominica where we teach kids about whales and marine life in school, then take them out for a ‘research cruise’ to be scientists for a day.  Rest of the time I’m attending government or ngo meetings about marine conservation. 
+
+Equipment expense:  Below $2,500 per item and $10k annually is fine.  
+
+Hope this helps.
+
+Jake</textOnly>
+    <type>custom</type>
+</EmailTemplate>

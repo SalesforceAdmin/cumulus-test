@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Webinar Series Thank You</name>
+    <style>none</style>
+    <subject>MBO Partners Webinar Series Sign-up</subject>
+    <textOnly>Dear {{lead.First Name:default=valued participant}},
+
+Thank you for signing up to receive updates on future webinars. We will keep you informed of all upcoming events. You can check back at any time at http://info.mbopartners.com/2012-Webinar-Page-2.html.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

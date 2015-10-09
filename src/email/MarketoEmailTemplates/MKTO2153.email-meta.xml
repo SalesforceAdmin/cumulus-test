@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG General Release</name>
+    <style>none</style>
+    <subject>Discover the groundbreaking new tool for independent consultants</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+You spoke, we listened.
+
+Using input from the 16.9 million-strong independent community, we have created The Independent&apos;s Guide &lt;http://www.mbopartners.com/independents-guide&gt; to help you overcome any hurdles you may face while on your journey as an independent worker. The Guide provides free, relevant advice with tools, templates, videos, 100+ pages of downloadable guides and 30+ articles and blogs.
+We invite you to explore each phase of the independent work process - Plan &lt;http://www.mbopartners.com/independents-guide/plan&gt;, Launch &lt;http://www.mbopartners.com/independents-guide/launch&gt;, Succeed &lt;http://www.mbopartners.com/independents-guide/succeed&gt; and Grow &lt;http://www.mbopartners.com/independents-guide/grow&gt;. The content is continuously being updated and added to, so follow along as we continue to provide education to help you succeed.
+___________________________________
+MBO Partners Public Relations
+
+ t: 703-793-6000
+ e: publicrelations@mbopartners.com &lt;mailto:publicrelations@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

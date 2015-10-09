@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Oct29Webinar-SourcingTalent.We.Missed.You</name>
+    <style>none</style>
+    <subject>Sorry We Missed You - Resources from our Talent Sourcing webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+You were missed at MBO&apos;s webinar titled &quot;Sourcing Talent for 2013 and Beyond: Whose Job is it, Anyway?&quot; held on Tuesday, October 29. Jay Lash, VP of Market Strategies, joined  two talent acquisition specialists  to discuss their perspective on talent sourcing and expert recruiting techniques.
+
+If you have any questions about how MBO&apos;s solution fits into your enterprise, feel free to respond to this email or call me at 703-793-6014.
+Below you will find links related to the presentation:
+       Webinar Recording &lt;http://video.mbopartners.com/players/pu1PgfkY-mMm4x1IW.html&gt;
+      Webinar Slide Deck &lt;http://info.mbopartners.com/rs/mbo/images/Slides%20from%20Our%20Webinar%20on%20Sourcing%20Talent%20for%202013%20and%20Beyond.pdf&gt; &lt;http://sig.org/webinars.php&gt;
+       State of Independence Report &lt;http://www.mbopartners.com/state-of-independence/independent-workforce-index.html&gt;
+       Post-Webinar Survey &lt;http://www.surveymonkey.com/s/WJFYMPY&gt;  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Lead Outcomes Snapshot</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Lead Outcomes Snapshots</value>
+    </caseValues>
+    <fields>
+        <label><!-- Converted --></label>
+        <name>Converted__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Manager --></label>
+        <name>Enrollment_Manager__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead Status --></label>
+        <name>Lead_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Record Count --></label>
+        <name>Record_Count__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status = Deferred --></label>
+        <name>Status_Deferred__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status = Lost --></label>
+        <name>Status_Lost__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status = New --></label>
+        <name>Status_New__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status = Sold --></label>
+        <name>Status_Sold__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status = Working --></label>
+        <name>Status_Working__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

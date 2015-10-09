@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: USC question (1338833454.0)</name>
+    <style>none</style>
+    <subject>RE: USC question (1338833454.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Tom, It’s up to you. I am happy to do it for you. I will do it this time so you can see an example.
+Thanks!Sara From: Tom Glatt [mailto:tglatt@glattconsulting.com] 
+Sent: Monday, June 04, 2012 1:29 PM
+To: Sara Conde
+Subject: USC question Sara, Should I be entering the invoices for USC, or is that something you will do? Can&apos;t remember my level of responsibility. Thanks!Tom -- Thomas Glatt, Jr.Glatt ConsultingTel: (888) 217-5988 x801Twitter: @tglattLinkedIn: http://www.linkedin.com/in/tomglatt &lt;http://www.linkedin.com/in/tomglatt&gt;   Distinctive strategy consulting for credit union leaders.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

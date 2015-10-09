@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email blast to ZDNet import introducing the CSA</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ZD Bill Rate Blast</name>
+    <style>none</style>
+    <subject>How can MBO Partners Help Your Solo Business Thrive?</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+My name is {{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}} and I am a Consultant Services Advisor at MBO Partners &lt;http://www.mbopartners.com/#whoweare&gt;. If you found the bill rate resource guide &lt;http://www.mbopartners.com/files/pdfs/mbo-bill-rate-resource-guide.pdf&gt; that you downloaded helpful, you may wish to check out our video &lt;http://www.mbopartners.com/#howwehelp&gt; or sign up for our free, monthly Independent Consulting Brief &lt;http://www.mbopartners.com/independent-consulting-brief&gt;.
+
+Regards,
+ {{lead.EM FName:default=Steve}}
+___________________________________
+{{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}}
+Consultant Services Advisor
+MBO Partners
+
+t: 703-793-6000
+f: 703-793-6070
+e: {{lead.EM Email:default=sarhancet@mbopartners.com}} 
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

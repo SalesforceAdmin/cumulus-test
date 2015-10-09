@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>20March14- Thought Leadership.Thank You</name>
+    <style>none</style>
+    <subject>Thank you for attending - Resources from our Thought Leadership webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+Thank you for attending our  “Take Charge of Your Vertical: How to Be a Thought Leader&quot; webinar held on Thursday, March 20. Author and CEO of Thought Leadership Lab Denise Brosseau discussed case studies, tips and techniques independent consultants can use to gain visibility as industry experts.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+       Recorded webinar &lt;http://video.mbopartners.com/players/qSLpJ4bz-mMm4x1IW.html&gt;
+      Webinar slide deck and worksheets &lt;http://thoughtleadershiplab.com/Resources/MBOWebinarResources&gt;
+Thought Leadership guide &lt;http://info.mbopartners.com/rs/mbo/images/Thought-Leadership-Guide.pdf&gt; (downloadable PDF)</textOnly>
+    <type>custom</type>
+</EmailTemplate>

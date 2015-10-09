@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>IC Engage_March12_2014.Invite 2.3</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Client}}: your contractor engagement webinar reminder</subject>
+    <textOnly>There&apos;s still time to join us on Wednesday, March 12 at 1 p.m. ET, when we will hold a free webinar titled &quot;5 Steps to Risk-Free Independent Contractor Engagement &lt;http://www.mbopartners.com/webinars/2014/5-steps-risk-free-independent-contractor-engagement&gt;.&quot;
+During this hour-long webinar, we will offer 5 actionable steps you can take to cut risk out of your contractor engagement, as well as streamline the processes you currently have in place.
+Register today &lt;http://www.mbopartners.com/webinars/2014/5-steps-risk-free-independent-contractor-engagement&gt;!
+___________________________________
+Dave Putt
+VP, Consultant and Client Services
+MBO Partners
+t: 703-793-6020
+ e: dputt@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

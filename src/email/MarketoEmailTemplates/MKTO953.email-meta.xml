@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Consultation Call Appointment Confirmation (1328805676.0)</name>
+    <style>none</style>
+    <subject>RE: Consultation Call Appointment Confirmation (1328805676.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Mike,
+ 
+Looking forward to speaking with you on Monday. Have a wonderful weekend!
+ 
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: no-reply@timedriver.com [mailto:no-reply@timedriver.com] 
+Sent: Thursday, February 09, 2012 10:08 AM
+To: Sara Conde
+Subject: Consultation Call Appointment Confirmation
+ 
+  
+ Appointment Confirmation 
+
+ 
+Invitee:
+
+Mike Clark (mclark475@gmail.com) 
+Activity:
+Consultation Call
+Date:
+Monday, February 13, 2012
+Time:
+9:30am EST (45 minutes)
+Instructions: 
+Call Mike at 571.246.5914
+
+Question:
+Are there any special issues you would like to discuss on our call? 
+Response: 
+Initial work with MBO Partners--referred by Mike Guba, and I made several referrals two weeks ago (Productive?)
+  
+  Powered by TimeTrade
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

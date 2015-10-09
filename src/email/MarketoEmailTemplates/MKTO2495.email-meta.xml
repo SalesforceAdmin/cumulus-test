@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Request for Information on your firm (1363817765.0)</name>
+    <style>none</style>
+    <subject>RE: Request for Information on your firm (1363817765.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Ana, It’s wonderful to hear from you. I’ll be your main point of contact to provide you an overview of our services and answer any specific questions you may have.  You may easily book a time that is convenient for you on my online schedule by going here &lt;https://my.timedriver.com/8SLYS&gt;.  You can also watch a short video about who we are on You Tube &lt;http://youtu.be/zKDzwSTmGv4&gt;. I look forward to speaking with you and sharing more information about MBO Partners! Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  From: Ana Dominguez [mailto:dominguez_ag@yahoo.com] 
+Sent: Wednesday, March 20, 2013 10:57 AM
+To: Sara Conde
+Subject: Request for Information on your firm Good morning Sara, I got your contact information from Harry Parsons. I met him at Novartis where he is contracting.I would like to speak with you regarding the possibility of joining MBO Partners.  Currently I am in a temporary position until May2nd. I will have the opportunity of joining QSC as a contractor.  This would be my first experience with this type of work and I think going with your company to  handling my account looks very appealing. I do have lots of questions and need explanations of how your firm works. Can we set up a time to talk this week, this way I can get away to a private spot.I am available tomorrow from 8 to 2:30 and Friday 8-4 or after 5pm both days. I look forward to speaking with you. Ana DominguezQuality and Compliance Proffesional, Pharma </textOnly>
+    <type>custom</type>
+</EmailTemplate>

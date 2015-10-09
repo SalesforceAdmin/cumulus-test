@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Engagement</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Engagements</value>
+    </caseValues>
+    <fields>
+        <help><!-- 1 = 1 or more WOs between specific Associate and Client are &apos;active&apos;;
+0 = all else --></help>
+        <label><!-- Active --></label>
+        <name>Active__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate First Name --></label>
+        <name>AssociateFName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate ID --></label>
+        <name>AssociateID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Last Name --></label>
+        <name>AssociateLName__c</name>
+    </fields>
+    <fields>
+        <help><!-- The associate for this engagement --></help>
+        <label><!-- Associate --></label>
+        <lookupFilter>
+            <errorMessage><!-- Associate must be direct or client referred --></errorMessage>
+        </lookupFilter>
+        <name>Associate__c</name>
+        <relationshipLabel><!-- Clients --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- Please enter the city for this work order --></help>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Name --></label>
+        <name>ClientName__c</name>
+    </fields>
+    <fields>
+        <help><!-- The client for this engagement --></help>
+        <label><!-- Client --></label>
+        <name>Client__c</name>
+        <relationshipLabel><!-- Associates --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Company ID --></label>
+        <name>CompanyID__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the Country of the work Order --></help>
+        <label><!-- Country --></label>
+        <name>Country__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the Work Order End Date --></help>
+        <label><!-- End Date --></label>
+        <name>EndDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Record ID --></label>
+        <name>MBORecordID__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the Work order start date --></help>
+        <label><!-- Start Date --></label>
+        <name>StartDate__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the State for the Work Order --></help>
+        <label><!-- State --></label>
+        <name>State__c</name>
+    </fields>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_active</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_associate</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This field is managed in the MBO System --></errorMessage>
+        <name>syncUpdate_client</name>
+    </validationRules>
+</CustomObjectTranslation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Lead Nurturing.SOI Form Fill Email</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, your 2013 SOI Report is ready</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+Thank you for expressing interest in MBO Partners&apos; research on the independent workforce. Today, we released the 2013 data, and we&apos;d like you to get a first look at our State of Independence report.
+1. Access the full report &lt;http://info.mbopartners.com/rs/mbo/images/2013-MBO_Partners_State_of_Independence_Report.pdf&gt; in PDF form.
+2. View our infographics &lt;http://www.mbopartners.com/state-of-independence/americas-self-employed.html&gt; to see graphical depictions of the data.
+4. Read our press release &lt;http://www.marketwire.com/press-release/mbo-partners-state-independence-report-reveals-independents-are-self-employed-successful-1828304.htm&gt; for a summary of the research.
+If you have any questions about the report or independent work in America, feel free to email me.
+___________________________________
+Aassia Haq
+Chief Marketing Officer
+MBO Partners
+t: 703-793-6004
+ e: ahaq@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

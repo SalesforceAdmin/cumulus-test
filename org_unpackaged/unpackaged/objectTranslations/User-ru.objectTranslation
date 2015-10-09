@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- ADGUID --></label>
+        <name>ADGUID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Landing Page --></label>
+        <name>Landing_Page__c</name>
+    </fields>
+    <fields>
+        <label><!-- LinkedIn URL --></label>
+        <name>LinkedIn_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Record ID --></label>
+        <name>MBORecordID__c</name>
+    </fields>
+    <fields>
+        <label><!-- User Profile Text --></label>
+        <name>User_Profile_Text__c</name>
+    </fields>
+    <fields>
+        <label><!-- TimeTrade Link --></label>
+        <name>fs_tTLink__c</name>
+    </fields>
+    <layouts>
+        <layout>User Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>User Profile Layout</layout>
+        <layoutType>UserAlt</layoutType>
+        <sections>
+            <label><!-- About --></label>
+            <section>About</section>
+        </sections>
+        <sections>
+            <label><!-- Contact --></label>
+            <section>Contact</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Links --></label>
+            <section>Links</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

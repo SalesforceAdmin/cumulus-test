@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Associate</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Info Narrow --></label>
+            <section>Associate Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Information --></label>
+            <section>Associate Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Narrow 1 --></label>
+            <section>Marketing Narrow 1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Qualifiers --></label>
+            <section>Sales Qualifiers</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Client Referred Associate</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Direct Associate</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Enterprise</layout>
+        <sections>
+            <label><!-- Account Info Narrow --></label>
+            <section>Account Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profile --></label>
+            <section>LinkedIn Company Profile</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Associate</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Info Narrow --></label>
+            <section>Associate Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Associate Information --></label>
+            <section>Associate Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Information --></label>
+            <section>Contact Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Narrow 1 --></label>
+            <section>Marketing Narrow 1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Qualifiers --></label>
+            <section>Sales Qualifiers</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Enterprise</layout>
+        <sections>
+            <label><!-- Account Info Narrow --></label>
+            <section>Account Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profile --></label>
+            <section>LinkedIn Company Profile</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Rolodex</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profile --></label>
+            <section>LinkedIn Company Profile</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Rolodex</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profile --></label>
+            <section>LinkedIn Company Profile</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Change Status --></label>
+        <name>Change_Status</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Contact --></label>
+        <name>New_Contact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Opportunity --></label>
+        <name>New_Opportunity</name>
+    </quickActions>
+    <workflowTasks>
+        <description><!-- Please follow up with the alumni regarding their layoff. --></description>
+        <name>Follow_Up_Layoff</name>
+        <subject><!-- Follow Up - Layoff --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <description><!-- Please follow up with the alumni regarding their voluntary resignation. --></description>
+        <name>Follow_Up_Voluntary</name>
+        <subject><!-- Follow Up - Voluntary --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>New_Work_Order</name>
+        <subject><!-- New Work Order --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Please_Check_On_The_Consultant_To_See_If_They_Are_Still_A_Working_Prospect</name>
+        <subject><!-- Please Check On The Consultant To See If They Are Still A &apos;Working&apos; Prospect --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Please_check_on_the_consultant_to_see_if_they_are_still_sold</name>
+        <subject><!-- Please check on the consultant to see if they are still sold. --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

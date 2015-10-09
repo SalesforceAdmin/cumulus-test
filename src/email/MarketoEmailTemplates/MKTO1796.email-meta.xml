@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The communication explaining the Associate Landing pages will be discontinued and that the replacement is Access - this message goes to those are already in Access.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Associate Landing Page Shut Down 1</name>
+    <style>none</style>
+    <subject>MBO Connection Center and Published Websites to be Discontinued</subject>
+    <textOnly>Dear {{lead.First Name:default=Valued MBO Associate}}, 
+
+
+ As you already know,  MBO Partners launched a new, free online networking platform called MBO Access. &lt;http://www.businesswire.com/news/home/20120619006336/en/MBO-Partners-Launches-Private-Social-Business-Platform?mkt_tok=3RkMMJWWfF9wsRow5%2FmYJoDpwmWGd5mht7VzDtPj1OY6hBkoJ7yJK1TtuMFUGpsqOOScDg%3D%3D&gt; MBO Access was built to enable you, to better and more easily network with other Associates, Alumni, and with major MBO Clients. You will also find rich resources, special promotions and information leading to potential new projects and various opportunities – targeted to your specific industries and geographical locations.
+ 
+ As a result of the MBO Access launch, we have decided to discontinue the “Connection Center” in your Business Center, as well as the published web site you may have opted to create.  If you have one and wish to keep your individual site alive, please notify us by responding to this email by 7/27/2012.  Otherwise, your web site will be deleted.
+ 
+ What is the best way to get started with MBO Access?  
+ In an effort to get you quickly acclimated with MBO Access, we have created a 3 minute video tutorial, http://www.mbopartners.com/spages/acctutorial/acctutorial.html, to help you get started.   Of course, please feel free to contact me directly for a personalized walk through of the new system if that is your preference.   Your username for MBO Access will be the same as your MBO Business Center, and the very first time you login, you will need to click “Forgot your password,” to generate a password for you.
+
+Visit http://www.mbopartners.com/access to login to MBO Access today!
+ 
+ I encourage you to log in asap, build up your profile and connect with me! I look forward to discussing the site with you, and welcome any feedback. 
+
+Best Regards,
+ 
+ ___________________________________ 
+Marcelle Saab 
+Program Manager 
+MBO Partners   
+
+e: msaab@mbopartners.com 
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

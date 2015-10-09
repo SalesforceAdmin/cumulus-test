@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " ><span class="mktEditable" id="edit_text" ><p>&nbsp;<img title="2012 Webinar Series" src="http://info.mbopartners.com/rs/mbo/images/2012webinar-head.gif" alt="2012 Webinar Series" width="350" height="158" align="bottom" /></p>
+<p>&nbsp;</p>
+<p>Hello {{lead.First Name:default=Sir/Madam}},</p>
+<p>It has come to our attention that you may have accidentally received a message stating you did not attend Friday's webinar. There was an error in distribution. We apologize for any inconvenience. You should also have received a second message including the slides and links mentioned in the Webinar.</p>
+<p>Thank you again for attending, and for your interest in MBO Partners!</p>
+<p>The MBO Marketing Team</p></span>
+</div>
+</body>
+</html>

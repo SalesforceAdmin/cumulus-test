@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" >
+<p><span style="font-family: georgia,palatino;">Dear {{lead.First Name:default=Consultant}},</span><br /><br /><span style="font-family: georgia,palatino;">My name is {{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}} and I am a Consultant Services Advisor at <span style="color: #0000ff;"><a style="color: #0000ee;" title="MBO Partners: Who We Are" 
+href="http://www.mbopartners.com/#whoweare">MBO Partners</a></span>.
+ If you found the <a title="MBO Partners: Bill Rate Resource Guide" href="http://www.mbopartners.com/files/pdfs/mbo-bill-rate-resource-guide.pdf">bill rate resource guide</a> that you downloaded helpful, you may wish to check out our <a title="MBO Partners: How We Help" 
+href="http://www.mbopartners.com/#howwehelp">video</a> or sign up for our free, monthly <a title="MBO Partners: ICB" href="http://www.mbopartners.com/independent-consulting-brief">Independent Consulting Brief</a>.<br /></span><span style="font-family: georgia,palatino;"><br />Regards,<br /> 
+{{lead.EM FName:default=Steve}}</span></p>
+<div><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span></div>
+<div><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">{{lead.EM FName:default=Steve}}&nbsp;{{lead.EM LName:default=Arhancet}}<br /></span></strong></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">Consultant Services Advisor</span></strong></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners<br />&nbsp;</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;703-793-6000<br /></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">f:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;703-793-6070</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong><span><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;{{lead.EM Email:default=sarhancet@mbopartners.com}}</span><strong>&nbsp;</strong></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;<span><a href="http://www.mbopartners.com/"><span>www.mbopartners.com</span></a></span></span></div>
+</span>
+</div>
+</body>
+</html>

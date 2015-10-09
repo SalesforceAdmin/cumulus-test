@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>2013 Webinar Series.Invite 1</name>
+    <style>none</style>
+    <subject>Webinar on IC Compliance from MBO Partners</subject>
+    <textOnly>Dear {{lead.First Name:default=Client Contact}},
+
+Join us Tuesday, February 19th, at 1:00 pm ET for the first webinar in our Independent Contractor Compliance and Engagement 2013 series: Client Readiness: Are you Ready to Benefit from the Independent Consulting Movement? &lt;http://info.mbopartners.com/Feb19Webinar-ClientReadiness_RegistrationPage.html&gt;
+
+During this hour-long webinar, Dennis Kanegaye, President of MBO Partners - Enterprise Solutions, will introduce and explain his “Client Readiness” framework, and how it enables organizations to optimize their procurement programs for independent talent. Attendees will also learn the practical do’s and don&apos;ts surrounding a strong program implementation from co-participant Jason Dombrowski, a procurement executive with Limited Brands.
+
+Stay up-to-date on contractor compliance program best practices and register today &lt;http://info.mbopartners.com/Feb19Webinar-ClientReadiness_RegistrationPage.html&gt;.
+___________________________________
+MBO Enterprise Solutions
+t: 1-800-220-0469
+e: sales@mboenterprise.com &lt;mailto:sales@mboenterprise.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

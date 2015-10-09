@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Created by Whitney Downer, 2/24/12.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>30Mar12Web: Boomer Summit.Invite1</name>
+    <style>none</style>
+    <subject>Cash in on the ROI in You!</subject>
+    <textOnly>Hello {{lead.First Name:default=Aspiring Consultant}},
+
+Over the decades, America&apos;s baby boomer professionals have gathered wisdom, created strong relationships and become experts in their field. So how can baby boomers leverage all of these assets into an independent career?
+
+Learn how to join the 5 million boomers that have chosen independent careers in our next webinar, {{my.title:default=The ROI In You: How}}. 
+
+During the 1 hour session, Gene Zaino, President and CEO and fellow boomer will discuss how to join these 5 million in creating your independent career. He will be joined by Steve King, Partner at Emergent Research, to shine light on the data on Boomer Independents and trends in this sector.
+
+Join us on {{my.date2:default=edit me}}, from 12:30-1:30 pm, EDT.
+
+Register today! -http://info.mbopartners.com/ROI-In-You.html
+
+We look forward to discussing this topic further with you.
+
+Regards,
+
+
+
+{{my.advisor:default=Steve}}</textOnly>
+    <type>custom</type>
+</EmailTemplate>

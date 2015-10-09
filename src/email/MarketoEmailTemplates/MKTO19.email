@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p>Dear {{First Name:default=Hiring Manager}},</p>
+<p>We personally wanted to share the news with you that MBO Partners is launching a refreshed brand to the marketplace. We&rsquo;re announcing this to our Associates and client partners prior to public launch. You can see our new site at <u><a href="http://www.mbopartners.com/">www.mbopartners.com</a></u>.</p>
+<p>As part of our enhanced branding initiative, we will also launch a new and easier-to-use interface for our core MBO online system. This is the system hiring managers use to access to approve time and expenses and generate reports regarding independent contractors and payrolled workers.&nbsp;</p>
+<p>Please be aware of an important, immediate change:</p>
+<p><strong><u>YOUR BUSINESS CENTER LOGIN ADDRESS HAS CHANGED</u>: The address for the Business Center&rsquo;s login page is now <u><a href="http://app1.mbopartners.com/login">https://app1.mbopartners.com/login</a></u>. If you have bookmarked the login page in your browser, please update it to this address.</strong></p>
+<p>We believe that the new colors, layout, intuitive menu options, and account settings should only improve the user experience. Of course, we have maintained the system&rsquo;s core functions, security, and the unwavering dependability for which our company has become known.</p>
+<p>We released our new brand and Web site earlier this week; however, the new system interface will launch on June 27. As you become familiar with these new system enhancements, please keep us informed of any issues, or comments, or suggestions for improvements.</p>
+<p>Please be assured your MBO Business Managers and Account Managers are available as always to support you.</p>
+<p>We thank you for your business and look forward to serving you and your independent contractors well into the future.&nbsp;</p>
+<p>Sincerely,</p>
+<div>The Account Services Team</div>
+<div>MBO Enterprise Solutions</div>
+<div><img src="http://info.mbopartners.com/rs/mbo/images/New%20MBO%20Logo.jpg" alt="" /></div></span>
+</div>
+</body>
+</html>

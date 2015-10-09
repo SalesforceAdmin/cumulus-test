@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Disqualified.Disqualified</name>
+    <style>none</style>
+    <subject>MBO Partners / {{lead.Full Name:default=edit me}}</subject>
+    <textOnly>Dear {{lead.First Name:default=Sir/Madam}},
+
+It&apos;s been some time since we last spoke, I wanted to reach out and let you know we have expanded our list of services which may now make it feasible for you to work with us.
+
+We recently launched a new Web site &lt;http://www.mbopartners.com/&gt; with a set of powerful tools; one of those will help you determine if we are  the right fit &lt;http://www.mbopartners.com/#rightforyou&gt;.
+
+I wanted to share these tools with you personally, and encourage you to take a quick look.
+
+Perhaps you are happily independent now, and have found a solution to manage your business life -- or you may have returned to working full time, or perhaps be in the midst of a search.
+
+Whatever your work life stage, I hope you can join me in celebrating the news that independence in America has arrived. Our company just released news of a major national study – the first-ever national baseline to size and track the independent work sector &lt;http://info.mbopartners.com/stateofindependence&gt;. It’s part of a year-long effort called The State of Independence in America. I encourage you to view the study’s very interesting findings on the size and trends for independent work in our nation.
+
+I do hope you will take time to learn if MBO Partners is right for you or not &lt;http://www.mbopartners.com/#rightforyou&gt;. Please stay in touch and let me know how I can help further your career.
+
+{{lead.EM FName:default=Steve}}
+___________________________________
+{{lead.EM FName:default=Steve}} {{lead.EM LName:default=Arhancet}}
+Consultant Services Advisor
+
+MBO Partners
+
+t: {{lead.EM Phone:default=703-793-6011}}
+f: 703-793-6081
+e: {{lead.EM Email:default=sarhancet@mbopartners.com}}
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

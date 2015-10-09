@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: net cash (1334268274.0)</name>
+    <style>none</style>
+    <subject>RE: net cash (1334268274.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Eugene, Please find updated estimate attached that shoe 1 dependent.  You would enter your expenses into our online system as you incurred t hem and then we would apply them to the next available payment for a tax deduction.  Please let me know if you have any additional questions. Thanks!Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. From: &lt;mailto:sconde@mbopartners.com&gt; Eugene Tipen [mailto:etipenko@gmail.com] 
+Sent: Wednesday, April 11, 2012 2:02 PM
+To: Sara Conde
+Subject: Re: net cash Hi Sara,
+
+Hope you doing well,
+
+could you please let me know how this &quot;Net Cash&quot; spreadsheet may change if we add one dependent: my daughter, living with me.
+and one more question: how often can I submit my expenses (weekly/monthly? ). 
+
+Thank you for your help and consideration
+
+Sincerely
+Eugene TipenkoOn Thu, Apr 5, 2012 at 5:21 PM, Sara Conde &lt;sconde@mbopartners.com&gt; wrote:  ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

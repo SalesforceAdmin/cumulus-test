@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Enrollment Information (1327937471.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Enrollment Information (1327937471.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Brian,
+ 
+Thank you for completing the online enrollment process. I have received your I-9 – thank you! Unfortunately, the image of your passport came through distorted via fax. Can you send me a picture of it via email? (most people just take a picture of it with their smart phone.) 
+ 
+Yes, I spoke to Matt Small, who is Mike’s contact at MBO and he said he would keep me in the loop on the contract as well. As soon as I have an update on the contract, billing frequency, and net terms I will let you know. I believe MBO is still waiting on receiving the contract from Weather.com. 
+ 
+The fee is not listed by % in our contract. You are correct, the fee is 5% off the top for the first 125k in received billings. After that, it drops to 1.5% and will reset to 5% each anniversary year.
+ 
+Please let me know if you have any further questions.
+
+Thank you,
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: Brian Williamson [mailto:bhwilliamson1@gmail.com] 
+Sent: Sunday, January 29, 2012 10:32 PM
+To: Sara Conde
+Subject: Re: MBO Partners Enrollment Information
+ 
+Hi Sara,
+I completed the enrollment process and will fax in the i-9 tomorrow.  I also talked to Mike Buchkovsky on Friday and he said he&apos;d call you to discuss how the contract/billing would work for this engagement that I&apos;m doing with him for weather.com.  Let me know if you need anything else from me regarding that.
+Also, I noticed that the contract I signed makes mention to MBO fees but I didn&apos;t actually see the fee amount you detailed on Friday, 5% for the first 125K then 1.25% for everything additional (I believe that was right).  Will I have another contract to sign to agree to those amounts?
+ 
+Thanks,
+Brian 
+On Fri, Jan 27, 2012 at 3:29 PM, &lt;sconde@mbopartners.com&gt; wrote:
+
+Dear Brian,
+
+Welcome to MBO Partners! Enclosed are the instructions you will need to become an MBO Associate. You can begin and resume this process at any time. 
+Please begin enrollment by clicking here. Continue the online enrollment by following the instructions. At the end of the enrollment process you will be asked to print out the enrollment packet. Please review this packet and follow the proper instructions. Please do not hesitate to call me should you have any questions or concerns. 
+We look forward to working with you. 
+
+Regards, 
+Sara Conde
+Enrollment Manager 
+Direct: 703-793-6028 
+Toll Free: 800-556-0270
+MBO Partners
+13454 Sunrise Valley Dr., Ste 300
+Herndon, VA 20171
+http://www.mbopartners.com 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

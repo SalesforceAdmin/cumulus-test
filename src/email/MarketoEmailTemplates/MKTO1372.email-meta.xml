@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The third invitation to those on the invitation list that did not register up until 3 days prior to the event. Garrett Zaino, 3/21/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>NY - Networking - May 17 2012.Invite3</name>
+    <style>none</style>
+    <subject>This Week - MBO Partners&apos; Spring 2012 Networking Reception</subject>
+    <textOnly>Spring 2012 Networking Reception:
+Zengo
+May 17, 2012
+Only a few days left to register for our Spring Networking Event in New York City! Please join the MBO team, Associates, as well as representatives from many of our prestigious clients, for a night of networking and fun at local hot spot Zengo in Manhattan, 5:30-8:30pm, at 622 Third Avenue at 40th Street.
+
+MBO invites you to this Networking Reception to learn about some of our exciting new initiatives, meet and mingle with Associates, Clients, and MBO team managers, all while enjoying tasty cocktails, and luscious hors d&apos;oeuvres on us! Consider this a token of our appreciation for being part of our MBO family.
+
+This is a party you do not want to miss, so hurry and register today, as space is limited - we all know how popular this reception is!
+
+Register now! &lt;http://info.mbopartners.com/NYNetworkingMay172012_Spring-2012-Registration.html&gt;
+
+We look forward to seeing you!
+
+Sincerely,
+
+MBO Partners
+
+Suggested dress code is business to business casual.
+Don&apos;t forget to bring your business cards!
+Questions? Please contact Marcelle Saab, Associate Relations Manager, 703-793-6006
+MBO Partners 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171
+
+Contact Us &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

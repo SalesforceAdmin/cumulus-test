@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>State of Independence.Meet The Independents - Active</name>
+    <style>none</style>
+    <subject>The First &quot;Meet the Independents&quot; Profiles Are Now Live!</subject>
+    <textOnly>We have launched a new phase of our State of Independence Initiative with an exciting, human view of independence in America titled: Meet the Independents! (http://info.mbopartners.com/meet-the-independents.html)
+ 
+For the past two months, we have been busy identifying, interviewing, and photographing independent workers across the country to move toward our vision of showcasing an independent professional in every state.
+ 
+You may enjoy viewing the stories of independent workers across our nation; including Jesse Jacoby (http://info.mbopartners.com/meet-the-independents-co.html), Bryan Forman (http://info.mbopartners.com/meet-the-independents-ca.html), Gloria Parker (http://info.mbopartners.com/meet-the-independents-md.html), Ward Mannering (http://info.mbopartners.com/meet-the-independents-va.html), and Susan Bernstein (http://info.mbopartners.com/meet-the-independents-ga.html).
+ 
+Do you know someone who should be showcased? Please share their name with us, so that we may invite them to participate.
+ 
+In Sept 2011, our inaugural independent workforce study (http://info.mbopartners.com/age-of-independence.html) showed 16 million have already joined the ranks of independent work, growing to 20 million by 2023.
+ 
+And this December, our CEO Gene Zaino will predict that by the close of the decade, we will witness an independent majority. To follow updates from Gene’s speech and insights while he and our team present at GigaOM’s “Net:WORK” conference, follow @mbopartners or @genezaino on Twitter, or view the live video stream online at http://event.gigaom.com/network/video/.
+ 
+Please help us meet a new independent – and we welcome your thoughts on the evolution of our journey.
+ 
+Thank you!
+ The State of Independence Team</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners / Kevin Rose (1323278761.0)</name>
+    <style>none</style>
+    <subject>MBO Partners / Kevin Rose (1323278761.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Kevin,
+ 
+I wanted to follow up with you from our conversation regarding MBO Partners.  I know you had expressed interest in using our services.  We also just came out with a new site that features some of our current associates; http://info.mbopartners.com/meet-the-independents.html.
+ 
+Any update would be great and I look forward to hearing from you.
+ 
+Regards,
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

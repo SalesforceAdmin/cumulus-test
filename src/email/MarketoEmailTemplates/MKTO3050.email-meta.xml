@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CSA Switch - Emily</name>
+    <style>none</style>
+    <subject>CSA Switch</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+I hope all is well! We had a conversation some time ago regarding our services and I wanted to reach out to let you know that I am moving to a new role within the organization. You will have a new point of contact here to answer any questions about our program, as well as to assist you in setting up your account with MBO Partners when you are ready to move forward. 
+
+Emily Stringer is looking forward to assisting you and she may be reached at estringer@mbopartners.com, or on the phone at 703-793-6202. She has a great deal of experience working with prospective MBO Associates and is highly capable of handling your enrollment if/when the time is right.
+
+I’ve briefed her on our discussions, so feel free to reach out to her as needed. It was a pleasure speaking with you and we look forward to hearing from you again soon!
+
+Best regards,
+___________________________________
+Nicolette Taylor
+Account Executive
+ MBO Partners
+
+ e: ntaylor@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

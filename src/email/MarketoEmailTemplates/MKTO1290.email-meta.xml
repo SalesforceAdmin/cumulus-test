@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners - Time Card Reminder (1335794629.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners - Time Card Reminder (1335794629.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi William, I am sorry, I should have called you to schedule a time to speak, and this is my fault. I usually like to schedule these “welcome calls” so that I don’t catch someone in the middle of a meeting or interrupt them at work and email is usually an efficient way to do that but I understand where you are coming from. I know everyone works differently so I will make sure we communicate primarily by phone. Thanks,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. From: &lt;mailto:sconde@mbopartners.com&gt; William Hoffman [mailto:whoff7@gmail.com] 
+Sent: Sunday, April 29, 2012 7:29 PM
+To: Sara Conde
+Subject: Re: MBO Partners - Time Card Reminder 
+I requested a meeting to discuss time and other issues.  It is scheduled for tomorrow afternoon.  will I only receive emails from MBO and never a phonecall?    Its a bit impersonal to do everything by text including scheduling of a meeting in my opinion.  I feel that I am missing things as a result ie entering time.  On Apr 29, 2012 6:57 PM, &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt; wrote:According to our records, there is no time entered in the period indicated for the following work order(s):
+
+Start       Stop        Work Order
+04/16/2012  04/22/2012  OSS-12-MBO-001T William Hoffman
+
+
+
+Click this link to go to login page: https://app1.mbopartners.com/servlet/entry?display=TimeSheetEntry &lt;https://app1.mbopartners.com/servlet/entry?display=TimeSheetEntry&gt;
+
+This is a system generated email that you have requested by selecting it on the System Notification page.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CW Risk Forum 2012.Invitation - 1</name>
+    <style>none</style>
+    <subject>CW Risk Forum and Summit - San Diego</subject>
+    <textOnly>Hello,
+
+Are you planning to attend the Staffing Industry Analysts (SIA) Contingent Workforce Risk Forum or CW Summit coming up in September?
+
+These conferences offer HR, Procurement, and Legal executives a unique opportunity to explore today&apos;s best practices for engaging independent contractors (ICs) safely and economically. Whatever your need - mitigating risk, improving processes, increasing visibility, or simply learning about IC issues you may not have considered - some of the industry&apos;s leading experts will be on hand to help.
+
+The details:
+
+Contingent Workforce Risk Forum
+September 18-19, 2012 | Hilton Bayfront, San Diego, CA
+www.cwriskforum.com 
+
+Contingent Workforce Strategies Summit
+September 20-21, 2012 | Hilton Bayfront, San Diego, CA
+www.cwssummit.com 
+
+MBO Enterprise Solutions is sponsoring these conferences and will host special thought leadership sessions on the latest trends in IC engagement and risk mitigation. We&apos;re also setting up private consultations with contract labor attorney Eric Rumbaugh, Partner with Michael, Best &amp; Friedrich, LLP. If you&apos;re interested in a meeting, please let me know and I will send you more details.
+
+If you are not attending but would like an executive briefing on the latest trends in IC risk and engagement best practices, simply reply to this message and we&apos;ll coordinate a time that will work for your schedule.
+
+Between the great location and the agenda, the CW Risk Forum and the CW Summit promise to be the best conferences of the season. If you aren&apos;t involved with IC engagements at your company, please consider forwarding this message to the appropriate person.
+
+Thanks for your time.
+
+Best regards,
+Steve
+___________________________________
+Steve Taggart
+Account Executive, Enterprise Solutions
+MBO Partners
+ 
+t: 703.793.6014
+f: 703.793.6452
+e: staggart@mboenterprise.com
+ 
+About MBO Enterprise Solutions
+MBO is an Independent Contractor Engagement Specialist that provides companies with a smarter way to minimize risk and maximize the return on their contract talent. 
+http://www.mboenterprise.com/</textOnly>
+    <type>custom</type>
+</EmailTemplate>

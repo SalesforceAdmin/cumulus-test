@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners - Information (1340651251.0)</name>
+    <style>none</style>
+    <subject>MBO Partners - Information (1340651251.0)</subject>
+    <textOnly>-     
+	- 
+	-   110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Cathy, It was a pleasure speaking with you today.  I’ve enclosed a few resources that you might find helpful in finding your next project.   ·         We have created an index of past webinars on topics specifically catered for independent consultants.  You can view our index by going here &lt;http://www.mbopartners.com/mbo-partners-webcast-index&gt;.   ·         In addition we have a 2012 Webinar track that will cover everything to do with working independently.  We have three tracks, you can sign up to receive notifications when new webinars are scheduled by going here &lt;http://info.mbopartners.com/resources.html&gt;. ·         Lastly, you can view all the information we spoke over the phone by going here &lt;http://info.mbopartners.com/advisor-info-s-arhancet.html&gt;.   ·         I’ve enclosed info on our GSA Schedule If you have questions before then, feel free to schedule a convenient time for you using my online schedule &lt;https://my.timedriver.com/C9CPC&gt;. Best of luck finding your next contract, Steve___________________________________Steve ArhancetDirector, Consultant ServicesMBO Partners t: 703.793.6011f: 703.793.6081m: 540.560.8837e: sarhancet@mbopartners.com &lt;mailto:sarhancet@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

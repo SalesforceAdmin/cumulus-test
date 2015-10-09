@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Invitation for June first web cast</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>HCI Webcast</name>
+    <style>none</style>
+    <subject>Is Your Workforce a Class Action Waiting to Happen?</subject>
+    <textOnly>HCI Webcast
+Independent Contractor Engagement
+
+Is Your Workforce a Class Action Waiting to Happen?
+12:00 PM EDT
+Wednesday, June 1, 2010
+
+To register: http://www.hci.org/cfe/track/independent-contractor-engagement?hciaffiliate=YTXNAS
+
+
+
+In the United States, nearly every business uses contract or contingent labor in some way or other. Non-employee labor is the fastest growing segment of the workforce today and Human Resources cannot expect other parts of the organization to take the same level of concern about policies, laws, security and talent quality. Organizations are using Managed Services Providers (MSPs), Vendor Management Systems (VMS), and Independent Contractor Engagement Compliance Services (ICES) to protect them from the various risk points, but if they do not take the proper precautions there is still significant exposure.
+
+Co-employment lawsuits, misclassification penalties, wage and hour class actions and other legal concerns need constant governance and regulations at the Department of Labor and the IRS are broad enough that there could still be a lack of clarity and serious risks going unnoticed. Come hear the perspectives of esteemed labor lawyers Eric Rumbaugh, Esq. of Michael Best &amp; Friedrich and Suellen Oswald of Littler Mendelson on this topic and learn where organizations could be vulnerable and how to prevent disaster. 
+
+
+ 
+Suellen Oswald
+Shareholder
+Littler Mendelson
+
+Ms. Oswald focuses her practice in labor law and employment litigation. She has represented employers in various industries, ranging from small businesses to Fortune 100 companies, on cases throughout the United States. Ms. Oswald&apos;s experience includes union organizing campaigns, collective bargaining negotiations, contract administration and labor arbitration cases and she has successfully defended numerous employment lawsuits in both federal and state courts. She also has extensive experience defending employers before various governmental agencies including the NLRB, OFCCP, EEOC, DOL, NLRB, OCRC and SERB. Ms. Oswald also devotes a significant amount of her time to client counseling, advising clients on issues ranging from sexual harassment prevention to workplace violence, proper handling of termination and discipline decisions, reorganizations and reductions in force, leaves of absence, employee handbooks and policies and litigation avoidance.
+
+
+
+Eric Rumbaugh
+Partner
+Michael Best &amp; Friedrich LLP
+
+Eric H. Rumbaugh is a partner in the Labor and Employment Law Practice Group at Michael Best &amp; Friedrich LLP, and Co-Chair of the firm&apos;s Trade Secret Protection and Non-Competition Team. Eric represents management in all areas of labor and employment law in state and federal courts and in labor arbitration. He also regularly represents management in administrative proceedings, including proceedings involving EEOC, OFCCP, NLRB, state fair employment and civil rights agencies, and other matters. Eric often counsels management regarding employment policies and pre-litigation planning. Eric has litigated over 80 state and federal matters involving contingent employees, and frequently writes and lectures on the subject. Additionally, Eric is experienced counseling clients on non-competition and trade secret matters, both in litigation and in litigation prevention.
+
+Eric received his J.D. from Washington University and currently resides in Wisconsin.
+
+
+To register: http://www.hci.org/cfe/track/independent-contractor-engagement?hciaffiliate=YTXNAS</textOnly>
+    <type>custom</type>
+</EmailTemplate>

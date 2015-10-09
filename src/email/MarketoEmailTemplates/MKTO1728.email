@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p><span style="font-size: 12px;"><span style="font-family: 'Arial','sans-serif';">Dear {{lead.First Name:default=</span><span style="font-family: 'Arial','sans-serif';">Consultant</span><span style="font-family: 'Arial','sans-serif';">}},</span></span></p>
+<p><span style="font-size: 12px; font-family: 'Arial','sans-serif';">Thank you for requesting our 20-page educational package on bill rate strategies.&nbsp;&nbsp; </span></p>
+<p><span style="font-size: 12px; font-family: 'Arial','sans-serif';">Here&rsquo;s a <a href="http://www.mbopartners.com/files/pdfs/mbo-bill-rate-resource-guide.pdf">link</a> to these articles, with topics including the cost-based method, the market-based method and the value-based method. We also encourage you to take a deeper dive into the cost-based method by using <a href="http://www.mbopartners.com/#billrate">our bill rate calculator</a>.</span></p>
+<p><span style="font-size: 12px; font-family: 'Arial','sans-serif';">Did you know that one of our Consultant Services Advisors can provide you a customized cash flow estimate showing you how taxes, expenses, and benefit deductions affect your net pay? You can call us Monday through Friday from 9:00 a.m. to 5:00 p.m. ET at 1-800-220-0469, or simply reply to this email and we will contact you.</span></p>
+<p><span style="font-size: 12px; font-family: 'Arial','sans-serif';">Best regards,</span></p>
+<p><span style="font-size: 12px;"><span style="font-family: 'Arial','sans-serif';">The Consultant Services Team<br /> Phone: 1-800-220-0469<br /> </span><a href="http://www.mbopartners.com/blog/get-know-few-mbo-consultant-services-advisors"><span style="font-family: 'Arial','sans-serif';">Read about the CSA team</span></a><span style="font-family: 'Arial','sans-serif';"> </span></span></p>
+<p><span style="font-size: 12px; font-family: 'Arial','sans-serif';">MBO Partners</span></p>
+<p><span style="font-size: 12px;"><a href="http://www.mbopartners.com/"><span style="font-family: 'Arial','sans-serif';"><img src="http://info.mbopartners.com/rs/mbo/images/mbo-logo2.gif" alt="mbo-logo2.gif" /><br />www.mbopartners.com</span></a></span></p></span>
+</div>
+</body>
+</html>

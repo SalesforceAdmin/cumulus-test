@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>David  Hofmann (1331568123.0)</name>
+    <style>none</style>
+    <subject>David  Hofmann (1331568123.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean      false false false  EN-US X-NONE X-NONE             MicrosoftInternetExplorer4                                                                                                                                                               Hi Eddie, My name is Sara Conde and I am working with David here at MBO. He let me know that he will be making $72 per hour corp to corp. I have a few questions to finish everything up: ·         What project will he be working on? Do you already have a contract for this project? If not, can you put me in contact with the client so we can execute an agreement?·         What hourly rate are you billing the client for the work?  (I will not disclose this to David; I just need the information to set up the order in our system.) Please feel free to call me directly if that is easier for you.  Thank you!Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e:  &lt;mailto:sconde@mbopartners.com&quot;&gt;sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com&lt;span style=&apos;mso-bookmark:_MailAutoSig&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

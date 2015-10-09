@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Lead Email 11</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, a guide to winning new business</subject>
+    <textOnly>{{lead.First Name:default=Consultant}}, 
+With all the work on your plate, do you sometimes feel like you don&apos;t have time to look for new business?
+To help give your sales pipeline a boost, MBO Partners has put together a new downloadable guide, &quot;Top 3 Secrets to Winning New Business &lt;http://www.mbopartners.com/independents-guide/launch/secrets-to-winning-new-business#&gt;.&quot; It&apos;s full of tips and techniques to help you bring in that next big contract. 
+If you have any further questions about running a successful solo business, please don&apos;t hesitate to ask.
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+
+ e: communications@mbopartners.com &lt;mailto:info@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

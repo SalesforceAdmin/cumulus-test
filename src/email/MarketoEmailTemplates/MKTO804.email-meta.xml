@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Webinar: Are You Ready to Go Solo? The Top 3 Questions to Ask Yourself. This email is specifically targeted for those individuals that attended last month&apos;s webinar and encourage them to join this month&apos;s webinar.  Created by Whitney Downer, 1/25/12.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Jan12Webinar-TopThreeQuestionsGoingSolo-PreviousWebAttendees</name>
+    <style>none</style>
+    <subject>MBO Partners Webinar: Are You Ready to Go Solo?</subject>
+    <textOnly>Dear {{lead.First Name:default=aspiring consultant}},
+
+
+First, thank you for joining us last month for our webinar, Is Independent Consulting Right For You? Now that you&apos;ve hopefully established that consulting is the right choice for you, we&apos;d like to invite you to join us as we explore three key questions to ask yourself. 
+
+
+This conversation will be rich with questions, as well as real-life examples of independent consultants that have chosen this path. Led by Aassia Haq, CMO, MBO Partners and Sara Conde, Consultant Services Advisor, MBO Partners, we plan to help you understand your level of readiness for a solo career. 
+
+
+Title: Are You Ready to Go Solo? The Top 3 Questions to Ask Yourself
+
+
+Date/Time: Friday, 1/27, at 12:30 PM EST
+
+
+So, the question remains, are YOU ready? Join us and find out. Register now for this webinar - https://www1.gotomeeting.com/register/319302273. 
+
+
+Read more about the webinar, our speakers and what you&apos;ll learn in our recent blog post, http://www.mbopartners.com/blog/top-three-questions-ask-if-you%E2%80%99re-thinking-about-going-solo.
+
+
+Steve
+
+
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

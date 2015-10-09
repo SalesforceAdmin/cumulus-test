@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aggregates>
+        <calculatedFormula>lmscons__Transcript_Line__c.lmscons__Percent_Complete__c:AVG</calculatedFormula>
+        <datatype>number</datatype>
+        <developerName>FORMULA1</developerName>
+        <isActive>true</isActive>
+        <isCrossBlock>false</isCrossBlock>
+        <masterLabel>Average Percent of Completion</masterLabel>
+        <scale>0</scale>
+    </aggregates>
+    <columns>
+        <field>lmscons__Transcript_Line__c$Name</field>
+    </columns>
+    <columns>
+        <field>lmscons__Transcript_Line__c$lmscons__Trainee__c</field>
+    </columns>
+    <columns>
+        <field>lmscons__Transcript_Line__c$lmscons__Percent_Complete__c</field>
+    </columns>
+    <columns>
+        <field>lmscons__Transcript_Line__c$lmscons__Status__c</field>
+    </columns>
+    <columns>
+        <field>lmscons__Transcript_Line__c$lmscons__Completion_Date__c</field>
+    </columns>
+    <columns>
+        <field>lmscons__Transcript_Line__c$lmscons__Last_Launched_Date__c</field>
+    </columns>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>lmscons__Transcript_Line__c$lmscons__Content_Title__c</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>MBO University Assignment Completion</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>Assignments__c</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>lmscons__Transcript_Line__c$lmscons__Completed_Date__c</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

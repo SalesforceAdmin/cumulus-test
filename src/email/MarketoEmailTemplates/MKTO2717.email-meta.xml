@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Conference Invite - eno</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Conference Attendee}}, how does your enterprise engage independent workers?</subject>
+    <textOnly>Did you know that the largest part of the “non-employee” workforce may not be the workers sourced by your staffing suppliers? At the upcoming SIA conferences in Chicago, you&apos;ll hear that the self-sourced/independent component of your workforce grew 30% last year.
+No one knows the independent contractor better than MBO.
+ 
+Get to know MBO
+
+
+Stop by at the ENO Wine Bar in the Fairmont hotel lobby Tuesday the 10th at 6pm to enjoy fine wine, cheeses and chocolate with our team. Kick back and relax before you head out for dinner, or schedule some time for a one-on-one consultation with a member of our executive team using the links below:
+
+
+ - Discover &lt;http://www.timetrade.com/book/982GK&gt; how 35% of the Fortune 500 improve the way they engage independent talent and Understand this workforce through our  new “2013 State of Independence” research report.
+ - Get a sneak peek &lt;http://www.timetrade.com/book/GSB2M&gt; into the future of work; sign up for a demo of the game-changing Project Platform technology catering to the independent consultant/micro service provider.
+ - Discuss &lt;http://www.timetrade.com/book/4CH5G&gt; your own unique workforce dynamics or the current legal and regulatory issues with Legal Counsel Eric Rumbaugh.
+___________________________________
+Jay Lash
+VP of Market Strategies
+ MBO Partners
+ 
+ t:  703-793-6005
+ e: jlash@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

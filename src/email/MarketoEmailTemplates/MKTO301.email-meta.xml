@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Thank You for Your Interest in MBO Partners (1320337432.0)</name>
+    <style>none</style>
+    <subject>RE: Thank You for Your Interest in MBO Partners (1320337432.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Dale,
+ 
+I look forward to speaking with you as well!  I have included a link below to my calendar for you to schedule a convenient time for us to speak that works for you.  I also received an email from Carolyn giving me a bit of information about what she would like to accomplish with you working through MBO and would like to speak with you both about this to get more information on what you are looking for.
+ 
+https://my.timedriver.com/9TGRK
+ 
+I look forward to speaking with you, have a great day!
+ 
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Dale Frey [mailto:on_the_go_@msn.com] 
+Sent: Wednesday, November 02, 2011 9:31 PM
+To: Nicolette Taylor
+Subject: RE: Thank You for Your Interest in MBO Partners
+ 
+Nicolette,
+ 
+I look forward to speaking with you, please contact me on my BB at 202-731-4501.
+ 
+Thank You, Dale
+ 
+Subject: Thank You for Your Interest in MBO Partners
+Date: Wed, 2 Nov 2011 10:45:39 -0500
+CC: 
+To: on_the_go_@msn.com
+From: ntaylor@mbopartners.com
+Dear Dale,
+Thank you for taking the time to contact MBO Partners. My name is Nicolette Taylor, an MBO Partners Enrollment Manager, and I will reach out to you within one business day.
+If you prefer, you can easily schedule a phone appointment with me by visiting https://my.timedriver.com/9TGRK.
+I look forward to speaking with you!
+Best regards,
+Nicolette
+___________________________________
+Nicolette Taylor 
+Enrollment Manager
+MBO Partners
+ 
+t: (703) 793-6281
+f: 703.793.6070
+e: ntaylor@mbopartners.com 
+w: www.mbopartners.com
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

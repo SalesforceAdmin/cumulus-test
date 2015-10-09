@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>5Apr13Web:Gen-X.Invite 1</name>
+    <style>none</style>
+    <subject>Webinar: Research on Generation X Independent Workers</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+ 
+ On April 4 at 1 p.m. ET, we will hold a webinar entitled &quot;Working to Live, Not Living to Work: Five Insights into the Gen X Workforce &lt;http://info.mbopartners.com/5Apr13WebGenX_RegistrationPage.html&gt;.&quot;
+
+
+MBO Partners is shaking up our webinar series with a special edition webinar featuring original research on the midcareer worker. Be the first to delve into the data on Gen X independents as Steve King and Carolyn Ockels, Partners at Emergent Research, discuss MBO&apos;s top five insights into independent professionals age 33 to 48. 
+
+Why is this generation leading the movement toward independent work? What personal lessons can you take away from the experience of this creative, committed and satisfied workforce cohort?
+
+
+ 
+
+Register today &lt;http://info.mbopartners.com/5Apr13WebGenX_RegistrationPage.html&gt; to get a fuller picture of how Gen X works independent.
+___________________________________
+MBO Partners
+t: 1-800-220-0469
+e: info@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

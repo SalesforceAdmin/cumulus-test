@@ -1,0 +1,2345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Account Owner Name --></label>
+        <name>AccountOwnerName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Record Type Name --></label>
+        <name>AccountRecordType__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account type --></label>
+        <name>Accounttype__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active Initial Project --></label>
+        <name>Active_Initial_Project__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active Initial Work Order --></label>
+        <name>Active_Initial_Work_Order__c</name>
+    </fields>
+    <fields>
+        <label><!-- Alumni Referrer --></label>
+        <name>Alumni_Referrer__c</name>
+    </fields>
+    <fields>
+        <help><!-- In Months --></help>
+        <label><!-- Estimated Length of 1st Assignment --></label>
+        <name>AssignmentLength__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Number --></label>
+        <name>Associate_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Status --></label>
+        <name>Associate_Status__c</name>
+        <picklistValues>
+            <masterLabel>Active</masterLabel>
+            <translation><!-- Active --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Company</masterLabel>
+            <translation><!-- Company --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contact</masterLabel>
+            <translation><!-- Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Enrolled</masterLabel>
+            <translation><!-- Enrolled --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Enrolled (old)</masterLabel>
+            <translation><!-- Enrolled (old) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non Billing</masterLabel>
+            <translation><!-- Non Billing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending</masterLabel>
+            <translation><!-- Pending --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending (old)</masterLabel>
+            <translation><!-- Pending (old) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Probation</masterLabel>
+            <translation><!-- Probation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Terminated</masterLabel>
+            <translation><!-- Terminated --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Associate Service --></label>
+        <name>Associate_Type__c</name>
+        <picklistValues>
+            <masterLabel>MBO Corp</masterLabel>
+            <translation><!-- MBO Corp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MBO Exec</masterLabel>
+            <translation><!-- MBO Exec --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MBO Staff</masterLabel>
+            <translation><!-- MBO Staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MBO Sub</masterLabel>
+            <translation><!-- MBO Sub --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MBO Team</masterLabel>
+            <translation><!-- MBO Team --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non-Associate</masterLabel>
+            <translation><!-- Non-Associate --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Attribute Associate Newsletter --></label>
+        <name>AttributeAssociateNewsletter__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attribute Holiday Greeting --></label>
+        <name>AttributeHolidayGreeting__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attribute Consultant Brief --></label>
+        <name>AttributeICB__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attribute Industry Conferences --></label>
+        <name>AttributeIndustryConference__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attribute Networking Events --></label>
+        <name>AttributeNetworkingEvents__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attribute Press Announcements/News --></label>
+        <name>AttributePANews__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attribute State of Independence --></label>
+        <name>AttributeSoI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Attribute Webinars --></label>
+        <name>AttributeWebinars__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM Email --></label>
+        <name>BM_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM FName --></label>
+        <name>BM_FName__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM LName --></label>
+        <name>BM_LName__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM TTLink --></label>
+        <name>BM_TTLink__c</name>
+    </fields>
+    <fields>
+        <help><!-- Tracks if the Bill Rate API was submitted and the Pardot process was not completed. --></help>
+        <label><!-- Bill Rate Submitted --></label>
+        <name>Bill_Rate_Submitted__c</name>
+    </fields>
+    <fields>
+        <label><!-- Billings to Date --></label>
+        <name>Billings_to_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Reference the BM responsible for this record --></help>
+        <label><!-- Business Manager --></label>
+        <name>Business_Manager__c</name>
+        <relationshipLabel><!-- BM Associates --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- The contact has participated in a campaign (Admin) --></help>
+        <label><!-- Campaign Contact --></label>
+        <name>Campaign_Contact__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Space Admin --></label>
+        <name>ClientSpaceAdmin__c</name>
+    </fields>
+    <fields>
+        <help><!-- Displays the sales status of this records employer --></help>
+        <label><!-- Client status --></label>
+        <name>Client_status__c</name>
+    </fields>
+    <fields>
+        <help><!-- This is what this contact entered in the comment box on our site --></help>
+        <label><!-- Comments --></label>
+        <name>Comments__c</name>
+    </fields>
+    <fields>
+        <help><!-- Assign where the contact is within the sales process --></help>
+        <label><!-- Contact Status --></label>
+        <name>Contact_Status__c</name>
+        <picklistValues>
+            <masterLabel>Alumni</masterLabel>
+            <translation><!-- Alumni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Associate</masterLabel>
+            <translation><!-- Associate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Deferred</masterLabel>
+            <translation><!-- Deferred --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sold</masterLabel>
+            <translation><!-- Sold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Working</masterLabel>
+            <translation><!-- Working --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- The contact has no phone or email (Admin) --></help>
+        <label><!-- Delete --></label>
+        <name>Delete__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM Email --></label>
+        <name>EM_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM FName --></label>
+        <name>EM_FName__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM LName --></label>
+        <name>EM_LName__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM LinkedIn Profile --></label>
+        <name>EM_LinkedIn_Profile__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM TTLink --></label>
+        <name>EM_TTLink__c</name>
+    </fields>
+    <fields>
+        <help><!-- Secondary email --></help>
+        <label><!-- Email2 --></label>
+        <name>Email2__c</name>
+    </fields>
+    <fields>
+        <help><!-- The contacts primary email (Hidden) --></help>
+        <label><!-- Email 1 --></label>
+        <name>Email_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employed at consulting or staffing firm --></label>
+        <name>Employed_at_consulting_or_staffing_firm__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Please select the enrollment code this record should receive --></help>
+        <label><!-- Enrollment Code --></label>
+        <name>Enrollment_Code__c</name>
+        <relationshipLabel><!-- Contacts --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- Reference the EM for this record --></help>
+        <label><!-- Enrollment Manager --></label>
+        <name>Enrollment_Manager__c</name>
+        <relationshipLabel><!-- EM Associates --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Enterprise Associate Suppression --></label>
+        <name>Enterprise_Associate_Suppression__c</name>
+    </fields>
+    <fields>
+        <help><!-- True = opted in to receive MBO Event Communications --></help>
+        <label><!-- Event Opt-In --></label>
+        <name>Event_Opt_In__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expected Billings 1st 90 Days --></label>
+        <name>ExpectedBilling__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fit for auto-merge --></label>
+        <name>Fit_for_auto_merge__c</name>
+    </fields>
+    <fields>
+        <help><!-- This is the form initially completed by this record --></help>
+        <label><!-- Form Source --></label>
+        <name>Form_Source__c</name>
+        <picklistValues>
+            <masterLabel>Bill Rate</masterLabel>
+            <translation><!-- Bill Rate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ES Talk To Us</masterLabel>
+            <translation><!-- ES Talk To Us --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Is MBO Right For Me</masterLabel>
+            <translation><!-- Is MBO Right For Me --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Landing Page</masterLabel>
+            <translation><!-- Landing Page --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Partners Talk To Us</masterLabel>
+            <translation><!-- Partners Talk To Us --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Has College Degree --></label>
+        <name>Has_College_Degree__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Has set up some sort of business structure --></help>
+        <label><!-- Has Business Structure --></label>
+        <name>Has_LLC_or_S_Corp__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Interested in protecting their practice, not totally driven by a client requirement --></help>
+        <label><!-- Seeking/Interested in Business Insurance --></label>
+        <name>Has_need_for_business_insurance__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Select how this record first heard about us --></help>
+        <label><!-- How Did You Hear About Us? --></label>
+        <name>How_Did_You_Hear_About_Us__c</name>
+        <picklistValues>
+            <masterLabel>Center for Human Capital Innovation</masterLabel>
+            <translation><!-- Center for Human Capital Innovation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Digital Ad</masterLabel>
+            <translation><!-- Digital Ad --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Facebook</masterLabel>
+            <translation><!-- Facebook --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Human Capital Institute</masterLabel>
+            <translation><!-- Human Capital Institute --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LinkedIn</masterLabel>
+            <translation><!-- LinkedIn --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>News or Article</masterLabel>
+            <translation><!-- News or Article --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Referred by Associate</masterLabel>
+            <translation><!-- Referred by Associate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Referred by Company</masterLabel>
+            <translation><!-- Referred by Company --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Search Engine</masterLabel>
+            <translation><!-- Search Engine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sourcing Interest Group</masterLabel>
+            <translation><!-- Sourcing Interest Group --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Staffing Industry Analyst</masterLabel>
+            <translation><!-- Staffing Industry Analyst --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Twitter</masterLabel>
+            <translation><!-- Twitter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Webinar or Event</masterLabel>
+            <translation><!-- Webinar or Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Word of mouth</masterLabel>
+            <translation><!-- Word of mouth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YouTube</masterLabel>
+            <translation><!-- YouTube --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Zintro</masterLabel>
+            <translation><!-- Zintro --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Enter how the record specifically heard of us --></help>
+        <label><!-- How Heard Additional Data --></label>
+        <name>How_Heard_AD__c</name>
+    </fields>
+    <fields>
+        <help><!-- The code to identify where this contact was imported from (Admin) --></help>
+        <label><!-- Import Source --></label>
+        <name>Import_Source__c</name>
+    </fields>
+    <fields>
+        <help><!-- Check this if the contact no longer works for this company --></help>
+        <label><!-- Inactive --></label>
+        <name>Inactive__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expected 1st Invoice Date --></label>
+        <name>InvoiceDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Active --></label>
+        <name>Is_Active__c</name>
+    </fields>
+    <fields>
+        <help><!-- More specific data on how the record was created --></help>
+        <label><!-- Lead Source Data --></label>
+        <name>LeadSourceData__c</name>
+    </fields>
+    <fields>
+        <help><!-- System link (Admin) --></help>
+        <label><!-- MBO Record Id --></label>
+        <name>MBORecordId__c</name>
+    </fields>
+    <fields>
+        <help><!-- The email MBO has found --></help>
+        <label><!-- MBO Email --></label>
+        <name>MBO_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO ID --></label>
+        <name>MBO_ID__c</name>
+    </fields>
+    <fields>
+        <help><!-- Flag for the MBO Partners newsletter signup from the mbopartners.com website --></help>
+        <label><!-- MBO Partners Newsletter --></label>
+        <name>MBO_Partners_Newsletter__c</name>
+    </fields>
+    <fields>
+        <help><!-- The phone number MBO has found --></help>
+        <label><!-- MBO Phone --></label>
+        <name>MBO_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- MSP Client --></label>
+        <name>MSP_Client__c</name>
+        <relationshipLabel><!-- Contacts (MSP Client) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Seeking/Interested in Health Benefits --></label>
+        <name>Needs_Health_Benefits__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Too busy to have interest in/time to dedicate to back office administration --></help>
+        <label><!-- No time to do non-billable work --></label>
+        <name>No_time_to_do_non_billable_work__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Opt-In Associate Newsletter --></label>
+        <name>OptInAssociateNewsletter__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opt-In Consultant Brief --></label>
+        <name>OptInConsultantBrief__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opt-In Holiday Greeting --></label>
+        <name>OptInHolidayGreeting__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opt-In Industry Conferences --></label>
+        <name>OptInIndustryConference__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opt-In Networking Events --></label>
+        <name>OptInNetworkingEvents__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opt-In Press Announcements/News --></label>
+        <name>OptInPANews__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opt-In State of Independence --></label>
+        <name>OptInSoI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opt-In Webinars --></label>
+        <name>OptInWebinars__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Email --></label>
+        <name>Owner_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner First Name --></label>
+        <name>Owner_First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Landing Page --></label>
+        <name>Owner_Landing_Page__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Last Name --></label>
+        <name>Owner_Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner LinkedIn --></label>
+        <name>Owner_LinkedIn__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Phone --></label>
+        <name>Owner_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Time Trade --></label>
+        <name>Owner_Time_Trade__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Title --></label>
+        <name>Owner_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pardot Qualifier Grade --></label>
+        <name>Pardot_Qualifier_Grade__c</name>
+    </fields>
+    <fields>
+        <label><!-- Practice Owner --></label>
+        <name>Practice_Owner_Contact__c</name>
+    </fields>
+    <fields>
+        <label><!-- Qualified Grade --></label>
+        <name>Qualified_Grade__c</name>
+    </fields>
+    <fields>
+        <label><!-- Referring Client Name --></label>
+        <name>Referring_Client_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Referring Client --></label>
+        <name>Referring_Client__c</name>
+        <relationshipLabel><!-- Contacts (Referring Client) --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- Any record under &quot;Contacts&quot; in the Salesforce system that has referred this contact --></help>
+        <label><!-- Referring Associate --></label>
+        <name>Referring_Contact__c</name>
+        <relationshipLabel><!-- Referred contacts --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- i.e. Security Clearance, Large Professional Liability Policy, Extensive Business History, Compliance with Fed. Government --></help>
+        <label><!-- Client Requires Difficult Item to Obtain --></label>
+        <name>Requires_something_they_can_t_get__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Secondary email --></help>
+        <label><!-- Secondary Email --></label>
+        <name>Secondary_Email__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter this record&apos;s secondary phone number --></help>
+        <label><!-- Secondary Phone --></label>
+        <name>Secondary_Phone__c</name>
+    </fields>
+    <fields>
+        <help><!-- Fortune 500 and above --></help>
+        <label><!-- Sells Services to Large Businesses --></label>
+        <name>Sells_Services_to_Large_Businesses__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Sub Status --></label>
+        <name>Sub_Status__c</name>
+        <picklistValues>
+            <masterLabel>Could Not Sell</masterLabel>
+            <translation><!-- Could Not Sell --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Qualified</masterLabel>
+            <translation><!-- Not Qualified --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Project Starting &gt; 30 Days</masterLabel>
+            <translation><!-- Project Starting &gt; 30 Days --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unidentified Project</masterLabel>
+            <translation><!-- Unidentified Project --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Team Leader --></label>
+        <name>TeamLeader__c</name>
+    </fields>
+    <fields>
+        <label><!-- US Based --></label>
+        <name>US_Based__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Upcoming Signing Opportunity --></label>
+        <name>Upcoming_Signing_Opportunity__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Webinar Registration --></label>
+        <name>Webinar_Registration__c</name>
+    </fields>
+    <fields>
+        <label><!-- 6+ Years of Experience --></label>
+        <name>X6_Years_of_Experience__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- $75/hr+ Bill Rate --></label>
+        <name>X75_hr_Bill_Rate__c</name>
+        <picklistValues>
+            <masterLabel>False</masterLabel>
+            <translation><!-- False --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MBO Sync --></label>
+        <name>fb_MBO__c</name>
+    </fields>
+    <fields>
+        <label><!-- Alumni Outreach --></label>
+        <name>fb_alumniOutreach__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MBO Newsletter --></label>
+        <name>fb_associateNewsletter__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Consultant Brief --></label>
+        <name>fb_consultantBrief__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Consultant Nurturing --></label>
+        <name>fb_consultantNurturing__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Education and Research --></label>
+        <name>fb_eduAndResearch__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enterprise Conferences --></label>
+        <name>fb_enterpriseConferences__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Enterprise News --></label>
+        <name>fb_enterpriseNews__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Enterprise Nurturing --></label>
+        <name>fb_enterpriseNurturing__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Enterprise Webinars --></label>
+        <name>fb_enterpriseWebinars__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Networking Events --></label>
+        <name>fb_networkingEvents__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Newsletters and Events --></label>
+        <name>fb_nlAndEvents__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Education and Research --></label>
+        <name>fb_otherEAR__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Other Events --></label>
+        <name>fb_otherEvents__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Other General --></label>
+        <name>fb_otherGeneral__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Other Promotions --></label>
+        <name>fb_otherPromo__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Press Announcements/News --></label>
+        <name>fb_pANews__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Practice Owner --></label>
+        <name>fb_pracOwn__c</name>
+    </fields>
+    <fields>
+        <label><!-- Referral Program --></label>
+        <name>fb_referralProgram__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- State of Independence --></label>
+        <name>fb_soi__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Tips and Features About MBO --></label>
+        <name>fb_tipsAndFeatures__c</name>
+    </fields>
+    <fields>
+        <label><!-- Webinar Series --></label>
+        <name>fb_webinarSeries__c</name>
+        <picklistValues>
+            <masterLabel>Exclude</masterLabel>
+            <translation><!-- Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Include</masterLabel>
+            <translation><!-- Include --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Exclude</masterLabel>
+            <translation><!-- Override Exclude --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Override Include</masterLabel>
+            <translation><!-- Override Include --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Associate Status Change Date --></label>
+        <name>fd_bcStatusChange__c</name>
+    </fields>
+    <fields>
+        <label><!-- Birthdate --></label>
+        <name>fd_birthdate__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Create Date --></label>
+        <name>fd_mboCreate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact Status Change Date --></label>
+        <name>fd_statusChange__c</name>
+    </fields>
+    <fields>
+        <label><!-- Term Date --></label>
+        <name>fd_terminationDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Status Age --></label>
+        <name>fn_associateStatusAge__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact Status Age --></label>
+        <name>fn_contactStatusAge__c</name>
+    </fields>
+    <fields>
+        <label><!-- Days Until Birthday --></label>
+        <name>fn_daysUntilBirthdate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active Directory GUID --></label>
+        <name>fs_aDGUID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate&apos;s Company Name --></label>
+        <name>fs_assocCoName__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM LName Clean --></label>
+        <name>fs_bMLNameClean__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM Phone --></label>
+        <name>fs_bmPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact Preference --></label>
+        <name>fs_contactPref__c</name>
+        <picklistValues>
+            <masterLabel>Call</masterLabel>
+            <translation><!-- Call --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Email</masterLabel>
+            <translation><!-- Email --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Select Invoiceable if you need the contact in the MBO System for approval, invoice, or other MBO System tasks. --></help>
+        <label><!-- Contact Type --></label>
+        <name>fs_contactType__c</name>
+        <picklistValues>
+            <masterLabel>Invoiceable</masterLabel>
+            <translation><!-- Invoiceable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non-invoiceable</masterLabel>
+            <translation><!-- Non-invoiceable --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Associate Type --></label>
+        <name>fs_direct__c</name>
+        <picklistValues>
+            <masterLabel>Broker</masterLabel>
+            <translation><!-- Broker --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Owner</masterLabel>
+            <translation><!-- Business Owner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corp-Associate</masterLabel>
+            <translation><!-- Corp-Associate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Exec-Associate</masterLabel>
+            <translation><!-- Exec-Associate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Expense Only Resource</masterLabel>
+            <translation><!-- Expense Only Resource --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Practice Owner</masterLabel>
+            <translation><!-- Practice Owner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ready-To-Serve</masterLabel>
+            <translation><!-- Ready-To-Serve --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Staff-Associate</masterLabel>
+            <translation><!-- Staff-Associate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Time and Expense Only</masterLabel>
+            <translation><!-- Time and Expense Only --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- EM LName Clean --></label>
+        <name>fs_eMLNameClean__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM Phone --></label>
+        <name>fs_emPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Facebook --></label>
+        <name>fs_facebook__c</name>
+    </fields>
+    <fields>
+        <label><!-- Gender --></label>
+        <name>fs_gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Industry Expertise WMID --></label>
+        <name>fs_industryExpertiseWMID__c</name>
+        <picklistValues>
+            <masterLabel>1000</masterLabel>
+            <translation><!-- 1000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1007</masterLabel>
+            <translation><!-- 1007 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1014</masterLabel>
+            <translation><!-- 1014 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1016</masterLabel>
+            <translation><!-- 1016 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1018</masterLabel>
+            <translation><!-- 1018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1022</masterLabel>
+            <translation><!-- 1022 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1033</masterLabel>
+            <translation><!-- 1033 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1036</masterLabel>
+            <translation><!-- 1036 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1044</masterLabel>
+            <translation><!-- 1044 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1045</masterLabel>
+            <translation><!-- 1045 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1049</masterLabel>
+            <translation><!-- 1049 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1051</masterLabel>
+            <translation><!-- 1051 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1052</masterLabel>
+            <translation><!-- 1052 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1053</masterLabel>
+            <translation><!-- 1053 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1054</masterLabel>
+            <translation><!-- 1054 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1055</masterLabel>
+            <translation><!-- 1055 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1056</masterLabel>
+            <translation><!-- 1056 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1057</masterLabel>
+            <translation><!-- 1057 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1058</masterLabel>
+            <translation><!-- 1058 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1059</masterLabel>
+            <translation><!-- 1059 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1060</masterLabel>
+            <translation><!-- 1060 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1062</masterLabel>
+            <translation><!-- 1062 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Industry Expertise --></label>
+        <name>fs_industryExpertise__c</name>
+        <picklistValues>
+            <masterLabel>Accounting</masterLabel>
+            <translation><!-- Accounting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Advertising</masterLabel>
+            <translation><!-- Advertising --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Aerospace</masterLabel>
+            <translation><!-- Aerospace --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Agriculture</masterLabel>
+            <translation><!-- Agriculture --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Apparel &amp; Accessories</masterLabel>
+            <translation><!-- Apparel &amp; Accessories --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Architectural and Design Services</masterLabel>
+            <translation><!-- Architectural and Design Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Automotive</masterLabel>
+            <translation><!-- Automotive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Banking</masterLabel>
+            <translation><!-- Banking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Biotechnology</masterLabel>
+            <translation><!-- Biotechnology --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Broadcasting, Music, &amp; Film</masterLabel>
+            <translation><!-- Broadcasting, Music, &amp; Film --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Services</masterLabel>
+            <translation><!-- Business Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Software</masterLabel>
+            <translation><!-- Business Software --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chemicals</masterLabel>
+            <translation><!-- Chemicals --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Construction</masterLabel>
+            <translation><!-- Construction --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Consumer Packaged Goods</masterLabel>
+            <translation><!-- Consumer Packaged Goods --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Defense</masterLabel>
+            <translation><!-- Defense --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Education</masterLabel>
+            <translation><!-- Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Electronics</masterLabel>
+            <translation><!-- Electronics --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Energy &amp; Utilities</masterLabel>
+            <translation><!-- Energy &amp; Utilities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Entertainment &amp; Leisure</masterLabel>
+            <translation><!-- Entertainment &amp; Leisure --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Executive Search</masterLabel>
+            <translation><!-- Executive Search --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Financial Services</masterLabel>
+            <translation><!-- Financial Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gaming</masterLabel>
+            <translation><!-- Gaming --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Government &amp; Military</masterLabel>
+            <translation><!-- Government &amp; Military --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Healthcare</masterLabel>
+            <translation><!-- Healthcare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Healthcare Information Systems</masterLabel>
+            <translation><!-- Healthcare Information Systems --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hospitality &amp; Leisure</masterLabel>
+            <translation><!-- Hospitality &amp; Leisure --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Information Security</masterLabel>
+            <translation><!-- Information Security --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Information Technology Services</masterLabel>
+            <translation><!-- Information Technology Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Insurance</masterLabel>
+            <translation><!-- Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internet Software &amp; Services</masterLabel>
+            <translation><!-- Internet Software &amp; Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legal Services</masterLabel>
+            <translation><!-- Legal Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manufacturing</masterLabel>
+            <translation><!-- Manufacturing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marketing, Advertising, &amp; PR</masterLabel>
+            <translation><!-- Marketing, Advertising, &amp; PR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Metals &amp; Minerals</masterLabel>
+            <translation><!-- Metals &amp; Minerals --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Networking Technologies and Services</masterLabel>
+            <translation><!-- Networking Technologies and Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nonprofit</masterLabel>
+            <translation><!-- Nonprofit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Oil &amp; Gas Services</masterLabel>
+            <translation><!-- Oil &amp; Gas Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Consulting/Professional Services</masterLabel>
+            <translation><!-- Other Consulting/Professional Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pharmaceuticals</masterLabel>
+            <translation><!-- Pharmaceuticals --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Publishing</masterLabel>
+            <translation><!-- Publishing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Real Estate/Property Management</masterLabel>
+            <translation><!-- Real Estate/Property Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Retail &amp; Wholesale</masterLabel>
+            <translation><!-- Retail &amp; Wholesale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Security &amp; Protection Services</masterLabel>
+            <translation><!-- Security &amp; Protection Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Software &amp; Networking</masterLabel>
+            <translation><!-- Software &amp; Networking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telecom</masterLabel>
+            <translation><!-- Telecom --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transportation</masterLabel>
+            <translation><!-- Transportation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Venture Capital</masterLabel>
+            <translation><!-- Venture Capital --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Waste Management</masterLabel>
+            <translation><!-- Waste Management --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- LinkedIn --></label>
+        <name>fs_linkedin__c</name>
+    </fields>
+    <fields>
+        <label><!-- Marital Status --></label>
+        <name>fs_marital__c</name>
+        <picklistValues>
+            <masterLabel>Divorced</masterLabel>
+            <translation><!-- Divorced --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Married</masterLabel>
+            <translation><!-- Married --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Single</masterLabel>
+            <translation><!-- Single --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Widowed</masterLabel>
+            <translation><!-- Widowed --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Operation Plan --></label>
+        <name>fs_operationPlan__c</name>
+        <picklistValues>
+            <masterLabel>Auto Debit Funding</masterLabel>
+            <translation><!-- Auto Debit Funding --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bank Account Transfer</masterLabel>
+            <translation><!-- Bank Account Transfer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Broker Fee Only</masterLabel>
+            <translation><!-- Broker Fee Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business</masterLabel>
+            <translation><!-- Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Compliance Only</masterLabel>
+            <translation><!-- Compliance Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Staff</masterLabel>
+            <translation><!-- Corporate Staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Electronic Billing Info</masterLabel>
+            <translation><!-- Electronic Billing Info --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non Associate</masterLabel>
+            <translation><!-- Non Associate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payroll - Fixed</masterLabel>
+            <translation><!-- Payroll - Fixed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payroll - Hourly</masterLabel>
+            <translation><!-- Payroll - Hourly --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sponsored Staff - Fixed</masterLabel>
+            <translation><!-- Sponsored Staff - Fixed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sponsored Staff - Hourly</masterLabel>
+            <translation><!-- Sponsored Staff - Hourly --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Standard</masterLabel>
+            <translation><!-- Standard --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Standard - Foreign</masterLabel>
+            <translation><!-- Standard - Foreign --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Standard - Sponsored</masterLabel>
+            <translation><!-- Standard - Sponsored --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Team</masterLabel>
+            <translation><!-- Team --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Overview --></label>
+        <name>fs_overview__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner --></label>
+        <name>fs_owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- Primary Phone Type --></label>
+        <name>fs_pPhoneType__c</name>
+        <picklistValues>
+            <masterLabel>Home</masterLabel>
+            <translation><!-- Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile</masterLabel>
+            <translation><!-- Mobile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Office</masterLabel>
+            <translation><!-- Office --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Persona --></label>
+        <name>fs_persona__c</name>
+        <picklistValues>
+            <masterLabel>Broker</masterLabel>
+            <translation><!-- Broker --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Commissioned Professionals</masterLabel>
+            <translation><!-- Commissioned Professionals --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Consultant</masterLabel>
+            <translation><!-- Consultant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Freelancer</masterLabel>
+            <translation><!-- Freelancer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Business</masterLabel>
+            <translation><!-- Small Business --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- MBO Associate Region --></help>
+        <label><!-- Regions --></label>
+        <name>fs_region__c</name>
+        <picklistValues>
+            <masterLabel>DC Metro</masterLabel>
+            <translation><!-- DC Metro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East Central</masterLabel>
+            <translation><!-- East Central --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foreign</masterLabel>
+            <translation><!-- Foreign --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Midwest</masterLabel>
+            <translation><!-- Midwest --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mountain</masterLabel>
+            <translation><!-- Mountain --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NYC Metro</masterLabel>
+            <translation><!-- NYC Metro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northeast</masterLabel>
+            <translation><!-- Northeast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northwest</masterLabel>
+            <translation><!-- Northwest --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ready to Serve</masterLabel>
+            <translation><!-- Ready to Serve --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>South</masterLabel>
+            <translation><!-- South --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southeast</masterLabel>
+            <translation><!-- Southeast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southwest</masterLabel>
+            <translation><!-- Southwest --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Secondary Phone Type --></label>
+        <name>fs_sPhoneType__c</name>
+        <picklistValues>
+            <masterLabel>Home</masterLabel>
+            <translation><!-- Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile</masterLabel>
+            <translation><!-- Mobile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Office</masterLabel>
+            <translation><!-- Office --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Sales Status Reason --></label>
+        <name>fs_salesStatusReason__c</name>
+        <picklistValues>
+            <masterLabel>Client Canceled Project</masterLabel>
+            <translation><!-- Client Canceled Project --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client Vetting Only</masterLabel>
+            <translation><!-- Client Vetting Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dislikes Benefit Plans</masterLabel>
+            <translation><!-- Dislikes Benefit Plans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fee Too High</masterLabel>
+            <translation><!-- Fee Too High --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Looking For Work</masterLabel>
+            <translation><!-- Looking For Work --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low Annual Billings</masterLabel>
+            <translation><!-- Low Annual Billings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MBO/Client Didn&apos;t Agree To Project Terms</masterLabel>
+            <translation><!-- MBO/Client Didn&apos;t Agree To Project Terms --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Reason Given</masterLabel>
+            <translation><!-- No Reason Given --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Self-Employable</masterLabel>
+            <translation><!-- Not Self-Employable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Occupation Not Supported (WC/E&amp;O/B2C)</masterLabel>
+            <translation><!-- Occupation Not Supported (WC/E&amp;O/B2C) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Only Seeking Benefits</masterLabel>
+            <translation><!-- Only Seeking Benefits --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Product Sales</masterLabel>
+            <translation><!-- Product Sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Stopped Responding</masterLabel>
+            <translation><!-- Stopped Responding --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Taking Time Off</masterLabel>
+            <translation><!-- Taking Time Off --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Took W-2 Position</masterLabel>
+            <translation><!-- Took W-2 Position --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visa Not Supported/Int&apos;l Tax Withholding Issue</masterLabel>
+            <translation><!-- Visa Not Supported/Int&apos;l Tax Withholding Issue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wants To Retain 1099 Status/Brand/Company</masterLabel>
+            <translation><!-- Wants To Retain 1099 Status/Brand/Company --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Skills --></label>
+        <name>fs_skills__c</name>
+    </fields>
+    <fields>
+        <label><!-- Termination Reason --></label>
+        <name>fs_statusCode__c</name>
+        <picklistValues>
+            <masterLabel>Layoff</masterLabel>
+            <translation><!-- Layoff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Misconduct</masterLabel>
+            <translation><!-- Misconduct --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Performance</masterLabel>
+            <translation><!-- Performance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Retirement</masterLabel>
+            <translation><!-- Retirement --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Voluntary</masterLabel>
+            <translation><!-- Voluntary --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Associate Status Reason --></label>
+        <name>fs_statusReason__c</name>
+        <picklistValues>
+            <masterLabel>Automatic</masterLabel>
+            <translation><!-- Automatic --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Changed to part time</masterLabel>
+            <translation><!-- Changed to part time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contract Term by client</masterLabel>
+            <translation><!-- Contract Term by client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contract Term by member</masterLabel>
+            <translation><!-- Contract Term by member --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Full-time Position elsewhere</masterLabel>
+            <translation><!-- Full-time Position elsewhere --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Full-time Position with client</masterLabel>
+            <translation><!-- Full-time Position with client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In collections</masterLabel>
+            <translation><!-- In collections --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost hours with client</masterLabel>
+            <translation><!-- Lost hours with client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manual</masterLabel>
+            <translation><!-- Manual --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Misconduct with Client</masterLabel>
+            <translation><!-- Misconduct with Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Misconduct with MBO</masterLabel>
+            <translation><!-- Misconduct with MBO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Negative balance</masterLabel>
+            <translation><!-- Negative balance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No work</masterLabel>
+            <translation><!-- No work --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Returning Calls</masterLabel>
+            <translation><!-- Not Returning Calls --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not a good fit for MBO model</masterLabel>
+            <translation><!-- Not a good fit for MBO model --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On leave</masterLabel>
+            <translation><!-- On leave --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Project on hold</masterLabel>
+            <translation><!-- Project on hold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Repeatable poor performance</masterLabel>
+            <translation><!-- Repeatable poor performance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Resigned/Dissatisfied</masterLabel>
+            <translation><!-- Resigned/Dissatisfied --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Retired, no longer working</masterLabel>
+            <translation><!-- Retired, no longer working --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Taking time off/sabbatical</masterLabel>
+            <translation><!-- Taking time off/sabbatical --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Sub-Persona --></label>
+        <name>fs_subPersona__c</name>
+        <picklistValues>
+            <masterLabel>Broker that is an MBO Exec</masterLabel>
+            <translation><!-- Broker that is an MBO Exec --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Broker that is an MBO Sub</masterLabel>
+            <translation><!-- Broker that is an MBO Sub --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Considering IC</masterLabel>
+            <translation><!-- Considering IC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Considering IC (Actively Searching Vendors/Way to Incorporate)</masterLabel>
+            <translation><!-- Considering IC (Actively Searching Vendors/Way to Incorporate) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dependent Retired Worker</masterLabel>
+            <translation><!-- Dependent Retired Worker --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Established Freelancer Primarily with Business Clients</masterLabel>
+            <translation><!-- Established Freelancer Primarily with Business Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Established Freelancer with Consumer Clients</masterLabel>
+            <translation><!-- Established Freelancer with Consumer Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Forced Fresh Lay-off</masterLabel>
+            <translation><!-- Forced Fresh Lay-off --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Forced PSC Newbie</masterLabel>
+            <translation><!-- Forced PSC Newbie --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Freelancer Primarily with Business Clients</masterLabel>
+            <translation><!-- Freelancer Primarily with Business Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Freelancer with Consumer Clients</masterLabel>
+            <translation><!-- Freelancer with Consumer Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fresh Lay-off/Job Hunter</masterLabel>
+            <translation><!-- Fresh Lay-off/Job Hunter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hobby IC (Financially Independent)</masterLabel>
+            <translation><!-- Hobby IC (Financially Independent) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Independent Retired Worker</masterLabel>
+            <translation><!-- Independent Retired Worker --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>International Company Needing Payroll</masterLabel>
+            <translation><!-- International Company Needing Payroll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Just Started</masterLabel>
+            <translation><!-- Just Started --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MBO Corp Broker</masterLabel>
+            <translation><!-- MBO Corp Broker --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Newbie Freelancer Primarily with Business Clients</masterLabel>
+            <translation><!-- Newbie Freelancer Primarily with Business Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Newbie Freelancer with Consumer Clients</masterLabel>
+            <translation><!-- Newbie Freelancer with Consumer Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PSC Newbie</masterLabel>
+            <translation><!-- PSC Newbie --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Professional Service Consultant</masterLabel>
+            <translation><!-- Professional Service Consultant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Seasoned CP</masterLabel>
+            <translation><!-- Seasoned CP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Broker or Group Practice</masterLabel>
+            <translation><!-- Small Broker or Group Practice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Company Needing Payroll (Primarily NSE Workers)</masterLabel>
+            <translation><!-- Small Company Needing Payroll (Primarily NSE Workers) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Company that Uses 1099 Workers</masterLabel>
+            <translation><!-- Small Company that Uses 1099 Workers --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Suffix --></label>
+        <name>fs_suffix__c</name>
+        <picklistValues>
+            <masterLabel>CPA</masterLabel>
+            <translation><!-- CPA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Esq.</masterLabel>
+            <translation><!-- Esq. --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>III</masterLabel>
+            <translation><!-- III --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IV</masterLabel>
+            <translation><!-- IV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jr.</masterLabel>
+            <translation><!-- Jr. --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MBA</masterLabel>
+            <translation><!-- MBA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MD</masterLabel>
+            <translation><!-- MD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PMP</masterLabel>
+            <translation><!-- PMP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ph.D.</masterLabel>
+            <translation><!-- Ph.D. --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RN</masterLabel>
+            <translation><!-- RN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sr.</masterLabel>
+            <translation><!-- Sr. --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Twitter --></label>
+        <name>fs_twitter__c</name>
+    </fields>
+    <fields>
+        <label><!-- User Name --></label>
+        <name>fs_userName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Original Create Date --></label>
+        <name>origDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operations Admin --></label>
+        <name>rs_opsAdmin__c</name>
+        <relationshipLabel><!-- Associate OA --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Qualification Advisor --></label>
+        <name>rs_qualAdvisor__c</name>
+        <relationshipLabel><!-- Associates QA --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Referring Affiliate --></label>
+        <lookupFilter>
+            <errorMessage><!-- Please enter a contact with their type set to affiliate --></errorMessage>
+        </lookupFilter>
+        <name>rs_referringAffiliate__c</name>
+        <relationshipLabel><!-- Referred Associates (Contact) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Associate Referral --></label>
+        <name>rs_referringAssociate__c</name>
+        <relationshipLabel><!-- Associate Referral --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Enterprise</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profiles --></label>
+            <section>LinkedIn Company Profiles</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Member Profiles --></label>
+            <section>LinkedIn Member Profiles</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information Narrow 1 --></label>
+            <section>Marketing Information Narrow 1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Enterprise</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Info Narrow --></label>
+            <section>Contact Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Company Profiles --></label>
+            <section>LinkedIn Company Profiles</section>
+        </sections>
+        <sections>
+            <label><!-- LinkedIn Member Profiles --></label>
+            <section>LinkedIn Member Profiles</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information Narrow 1 --></label>
+            <section>Marketing Information Narrow 1</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Activities --></label>
+            <section>Pardot Activities</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Lists --></label>
+            <section>Pardot Lists</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Social Insight --></label>
+            <section>Pardot Social Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Pardot Wide --></label>
+            <section>Pardot Wide</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Info Narrow --></label>
+            <section>Sales Info Narrow</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Rolodex</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Rolodex Feed</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Marketing Information --></label>
+            <section>Marketing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sales Information --></label>
+            <section>Sales Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Center of Influence --></label>
+        <name>COI</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Enterprise --></label>
+        <name>Client</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Rolodex --></label>
+        <name>Rolodex</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Please select an available Sales Status Reason. --></errorMessage>
+        <name>ContactStatusReason</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If Lead Source = Referred by Company, you must indicate which Account. --></errorMessage>
+        <name>Lead_Source_Company</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please limit the character size to 30 prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_City</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please use the 2 letter abbreviation prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_State</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please limit the character size to 200 prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_Street</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please limit the character size to 30 prior to syncing to the MBO System. --></errorMessage>
+        <name>MBOCharLimit_Zip</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set the email --></errorMessage>
+        <name>RequireEmail</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set the phone or the email. --></errorMessage>
+        <name>RequirePhone</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please contact an admin to overwrite this field. --></errorMessage>
+        <name>Setting_Pardot_Campaign</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please select an available Sub-status. --></errorMessage>
+        <name>SubStatus</name>
+    </validationRules>
+</CustomObjectTranslation>

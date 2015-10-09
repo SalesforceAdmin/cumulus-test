@@ -1,0 +1,5 @@
+<apex:page standardController="Enrollment__c">
+  <flow:interview name="Enrollment_Activities_Complete" finishLocation="/{!Enrollment__c.Id}">
+      <apex:param name="EnrollmentID" value="{!Enrollment__c.Id}"/>
+  </flow:interview>
+</apex:page>

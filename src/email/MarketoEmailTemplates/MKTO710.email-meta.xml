@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: MBO Follow Up (1326752973.0)</name>
+    <style>none</style>
+    <subject>FW: MBO Follow Up (1326752973.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE          MicrosoftInternetExplorer4                                                                                                                                                               Hi Allan,
+ 
+I wanted to follow up again to my email I sent you on January 4th regarding you having a potential project that you would like to run through MBO.  Were you still interested in running that project through MBO Partners?
+ 
+If so I would be happy to speak with you and answer any questions you may have.  I have attached a link to my calendar for you to schedule a convenient time for us to have a quick conversation about the project you will be working on and for me to give you a refresher on our program.
+ 
+https://my.timedriver.com/9TGRK
+ 
+Thank you and I look forward to speaking with you soon!
+ 
+Nicolette
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Nicolette Taylor 
+Sent: Wednesday, January 04, 2012 4:49 PM
+To: &apos;edels@msn.com&apos;
+Subject: MBO Follow Up
+ 
+Dear Allan, 
+ 
+I received your information from someone on our team here who said you were interested in working with MBO again and that you have a new contract starting in the next week.   I wanted to introduce myself as the person at MBO Partners responsible for all returning and new associate and partnership requests. I’ll be your main point of contact to provide you an overview of our services or answer any specific questions you may have.  You may easily book a time that is convenient for you on my online schedule by going here: https://my.timedriver.com/9TGRK
+ 
+You can also watch a short video about who we are on You Tube: http://youtu.be/zKDzwSTmGv4. 
+ 
+I look forward to speaking with you and sharing more information about MBO Partners!
+ 
+Thank you,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

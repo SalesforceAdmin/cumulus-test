@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Information and Net Cash Expenses  (1322502342.0)</name>
+    <style>none</style>
+    <subject>MBO Information and Net Cash Expenses  (1322502342.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Pamela,
+ 
+It was a pleasure speaking with you today!  Thank you for your interest in MBO Partners.  I’ve included a few items as promised regarding the MBO Program:
+ 
+Link to our true group benefits: http://www.mbopartners.com/mbo-exec-group-benefits 
+Link to a summary of the value of using MBO Partners: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Introduction.pdf 
+Link to our Expense Policy: http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_Policy.pdf 
+Link to a video about How We Help Independent Consultants:http://www.youtube.com/watch?v=zKDzwSTmGv4&amp;hd=1 
+ 
+Using MBO Partners versus working on a 1099 basis:http://info.mbopartners.com/rs/mbo/images/MBO_Partners_vs_1099_Comparison.pdf
+ 
+Also, below are a few articles just for you to read at your leisure:
+ 
+http://www.channelinsider.com/c/a/Spotlight/Top-Mistakes-New-IT-Consultants-Make-And-How-to-Avoid-Making-Them-Yourself-180466/
+ 
+http://www.marketwire.com/press-release/Landmark-National-Study-Reveals-Millions-Join-New-Age-Career-Independence-Surprising-1557357.htm 
+ 
+ 
+If you have any additional questions for me feel free to schedule a convenient time using my online schedule: https://my.timedriver.com/9TGRK
+ 
+Have a great day and I look forward to speaking with you again soon!
+ 
+Thank you,
+Nicolette
+ 
+ 
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Aug29Webinar-Challenges.We Missed You Aug</name>
+    <style>none</style>
+    <subject>Sorry We Missed You - Resources from our Understanding the Contractor Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+You were missed at MBO&apos;s webinar titled &quot;Understanding the Contractor: 5 Challenges ICs Have with Your Enterprise&quot; held on Thursday, August 29. Jay Lash, VP of Market Strategies at MBO Partners - Enterprise Solutions, joined two self-employed consultants to discuss the top five challenges that most ICs have doing business with Enterprise organizations.
+Below you will find links related to the presentation:
+Webinar Recording &lt;http://video.mbopartners.com/players/v4uFa2n9-mMm4x1IW.html&gt;
+Webinar Slide Deck &lt;http://info.mbopartners.com/rs/mbo/images/2013-06-compliance-officer-training-webinar.ppsx&gt; &lt;http://sig.org/webinars.php&gt;
+       Connect with Jay &lt;http://www.linkedin.com/in/jaylash&gt;
+Post-Webinar Survey &lt;http://www.surveymonkey.com/s/WJFYMPY&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

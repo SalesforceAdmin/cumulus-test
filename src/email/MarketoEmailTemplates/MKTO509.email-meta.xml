@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Conversation appointment reschedule (1323988921.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Conversation appointment reschedule (1323988921.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Thank you for the clarification Rich!  I apologize I misread the calendar invite yesterday and thought you scheduled one for yesterday and today.
+
+I look forward to speaking with you next week!
+ 
+Have a great weekend,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Rich Beynon [mailto:rich@richbeynon.com] 
+Sent: Wednesday, December 14, 2011 1:41 PM
+To: Nicolette Taylor
+Subject: Re: MBO Partners Conversation appointment reschedule
+ 
+Sorry for the confusion.  They appointment for tomorrow should have been rescheduled for the 21st at 4pm.
+
+Thanks.
+On Wed, Dec 14, 2011 at 1:34 PM, Nicolette Taylor &lt;ntaylor@mbopartners.com&gt; wrote:
+Hi Richard,
+
+Thank you for letting me know.  I noticed that you scheduled a time for tomorrow as well, would that time work for you or do you want to push that back as well?
+
+Please let me know when you are available and I will be happy to reach out to you.
+
+Thank you and have a great day!
+Nicolette
+
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+
+
+-----Original Message-----
+From: Richard Beynon [mailto:rich@richbeynon.com]
+Sent: Wednesday, December 14, 2011 12:46 PM
+To: Nicolette Taylor
+Subject: MBO Partners Conversation appointment reschedule
+
+Sorry, I need to push this out a few days - I had an appointment come up unexpectedly.
+Thanks.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

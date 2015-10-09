@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Oct29Webinar-SourcingTalent.Invite 2.0</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Compliance Officer}}, your talent sourcing webinar reminder</subject>
+    <textOnly>{{lead.First Name:default=Compliance Officer}},
+Would you join me at my next webinar &lt;http://info.mbopartners.com/Oct29Webinar-SourcingTalent.html&gt; on October 29th at 1pm EST?   It’s called, &quot;Sourcing Talent for 2013 and Beyond: Whose Job is it, Anyway?&quot; and it&apos;s not about jobs or employees like you might expect. We&apos;re bringing in the experts to discuss how your business will compete in the next war for talent.
+Two veteran Talent Acquisition Specialists will discuss how sourcing expert talent has changed over the years. MBO will also be sharing some of our recent research - and use it to support new techniques to attract, secure and engage this growing segment of talent. 
+Even if you can&apos;t attend, if you register, we will send you copies of our research report and the recording of the webinar.
+Register today! &lt;http://info.mbopartners.com/Oct29Webinar-SourcingTalent.html&gt;
+___________________________________
+Jay Lash
+VP, Market Strategies
+ MBO Partners
+ 
+
+ e: entcommunications@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

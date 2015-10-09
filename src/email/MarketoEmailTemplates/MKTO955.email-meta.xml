@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>State of Independence.Share response</name>
+    <style>none</style>
+    <subject>Thank You for Sharing Your Story</subject>
+    <textOnly>Hi {{lead.First Name:default=edit me}},
+ 
+Thank you for your interest in the State of Independence Profiles Project. We are anxious to learn more about you and your independent lifestyle! This is how the process will work:
+ 
+Please fill out this short survey (http://www.surveymonkey.com/s/752GW6B) of questions. The questions will act as a way for us to ensure that we are including a diverse group of independents in order to provide our audience with a broad set of viewpoints.  We have already had a strong initial response, so we may have to select and stage our independence profiles.
+ 
+Please do not be discouraged if you are not chosen for the initial round of profiles, as we will likely profile you in the coming months as the program expands. Our goal is to share all stories!
+ 
+Each selected independent will answer a series of questions about why they chose independence and its value to them. You will be contacted by an interviewer to schedule a time to conduct the interview over the phone. Additional information regarding the conversation will be given at this point. The profile will also include a short summary story of their independent life.
+ 
+Additionally, a professional photographer (local to your hometown) will be commissioned to take a picture of each member of the final group, showing each in a moment or setting that represents independence to them.  The photography session will be coordinated for you and will take place after the interview.
+ 
+Profiles will also include a link to professional contact information and credentials. In addition to the valuable publicity they receive, those who are selected to participate will receive a free professional headshot photo to include in their online portfolio, as well as receiving a copy of other commissioned photography used for the spread.
+ 
+To learn more about the State of Independence Project and MBO’s research report visit {{my.State}} or Facebook Page (https://www.facebook.com/TheStateofIndependence).
+ 
+Thanks,
+The State of Independence Team</textOnly>
+    <type>custom</type>
+</EmailTemplate>

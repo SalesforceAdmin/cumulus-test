@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The email that will be sent to those who are registered to remind them to attend the event. Garrett Zaino, 3/21/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>NY - Networking - May 17 2012.Reminder</name>
+    <style>none</style>
+    <subject>See You Tomorrow at MBO Partners&apos; Spring 2012 Networking Reception</subject>
+    <textOnly>Spring 2012 Networking Reception:
+Zengo
+May 17, 2012
+We look forward to seeing you tomorrow for a night of networking and fun at local hot spot Zengo in Manhattan, 5:30-8:30pm, at 622 Third Avenue at 40th Street. 
+Meet and mingle with Associates, Clients, and MBO team managers, all while enjoying tasty cocktails, and luscious hors d&apos;oeuvres on us! Consider this a token of our appreciation for being part of our MBO family.
+
+We look forward to seeing you!
+
+Sincerely,
+
+MBO Partners
+
+Suggested dress code is business to business casual.
+Don&apos;t forget to bring your business cards!
+Questions? Please contact Marcelle Saab, Associate Relations Manager, 703-793-6006
+MBO Partners 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171
+
+Contact Us &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

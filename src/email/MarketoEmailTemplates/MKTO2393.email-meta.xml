@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Lead Email 3</name>
+    <style>none</style>
+    <subject>Scope of Work Document for Independent Consultants</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+2013 is the year for new contracts and clients for your consultancy. To prepare you, MBO Partners has brought you The Independent&apos;s Guide &lt;http://www.mbopartners.com/independents-guide&gt;, the online library of educational content for independent workers. 
+
+ 
+
+
+This month, we&apos;re focusing on Creating an Independent Consulting Scope of Work Document &lt;http://www.mbopartners.com/independents-guide/launch/creating-independent-consulting-scope-work-document-tips-and-template&gt;. This article comes with a downloadable template you can take to your next contract negotiation. 
+
+Thank you for your time, and please contact MBO if you have questions or suggestions for new content.
+___________________________________
+MBO Partners
+t: 703-793-6000
+ e: info@mbopartners.com &lt;mailto:info@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

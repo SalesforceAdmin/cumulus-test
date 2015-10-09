@@ -1,0 +1,5 @@
+{!ApprovalRequest.Comments}
+
+________________________________________
+
+Please review the enrollment: {!Enrollment__c.Link}

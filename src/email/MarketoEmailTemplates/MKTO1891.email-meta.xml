@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Payment Notification for Max Katz (21644) (1343161107.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Payment Notification for Max Katz (21644) (1343161107.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Max, We also received payment $4,625 is for June 18th –July 8th for a total of 92.5 hours (invoices: 384091, 384092, and 384093.) You may not see the notification because it was first applied to the incorrect invoice with the $65 per hour rate. Just wanted to give you a heads up. You know have an account balance of $5,462.50 which is both payments less MBO&apos;s 5%. This will go through payroll today and you will be paid (less taxes) on Friday. The projected net pay is as follows:With current information, your next payroll will be on 7/27/2012 with withholding taxes based on 12 pay periods per year as follows:Current Account Balance$5,462.50Encumbered Funds 1 &lt;https://app1.mbopartners.com/servlet/entry?display=PCPayrollOptions#1&gt; $0.00Insurance Expenses 2 &lt;https://app1.mbopartners.com/servlet/entry?display=PCPayrollOptions#2&gt;$0.00Business Center Payroll Taxes 3 &lt;https://app1.mbopartners.com/servlet/entry?display=PCPayrollOptions#3&gt;$761.14Business Center Retirement Match 4 &lt;https://app1.mbopartners.com/servlet/entry?display=PCPayrollOptions#4&gt;$0.00Gross Pay$4,701.27Personal Payroll Deductions 5 &lt;https://app1.mbopartners.com/servlet/entry?display=PCPayrollOptions#5&gt;$1,276.42Business Center Expenses$0.00Paycheck Amount$3,424.85Ending Account Balance You will receive a full break down in your account on Friday (once the payroll is processed through ADP.) Thanks!Sara -----Original Message-----
+From: sconde@mbopartners.com [mailto:sconde@mbopartners.com] 
+Sent: Tuesday, July 24, 2012 4:06 PM
+To: max.katz.work@gmail.com; Sara Conde
+Subject: MBO Partners Payment Notification for Max Katz (21644) We received the following payment(s) today, 07/24/2012 on your behalf: 1,125.00 Fee Calvin Group -  Jet Morgan - Invoice: 384094 - Jul 9, 2012 - Jul 15, 2012  Sincerely,The MBO Partners Billing/AR Department </textOnly>
+    <type>custom</type>
+</EmailTemplate>

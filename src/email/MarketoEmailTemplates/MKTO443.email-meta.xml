@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Questions? (1323813625.0)</name>
+    <style>none</style>
+    <subject>RE: Questions? (1323813625.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Brian,
+ 
+I hope you are also well, thank you for reaching out.  MBO is actually not a payroll company, but a consulting services firm that allows independent consultants to work under our corporate structure and manage their back office support through our systems.  We do not sponsor H-1B visas because we lack control over the workers that is required when sponsoring a candidate because our consultants find their own work and we do not manage their hours, pay etc.  I don’t usually work with any payroll companies so I don’t know anyone off the top of my head but if I come across someone I would be happy to pass the information along to you.
+ 
+Please let me know if you have any additional questions.
+ 
+Thank you,
+Nicolette 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Brian Lane [mailto:blane@hucapco-us.com] 
+Sent: Tuesday, December 13, 2011 10:06 AM
+To: Nicolette Taylor
+Subject: Questions?
+ 
+Hello Nicolette,
+ 
+I hope you are doing well. 
+ 
+I wasn’t sure if this was something that MBO Partners handle. I know you are a payroll company but does your firm also sponsor H-1B candidates. If not, are there any firms you work with that you might recommend. 
+ 
+Thank you for your assistance. 
+ 
+Regards,
+ 
+Brian Lane
+Vice President 
+The Human Capital Company
+845-940-1153-O
+914-772-5306-C 
+ 
+This electronic message transmission contains information from The Human Capital Company which may be confidential or privileged. The information is intended for the use of the individual or entity whose electronic mail address is named above. If you are not the intended recipient, be aware that any disclosure, copying, distribution or use of the contents of this information is prohibited. If you have received this electronic transmission in error, please notify us by telephone 845-940-1153 immediately.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Alert that the assignment has been completed</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Assignment Completed</name>
+    <style>none</style>
+    <subject>Assignment {!Case_Assignment__c.Name}: {!Case_Assignment__c.fs_topic__c} has been completed!</subject>
+    <type>text</type>
+</EmailTemplate>

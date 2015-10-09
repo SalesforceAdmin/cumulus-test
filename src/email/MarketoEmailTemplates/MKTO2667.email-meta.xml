@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Binary Email</name>
+    <style>none</style>
+    <subject>How can MBO help you?</subject>
+    <textOnly>For over 25 years, MBO Partners has made it easier for independent consultants and their clients to work together by providing a suite of services for both independent consultants and the organizations that engage them.
+
+If you are an independent consultant, contractor, or small firm, learn more here &lt;http://www.mbopartners.com/how-mbo-works&gt;.
+
+If you are a hiring manager or procurement professional, learn more here &lt;http://www.mboenterprise.com/how-we-help&gt;.
+___________________________________
+MBO Partners
+ 
+ t: 703-793-6000
+ e: communications@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

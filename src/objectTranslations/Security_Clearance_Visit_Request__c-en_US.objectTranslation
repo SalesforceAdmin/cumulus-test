@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Security Clearance Visit Request</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Security Clearance Visit Requests</value>
+    </caseValues>
+    <fields>
+        <label><!-- Allow After DD-254 End Date --></label>
+        <name>Allow_After_DD_254_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Classification --></label>
+        <name>Classification__c</name>
+        <picklistValues>
+            <masterLabel>Secret</masterLabel>
+            <translation><!-- Secret --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Top Secret</masterLabel>
+            <translation><!-- Top Secret --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Display on Reports --></label>
+        <name>Display_on_Reports__c</name>
+    </fields>
+    <fields>
+        <label><!-- End Date --></label>
+        <name>End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- JPAS SMO Code --></label>
+        <name>JPAS_SMO_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Purpose of Request --></label>
+        <name>Purpose_of_Request__c</name>
+    </fields>
+    <fields>
+        <label><!-- Security Clearance --></label>
+        <name>Security_Clearance__c</name>
+        <relationshipLabel><!-- Security Clearance Visit Requests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Security POC Fax --></label>
+        <name>Security_POC_Fax__c</name>
+    </fields>
+    <fields>
+        <label><!-- Security POC Phone --></label>
+        <name>Security_POC_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Security POC --></label>
+        <name>Security_POC__c</name>
+    </fields>
+    <fields>
+        <label><!-- Start Date --></label>
+        <name>Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Technical POC Phone --></label>
+        <name>Technical_POC_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Technical POC --></label>
+        <name>Technical_POC__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>Badge</masterLabel>
+            <translation><!-- Badge --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CAC</masterLabel>
+            <translation><!-- CAC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Finger Print</masterLabel>
+            <translation><!-- Finger Print --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visit</masterLabel>
+            <translation><!-- Visit --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Security Clearance Request Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Point of Contacts --></label>
+            <section>Point of Contacts</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- A visit request cannot be submitted after the end date of the Clearance&apos;s last DD-254. --></errorMessage>
+        <name>No_Visit_Request_After_DD254</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- A visit request can only be submitted for a Security Clearance that has a DD-254. --></errorMessage>
+        <name>Visit_Request_only_if_DD254_is_Present</name>
+    </validationRules>
+    <workflowTasks>
+        <name>An_Associate_s_Security_Clearance_Visit_Request_is_about_to_expire</name>
+        <subject><!-- An Associate&apos;s Security Clearance Visit Request is about to expire. --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

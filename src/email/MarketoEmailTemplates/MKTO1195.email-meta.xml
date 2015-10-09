@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Estimates (1334326751.0)</name>
+    <style>none</style>
+    <subject>Estimates (1334326751.0)</subject>
+    <textOnly>-    1024x768  
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Pamela, I came up with an estimate of $75/hr with and without expenses that would get you to your net take home goal.  The one without expenses would get you to about $5987 in the first month and $6250 in a later month and this is including a 20% total retirement contribution.  The one with expenses just shows how much more you could take home by entering expenses, but the one without expenses shows that if you bill $75/hr you can take home what you need without even having to write off expenses, the expenses are just a bonus in take home.  Please let me know if you have any questions about this. Thanks!Nicolette  ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;bbentley@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

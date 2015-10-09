@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Dec6Web:Career-Change.Reminder Invite</name>
+    <style>none</style>
+    <subject>Webinar Reminder: 3 Principles to Guide Your Independent Transition</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+We would like to remind you that you can join us On Dec 6th at 1pm EST for our free webinar:   &lt;http://info.mbopartners.com/Sept18WebProposals.html&gt;From Burned Out to Fired Up: 3 Principles to Guide Your Independent Transition &lt;http://info.mbopartners.com/Dec6Web_Career-Change.html&gt;.
+
+You&apos;ll hear Ingrid Sarrat of My Coaching Circle &lt;http://www.mycoachingcircle.com/&gt;, a certified Transition, Career and Life Coach, explain the concept of emotional intelligence (EQ), and how you can apply its principles to help your independent business take off.
+
+Register today &lt;http://info.mbopartners.com/Dec6Web_Career-Change.html&gt; to get started on the path to independence!
+
+ 
+___________________________________
+MBO Partners
+t: 1-800-220-0469
+e: info@mbopartners.com &lt;mailto:info@mbopartners.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

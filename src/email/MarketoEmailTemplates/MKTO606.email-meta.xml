@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1325638270.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1325638270.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Craig,
+ 
+I wanted to follow up with you.  I noticed you finished your online enrollment in our system.  Everything looks good, did you have any questions? 
+ 
+We spoke a little bit about your next contract or moving over an existing contract; any update as to the timeline one this would be helpful.  In the meantime please reach out to me once you have something and I can start on the paperwork for it. 
+ 
+Look forward to working with you!
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: TWC payment terms (1343059445.0)</name>
+    <style>none</style>
+    <subject>RE: TWC payment terms (1343059445.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Kevin, It really is – I was so thrilled when this came across my desk! No other updates as of now.
+Welcome back!Sara From: Kevin McCarron [mailto:projects@kevinmccarron.com] 
+Sent: Monday, July 23, 2012 11:35 AM
+To: Sara Conde
+Subject: Re: TWC payment terms This is great news and great progress.
+
+I&apos;ve just returned from a week away - any other updates?
+
+Thanks!
+KevinOn Thu, Jul 19, 2012 at 5:48 PM, Sara Conde &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt; wrote:Hi Kevin,
+
+See below as an FYI net terms for TWC are changing from net 30 to net 15 (woo-hoo!)
+
+Thanks,
+Sara
+
+-----Original Message-----
+From: Hill, Chris [mailto:CHill@weather.com &lt;mailto:CHill@weather.com&gt;]
+Sent: Thursday, July 19, 2012 4:23 PM
+To: Sara Conde
+Subject: terms
+
+i have gotten approval to move MBO to Net-15.  should take effect in the next check run.
+
+chris
+
+
+-- 
+Kevin McCarron
+Founder, Designer &amp; Strategist
+
+Projection Creative | m 404.697.4470 &lt;http://404.697.4470&gt; | kevinmccarron.com &lt;http://kevinmccarron.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

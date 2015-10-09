@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Affiliate Brand Communication</name>
+    <style>none</style>
+    <subject>MBO Partners Refreshes Brand, Site: Sharing News with Our Valued Allies</subject>
+    <textOnly>Dear {{First Name:default=Valued Partner}},
+ 
+As business migrates to the new “Project Economy” with more and more work being procured on a contract basis, MBO Partners felt compelled to enhance our messaging and demonstrate how our solutions are central to this growing trend.
+ 
+To that end, I want you to be among the first to know that MBO Partners is launching a refreshed brand to the marketplace. As one of our valued business affiliates, we believe that your organization should have access to the latest information on trends and influences on the independent contracting movement. Our new sites will provide regular updates and news that will help you serve your constituents.  
+ 
+Please take a moment to review our new web sites:
+ 
+•   www.mboenterprise.com, covering our solutions and value for enterprise organizations;
+•   www.mbopartners.com, an interactive new site for our independent contractor audience; and,
+•   www.mboco.com, providing an overview of what makes up our organization.
+ 
+The Project Economy is changing the way we all get our work done, and MBO is its fuel. Please consider our new sites your “go-to” resources for solutions to your independent contractor questions and challenges. 
+ 
+As always, we thank you for your support and look forward to serving you and your independent contractor needs well into the future. 
+ 
+Sincerely,
+ 
+Gene Zaino
+President and CEO
+MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

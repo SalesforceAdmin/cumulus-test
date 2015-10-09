@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Enrollment Information (1326817094.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Enrollment Information (1326817094.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi George,
+ 
+You are very welcome. Time and billable expenses to the client from as far back as November will not be an issue. However,  we will only allow non-billable expenses (which will lower your taxable income) that are incurred after your start date with us.
+ 
+Please me know if you have any additional questions.
+ 
+Take care!
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: George Owens [mailto:georgeowens@optonline.net] 
+Sent: Tuesday, January 17, 2012 10:53 AM
+To: Sara Conde
+Subject: RE: MBO Partners Enrollment Information
+ 
+Thank you Sara, hopefully I will complete this today. I have hours and expenses that need to billed going back as far as November. Will that be a problem?
+ 
+From: sconde@mbopartners.com [mailto:sconde@mbopartners.com] 
+Sent: Monday, January 16, 2012 2:28 PM
+To: georgeowens@optonline.net
+Subject: MBO Partners Enrollment Information
+ 
+
+Dear George,
+
+Welcome to MBO Partners! Enclosed are the instructions you will need to become an MBO Associate. You can begin and resume this process at any time. 
+Please begin enrollment by clicking here. Continue the online enrollment by following the instructions. At the end of the enrollment process you will be asked to print out the enrollment packet. Please review this packet and follow the proper instructions. Please do not hesitate to call me should you have any questions or concerns. 
+We look forward to working with you. 
+
+Regards, 
+Sara Conde
+Enrollment Manager 
+Direct: 703-793-6028 
+Toll Free: 800-556-0270
+MBO Partners
+13454 Sunrise Valley Dr., Ste 300
+Herndon, VA 20171
+http://www.mbopartners.com 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

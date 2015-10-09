@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1311947407.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1311947407.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Derek,
+ 
+Sorry we missed each other yesterday.  I look forward to speaking with you.  I’ll try and reach out to you later this afternoon.  If you prefer feel free to schedule another time in my outlook by going here https://my.timedriver.com/C9CPC. 
+ 
+I look forward to speaking with you,
+ 
+Steve
+ 
+Director of Associate Enrollment and Market Development
+O:703.793.6011 | M:540.560.8837 | F:703.793.6081
+13454 Sunrise Valley Drive #300 Herndon, VA 20171
+sarhancet@mbopartners.com
+www.mbopartners.com
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

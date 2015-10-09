@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This is the email that will go out for all landing pages</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Landing Pages</name>
+    <style>none</style>
+    <subject>Thank You for Contacting MBO Enterprise Solutions</subject>
+    <textOnly>Dear {{First Name:default=Sir/Madam}},
+
+Thank you for submitting an information request to MBO Enterprise Solutions. Your request is very important to us!
+
+We will contact you within one business day to discuss your request. If you would like to speak with us immediately, please call the MBO Enrollment Manager listed on the web page you were sent, or call 1-800-220-0469 and ask for the account manager team for your client.
+
+At MBO, we make it easier for independent workers and their clients to do business together. We look forward to bringing this convenience to you.
+
+MBO Enterprise Solutions
+An MBO Partners Company</textOnly>
+    <type>custom</type>
+</EmailTemplate>

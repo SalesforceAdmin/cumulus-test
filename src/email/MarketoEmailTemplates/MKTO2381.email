@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ><p style="color: #000000; font-family: tahoma; font-size: 14px; font-weight: normal; line-height: normal;"><span style="font-family: georgia, palatino;">Dear {{lead.First Name:default=Consultant}},</span><br /> <br /><span style="font-family: georgia, palatino;">We would like to remind you that on<strong> February 21 at 1 p.m. ET, we will hold a webinar entitled "<a style="font-family: georgia, palatino;" href="http://info.mbopartners.com/21Feb13WebSuperConnecting_RegistrationPage.html">Three Expert Tips for Superconnecting: How to Build the Relationships That Build Business</a>."<br /></strong></span></p>
+<p style="font-family: tahoma;"><span style="font-family: georgia, palatino;">Our expert guest this month is Judy Robinett, a former corporate CEO, funding guru and entreprenuer who developed a new style of networking that's been referred to as "superconnecting."&nbsp;Judy's creative technique will teach you how to connect with the right people in the right ways to take your business to the next level.</span></p>
+<ol style="font-family: tahoma;"> </ol>
+<p style="color: #000000; font-family: tahoma; font-size: 14px; font-weight: normal; line-height: normal;"><span style="font-family: georgia, palatino;"><a title="Register here!" href="http://info.mbopartners.com/21Feb13WebSuperConnecting_RegistrationPage.html">Register today</a> to revolutionize your independent business in 2013.&nbsp;</span></p>
+<div style="color: #000000; font-family: tahoma; font-size: 14px; font-weight: normal; line-height: normal;"><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span></div>
+<div style="color: #000000; font-family: tahoma; font-size: 14px; font-weight: normal; line-height: normal;"><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">MBO Partners</span></strong></div>
+<div style="color: #000000; font-family: tahoma; font-size: 14px; font-weight: normal; line-height: normal;"><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 1-800-220-0469</span></div>
+<div style="color: #000000; font-family: tahoma; font-size: 14px; font-weight: normal; line-height: normal;"><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> info@mbopartners.com</span></div></span>
+</div>
+</body>
+</html>

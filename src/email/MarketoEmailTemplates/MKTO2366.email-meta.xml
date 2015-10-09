@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>WellPoint Email 1</name>
+    <style>none</style>
+    <subject>Annual WellPoint Ethics and Compliance Training (Action Required)</subject>
+    <textOnly>Dear {{lead.First Name:default=Associate}}, 
+
+
+WellPoint requires that all of its employees and contract workers undergo Ethics and Compliance training each year. Because you are reaching an anniversary of your project&apos;s start date, you must review these training materials once again and send MBO Partners the associated assessment. This training was required when you first were brought on board with MBO, so hopefully it will look familiar.  
+
+
+Required Steps: 
+1. Review the Contractor Overview Presentation &lt;http://info.mbopartners.com/rs/mbo/images/FINAL_WellPoint_Temp_Contractor_Overview.pdf&gt;. 
+2. Complete the Contractor Training Assessment and Certification &lt;http://info.mbopartners.com/rs/mbo/images/WellPoint_Temp_Contractor_Training_Assessment_Certifications_FINAL.PDF&gt;.
+3. Scan/email this assessment to wellpoint@mbopartners.com &lt;mailto:wellpoint@mbopartners.com&gt; by Monday, February 18. 
+As always, if you have any questions, please reach out to me.
+Thanks,
+{{company.BM FName:default=WellPoint team}}
+___________________________________
+{{company.BM FName:default=WellPoint}} {{company.BM LName:default=Team}}
+ Business Manager
+ MBO Partners
+
+ e: {{company.BM Email:default=wellpointteam@mbopartners.com}}
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

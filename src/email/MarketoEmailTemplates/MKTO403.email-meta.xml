@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1323274770.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1323274770.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Soyung,
+ 
+I wanted to touch base again regarding the services offered by MBO Partners.  We actually just came out with a pretty cool site featuring some of the associates who use MBO, you can view that here: http://info.mbopartners.com/meet-the-independents. 
+ 
+Look forward to chatting with you when you have some time.  You can easily book a time convenient for you in my online schedule by going here: https://my.timedriver.com/C9CPC.
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

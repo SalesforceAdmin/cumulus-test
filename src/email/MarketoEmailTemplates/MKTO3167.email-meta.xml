@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>DC Breakfast notification</name>
+    <style>none</style>
+    <subject>Breakfast Workshop for Consultants - Are you able to attend?</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+
+We&apos;d like to notify you of a breakfast workshop for consultants in Tyson’s Corner on March 13th.
+
+It’s called “Same Rain, Bigger Drops” and is based on an extremely popular speech given at Consulting Magazine’s Consulting Summit a few weeks ago.
+
+The breakfast workshop is free, and includes breakfast at the Ritz Carlton. (Well, almost free. To register, you’re asked to donate $30 to Make-A-Wish, which is less than the cost of breakfast at the Ritz!). You can register at this link: http://nynen.com/biggerdrops-va &lt;http://nynen.com/biggerdrops-va&gt;
+
+If you have any questions, feel free to reply to this email!
+___________________________________
+MBO Partners
+
+t:  703-793-6000
+ e: communications@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

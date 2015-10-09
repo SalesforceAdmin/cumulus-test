@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Sept18Web:Proposals.Reminder Invite</name>
+    <style>none</style>
+    <subject>Reminder: 4 Keys to Win New Business</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+We would like to remind you that you can join us Tuesday, September 18 at 1pm EST for our free webinar: Win New Consulting Business: The Four Keys to Writing a Successful Proposal &lt;http://info.mbopartners.com/Sept18WebProposals.html&gt;.
+
+In this free webinar, prominent proposal writer Tom Sant, whom the American Management Association calls, “America’s foremost practitioner of proposal writing,&quot; will teach you four keys to make your proposal stand out— and win the contract. 
+
+Grow your business by registering &lt;http://info.mbopartners.com/Sept18WebProposals.html&gt; today.
+
+ 
+___________________________________
+MBO Partners
+t: 1-800-220-0469
+e: info@mbopartners.com &lt;mailto:info@mbopartners.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

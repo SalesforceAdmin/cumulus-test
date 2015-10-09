@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This is the first invitational email for the Webinar program. Created by Whitney Downer, 2/2/12.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>3Mar12Web:ConsultingRates.Invite</name>
+    <style>none</style>
+    <subject>Need help calculating your consulting rate?</subject>
+    <textOnly>MBO Partners 2012 Webinar Series presents:
+
+{{my.title:default=edit me}}
+
+
+Hello {{lead.First Name:default=Sir/Maddam}},
+
+Join me on {{my.date2:default=edit me}} to learn how to calculate your bill rate. In this hour-long webinar, you will see an overview of the possible approaches to calculating your bill rate. Then, you will learn step-by-step directions on the best way to arrive at a pricing strategy that&apos;s best for you.
+
+
+In addition, several independent consultants will be joining me on the call to share their real-life stories developing their own bill rates.
+
+
+{{my.title:default=edit me}}
+
+
+{{my.date2:default=edit me}}
+
+
+Register today: http://info.mbopartners.com/Calculating-Bill-Rates.html
+
+
+I look forward to discussing this topic further with you.
+
+
+Regards,
+
+
+{{my.advisor:default=Steve}}
+
+
+MBO Partners 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171
+Contact Us: http://www.mboco.com/contact</textOnly>
+    <type>custom</type>
+</EmailTemplate>

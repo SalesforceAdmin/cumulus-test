@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>30Jan-WorkLife.Sorry Missed</name>
+    <style>none</style>
+    <subject>Sorry we missed you - Resources from our work+life fit Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+You were missed at our  “Taking Control of Your Work+Life &quot;Fit&quot; as an Independent Professional&quot; webinar held on Thursday, January 30. Flexible work strategist and author Cali Williams Yost shared practical advice on managing your unique work+life fit on a day-to-day basis.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+Recorded webinar &lt;http://video.mbopartners.com/players/38FVT5SY-mMm4x1IW.html&gt;
+Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/Cali%20Yost--1_30_14%20_Tweak%20it.pdf&gt;
+Connect with Cali Williams Yost &lt;http://www.linkedin.com/in/caliwilliamsyost&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

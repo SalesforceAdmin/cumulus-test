@@ -1,0 +1,1 @@
+{!Overview__kav.ArticleNumber}: {!Overview__kav.Title} is going to expire on {!Overview__kav.Expiration__c}. Please review and make updates if necessary here: {!Overview__kav.Link}

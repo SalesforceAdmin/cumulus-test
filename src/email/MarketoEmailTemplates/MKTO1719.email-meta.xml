@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Insurance Contact (1342030522.0)</name>
+    <style>none</style>
+    <subject>Insurance Contact (1342030522.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Jim, Below is the contact information for a good insurance broker. I have copied him on this email to let him know you may be contacting him: Michael Cronin, CLCS 
+Account Executive, Commercial Lines
+ 
+THE INSURANCE EXCHANGE, INC. &lt;http://www.tie-inc.com/doc.asp?id=9&gt; 
+9713 Key West Ave., Suite #401 
+Rockville, MD 20850(800)346-1403 (toll free)
+(301)545-1579 (direct)
+(301)330-1270 (fax) 
+Cronin.M@Tie-Inc.com &lt;mailto:Cronin.M@Tie-Inc.com&gt;  Have a great day!Nicolette From: Jim Rayburn [mailto:jim@icmatoday.com] 
+Sent: Wednesday, July 11, 2012 10:27 AM
+To: Nicolette Taylor
+Subject: RE: MBO Partners Follow Up Nicolette – for today’s telecon at 11AM MDT, would you please call my cell (520) 954-1587.Thanks.Jim From: Nicolette Taylor [mailto:ntaylor@mbopartners.com] &lt;mailto:[mailto:ntaylor@mbopartners.com]&gt; 
+Sent: Monday, July 09, 2012 1:55 PM
+To: jim@icmatoday.com &lt;mailto:jim@icmatoday.com&gt;
+Subject: FW: MBO Partners Follow Up Hi Jim, I received your voicemail from Friday, and I apologize for the delay in getting back to you today.  I will not have any time to speak today, but would you have some time tomorrow to speak?  Please see my email below that has a link to my calendar for you to see what times are available. I look forward to speaking with you soon! Nicolette From: Nicolette Taylor 
+Sent: Friday, July 06, 2012 5:36 PM
+To: &apos;jim@icmatoday.com&apos;
+Subject: MBO Partners Follow Up Dear Jim,  As a courtesy, I wanted to follow up on the voicemail I left you.  My name is Nicolette Taylor and I’ll be responsible for answering any questions you may have and providing you an overview of our services.  You may easily book a time that is convenient for you to chat using my online schedule &lt;https://my.timedriver.com/9TGRK&gt;. You may also watch a short video about who we are on YouTube &lt;http://www.youtube.com/watch?v=zKDzwSTmGv4&amp;hd=1&gt;.  You may also look at some of the stories from indepdenents &lt;http://info.mbopartners.com/meet-the-independents.html&gt; who use MBO Partners. I look forward to speaking with you, Nicolette </textOnly>
+    <type>custom</type>
+</EmailTemplate>

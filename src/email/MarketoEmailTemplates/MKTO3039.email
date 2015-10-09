@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " class="mktEditable" id="edit_text" ><p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">Hello {{lead.First Name:default=future associate}},</span></p>
+<p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">I hope you are doing well. I wanted to touch base and see how the contract search is going?<br /></span></p>
+<p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">We have a number of consultant resources that we continually update that you may find helpful.&nbsp;&nbsp;&nbsp;You&nbsp;may find them here: <a href="http://www.mbopartners.com/resources">http://www.mbopartners.com/resources</a>.&nbsp; In addition, if you have any suggestions for new resources that might help other consultants - please let us know!</span></p>
+<p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">I look forward to hearing from you.</span></p>
+<p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">Best regards,</span></p>
+<div>
+<div>
+<div>{{lead.EM FName:default=Sara}} &nbsp;{{lead.EM LName:default=Conde}}<span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">Consultant Services Advisor<br /></span></strong></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> {{lead.EM Phone:default=703-793-6028}}<br /></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">f:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 703-793-6070</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong><span style="color: #353433;"><span style="font-family: 'Georgia','serif';"> {{lead.EM Email:default=sconde@mbopartners.com}}</span><strong>&nbsp;</strong></span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong><span style="font-family: 'Georgia','serif';"> <span style="color: #353433;"><a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></span></div>
+</div>
+</div></div>
+</body>
+</html>

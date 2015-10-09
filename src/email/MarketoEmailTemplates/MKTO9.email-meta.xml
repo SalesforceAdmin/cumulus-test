@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email is to be sent out as a Thank you email when a lead completes the form.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>ES Talk To Us</name>
+    <style>none</style>
+    <subject>Thank you for your interest</subject>
+    <textOnly>Test
+
+Thank you for your interest in MBO Enterprise Services</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners/Zintro Follow Up (1342626139.0)</name>
+    <style>none</style>
+    <subject>MBO Partners/Zintro Follow Up (1342626139.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Nagendra Prasad, Thank you for requesting more information from MBO Partners.  I look forward to speaking with you about our services, if you prefer you can book a time to chat using my online schedule by going here &lt;https://my.timedriver.com/9TGRK&gt;.  As a courtesy, I’ll also be reaching out to you through the number you provided.  Below you’ll find the links to information you requested:
+	- You’re copy of the consulting rate guide is broken out into three calculation methods which are hyperlinked from our table of contents which you can access by clicking here &lt;http://www.mbopartners.com/files/pdfs/mbo-bill-rate-resource-guide.pdf&gt;. 	- Short 2 minute video &lt;http://www.youtube.com/watch?v=zKDzwSTmGv4&gt; on MBO.
+ Look forward to speaking with you soon, Nicolette  ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

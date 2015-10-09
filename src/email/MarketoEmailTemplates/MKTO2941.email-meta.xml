@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>20NovWeb-Workflow-Mgmt.Invite 3.0</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, don&apos;t forget tomorrow&apos;s time management webinar</subject>
+    <textOnly>Tomorrow, on Wednesday, November 20 at 1 p.m. ET, we will hold a webinar titled &quot;Workflow and Time Management Tips for the Self-Employed Workforce &lt;http://info.mbopartners.com/20NovWebWorkflowMgmt_RegistrationPage.html&gt;.&quot;
+
+MBO Partners is inviting expert executive consultant, facilitator and trainer Perry Pockros to present a 3 part workflow framework to maximize the efficiency of your solo business.
+If you are interested, I encourage you to register even if you can&apos;t make it tomorrow, as we will send you the recording and a copy of the slides early next week.
+Register today &lt;http://info.mbopartners.com/20NovWebWorkflowMgmt_RegistrationPage.html&gt;!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

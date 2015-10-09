@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Follow up on Inquiry with MBO  (1313771568.0)</name>
+    <style>none</style>
+    <subject>Follow up on Inquiry with MBO  (1313771568.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Jason,
+ 
+My name is Nicolette and I am part of the Direct Enrollment team with MBO.  I received the inquiry you placed in our system and wanted to follow up with you and set up a time for us to speak early next week.  I know you mentioned you were only available during the week before 10am so would early next week sometime between 9-9:30 work for you (our business hours are 9-5:30)?  Please let me know your availability and I would be happy to reach out to you.
+ 
+I look forward to speaking with you!
+ 
+Have a great weekend,
+ 
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

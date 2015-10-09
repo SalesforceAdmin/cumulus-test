@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Enrollment Information (1349731306.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Enrollment Information (1349731306.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Ogechi, This is the link to sign up with MBO, it pretty similar to “first day on the job” type paperwork.  I wanted you to at least get a chance to review it. Also as an FYI, you can make changes to all benefit selections up to 30 days after your hire date (so don’t feel you are stuck with something you select during the initial sign up.) At the end, an I-9 will populate; you will sign/date section 1 and a local notary will sign/date section 2 ( there will be instructions on how to complete this form in your enrollment documents as well.) You can send this back to me via email (I don’t need a hard copy.)   Please feel free to reach out to me with any questions.
+Thanks!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  From: sconde@mbopartners.com [mailto:sconde@mbopartners.com] 
+Sent: Monday, October 08, 2012 5:16 PM
+To: ogechi@methodmatrix.com
+Subject: MBO Partners Enrollment Information 
+Dear Ogechi,
+Welcome to MBO Partners! Enclosed are the instructions you will need to become an MBO Associate. You can begin and resume this process at any time. 
+	- Please begin enrollment by clicking here &lt;https://app1.mbopartners.com/servlet/entry?display=PersonalInfo&amp;ec=MBOMBE&amp;reset=true&amp;cd=10A4CA0A5ABDF5A7B05C40&gt;. 	- Continue the online enrollment by following the instructions. 	- At the end of the enrollment process you will be asked to print out the enrollment packet. Please review this packet and follow the proper instructions. Please do not hesitate to call me should you have any questions or concerns. 
+
+We look forward to working with you. 
+Regards, Sara CondeEnrollment Manager Direct: 703-793-6028 Toll Free: 800-556-0270MBO Partners13454 Sunrise Valley Dr., Ste 300Herndon, VA 20171http://www.mbopartners.com  &lt;http://www.mbopartners.com%20&gt;Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

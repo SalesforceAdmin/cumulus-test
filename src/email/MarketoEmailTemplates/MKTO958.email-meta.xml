@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Introduction To Your New Business Manager (1328820440.0)</name>
+    <style>none</style>
+    <subject>Introduction To Your New Business Manager (1328820440.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE               MicrosoftInternetExplorer4                                                                                                                                                               Dear Debbie,
+ 
+It was a pleasure working with you up to this point.  We appreciate your on-going business.  As I mentioned you’ll now work with your new Business Manager, Abby Tiralla here at MBO Partners, who will be your one point of contact should you have any questions.  I’ve already informed Abby of important details regarding your working arrangement(s).  As a reminder you may always go to our private informational area for answers to frequently asked questions. 
+ 
+Abby will be reaching out to you shortly to introduce herself.  Lastly, should you be interested in participating in our Meet The Independents initiative we encourage you to share your story with us.
+ 
+Regards,
+ 
+Nicolette
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Enrollment Information (1337098280.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Enrollment Information (1337098280.0)</subject>
+    <textOnly>- 
+	-    1024x768  
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Amy, I’m glad to hear that and am looking forward to working with you!  When you go through the enrollment process you may select your 401k contribution amounts but it is not set in stone so we could always go over it and change it once your account is activated.  If you need any assistance throughout the enrollment process please do not hesitate to reach out to me. Thank you and have a great day,Nicolette ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;bbentley@mbopartners.com&gt; and permanently delete the e-mail and files.  From: Amy Douglas [mailto:amydouglas@comcast.net] 
+Sent: Tuesday, May 15, 2012 12:53 AM
+To: Nicolette Taylor
+Cc: &apos;Cheryl Schaar&apos;
+Subject: RE: MBO Partners Enrollment Information Hi Nicolette I have decided to proceed with MBO and will complete my enrollment tomorrow.  I look to maximize my 401K first.  I may need to reach out for help but will attempt on my own first. Cheryl – once I am enrollment Nicolette mentioned they will need a work order from you. ThanksAmy Douglas From: ntaylor@mbopartners.com [mailto:ntaylor@mbopartners.com &lt;mailto:ntaylor@mbopartners.com&gt;] 
+Sent: Monday, May 14, 2012 2:41 PM
+To: amydouglas@comcast.net &lt;mailto:amydouglas@comcast.net&gt;
+Subject: MBO Partners Enrollment Information 
+Dear Amy,
+Welcome to MBO Partners! Enclosed are the instructions you will need to become an MBO Associate. You can begin and resume this process at any time. 
+	- Please begin enrollment by clicking here &lt;https://app1.mbopartners.com/servlet/entry?display=PersonalInfo&amp;ec=MBOMBE&amp;reset=true&amp;cd=10A4AF42B02F5B55403E40&gt;. 	- Continue the online enrollment by following the instructions. 	- At the end of the enrollment process you will be asked to print out the enrollment packet. Please review this packet and follow the proper instructions. Please do not hesitate to call me should you have any questions or concerns. 
+
+We look forward to working with you. 
+Regards, Nicolette TaylorEnrollment Manager Direct: 703-793-6281 Toll Free: 800-556-0270 MBO Partners13454 Sunrise Valley Dr., Ste 300Herndon, VA 20171http://www.mbopartners.com  Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com &lt;http://www.mbopartners.com%20&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

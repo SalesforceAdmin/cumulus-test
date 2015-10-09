@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Payment Notification for Kevin McCarron (20841) (1341940414.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Payment Notification for Kevin McCarron (20841) (1341940414.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Kevin, Pre-note is just when ADP makes sure your bank account info is accurate by putting in a deposit of 0 and making sure it goes through. This will not be an issue for you as it usually done within in a week of becoming active with MBO.  You are all set to get these funds paid out on Friday.
+Thanks!Sara From: Kevin McCarron [mailto:projects@kevinmccarron.com] 
+Sent: Tuesday, July 10, 2012 12:30 PM
+To: Sara Conde
+Subject: Re: MBO Partners Payment Notification for Kevin McCarron (20841) Thanks, Sara.
+
+What is the &apos;pre-note&apos; process?  I was just looking at the Direct Deposit settings and saw this.
+
+Are there any final edits that need to be made in order for payroll to post this Friday?
+
+Kevin
+On Tue, Jul 10, 2012 at 12:05 PM, &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt; wrote:We received the following payment(s) today, 07/10/2012 on your behalf:2,673.00 Fee The Weather Channel - McCarron - Invoice: 371248 - May 21, 2012 - May 25, 2012
+
+Sincerely,
+The MBO Partners Billing/AR Department
+
+-- 
+Kevin McCarron
+Founder, Designer &amp; Strategist
+
+Projection Creative | m 404.697.4470 &lt;http://404.697.4470&gt; | kevinmccarron.com &lt;http://kevinmccarron.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

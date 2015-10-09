@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Created by Whitney Downer, 2/24/12.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>3Mar12Web:ConsultingRates.Invite1</name>
+    <style>none</style>
+    <subject>Need help calculating your consulting rate?</subject>
+    <textOnly>Hello {{lead.First Name:default=Sir/Maddam}},
+
+Join me on {{my.date2:default=edit me}} to learn how to calculate your bill rate -- or hourly rate for services. In this hour-long webinar, you will see an overview of the possible approaches to calculating your bill rate. Then, you will learn step-by-step directions on the cost-based pricing method.
+
+{{my.title:default=edit me}} also will include the story of a real-life MBO associate&apos;s approach to calculating the right personal rate.
+
+Join us on {{my.date2:default=edit me}}, from 12:30-1:30 pm EST.
+
+Register today - http://info.mbopartners.com/Calculating-Bill-Rate.html
+
+I look forward to discussing this topic further with you.
+
+Regards,
+
+{{my.advisor:default=Steve}}</textOnly>
+    <type>custom</type>
+</EmailTemplate>

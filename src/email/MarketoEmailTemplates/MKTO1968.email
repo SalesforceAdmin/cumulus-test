@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Test</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" >
+<p><span style="font-size: 9pt; font-family: Georgia, serif;">Dear {{lead.First Name:default=Independent Consultant}},</span></p>
+<p><span style="font-size: 9pt; font-family: Georgia, serif;">Thank you for requesting the guide for the Launch phase of the Independent&rsquo;s Guide.
+      Enclosed is a link to a PDF file containing the information you requested.
+ </span></p>
+<p><span style="font-size: 9pt; font-family: Georgia, serif;">To view your requested content, click </span><span style="font-size: 9pt; font-family: Georgia, serif;"><a href="http://info.mbopartners.com/rs/mbo/images/Surviving_The_First_Week.pdf">here</a></span><span style="font-size: 9pt; 
+font-family: Georgia, serif;">.<br /> <br /> For further information about taking your independent business to the next level, read the stories of </span><a href="http://info.mbopartners.com/meet-the-independents.html"><span style="font-size: 9pt; font-family: Georgia, serif;">successful      
+independents</span></a><span style="font-size: 9pt; font-family: Georgia, serif;"> or sign up for our monthly </span><a href="http://www.mbopartners.com/independent-consulting-brief"><span style="font-size: 9pt; font-family: Georgia, serif;">Independent Consulting Brief</span></a><span 
+style="font-size: 9pt; font-family: Georgia, serif;">.<br /> <br /> <span style="color: #999999;">__________________________________</span></span></p>
+<p><strong><span style="color: #a00b10; font-size: 9pt; font-family: Georgia, serif;">MBO Partners</span></strong></p>
+<p><strong><span style="color: #353433; font-size: 9pt; font-family: Georgia, serif;">t:</span></strong><span style="color: #353433; font-size: 9pt; font-family: Georgia, serif;"> 1-800-220-0469</span></p>
+<p><strong><span style="color: #353433; font-size: 9pt; font-family: Georgia, serif;">e:</span></strong><span style="color: #353433; font-size: 9pt; font-family: Georgia, serif;"> </span><span style="font-size: 9pt; font-family: Georgia, serif;"><a 
+href="mailto:info@mbopartners.com">info@mbopartners.com</a></span></p>
+</span>
+</div>
+</body>
+</html>

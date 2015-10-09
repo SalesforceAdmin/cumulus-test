@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners (1312208705.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners (1312208705.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Kevin,
+ 
+No problem. 
+ 
+Regards,
+ 
+Steve
+ 
+From: Jacobs, Kevin J. [mailto:kjacobs@mitre.org] 
+Sent: Friday, July 29, 2011 11:30 AM
+To: Steve Arhancet
+Subject: RE: MBO Partners
+ 
+Steve,
+Thanks for your response to my enquiry. I will contact you if/when I have more questions.
+Kevin
+ 
+From: Steve Arhancet [mailto:sarhancet@mbopartners.com] 
+Sent: Friday, July 29, 2011 11:11 AM
+To: Jacobs, Kevin J.
+Subject: MBO Partners
+ 
+Kevin,
+ 
+Enclosed is the GSA Guide that may answer some of the questions you have about our relationship with the GSA Schedule.  If you have further questions or would like to discuss please schedule time in my online schedule by going here: https://my.timedriver.com/C9CPC. 
+ 
+I look forward to speaking with you,
+ 
+Steve
+ 
+Director of Associate Enrollment and Market Development
+O:703.793.6011 | M:540.560.8837 | F:703.793.6081
+13454 Sunrise Valley Drive #300 Herndon, VA 20171
+sarhancet@mbopartners.com
+www.mbopartners.com
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

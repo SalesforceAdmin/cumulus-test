@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Coworking Connection</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Client}}, coworking and the Affordable Care Act</subject>
+    <textOnly>WELCOME TO THE COWORKING CONNECTION
+Thank you for signing up for the inaugural Coworking Connection. I&apos;m Dave Putt, VP Client and Consultant Services at MBO Partners, and each month, my team will share content that helps educate self-employed workers on topics that matter to them. This month, we focused in the Affordable Care Act, creating this handout &lt;http://info.mbopartners.com/rs/mbo/images/Coworking_Connection_ACA-Handout.pdf&gt; you can share with any self-employed workers that are interested in learning more about the ACA.
+
+If you or your membership have any further questions about the healthcare law or being self-employed, please email me &lt;mailto:communications@mbopartners.com&gt;. I look forward to hearing from you!
+INDEPENDENTS AND THE AFFORDABLE CARE ACT - DOWNLOAD THE GUIDE TODAY
+America&apos;s new healthcare law raises many questions for the self-employed. Which parts apply to independents? Will they need to change their coverage? To help answer these and other basic questions about the ACA, MBO Partners has created a downloadable guide you can use to learn more about the healthcare law. 
+Read More  &lt;http://www.mboenterprise.com/blog/recent-reclassification-cases-70000-pound-gorilla-room&gt;
+HEALTH INSURANCE OPTIONS FOR INDEPENDENT CONSULTANTS
+For independent consultants, cutting ties with some of the constraints of a corporate workplace can also mean losing some of the perks – including the health benefits offered by many employers. According to our State of Independence in America report... Read More  &lt;http://www.mbopartners.com/blog/health-insurance-options-independent-consultants&gt;
+FEATURED WEBINAR
+The Affordable Care Act - What Independent Consultants Need to Know &lt;http://www.mbopartners.com/webinar-affordable-care-act-what-independent-consultants-need-know&gt;
+Hear MBO CEO Gene Zaino break down the basics of the ACA as they apply to independent consultants.
+SLIDESHOW
+ACA Webinar Slides &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_ACA%20Webinar_Slides.pdf&gt;
+INFOGRAPHIC
+Top 3 Workforce Predictions 2014 &lt;http://www.mbopartners.com/state-of-independence/workforce-predictions-2014.html&gt;
+CONTACT US
+affiliate@mbopartners.com
+703.793.6014
+For more information, sign up &lt;http://info.mbopartners.com/AffiliateReferralProgram_apply.html&gt; for our Affiliate Referral program today.
+
+www.mbopartners.com
+© 2012 MBO Partners. 13454 Sunrise Valley Drive Suite 300 Herndon, VA 20171</textOnly>
+    <type>custom</type>
+</EmailTemplate>

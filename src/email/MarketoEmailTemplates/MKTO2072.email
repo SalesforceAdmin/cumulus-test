@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><div>Dear {{lead.First Name:default=ACC Attendee}},</div>
+<div><br />Thank you for taking the time to stop by the MBO Enterprise Solutions booth at the ACC Annual Meeting. It was a pleasure speaking with you about how MBO helps companies like yours to engage their independent contractors more safely and easily.</div>
+<div><br />As promised, we are following up with you to offer an executive briefing that takes a close look at IC risk and best practices for mitigating it. The briefing summarizes what we have learned from over 25 years of specializing in IC engagements and implementing over 50 IC compliance programs at Fortune 500 and other large companies.</div>
+<div><br />No one understands independent consulting like MBO. We have the research to support why there will continue to be increased demand for these expert resources and increased risk to businesses that do not vet and engage them appropriately. Executives in Legal, Procurement, and HR departments have told us that this briefing was critical to their business case for change.</div>
+<div><br />If you are interested in scheduling an executive briefing with the experts at MBO, please let me know and we will find a time that fits your schedule.</div>
+<div><br />Thanks for your time and interest!</div>
+<div><br />Respectfully,<br /> <br />Steve</div>
+<div><br />P.S. If you haven&rsquo;t seen it yet, here is an article from the ACC web site that has been downloaded over 1,000 times. I thought you may find it interesting: <a href="http://www.acc.com/legalresources/publications/topten/Independent-Contractor-Misclassification-Risks.cfm"><em>Top Ten Ways to Determine If You Have an Independent Contractor Compliance Issue: Understanding and Recognizing Misclassification Ri</em>sk</a>.</div>
+<div><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';"><br />__________________________________</span></div>
+<div><strong><span style="color: #a00b10; font-family: 'Georgia','serif';">Steve Taggart</span></strong></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">Account Executive, Enterprise Solutions</span></strong></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span></div>
+<div><span style="color: #353433; font-family: 'Georgia','serif';">&nbsp;</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 703.793.6014</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">f:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> 703.793.6452</span></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong><span style="color: #353433; font-family: 'Georgia','serif';"> </span><a href="mailto:staggart@mbopartners.com"><span style="color: #353433; font-family: 'Georgia','serif';">staggart@mboenterprise.com</span></a></div>
+<div><strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong><span style="font-family: 'Georgia','serif';"> </span><a href="http://www.mbopartners.com/"><span style="color: #353433; font-family: 'Georgia','serif';">www.mboenterprise.com</span></a></div></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ></div>
+</body>
+</html>

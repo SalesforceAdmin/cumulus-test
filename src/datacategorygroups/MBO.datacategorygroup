@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Payments</label>
+                <name>Payments</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Invoices</label>
+                <name>Invoices</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Fees</label>
+                <name>Fees</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Business Taxes</label>
+                <name>Business_Taxes</name>
+            </dataCategory>
+            <label>Billing &amp; Payment</label>
+            <name>Billing_Payment</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Payroll Schedule</label>
+                <name>Payroll_Schedule</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Withholding</label>
+                <name>Withholding</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Garnishments</label>
+                <name>Garnishments</name>
+            </dataCategory>
+            <label>Payroll</label>
+            <name>Payroll</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Insurance - Health</label>
+                <name>Insurances</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Insurance - Dental</label>
+                <name>Insurance_Dental</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Insurance - LTD</label>
+                <name>Insurance_LTD</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Insurance - Life</label>
+                <name>Insurance_Life</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Retirement</label>
+                <name>Retirement</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Benefits Eligibility</label>
+                <name>Benefits_Eligibility</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Staff Benefits</label>
+                <name>Staff_Benefits</name>
+            </dataCategory>
+            <label>Benefits</label>
+            <name>Benefits</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Time</label>
+            <name>Time</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Expense Policy</label>
+                <name>Expense_Policy</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Medical Expnses</label>
+                <name>Medical_Expnses</name>
+            </dataCategory>
+            <dataCategory>
+                <label>American Express Card</label>
+                <name>American_Express_Card</name>
+            </dataCategory>
+            <label>Expenses</label>
+            <name>Expenses</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Bill and Pay Rates</label>
+                <name>Bill_and_Pay_Rates</name>
+            </dataCategory>
+            <label>Work Orders</label>
+            <name>Work_Orders</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Security Clearances</label>
+                <name>Security</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Unemployment</label>
+                <name>Unemployment</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Workers Compensation</label>
+                <name>Workers_Compensation</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Employment Verification</label>
+                <name>Employment_Verification</name>
+            </dataCategory>
+            <label>Associate HR</label>
+            <name>Associate_HR</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Contracts</label>
+                <name>Contracts</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Insurance - MBO Corporate</label>
+                <name>Insurance_Corporate</name>
+            </dataCategory>
+            <dataCategory>
+                <label>FLSA/Overtime</label>
+                <name>FLSA_Overtime</name>
+            </dataCategory>
+            <label>Legal</label>
+            <name>Legal</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Enrollment</label>
+                <name>Enrollment</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Compliance/VAST</label>
+                <name>Compliance_VAST</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Client Onboarding</label>
+                <name>Client_Onboarding</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Immigration/Foreign</label>
+                <name>Immigration_Foreign</name>
+            </dataCategory>
+            <label>Associate Engagement</label>
+            <name>Associate_Engagement</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Miscellaneous</label>
+                <name>Miscellaneous</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Service Offering</label>
+                <name>Service_Offering</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Associate Type</label>
+                <name>Associate_Type</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Associate Status</label>
+                <name>Associate_Status</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Marketing</label>
+                <name>Marketing</name>
+            </dataCategory>
+            <label>MBO Partners</label>
+            <name>MBO_Partners</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>CRG</label>
+                <name>CRG</name>
+            </dataCategory>
+            <dataCategory>
+                <label>RFQ/RFP</label>
+                <name>RFQ_RFP</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Federal Government</label>
+                <name>Federal_Government</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Vendor Management System (VMS)</label>
+                <name>VMS</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Managed Service Provider (MSP)</label>
+                <name>MSP</name>
+            </dataCategory>
+            <label>Clients</label>
+            <name>Clients</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Email Notifications</label>
+                <name>Email_Notifications</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Business Center</label>
+                <name>Business_Center</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Team Center</label>
+                <name>Team_Center</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Technical Support</label>
+                <name>Technical_Support</name>
+            </dataCategory>
+            <label>System</label>
+            <name>System</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>MBO Subject</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

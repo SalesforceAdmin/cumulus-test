@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Introduce Jeanne Ann Davidson (1362089317.0)</name>
+    <style>none</style>
+    <subject>RE: Introduce Jeanne Ann Davidson (1362089317.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                Hi Jeanne Ann, Per the introduction from Jill I wanted to reach out and introduce myself and see when a good time to reach out to speak would be.  I have included a link to my calendar for you to select a convenient time for us to speak and you can access it by clicking here &lt;http://mkto-l0128.com/track?t=c&amp;enid=bWlkPW1ib0JldGFjdXN0LTAtMC0wLTAtcHJvZC0wJm1zZ2lkPTAmZGlkPTEyMzQmc249MCZlaWQ9ZXJpa0BlYWhhbnNvbi5jb20mdWlkPTAmZXh0cmE9TVRFeWZITnlZMmxrUFRrM2ZHMWhhV3hwWkQwNE4yVTFNamMyTkMweE4ySXpMVFEyTURndE9XRmtZaTFrWmpneVpHWmhOR1ZpT1dJdE9UZDhabkp2YlQxdWRHRjViRzl5UUcxaWIzQmhjblJ1WlhKekxtTnZiWHh6ZFdKcVBVMUNUeUJRWVhKMGJtVnljeUJHYjJ4c2IzY2dWWEE9PSYmJg==&amp;&amp;&amp;https://my.timedriver.com/9TGRK?mkt_tok=2xUAKZjCfkNQvmdz6vSYLLrikXvDdZXC0dYXY52MuKVUsyIUGIalUg%3D%3D&gt;. I look forward to speaking with you soon and sharing more information about MBO Partners. Have a great afternoon,Nicolette From: Jill Hyche [mailto:jillhyche@gmail.com] 
+Sent: Friday, February 22, 2013 11:45 AM
+To: Nicolette Taylor
+Cc: Jeanne Ann Davidson; Jill Hyche
+Subject: Introduce Jeanne Ann Davidson Nicolette, I would like to introduce Jeanne Ann Davidson to you and MBO. She and I worked together on some projects at the Board of Regents. She retired at the same time as me and is interested in pursuing some contract work with the BOR and would like to touch base with you. Thanks,Jill</textOnly>
+    <type>custom</type>
+</EmailTemplate>

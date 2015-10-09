@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " ><span class="mktEditable" id="edit_text" ><p>&nbsp;<img title="2012 Webinar Series" src="http://info.mbopartners.com/rs/mbo/images/2012webinar-head.gif" alt="2012 Webinar Series" width="350" height="158" align="bottom" /></p>
+<p>&nbsp;</p>
+<p>Hello {{lead.First Name:default=Sir/Madam}},</p>
+<p>Sorry you were not able to attend our webinar, {{my.title:default=edit me}} on {{my.date:default=edit me}}. For your convenience, I am providing you with the <a title="Recorded Webinar" href="http://www.mbopartners.com/roi-you-how-baby-boomers-can-cash-build-new-entrepreneurial-business-careers" target="_blank">recorded webinar</a> and the <a title="Slide Deck" href="http://info.mbopartners.com/rs/mbo/images/The_ROI_in_You_3.30.12_FINAL.pdf" target="_blank">slides</a>. I hope you find the content informative and relevant.</p>
+<p>In addition, I encourage you to take our <a title="Are You Ready to go Solo?" href="http://info.mbopartners.com/are-you-ready-to-go-solo-quiz.html" target="_blank">quiz</a> to uncover whether you are ready to go solo. If you would like to read the stories of current Boomer Independents, please visit our <a title="Meet the Independents" href="http://info.mbopartners.com/meet-the-independents.html" target="_blank">Meet the Independents</a> site.</p>
+<p>I am also proud to provide you with a copy of our <a title="Boomer Study" href="http://info.mbopartners.com/rs/mbo/images/MBO_Boomer_Report_Final.pdf" target="_blank">Boomer study</a> that was released today.</p>
+<p>Make sure to join the rest of our webinar series by <a title="2012 Webinar Series" href="http://info.mbopartners.com/2012SeriesSignUp.html" target="_blank">signing up</a> for more information.</p>
+<p>&nbsp;</p>
+<p>Regards,</p>
+<p>Gene</p></span>
+</div>
+</body>
+</html>

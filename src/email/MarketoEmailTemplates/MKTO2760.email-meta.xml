@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Lead Email 9</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, do you have the right tech to be independent?</subject>
+    <textOnly>{{lead.First Name:default=Consultant}}, 
+The game has changed; if you&apos;re self-employed, you need the right technology to support your solo business.
+Since we can&apos;t all be IT experts, MBO Partners has created the Technology 101 downloadable guide &lt;http://www.mbopartners.com/independents-guide/launch/technology-101&gt;. It&apos;s packed with tips and tricks specifically tailored to the self-employed.
+If you have any further questions about independent consulting tech or being self-employed, please don&apos;t hesitate to ask.
+___________________________________
+Aassia Haq
+Chief Marketing Officer
+MBO Partners
+
+ e: communications@mbopartners.com &lt;mailto:info@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

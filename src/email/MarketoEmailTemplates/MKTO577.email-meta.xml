@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Net Cash Estimates (1325181897.0)</name>
+    <style>none</style>
+    <subject>RE: Net Cash Estimates (1325181897.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Calvin,
+ 
+The Business Center Payroll taxes are actually broken down on the far right side of the estimate in the “Business Center Payroll Tax Breakdown” box.  It shows the percentages, and any caps those taxes have.  The taxes included in the BCPT’s are Federal Unemployment, State Unemployment, Workers Comp, Social Security and Medicare (employer side of FICA).
+ 
+There is no minimum monthly service fee, the only fee we take is off the top of gross billings.  That fee is 5% on the first $125,000 in gross billings and drops to 1.5% after the initial $125,00 and resets to 5% every year on the anniversary of your activation date.
+ 
+Please let me know if you have any additional questions.
+ 
+Thanks!
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Calvin Ludema [mailto:cludema@sbcglobal.net] 
+Sent: Thursday, December 29, 2011 11:40 AM
+To: Nicolette Taylor
+Subject: RE: Net Cash Estimates
+ 
+Nicolette,
+ 
+                Thank you for the Cash Flow Estimates.  Most of this is pretty much straight forward.  The only question I have is the “business center payroll tax”.  Can you give  me further breakdown as to what this entails.  I am aware of the SUTA and FUTA and how this applies.  Is the employer portion of FICA also included in that category?
+                Also, is there a minimum monthly service fee?  I am looking at the first few months as I build the business.
+ 
+Cal
+From: Nicolette Taylor [mailto:ntaylor@mbopartners.com] 
+Sent: Wednesday, December 28, 2011 10:36 AM
+To: cludema@sbcglobal.net
+Subject: Net Cash Estimates
+ 
+Hi Calvin,
+ 
+Here are the net cash estimates I mentioned on our call.  I would like to follow up in the future to walk through these when you have a few minutes.
+ 
+Thank you and have a great day,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

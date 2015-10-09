@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Net Cash Estimate (1323101088.0)</name>
+    <style>none</style>
+    <subject>RE: Net Cash Estimate (1323101088.0)</subject>
+    <textOnly>Hi Helen, Please refer to the box on the far right side of the estimate labeled &quot;Business Center Payroll Tax Breakdown&quot; (Far right, second box down from the top) This has the full breakdown including Federal Unemployment, Social Security, Medicare, Workers Comp and State Unemployment, their percentages, and at what point they cap out for the year (3 of the taxes do).  I would be happy to schedule a time for us to walk through the estimates to explain further if you have any additional questions. Thank you and have a great day, Nicolette  ___________________________________ Nicolette Taylor Consultant Services Advisor MBO Partners t: 703.793.6281 f: 703.793.6456 e: ntaylor@mbopartners.com w: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. -----Original Message----- From: hsydavar@rcn.com [mailto:hsydavar@rcn.com] Sent: Monday, December 05, 2011 11:01 AM To: Nicolette Taylor Subject: Re: Net Cash Estimate What items are included under &quot;Business Center Payroll Tax?&quot;   An additional 7.5% for Social Security but what else?  Even in the later months it is $720.65 and SS is only $352.77. Helen</textOnly>
+    <type>custom</type>
+</EmailTemplate>

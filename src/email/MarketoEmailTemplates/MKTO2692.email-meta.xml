@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Your confirmation (1364312899.0)</name>
+    <style>none</style>
+    <subject>Your confirmation (1364312899.0)</subject>
+    <textOnly>Hi Ani,
+I’m the pest that’s tried reaching out to you several times over the past month. I’ve clearly failed in achieving my objective, which was to speak with you about helping Guidance Software to safely and cost-effectively engage your consultants and independent contractors. At this point I can only conclude that you’re not confident that a conversation about the potential value of our solution is worthy of your time, or perhaps you already have a solution that you’re happy with. If you are on the fence, please click on this link to a white paper called IC Engagement Best Practices &lt;http://info.mbopartners.com/rs/mbo/images/MBO_ES_White_Paper_Engagement_Best_Practices.pdf&gt; that will provide you with insight into the innovative approach that companies like Microsoft, Siemens, Citibank, and Pfizer are utilizing to mitigate their contract worker reclassification risk, control costs, and attract talent. In either case it would be great to hear confirmation from you so that I can either take you off my list, or we can schedule a time to talk. Kind regards, Steve P.S. Thank you for your time and have a great day! ___________________________________ Steve Taggart Account Executive, Enterprise Solutions MBO Partners t: 703.793.6014 f: 703.793.6452 e: staggart@mboenterprise.com &lt;mailto:staggart@mbopartners.com&gt; w: www.mboenterprise.com &lt;http://www.mbopartners.com/&gt; 
+ Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

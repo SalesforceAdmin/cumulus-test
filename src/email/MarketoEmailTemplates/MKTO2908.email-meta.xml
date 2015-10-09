@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>31OctWeb-SOW.SOW Attended</name>
+    <style>none</style>
+    <subject>Thank you for attending - Resources from our SOW Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+Thank you for attending our &quot;The 3 Steps to a Successful Statement of Work (SOW)&quot; webinar held on Thursday, October 31. Dan Pantaleo, Director of Proposal Operations at BAE, provided a 3 step approach to creating a strong SOW, outlining best practices for the scope of work, applicable documents and requirements sections of the document.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+Recorded webinar &lt;http://video.mbopartners.com/players/sMHR2491-mMm4x1IW.html&gt;
+Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/SOWwebinarslides.pdf&gt;
+Full SOI Report (PDF) &lt;http://info.mbopartners.com/rs/mbo/images/2013-MBO_Partners_State_of_Independence_Report.pdf&gt;
+___________________________________
+
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+
+e: jmacdonell@mbopartners.com
+
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

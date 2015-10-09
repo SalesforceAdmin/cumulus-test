@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Cancelling today&apos;s call (1316534629.0)</name>
+    <style>none</style>
+    <subject>RE: Cancelling today&apos;s call (1316534629.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Lisa,
+ 
+That is no problem, thank you for letting me know!  If you ever have an interest in our services in the future please do not hesitate to reach out to me, and good luck with your corporation.
+ 
+Have a great day,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Lisa Larson~Kelley [mailto:lisamarienyc@gmail.com] 
+Sent: Tuesday, September 20, 2011 11:22 AM
+To: Nicolette Taylor
+Subject: Cancelling today&apos;s call
+ 
+Hi Nicolette,
+ 
+Sorry for the short notice, but I need to cancel today&apos;s call. 
+ 
+I just received all of the paperwork in the mail last night for our new corporation, so it looks like we are going that route. I didn&apos;t think it would go through that quickly!
+ 
+best, // Lisa Larson-Kelley
+ 
+Web Video Consultant: HTML5, Flash, and beyond!
+Adobe Community Professional
+ 
+NEW PHONE :: 212.685.3262
+blog    :: LearnFromLisa.com
+book   :: Flash Video for Professionals
+twitter :: lisamarienyc 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

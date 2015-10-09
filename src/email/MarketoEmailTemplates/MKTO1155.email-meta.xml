@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>30Mar12Web: Boomer Summit.Error Fix</name>
+    <style>none</style>
+    <subject>MBO Webinar Distribution Message Sent in Error</subject>
+    <textOnly>Hello {{lead.First Name:default=Sir/Madam}},
+
+It has come to our attention that you may have accidentally received a message stating you did not attend Friday&apos;s webinar. There was an error in distribution. We apologize for any inconvenience. You should also have received a second message including the slides and links mentioned in the Webinar.
+
+Thank you again for attending, and for your interest in MBO Partners!
+
+The MBO Marketing Team</textOnly>
+    <type>custom</type>
+</EmailTemplate>

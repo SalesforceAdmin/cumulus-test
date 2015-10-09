@@ -1,0 +1,7 @@
+Your submitted Knowledge article - {!Internal_QA__kav.ArticleNumber}: {!Internal_QA__kav.Title} - has been rejected. You may view it here: {!Internal_QA__kav.Link}
+
+Comments: {!ApprovalRequest.Comments}
+
+Please use the comments to improve the article, then submit again. Please use article Chatter if you have further questions on how to improve the article.
+
+Thanks

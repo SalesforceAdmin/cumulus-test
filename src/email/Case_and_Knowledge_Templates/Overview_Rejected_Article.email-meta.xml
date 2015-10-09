@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent to record creator when article is rejected.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Overview Rejected Article</name>
+    <style>none</style>
+    <subject>{!Overview__kav.ArticleNumber}: {!Overview__kav.Title} has been rejected</subject>
+    <type>text</type>
+</EmailTemplate>

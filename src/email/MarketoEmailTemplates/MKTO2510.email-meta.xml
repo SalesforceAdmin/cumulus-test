@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: Your MBO account is now active (1364324850.0)</name>
+    <style>none</style>
+    <subject>FW: Your MBO account is now active (1364324850.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Wes, Welcome back to MBO Partners!   Here are some important reminders to be aware of: 
+	- Here are some time and expense entry instructions &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Exec_Time_and_Expense_Entry_Instructions.pdf&gt; for using our system.	- Here is a copy of our expense policy &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_Policy.pdf&gt;.	- Here is a list of the most common expenses &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_List.pdf&gt; you can submit to MBO.	- All the benefits of MBO Partners Referral Program &lt;http://www.mbopartners.com/referral-program&gt;.
+ The next step is to schedule another time &lt;https://my.timedriver.com/8SLYS&gt;  that works for you so we can do a walk-through of the business center and I can show you all the great features. I look forward to working with you! Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.       From: sconde@mbopartners.com [mailto:sconde@mbopartners.com] 
+Sent: Tuesday, March 26, 2013 2:47 PM
+To: wes@brokenbuild.com
+Subject: Your MBO account is now active 
+Dear Wes,
+Welcome to MBO Partners! Now that your Business Center is active with us, I would like to schedule a time to walk through the MBO system with you, please review my calendar at my.timedriver.com &lt;https://my.timedriver.com/8SLYS&gt; to set up a convenient time for you. Should you have any additional questions or concerns, please do not hesitate to contact me. 
+Thank you,Sara CondeBusiness Manager Direct: 703-793-6028 Toll Free: 800-556-0270MBO Partners13454 Sunrise Valley Dr., Ste 300Herndon, VA 20171]http://www.mbopartners.com  &lt;http://www.mbopartners.com%20&gt;Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

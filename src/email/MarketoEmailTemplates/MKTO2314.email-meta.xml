@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Contact (1358544925.0)</name>
+    <style>none</style>
+    <subject>RE: Contact (1358544925.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Deb, That’s wonderful, thank you for the referral! Be sure he mentions you name or you can put his email info here &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; because there are lots of perks for referring someone (it really is the best way for us to get business so we like to make sure we make it worth peoples while.) Thanks Deb!Sara ___________________________________ SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.   From: Debra McReavy [mailto:debra.mcreavy@att.net] 
+Sent: Friday, January 18, 2013 3:54 PM
+To: Sara Conde
+Subject: Contact Sara, you will be contacted by a former colleague of mine next week.  He was interested in the arrangement that I have with MBO and is himself an independent.  He hadn’t thought the insurance coverage aspect and was impressed when I shared with him what you all cover for me.  Hope it works out. Debra McReavy, R.N.Turning Leaf Healthcare ConsultingPO Box 593St. Albans, MO 63073 Cell:  (636) 346-7050Visit me on the web at:  turningleafhealthcare.com Debra.McReavy@att.net &lt;mailto:Debra.McReavy@att.net&gt;  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

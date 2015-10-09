@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Pre-sign up Email</name>
+    <style>none</style>
+    <subject>The Independent&apos;s Guide is Ready</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+Thank you for your interest in The Independent&apos;s Guide. We are pleased to inform you that the Guide is ready to be viewed, so click here &lt;http://www.mbopartners.com/independents-guide&gt; to get started.
+You&apos;ll find that the Guide is divided into four phases:  Plan, Launch, Succeed and Grow. Each phase represents a different stage of the independent consultancy career path, from getting started to expanding into a larger business.
+To continue receiving updates about MBO Partners and relevant consulting news, please sign up for our monthly Independent Consulting Brief &lt;http://www.mbopartners.com/independent-consulting-brief&gt;.
+___________________________________
+MBO Partners Public Relations
+
+ t: 703-793-6000
+ e: publicrelations@mbopartners.com &lt;mailto:publicrelations@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

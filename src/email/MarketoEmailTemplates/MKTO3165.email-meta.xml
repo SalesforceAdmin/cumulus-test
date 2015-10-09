@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>27Feb14-Prospecting.Invite 3.2</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, don&apos;t forget tomorrow&apos;s prospecting webinar</subject>
+    <textOnly>There&apos;s one day left to join us on Thursday, February 27 at 1 p.m. ET, when we will hold a webinar titled &quot;Painless Prospecting for Independent Consultants &lt;http://www.mbopartners.com/webinars/2014/painless-prospecting-independent-consultants&gt;.&quot;
+To help independents keep new business rolling in, MBO Partners welcomes author and digital strategist Tom Martin to our webinar series. Martin will walk you through creating content, positioning that content where your audience will see it, and optimizing your website to turn those leads into clients.
+Register today &lt;http://www.mbopartners.com/webinars/2014/painless-prospecting-independent-consultants&gt;, and you&apos;ll be entered for a chance to win one of 30 copies of Tom&apos;s book, The Invisible Sale &lt;http://conversedigital.com/theinvisiblesale/&gt;!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

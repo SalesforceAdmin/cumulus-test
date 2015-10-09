@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: TR I9 and SOW (1383063161.0)</name>
+    <style>none</style>
+    <subject>RE: TR I9 and SOW (1383063161.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Tracey, Thanks so much for sending this over. I have attached the fully executed SOW for your records. Could you also send me a copy of your fully executed agreement with your customer for our records? The last step for you is logging into MBO Access &lt;https://access.mbopartners.com/&gt; and completing the “Industry Expertise” and “Disciplines” sections of your profile. This information needed for our workmen’s comp. policy and must be completed before I can activate your account and get you billing.  Your user ID and password is the same as your MBO Business Center. Evan is done and I will submit him for approval today.  Eliot still owes me his I-9 form and needs to complete his Access profile as well. He contacted me yesterday about it, I will follow up with him again.
+Thanks,
+Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  From: Tracey Reina [mailto:treina@insourceout.com] 
+Sent: Monday, October 28, 2013 2:18 PM
+To: Sara Conde
+Subject: TR I9 and SOW attached.  I think that&apos;s all from me.  Please let me know if you need anything else.  I&apos;ve put the pressure on Eliot.  And I think Evan has everything in, right?I have asked both of them to have hours in the system by EOD Thursday (Oct 31).  I&apos;ll need to approve hours first thing Friday morning - is that possible?  and is there a &quot;how-to&quot;?Tk you!  THR </textOnly>
+    <type>custom</type>
+</EmailTemplate>

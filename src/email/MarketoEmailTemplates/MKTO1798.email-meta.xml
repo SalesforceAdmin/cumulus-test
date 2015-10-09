@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Communication explaining the Connection Center is discontinued - Not granting rights to Access</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Associate Landing Page Shut Down 3</name>
+    <style>none</style>
+    <subject>MBO Partners&apos; Connection Center Shutdown</subject>
+    <textOnly>Dear {{lead.First Name:default=Valued MBO Associate}}, 
+
+Over the coming weeks, MBO Partners will be discontinuing the Connection Center that is accessed through your online Business Center. We are making several system design changes so please stay tuned for updates on exciting new initiatives taking place at MBO Partners in the coming months.
+
+ If you have any questions or matters you need immediate assistance with, please contact your Business Manager. 
+
+Best Regards,
+
+MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

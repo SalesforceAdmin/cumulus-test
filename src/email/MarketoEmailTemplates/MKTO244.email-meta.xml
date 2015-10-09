@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE:  (1318253097.0)</name>
+    <style>none</style>
+    <subject>RE:  (1318253097.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Ralph,
+ 
+You are very welcome.  There are no pay period options in the sense of you are guaranteed to be paid every week, every two weeks etc.  We run payroll every week on Tuesday for a pay date of Friday.  If you have money in your Business Center on Tuesday in time for payroll, you will get paid that week, if not then you will not get paid.  We do not pay you until after we have received payment from your client.  So it is important to try to get weekly or bi-weekly invoicing cycles for us to invoice your client because as long as they pay on time, you are likely to have money in your Business Center more frequently to allow you to be on payroll, versus if they have monthly invoicing net 30, well we can only send them one invoice a month and they will pay the invoice 30 days from the day you receive it, so the first month you are working, you won’t get paid for around 60 days and then it is every 30 days thereafter.  Please give me a call if you have additional questions about this and I will be happy to clarify.
+ 
+Thank you and have a great day,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: manciner [mailto:manciner@comcast.net] 
+Sent: Monday, October 10, 2011 7:27 AM
+To: Nicolette Taylor
+Cc: &apos;Mancinelli, Ralph&apos;
+Subject: RE: 
+ 
+Hi Nicolette, thanks and what again were the pay period options…weekly, monthly etc…Regards, Ralph
+ 
+From: Nicolette Taylor [mailto:ntaylor@mbopartners.com] 
+Sent: Friday, October 07, 2011 4:36 PM
+To: ralph mancinelli
+Subject: 
+ 
+ 
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

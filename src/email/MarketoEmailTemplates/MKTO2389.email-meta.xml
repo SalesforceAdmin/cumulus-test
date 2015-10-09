@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Call Summary  (1360691880.0)</name>
+    <style>none</style>
+    <subject>MBO Call Summary  (1360691880.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Tim, It was a pleasure speaking with you. I’m glad to hear you would like to get your account  setup and ready to go for your next project.  Here are a few important items: 
+	- You can access a private informational section about MBO Partners here. &lt;http://info.mbopartners.com/advisor-info-s-conde.html&gt; (please bookmark this page.)
+	- Benefits (401k, Health, Dental, etc)	- Sample Contracts	- Demo of our Business Center	- Value of MBO
+
+ 
+	- In addition, we have an index of recorded Webinars, white papers and collaterals that talk about the best practices for working independently.  You can see them by going here &lt;http://www.mbopartners.com/resources&gt;.
+ I will follow up with you as promised, should you have questions before then, please schedule a convenient time using my online schedule. &lt;https://my.timedriver.com/8SLYS&gt; Best regards,Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.    </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>First round of invitations for the 27Apri12Web: Women. Garrett Zaino 4/20/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>June12Web: LinkedIn.Invite 1</name>
+    <style>none</style>
+    <subject>Improve Your LinkedIn Profile Today &amp; Reach New Clients Tomorrow</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+ 
+ On June 28th at 1pm ET, we will hold a webinar entitled &quot;LinkedIn for Independent Consultants: 5 Steps to Enhance Your Profile &amp; Bring in More Clients.&quot;
+
+
+Whether you are new to the social networking world, or a seasoned professional, it is important for all independent consultants and micro-consulting practices to take pause in their busy schedules to revisit (or create) an online profile on LinkedIn.
+
+This is why we&apos;ve invited LinkedIn expert, Melissa Washington &lt;http://info.mbopartners.com/June12Web-LinkedIn-Independent-Consultants.html&gt;, who typically charges over $90 per training session, to educate independent consultants and answer your questions about how to best use the LinkedIn network to find new clients.
+
+During this free, hour-long webinar you will learn how to...
+
+
+ - Compose a strong profile headline
+ - Connect to the right people
+ - Communicate your expertise
+ - Build the right group and company presence
+ - Gain more clients
+
+
+
+Register today &lt;http://info.mbopartners.com/June12Web-LinkedIn-Independent-Consultants.html&gt; to gain new clients tomorrow!
+___________________________________
+The MBO Marketing Team
+t: 1-800-220-0469
+e: info@mbopartenrs.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

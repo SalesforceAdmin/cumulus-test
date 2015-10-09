@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The follow up email that goes to attended and registered for the HCI webinar. Garrett Zaino OBO Jay Lash. 5/25/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>16May2012:HCIWebinar_Follow-Up.HCI Webinar: 5/30/2012 Follow-up</name>
+    <style>none</style>
+    <subject>Webinar With HCI Yields Interesting Response From HR Community</subject>
+    <textOnly>Whether you were able to attend our webinar last week or you attended and had questions, this blog post I wrote is for you.
+
+http://www.mboenterprise.com/blog/engaging-independent-contractors-whose-role-it-procurement-or-hr-or-both 
+
+HR has been wrestling with their role in the contingent workforce management initiative for some time. Now the project workers (Consultants, Freelancers, SOW engagements etc) are also being added to the list of workforce options that the Talent Acquisition folks are being expected to have in their quiver of resources. Please share your comments with us as I know this is a controversial topic. Also look for our follow-up webcast in September. If you want to check out the webinar again, here is the link:
+
+http://www.hci.org/node/1409189?code=pT7KT3Im&amp;wcnid=1409189 
+
+Thanks, and stay in touch,
+
+Jay Lash</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Job Feed</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Job Feeds</value>
+    </caseValues>
+    <fields>
+        <label><!-- Description --></label>
+        <name>fs_description__c</name>
+    </fields>
+    <fields>
+        <label><!-- URL --></label>
+        <name>fs_url__c</name>
+    </fields>
+    <fields>
+        <label><!-- Recipient Account --></label>
+        <name>rs_recipientAccount__c</name>
+        <relationshipLabel><!-- Job Feeds --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Recipient Lead --></label>
+        <name>rs_recipientLead__c</name>
+        <relationshipLabel><!-- Job Feeds --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

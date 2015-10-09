@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>CAB Survey Email 1</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, a quick note from MBO Partners</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+
+Research is the strongest tool we have to grow awareness around America’s independent movement. That’s why MBO Partners is teaming up with the Career Advisory Board (CAB) to conduct a short, 10 question survey &lt;https://mbopartners.co1.qualtrics.com/SE/?SID=SV_0Bdwv1X6ccVMMkd&gt; to better understand the skills and personal attributes needed to be a successful independent contractor or consultant.
+
+Here’s where you come in – if you can help us by taking our 5 minute survey here &lt;https://mbopartners.co1.qualtrics.com/SE/?SID=SV_0Bdwv1X6ccVMMkd&gt;, we will enter you to win a 16GB Apple iPad.
+
+Your responses will be used by the CAB to provide advice and counsel to students, young adults and others who are considering a career as an independent professional. 
+
+We appreciate you taking the time to give back. As an experienced and successful independent professional, your input will be a valuable asset to those starting on this path.
+
+Thank you in advance for your help.
+___________________________________
+Gene Zaino
+President and CEO
+ MBO Partners
+ 
+e: communications@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

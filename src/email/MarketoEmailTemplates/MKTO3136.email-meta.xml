@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Parked.2 Parked</name>
+    <style>none</style>
+    <subject>MBO Partners / {{lead.Full Name:default=}}</subject>
+    <textOnly>Hello {{lead.First Name:default=future associate}},
+
+I hope you are doing well. I wanted to touch base and see how the contract search is going?
+
+
+We have a number of consultant resources that we continually update that you may find helpful.   You may find them here: http://www.mbopartners.com/resources/all &lt;http://link.mbopartners.com/ol/0xEFfZmddHNcoUZ1%5Fu%2DNb%5Fmgz3iQN8jlq65yDbq2lMIt3kF6L7yJPEjr1YIDT8Z0dufDUUQVGpQ81B5QG%5FqUboQVqtVaBkC7VHX8j6yceoRKLOQ12dl17an49VQsvduqvEX1W0MFcEVvfCilcasZszH0MacSBjqzwHL7EaY6sRwhkYcJ74WRXuPkwn6F72jxxj2hAHxpyeW682a2KpFTluZTkVsBvHwSfvjY2y3KwbF8vRYD2%2DZ130lkzMlQNPBluQSwZg6z5oLOVut3F7%2DwwrOqv64fZh892rYcT2HWHW6ZP6O%2DWypy%5FyGZrA0SKxJNfjdsLrY6uzWNtX5XUfI0Z33pxW9lgg%2C%2C/1gwVMM7QNEZOogl76fOJI7v5kTDSadartLEyG%5FL13dos2k1tPe3DNB7ig8duCJ05OLuGNCM7KZpCwlx2KPSzLdMFqNdbAWyxVzXui6vuRYlacKZn8ORZxv339XUunOiRi3X5LmYPTERrIVW5LOwE&gt;.  In addition, if you have any suggestions for new resources that might help other consultants - please let us know!
+
+I look forward to hearing from you.
+
+Best regards,
+
+
+{{lead.EM FName:default=Sara}}  {{lead.EM LName:default=Conde}} 
+Consultant Services Advisor
+
+MBO Partners
+ 
+t: {{lead.EM Phone:default=703-793-6028}}
+f: 703-793-6070
+e: {{lead.EM Email:default=sconde@mbopartners.com}} 
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

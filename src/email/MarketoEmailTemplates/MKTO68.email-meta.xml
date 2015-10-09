@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Corp, 1099, and or W2 contracts (1312811134.0)</name>
+    <style>none</style>
+    <subject>RE: Corp, 1099, and or W2 contracts (1312811134.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Harold,
+ 
+You would only be able to run the c2c or 1099 contracts through MBO.  If you run into a W2 contract that you would like to run through MBO, you should ask the client what the equivalent 1099 rate would be.  They would then pay corp to corp to MBO and we would reproduce the income back to you in the form of a W2.  
+ 
+You can have as many jobs running through MBO as you would like, there is no limit.
+ 
+Steve
+ 
+From: Harold Anthony [mailto:hanthonyg@yahoo.com] 
+Sent: Saturday, August 06, 2011 7:22 PM
+To: Steve Arhancet
+Subject: Corp, 1099, and or W2 contracts
+ 
+Steve,
+    I was thinking.  If I came across 1 contract that was corp to corp and a 2nd contract that was W-2, would I be able to do both under MBO and would there be 2 different Business Centers for me for this purpose?  Same question if I had a 3rd for 1099?
+ 
+Sincerely,
+Harold Anthony
+No virus found in this message.
+Checked by AVG - www.avg.com
+Version: 10.0.1391 / Virus Database: 1520/3818 - Release Date: 08/07/11</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Educational Resources.Thank You Email</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Affiliate}}, thank you for signing up</subject>
+    <textOnly>Dear {{lead.First Name:default=Affiliate}},
+
+Thank you for signing up for the Coworking Connection. MBO Partners is proud to support your membership and programming efforts. We&apos;ll be sharing educational content with you to help your independent business owner members achieve career success.
+
+To learn more about how the services MBO Partners provides can benefit your membership base, click here &lt;http://www.mbopartners.com/how-mbo-works&gt;.
+___________________________________
+Jaime MacDonell
+Marketing Manager
+ MBO Partners
+ 
+ t: 703-793-6368
+ e: jmacdonell@mbopartners.com &lt;mailto:ahaq@mbopartners.com&gt;
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

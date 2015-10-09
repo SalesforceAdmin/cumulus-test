@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p>Dear&nbsp;{{lead.First Name:default=Associate}},</p>
+<p>MBO Partners is looking for volunteers to be featured on our <a href="http://www.mbopartners.com/state-of-independence/meet-the-independents.html">Meet The Independents</a>&nbsp;site, representing {{company.State:default=your state}}.</p>
+<p>It's a great brand awareness opportunity for your business, and if you're selected, we will send you a $50 Amazon gift card as our way of saying thanks!</p>
+<p>Just reply to this email, or call me at 703-793-6368, to learn more.</p>
+<p>Thanks, and have a great day!</p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span><br> <strong><span style="color: #a00b10; font-family: 'Georgia','serif';">Jaime MacDonell</span></strong><br> <strong><span style="color: #353433; font-family: 
+'Georgia','serif';">Marketing Manager</span></strong><br> <span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span><br> <br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">t:</span></strong> <span style="color: #353433; font-family: 
+'Georgia','serif';"><span>703-793-6368</span></span><br><strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong> <span style="color: #353433; font-family: 'Georgia','serif';">jmacdonell@mbopartners.com</span><br> <strong><span style="color: #353433; font-family: 
+'Georgia','serif';">w:</span></strong> <a href="http://www.mbopartners.com/"><span style="font-family: 'Georgia','serif'; color: #353433;">www.mbopartners.com</span></a></div>
+</body>
+</html>

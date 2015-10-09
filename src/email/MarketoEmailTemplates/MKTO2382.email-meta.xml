@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>2013 Webinar Series.Invite 2</name>
+    <style>none</style>
+    <subject>Valentines Day Blog from MBO Partners</subject>
+    <textOnly>Dear {{lead.First Name:default=Enterprise Contact}},
+
+It&apos;s Valentine&apos;s day again, so don&apos;t forget that in addition to your family and friends, your consultants should also be &quot;feeling the love&quot; on this special day. Check out my new blog about consultant happiness &lt;http://www.mboenterprise.com/blog/it%E2%80%99s-valentine%E2%80%99s-day-are-you-showing-your-consultants-%E2%80%9C-love%E2%80%9D&gt;. 
+
+Also, remember to register today &lt;http://info.mbopartners.com/Feb19Webinar-ClientReadiness_RegistrationPage.html&gt; for our February 19 webinar. We&apos;ll discuss how extending a little love to your contractors can pay huge dividends in the success of your IC engagement program.
+
+Happy Valentine&apos;s Day!
+___________________________________
+MBO Enterprise Solutions
+t: 1-800-220-0469
+e: sales@mboenterprise.com &lt;mailto:sales@mboenterprise.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

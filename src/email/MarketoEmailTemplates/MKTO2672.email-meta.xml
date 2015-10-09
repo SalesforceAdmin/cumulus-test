@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>18JulyWeb-Trends.Invite 1</name>
+    <style>none</style>
+    <subject>5 market trends consultants need to know: July Webinar</subject>
+    <textOnly>Please join us on July 18 at 1 p.m. ET, when we will hold a webinar titled &quot;The 5 Market Trends Independent Consultants Need to Know in 2013 &lt;http://info.mbopartners.com/18JulyWebTrends_RegistrationPage.html&gt;.&quot;
+
+Independent consultants are multitaskers by necessity, so it&apos;s normal to get so busy that you fall behind on the important trends surrounding the marketplace you work in.
+ 
+To bring you up to speed, MBO Partners will welcome an expert in market trend analysis - Dorothy Price Hill, Senior Managing Director of Mid-Market Securities. Dorothy will discuss the 5 trends in today&apos;s market that you need to know to keep your consultancy relevant, why they are important and how you can leverage them to gain knowledge and/or skills to set yourself apart from your competitors.
+Register today &lt;http://info.mbopartners.com/18JulyWebTrends_RegistrationPage.html&gt;!
+___________________________________
+MBO Partners
+ 
+ t: 703-793-6000
+ e: webinar@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

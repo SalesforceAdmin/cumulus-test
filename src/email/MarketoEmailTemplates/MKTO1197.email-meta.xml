@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email that goes to any customer who signs up for the constant brief. Garrett Zaino 4/12/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Consultant Brief</name>
+    <style>none</style>
+    <subject>MBO Partners&apos; Brief Sign-up Confirmation</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+Thank you for signing up to receive MBO Partners’ monthly Independent Consultant Brief. At MBO Partners, we believe success as an independent professional comes from having the right knowledge, the right resources and the right support systems. And we’re here to help. 
+
+It is our mission to make it easier for independent consultants and their clients to do business. We hope you find each month’s stories, Q&amp;A, blog links, and useful educational tools a valuable resource as you navigate your personal road to independence.
+
+For more information about the services MBO Partners offers independent consultants and contractors, please call us at 1-800-220-0469, email us at info@mbopartners.com or visit our web site at www.mbopartners.com. We look forward to hearing from you.
+
+Best regards,
+
+The Consultant Services Team
+ Phone: 1-800-220-0469
+ Read about the CSA team, http://www.mbopartners.com/blog/get-know-few-mbo-consultant-services-advisors.
+
+
+ www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

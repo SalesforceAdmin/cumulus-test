@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: employment eligibility verification (1378244108.0)</name>
+    <style>none</style>
+    <subject>RE: employment eligibility verification (1378244108.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Kiran,
+Thanks so much! Your account is almost ready! The last step is logging into MBO Access &lt;https://access.mbopartners.com/&gt; and completing the “Industry Expertise” and “Disciplines” sections of your profile. This information needed for our workmen’s comp. policy and must be completed before I can activate your account and get you billing.  Your user ID and password is the same as your MBO Business Center. Please let me know if you have any questions.
+Thanks,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  From: Kirin Khan [mailto:kirinkhan131@gmail.com] 
+Sent: Tuesday, September 03, 2013 3:52 PM
+To: Sara Conde
+Cc: Michael Fernandez
+Subject: employment eligibility verification Hello Sara,  My paperwork is attached, signed by both Michael and myself. Please let me know if there is anything else I need to do! Best wishes,  Kirin -- Kirin M. Khan
+Development and Evaluation AssociateWomen&apos;s Action to Gain Economic Security (WAGES)cell: 510.520.0065kirinkhan131@gmail.com &lt;mailto:kirinkhan131@gmail.com&gt;   </textOnly>
+    <type>custom</type>
+</EmailTemplate>

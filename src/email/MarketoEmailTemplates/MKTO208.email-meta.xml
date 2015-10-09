@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners (1316636257.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners (1316636257.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Thanks for the update, I’ll be your POC should something present itself. 
+ 
+Regards,
+ 
+Steve
+ 
+From: Marian Craig [mailto:marian_craig@hotmail.com] 
+Sent: Tuesday, September 20, 2011 5:38 PM
+To: Steve Arhancet
+Subject: RE: MBO Partners
+ 
+ 
+Hi Steve!
+ 
+I figured that I would just sit tight with SunGard for now.  I will be sure and let you know if that changes.
+ 
+Many thanks,
+ 
+Marian
+From: sarhancet@mbopartners.com
+To: marian_craig@hotmail.com
+Date: Tue, 20 Sep 2011 16:32:06 -0400
+Subject: MBO Partners
+Marian,
+ 
+When would be a good time for us to discuss MBO Partners so I can answer any questions you have on our program?
+ 
+Regards,
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

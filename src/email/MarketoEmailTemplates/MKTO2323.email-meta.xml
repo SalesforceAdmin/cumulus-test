@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>An Email from Steve to a select list of enterprise contacts.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Enterprise Nurturing 1</name>
+    <style>none</style>
+    <subject>Important Information on State Audit Trends</subject>
+    <textOnly>{{lead.First Name:default=Client Contact}},
+In a changing economic climate, we have heard from many executives asking for more information about what enforcement trends MBO has seen from the states with regards to independent contractors. If you are interested, you can read about it in my recent posting to the MBO Risk Blog &lt;http://www.mboenterprise.com/blog/hiring-1099s-its-all-fun-and-games-until-someone-files-unemployment&gt;.
+I hope you find this information helpful. Thanks for your time and have a great day!
+Best regards,
+Steve
+___________________________________
+Steve Taggart
+Account Executive
+ MBO Partners
+ 
+ t: 703-793-6014
+ e: staggart@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

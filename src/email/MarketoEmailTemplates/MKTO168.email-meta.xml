@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SOI Announcement to Key Contacts at Clients</name>
+    <style>none</style>
+    <subject>16 Million Strong: New MBO Partners Survey Shares Size &amp; Story of Independence in America</subject>
+    <textOnly>Dear {{lead.First Name:default=Valued MBO Client}},
+
+I’m happy to share with you that as part of its continued commitment to independent workers and those that engage with them, MBO Partners announced Sept 6 the release of a landmark national study on the state of independence in America (http://www.marketwire.com/press-release/landmark-national-study-reveals-millions-join-new-age-career-independence-surprising-1557357.htm). 
+
+Independence is not just a work choice, it’s a life choice. That’s what our study revealed. Whether you are more interested in the size and growth (16 million, but predicted to grow to more than 20 million), or the underlying story of motivation and satisfaction that is revealed -- I encourage you to visit our newly launched study site (http://info.mbopartners.com/stateofindependence), and participate in the conversation. You may enjoy viewing this story graphic about the study (http://info.mbopartners.com/whoaretheindependents?) – a real silver  
+lining in what is otherwise a gloomy jobs picture in our nation today. 
+
+Earlier this summer, I also had shared with you news about the launch of our new  Web site (www.mbopartners.com) and a related, refreshed branding.  It’s all part of our continued commitment to the independent work sector. 
+
+Later this fall, we will also be sharing research on the organizational perspective – to help us paint the total picture of independent work in America. But it’s not all about the stats – our State of Independence team is also having some fun. Visit the newly created State of Independence Facebook page (http://www.facebook.com/pages/The-State-of-Independence/126879364075991) to hear from experts, read profiles of independent workers, and read our study blog. 
+
+What’s your reaction to our efforts? I’d love to hear from you. 
+
+Sincerely, 
+
+Gene Zaino
+___________________________________
+GENE ZAINO
+President &amp; CEO
+MBO Partners
+ 
+t: 703.793.6001
+f: 703.793.6075
+e: gzaino@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>The email response to someone filling out the SOI - Register form</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>State of Independence.SOI - Register</name>
+    <style>none</style>
+    <subject>MBO Partners&apos; Index Sign-up Confirmation</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+Thank you for your interest in our Independent Workforce Index. We invite you to view a copy of our report &lt;http://www.mbopartners.com/state-of-independence/docs/MBO-Partners-Independent-Workforce-Index-2011.pdf&gt;, study infographic &lt;http://www.mbopartners.com/state-of-independence/who-are-the-independents.html&gt;, and slides &lt;http://www.mbopartners.com/state-of-independence/docs/MBO-Partners-Independent-Workforce-Index-Key-Findings-Summary.pdf&gt;. We also recently revealed a new, Boomer-focused report &lt;http://www.mbopartners.com/state-of-independence/docs/MBO-Boomer-Report-2012.pdf&gt; available here.
+
+If you would like to learn more about the services MBO Partners provides independent consultants and contractors, please call us at 800-220-0469, email us at info@mbopartners.com or visit our web site at www.mbopartners.com. We look forward to hearing from you.
+
+Best Regards,
+
+MBO Partners
+www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

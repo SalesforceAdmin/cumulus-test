@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " ><span class="mktEditable" id="edit_text" ></span>
+<p ><span class="mktEditable" id="edit_text" >&nbsp;<img title="2012 Webinar Series" src="http://info.mbopartners.com/rs/mbo/images/MBO-webinar-logo-4.12.png" alt="2012 Webinar Series" width="337" height="211" align="bottom"></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" >&nbsp;</span>
+</p>
+<p ><span class="mktEditable" id="edit_text" >Hello {{lead.First Name:default=Webinar Attendee}},</span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" >Thank you for taking the time out of your busy schedule to attend our webinar <strong>“</strong><strong><span>From Burned Out to Fired Up: 3 Principles to Guide Your Independent Career Transition.</span></strong><strong>"</strong>&nbsp;To follow-up on the information provided on Thursday, December 6th, we <span class="mkteditable"><span style="font-size: 10.5pt; font-family: Georgia, serif;">are providing links to the Webinar recording, slide deck, and a few other helpful resources below</span></span>.</span>
+</p>
+<ol ><li ><span class="mktEditable" id="edit_text" >&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.mbopartners.com/webinar-burned-out-fired-3-principles-guide-your-independent-career-transition">Recorded webinar</a></span>
+</li>
+<li ><span ><span class="mktEditable" id="edit_text" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://info.mbopartners.com/rs/mbo/images/Emotional-Intelligence-Webinar-Slides.pdf">Webinar slide deck</a></span>
+</span>
+</li>
+<li ><span ><span class="mktEditable" id="edit_text" >&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.mycoachingcircle.com/">Featured Speaker&nbsp;Ingrid Sarrat Website</a></span>
+</span>
+</li>
+<li ><span ><span class="mktEditable" id="edit_text" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.6seconds.org/">Six Seconds Emotional Intelligence Website</a><strong>&nbsp;</strong></span>
+</span>
+</li>
+</ol>
+<p></p>
+<p ><span class="mktEditable" id="edit_text" >We invite you to <a title="2012 Webinar Series Sign-up" href="http://info.mbopartners.com/2012SeriesSignUp.html">sign-up</a> to stay informed about future webinars in our series. If you have any topic recommendations or feedback, please email <a title="webinar@mbopartners.com" href="mailto:webinar@mbopartners.com">webinar@mbopartners.com</a>.&nbsp;</span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" >Thank you,</span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia,palatino; font-size: 14px;"><strong><span style="color: #991324;">MBO PARTNERS<br></span></strong><strong><span style="color: #991324;"><span style="color: #808080;">t: 1-800-220-0469<br>
+e: info@mbopartners.com</span></span></strong></span></span>
+</p>
+<p></p>
+</div>
+</body>
+</html>

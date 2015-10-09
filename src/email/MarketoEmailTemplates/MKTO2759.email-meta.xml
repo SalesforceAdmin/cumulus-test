@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Requested Material Email</name>
+    <style>none</style>
+    <subject>Your Guide Enclosed</subject>
+    <textOnly>Dear {{lead.First Name:default=Independent Consultant}},
+
+
+Thank you for requesting the guide for the {{lead.Requested Material Name:default=edit me}} phase of the Independent’s Guide. Enclosed is a link to a PDF file containing the information you requested.
+To view your requested content, click here &lt;{{lead.Requested Material URL}}&gt;.
+ 
+ For further information about taking your independent business to the next level, read the stories of successful independents &lt;http://info.mbopartners.com/meet-the-independents.html&gt; or sign up for our monthly Independent Consulting Brief &lt;http://www.mbopartners.com/independent-consulting-brief&gt;.
+ 
+ __________________________________
+MBO Partners
+t: 1-800-220-0469
+e: info@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

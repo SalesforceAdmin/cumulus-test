@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: &gt; Consulting Query &lt; (1335471867.0)</name>
+    <style>none</style>
+    <subject>RE: &gt; Consulting Query &lt; (1335471867.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Paul, Good to hear from you again! We have created and are continuing to create an index of a whole host of topics specifically catered for independent consultants via our webinar series. This webinar just happens to be directed towards women. You can view our index of past webinars (which may be more relevant to you) by going here.   In addition to our webinar series Our company is well into a year-long effort called The State of Independence in America.  I encourage you to view some very interesting findings on the size and trends for independent work in our nation. Hope you are doing well!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. From: &lt;http://www.mbopartners.com/mbo-partners-webcast-index&gt; Paul Messing [mailto:pmessing@indiana.edu] 
+Sent: Thursday, April 26, 2012 3:42 PM
+To: Info
+Subject: &gt; Consulting Query &lt; Greetings ))             I just received your email &quot;Independent Consulting Brief,&quot; and see that there is a link            to register for a Webinar The Third Path: Independent Consulting For Entrepreneurial Women.             This seems to be oriented towards women.  I am an established consultant (male), and wondered            if this focus on consulting is a new initiative, and why I might want to register for this event.             Thanks for any additional information.             Somewhat Confused,             Paul Messing </textOnly>
+    <type>custom</type>
+</EmailTemplate>

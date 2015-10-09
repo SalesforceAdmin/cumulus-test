@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Net Cash to Net $100/hr (1316709164.0)</name>
+    <style>none</style>
+    <subject>Net Cash to Net $100/hr (1316709164.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Gary,  
+ 
+I have attached a new estimate reflecting you charging $125/hr.  I couldn’t get what the exact conversion of what rate to charge based on what you want your net to be because you will net less in the first month and more in a later month because of the employer side tax caps.  Also, if you have your withholding allowances any different, or the state you are working in, this could also change.  The estimate is created showing 1 hour worked per month and this will also affect how much is withheld because it is so little.  So I don’t think I can get you an exact number but somewhere around $125/hr will net you around $95-$102 per hour after our fee and taxes.
+ 
+We can discuss this at a later time if you have questions.
+ 
+I would also recommend you going to our website and using our bill rate  calculator to help determine how much you want to be earning and you can adjust that based on your situation.
+ 
+http://www.mbopartners.com/#billrate 
+ 
+Have a great day,
+Nicolette
+ 
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

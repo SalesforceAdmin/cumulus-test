@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Used to house the different enrollment codes MBO will use to enroll associates</description>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableEnhancedLookup>true</enableEnhancedLookup>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Background_Check_Drug_Screen_Required__c</fullName>
+        <externalId>false</externalId>
+        <label>Background Check/Drug Screen Required</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not Required</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Client_On_Boarding_Docs_Required__c</fullName>
+        <externalId>false</externalId>
+        <label>Client On-Boarding Docs Required</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not Required</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_dsc__c</fullName>
+        <externalId>false</externalId>
+        <label>Description</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>fs_mBORecordId__c</fullName>
+        <externalId>true</externalId>
+        <label>MBO Record Id</label>
+        <length>40</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>rs_company__c</fullName>
+        <deleteConstraint>Restrict</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Company</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Enrollment Codes</relationshipLabel>
+        <relationshipName>Enrollment_Codes</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <label>Enrollment Code</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <label>Enrollment Code</label>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Enrollment Codes</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>Private</sharingModel>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <fullName>syncUpdate_Company</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields manged by the MBO System</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id=&apos;00580000003Xfjx&apos;),
+          NOT(
+                    ISBLANK( fs_mBORecordId__c )
+          ),
+          ISCHANGED(rs_company__c)
+)</errorConditionFormula>
+        <errorDisplayField>rs_company__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_Description</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields manged by the MBO System</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id=&apos;00580000003Xfjx&apos;),
+          NOT(
+                    ISBLANK( fs_mBORecordId__c )
+          ),
+          ISCHANGED(fs_dsc__c)
+)</errorConditionFormula>
+        <errorDisplayField>fs_dsc__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_Name</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields manged by the MBO System</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id=&apos;00580000003Xfjx&apos;),
+          NOT(
+                    ISBLANK( fs_mBORecordId__c )
+          ),
+          ISCHANGED(Name)
+)</errorConditionFormula>
+        <errorDisplayField>Name</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_mboRecordId</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields manged by the MBO System</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id=&apos;00580000003Xfjx&apos;),
+          ISCHANGED( fs_mBORecordId__c )
+)</errorConditionFormula>
+        <errorDisplayField>fs_mBORecordId__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_owner</fullName>
+        <active>true</active>
+        <description>Restricts updates to fields manged by the MBO System</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id=&apos;00580000003Xfjx&apos;),
+          NOT(
+                    ISBLANK( fs_mBORecordId__c )
+          ),
+          ISCHANGED(OwnerId)
+)</errorConditionFormula>
+        <errorDisplayField>OwnerId</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System</errorMessage>
+    </validationRules>
+</CustomObject>

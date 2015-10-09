@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Question (1338402564.0)</name>
+    <style>none</style>
+    <subject>RE: Question (1338402564.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Tom, I would go with co-branding that way you have the most bang with brand recognition for all of your prospective clients. MBO’s system can accommodate co-branding of invoices so don’t let that be a factor in your decision.  My vote is co-branding since each brand has resonance in different markets. Thanks my two cents.
+Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. From: Tom Glatt [mailto:tglatt@glattconsulting.com] 
+Sent: Wednesday, May 30, 2012 10:52 AM
+To: Sara Conde
+Subject: Question Hi Sara, I have a question for you. I am thinking of partnering with another firm to offer more in-depth technology consulting services such as core system selection, IT strategy consulting, etc. We are discussing branding and I am looking for your opinion. Do you think it is best to co-brand the solution using our respective names, use their name (they are more known in the tech space but not so much in the credit union community), or use Glatt Consulting? I&apos;m kind of leaning toward co-branding but am looking for outside opinions. Any thoughts? Any particular format work best in the MBO system? Tom -- Thomas Glatt, Jr.Glatt ConsultingTel: (888) 217-5988 x801Twitter: @tglattLinkedIn: http://www.linkedin.com/in/tomglatt &lt;http://www.linkedin.com/in/tomglatt&gt;   Distinctive strategy consulting for credit union leaders.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

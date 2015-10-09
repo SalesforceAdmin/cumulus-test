@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Enrollment</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Enrollments</value>
+    </caseValues>
+    <fields>
+        <label><!-- Activation Date --></label>
+        <name>Activation_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- In months --></help>
+        <label><!-- Estimated Length of Initial Assignment --></label>
+        <name>AssignmentLength__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Actions Completed Date --></label>
+        <name>Associate_Actions_Completed_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Check this box if all actions that the new associate has to take have been completed --></help>
+        <label><!-- Associate Actions Completed --></label>
+        <name>Associate_Actions_Completed__c</name>
+    </fields>
+    <fields>
+        <help><!-- Required - results are required prior to completing enrollment 
+Contingent - results are required, but enrollment can be completed before receiving
+Not Required - the background check/drug screen is not required --></help>
+        <label><!-- Background Check/Drug Screen Required --></label>
+        <name>Background_Check_Drug_Screen_Required__c</name>
+        <picklistValues>
+            <masterLabel>Contingent</masterLabel>
+            <translation><!-- Contingent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Required</masterLabel>
+            <translation><!-- Not Required --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Required</masterLabel>
+            <translation><!-- Required --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- At least 1 attempt followed by email documented in Salesforce. --></help>
+        <label><!-- CSA Transition Call --></label>
+        <name>CSATransitionCall__c</name>
+    </fields>
+    <fields>
+        <label><!-- Certificate of Insurance Received --></label>
+        <name>Certificate_of_Insurance_Received__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Notes --></label>
+        <name>Client_Notes__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Notified Enrollment is Complete --></label>
+        <name>Client_Notified_Enrollment_is_Complete__c</name>
+    </fields>
+    <fields>
+        <help><!-- Required - results are required prior to completing enrollment 
+Contingent - results are required, but enrollment can be completed before receiving
+Not Required - Client On-boarding docs are not required --></help>
+        <label><!-- Client On-Boarding Docs Required --></label>
+        <name>Client_On_Boarding_Docs_Required__c</name>
+        <picklistValues>
+            <masterLabel>Contingent</masterLabel>
+            <translation><!-- Contingent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not required</masterLabel>
+            <translation><!-- Not required --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Required</masterLabel>
+            <translation><!-- Required --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Client Work Authorization Accepted --></label>
+        <name>Client_Work_Authorization_Accepted__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Call Completed --></label>
+        <name>Complete_Enrollment_Call__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- Enrollments --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Days Since Created Date --></label>
+        <name>Days_Since_Created_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Days to Complete Enrollment --></label>
+        <name>Days_to_Complete_Enrollment__c</name>
+    </fields>
+    <fields>
+        <help><!-- The date that the enrollment call was scheduled --></help>
+        <label><!-- Enrollment Call Scheduled --></label>
+        <name>Enrollment_Call_Scheduled__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Code --></label>
+        <name>Enrollment_Code__c</name>
+        <relationshipLabel><!-- Enrollments --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Completion Date --></label>
+        <name>Enrollment_Completion_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expected Initial 90 days of Billings --></label>
+        <name>ExpectedBillings__c</name>
+    </fields>
+    <fields>
+        <label><!-- Internal Enrollment Notes --></label>
+        <name>Internal_Enrollment_Notes__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expected Initial Invoice Date --></label>
+        <name>Invoice_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Check this box if the associate has previously been enrolled at MBO. --></help>
+        <label><!-- Is this a Re-Enrollment? --></label>
+        <name>Is_this_a_Re_Enrollment__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead Status --></label>
+        <name>Lead_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead --></label>
+        <name>Lead__c</name>
+        <relationshipLabel><!-- Enrollments --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Enrolled in Medical/Dental Benefits? --></label>
+        <name>MDFTWorker__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- If they have Medical or Dental benefits, when is their start date? --></help>
+        <label><!-- Medical/Dental Start Date --></label>
+        <name>MDStartDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Most Recent Initial Call Attempt --></label>
+        <name>Most_Recent_Initial_Call_Attempt__c</name>
+    </fields>
+    <fields>
+        <help><!-- Has the Net Case Estimate been attached to their Salesforce record? --></help>
+        <label><!-- NCE Uploaded --></label>
+        <name>NCEUploaded__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notify client enrollment is complete --></label>
+        <name>Notify_client_enrollment_is_complete__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Initial Call Attempts --></label>
+        <name>Number_of_Initial_Call_Attempts__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Tasks To Complete --></label>
+        <name>Number_of_Tasks_To_Complete__c</name>
+    </fields>
+    <fields>
+        <label><!-- Online Enrollment Begun --></label>
+        <name>Online_Enrollment_Begins__c</name>
+    </fields>
+    <fields>
+        <label><!-- Online Portion of Enrollment Completed --></label>
+        <name>Online_Portion_of_Enrollment_Completed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Qualification Documents Received --></label>
+        <name>Qualification_Documents_Received__c</name>
+    </fields>
+    <fields>
+        <label><!-- Received I9 form (List A if applicable) --></label>
+        <name>Receive_I9_form_List_A_if_applicable__c</name>
+    </fields>
+    <fields>
+        <label><!-- Received Intro Survey --></label>
+        <name>Receive_Intro_Survey__c</name>
+    </fields>
+    <fields>
+        <label><!-- Received Background/Drug Screen Result --></label>
+        <name>Receive_background_drug_screening_result__c</name>
+    </fields>
+    <fields>
+        <label><!-- Received signed on-boarding documents --></label>
+        <name>Receive_signed_on_boarding_documents__c</name>
+    </fields>
+    <fields>
+        <label><!-- Receive work order from client --></label>
+        <name>Receive_work_order_from_client__c</name>
+    </fields>
+    <fields>
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+    </fields>
+    <fields>
+        <label><!-- Reviewed NCE --></label>
+        <name>Review_NCE__c</name>
+    </fields>
+    <fields>
+        <label><!-- SF Activities Closed --></label>
+        <name>SFActivitiesClosed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sent Activation Email/Transition Worker --></label>
+        <name>Send_Activation_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sent Enrollment Link --></label>
+        <name>Send_Enrollment_Link__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sent Intro Email --></label>
+        <name>Send_Intro_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sent Service Summary Email --></label>
+        <name>Send_Service_Summary_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Setup work order in MBO --></label>
+        <name>Setup_work_order_in_MBO__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Completed</masterLabel>
+            <translation><!-- Completed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Progress</masterLabel>
+            <translation><!-- In Progress --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending Approval</masterLabel>
+            <translation><!-- Pending Approval --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Submit for background and/or drug screen --></label>
+        <name>Submit_for_background_and_or_drug_screen__c</name>
+    </fields>
+    <fields>
+        <label><!-- Transition Worker --></label>
+        <name>Transition_Worker__c</name>
+    </fields>
+    <fields>
+        <label><!-- VAST Call Completed --></label>
+        <name>VAST_Call_Completed__c</name>
+    </fields>
+    <fields>
+        <help><!-- Is the Work Order Override Fee setup properly for Referral Rees, Premium Service Fees, etc? --></help>
+        <label><!-- WO Fee Confirmed --></label>
+        <name>WOFee__c</name>
+    </fields>
+    <fields>
+        <help><!-- Has the invoice preview been setup in the Work Order? --></help>
+        <label><!-- WO Invoice Preview --></label>
+        <name>WOInvoicePreview__c</name>
+    </fields>
+    <fields>
+        <label><!-- WO setup with attachments --></label>
+        <name>WOSetup__c</name>
+    </fields>
+    <fields>
+        <label><!-- Correct Associate Type Set --></label>
+        <name>associateType__c</name>
+    </fields>
+    <fields>
+        <label><!-- Forecast Fields Complete --></label>
+        <name>forecastField__c</name>
+    </fields>
+    <fields>
+        <label><!-- I-9, Passport, or LIST A doc in E-file --></label>
+        <name>listADoc__c</name>
+    </fields>
+    <fields>
+        <label><!-- OA Assigned --></label>
+        <name>opsAdmin__c</name>
+    </fields>
+    <layouts>
+        <layout>Direct Enrollment Layout</layout>
+        <sections>
+            <label><!-- Benefit Information --></label>
+            <section>Benefit Information</section>
+        </sections>
+        <sections>
+            <label><!-- CRM Information --></label>
+            <section>CRM Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Employment Information --></label>
+            <section>Employment Information</section>
+        </sections>
+        <sections>
+            <label><!-- Work Order Information --></label>
+            <section>Work Order Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Enrollment Layout</layout>
+        <sections>
+            <label><!-- Benefit Information --></label>
+            <section>Benefit Information</section>
+        </sections>
+        <sections>
+            <label><!-- CRM Information --></label>
+            <section>CRM Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Employment Information --></label>
+            <section>Employment Information</section>
+        </sections>
+        <sections>
+            <label><!-- Work Order Information --></label>
+            <section>Work Order Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Exec</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Dates Completed --></label>
+            <section>Dates Completed</section>
+        </sections>
+        <sections>
+            <label><!-- Information --></label>
+            <section>Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Direct Enrollment Layout</layout>
+        <sections>
+            <label><!-- Benefit Information --></label>
+            <section>Benefit Information</section>
+        </sections>
+        <sections>
+            <label><!-- CRM Information --></label>
+            <section>CRM Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Employment Information --></label>
+            <section>Employment Information</section>
+        </sections>
+        <sections>
+            <label><!-- Work Order Information --></label>
+            <section>Work Order Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Exec</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Dates Completed --></label>
+            <section>Dates Completed</section>
+        </sections>
+        <sections>
+            <label><!-- Enrollment Information --></label>
+            <section>Enrollment Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Staff</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Dates Completed --></label>
+            <section>Dates Completed</section>
+        </sections>
+        <sections>
+            <label><!-- Information --></label>
+            <section>Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Feed Sub</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Dates Completed --></label>
+            <section>Dates Completed</section>
+        </sections>
+        <sections>
+            <label><!-- Information --></label>
+            <section>Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Staff</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Dates Completed --></label>
+            <section>Dates Completed</section>
+        </sections>
+        <sections>
+            <label><!-- Information --></label>
+            <section>Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Sub</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Dates Completed --></label>
+            <section>Dates Completed</section>
+        </sections>
+        <sections>
+            <label><!-- Information --></label>
+            <section>Information</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Add Notes --></label>
+        <name>Add_Notes</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Attempted to Conduct Initial Call --></label>
+        <name>Attempted_to_Conduct_Initial_Call</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Background/Drug Screen Initiated --></label>
+        <name>Background_Drug_Screen_Initiated</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Background/Drug Screen Results Received --></label>
+        <name>Background_Drug_Screen_Results_Received</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Certificate of Insurance Received --></label>
+        <name>Certificate_of_Insurance_Received</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Client Notified Enrollment Complete --></label>
+        <name>Client_Notified_Enrollment_Complete</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Received Client Specific On-Boarding Documents --></label>
+        <name>Client_Specific_On_Boarding_Documents_Received</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Client Work Authorization Accepted --></label>
+        <name>Client_Work_Authorization_Accepted</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Completed I-9 Received --></label>
+        <name>Completed_I_9_Received</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Enrollment Call Completed --></label>
+        <name>Enrollment_Call_Completed</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Enrollment Call Scheduled --></label>
+        <name>Enrollment_Call_Scheduled</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Received Intro Survey --></label>
+        <name>Enrollment_Questionnaire_Completed</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Intro Email Sent --></label>
+        <name>Intro_Email_Sent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- MBO Work Order Created --></label>
+        <name>MBO_Work_Order_Created</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NCE Reviewed --></label>
+        <name>NCE_Reviewed</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Qualification Documents Received --></label>
+        <name>Qualification_Documents_Received</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Sent Activation Email/Transition Worker --></label>
+        <name>Sent_Activation_Email_Transition_Worker</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Service Summary Email Sent --></label>
+        <name>Service_Summary_Email_Sent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- VAST Call Completed --></label>
+        <name>VAST_Call_Completed</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- Direct Enrollment --></label>
+        <name>Direct_Enrollment</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Exec --></label>
+        <name>Exec</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Staff --></label>
+        <name>Staff</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Sub --></label>
+        <name>Sub</name>
+    </recordTypes>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please submit for approval. --></errorMessage>
+        <name>Enrollment_Completed</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Future Dates cannot be entered. Please enter the date that the action was completed. --></errorMessage>
+        <name>No_Future_Dates</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please set the Med/Dental Benefits prior to submitting for approval. --></errorMessage>
+        <name>Require_Benefits_for_Approval</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please enter a start date if they are a FT worker. --></errorMessage>
+        <name>Start_Date_Required</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Check_Lead_Activity_Status --></label>
+        <name>Check_Lead_Activity_Status</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Email_Lead --></label>
+        <name>Email_Lead</name>
+    </webLinks>
+</CustomObjectTranslation>

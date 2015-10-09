@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>ACCOUNT.NAME</field>
+    </columns>
+    <columns>
+        <field>PHONE1</field>
+    </columns>
+    <columns>
+        <field>DUE_DATE</field>
+    </columns>
+    <columns>
+        <field>Contact.Contact_Status__c</field>
+    </columns>
+    <columns>
+        <field>Contact.fd_terminationDate__c</field>
+    </columns>
+    <columns>
+        <field>Account.MemberSince__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Sub_Status__c</field>
+    </columns>
+    <filter>
+        <criteriaItems>
+            <column>USERS.NAME</column>
+            <operator>equals</operator>
+            <value>Sara Conde,Meghan Moul,Emily Stringer</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Contact.Contact_Status__c</column>
+            <operator>equals</operator>
+            <value>Inquiry,Prospect,Sold,Working</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Contact.Associate_Status__c</column>
+            <operator>equals</operator>
+            <value>Terminated,Enrolled,Enrolled (old)</value>
+        </criteriaItems>
+    </filter>
+    <format>Matrix</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>USERS.NAME</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>RECORDTYPE</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>CSA Sales Pipeline Returning Alumni V3</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>AccountList</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <timeFrameFilter>
+        <dateColumn>DUE_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

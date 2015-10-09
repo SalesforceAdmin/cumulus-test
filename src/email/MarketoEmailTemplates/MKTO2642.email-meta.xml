@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>20JuneWeb-WinningBid.Invite 1</name>
+    <style>none</style>
+    <subject>June Webinar: Building a Winning Bid</subject>
+    <textOnly>So, you&apos;ve found a potential client and they&apos;re interested in hiring you for the project. What will your next step be?
+
+Please join us on June 20 at 1 p.m. ET, when we will hold a webinar titled &quot;Building a Winning Bid: How to Respond to Requests for Proposals &lt;http://info.mbopartners.com/20JuneWeb_WinningBid_RegistrationPage.html&gt;.&quot;
+Tom Sant, co-founder of management and technology firm Hyde Park Partners, returns to our webinar series with a step-by-step process and valuable tips to help you create effective responses to a request for a proposal or quote (RFP/RFQ). From cover letters to the executive summary to the format itself, Tom will ensure you respond to your next RFP with a winning bid.
+Register today &lt;http://info.mbopartners.com/20JuneWeb_WinningBid_RegistrationPage.html&gt;!
+___________________________________
+MBO Partners
+ 
+ t: 703-793-6000
+ e: webinar@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

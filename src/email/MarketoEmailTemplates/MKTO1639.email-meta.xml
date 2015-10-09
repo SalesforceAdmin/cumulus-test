@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Background Check and Drug Screen (1340825993.0)</name>
+    <style>none</style>
+    <subject>Background Check and Drug Screen (1340825993.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Dan, I have registered you with American Background, and you should be receiving an email shortly from ABIExpress@americanbackground.com &lt;mailto:ABIExpress@americanbackground.com&gt; with a link to start your application for testing.  Your username will be your last name, and your password is your phone number, with no spaces or dashes.   Additionally, you will receive a separate email from American Background with a subject of “AMERICAN BACKGROUND INFO Order Confirmation.” This includes instructions for your drug screen. You’ll need to print this email and take it with you to the collection site given on the email along with photo ID. This must be completed within the next 3 calendar days. Please call American Background at 866-266-3445 with any questions or if you do not receive this email. Please let me know if there are any questions or feel free to contact American Background directly at 866-266-3445.  Please let me know if you have any questions on this.   Thanks,Sara___________________________________ SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

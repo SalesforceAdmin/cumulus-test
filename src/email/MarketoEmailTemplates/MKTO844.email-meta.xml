@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Payroll Review (1327948423.0)</name>
+    <style>none</style>
+    <subject>Payroll Review (1327948423.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Kristus,
+ 
+I hope all is well!  I know you have been busy and we kept missing each other on this but I wanted to take 5 minutes to walk you through one of your payrolls to make sure there aren’t any questions that you have about the process.  Please let me know when you will be available, every day except for today should be good for me this week.
+ 
+I look forward to speaking with you!
+Nicolette
+ 
+ 
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

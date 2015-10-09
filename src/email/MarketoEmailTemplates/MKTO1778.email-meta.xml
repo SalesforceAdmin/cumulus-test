@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: Murali Kunadharaju (ID: 20942 )   (1342649065.0)</name>
+    <style>none</style>
+    <subject>FW: Murali Kunadharaju (ID: 20942 )   (1342649065.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Murali, Please see email form our expense team below. You may only expense fuel if you have a rental car purchase, if you do please enter it. If not, please enter mileage instead of fuel cost.  
+Additionally, we will need the ATT bill. You can just go on ATT’s site and download the PDF and attach that and then note the percentage of business use.  Please let me know if you have any questions.
+Thanks,Sara  Subject: Murali Kunadharaju (ID: 20942 )  Good Morning Sara, While reviewing Murali’s recent expense submission I noticed that he has 2 main expense issues with his 7 expenses. With the six fuel expenses that go from 05/19/12 – 06/30/12 I noticed that the associate has not provided the receipt for his rental car purchase. In order to expense fuel the associate needs to have purchased a rental car that corresponds with the fuel charges. If the associate has not purchased a rental car and a personal vehicle was used then they must enter these expenses as mileage. I have gone ahead and placed the six fuel expenses on hold and request that they provide the rental car receipt or if a rental car was not used then to adjust these entries to mileage.  The second issue is with the 07/06/12 Communications- phone service expense where the associate has only provided a screen shot showing that they paid AT&amp;T $227.90. In order for this expense to be approved the associate will need to provide the first page of his bill as well as the itemized supporting pages. The total entered for the expense should only be cost of the business line and then the percentage is based off of how much of the individual business line is for business. If the associate would like to expense more than 75% as business they will need to provide the itemized call logs. I have gone ahead and placed this expense on hold and request that they submit the full At&amp;t bill along with the itemization pages.   Financial Services Specialist IMBO Partners Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

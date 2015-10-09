@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>true</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableFeeds>true</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Activation_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Activation Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>AssignmentLength__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>In months</inlineHelpText>
+        <label>Estimated Length of Initial Assignment</label>
+        <precision>5</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Associate_Actions_Completed_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Associate Actions Completed Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Associate_Actions_Completed__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <inlineHelpText>Check this box if all actions that the new associate has to take have been completed</inlineHelpText>
+        <label>Associate Actions Completed</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Background_Check_Drug_Screen_Required__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Required - results are required prior to completing enrollment 
+Contingent - results are required, but enrollment can be completed before receiving
+Not Required - the background check/drug screen is not required</inlineHelpText>
+        <label>Background Check/Drug Screen Required</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not Required</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>CSATransitionCall__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <inlineHelpText>At least 1 attempt followed by email documented in Salesforce.</inlineHelpText>
+        <label>CSA Transition Call</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Certificate_of_Insurance_Received__c</fullName>
+        <externalId>false</externalId>
+        <label>Certificate of Insurance Received</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Client_Notes__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Notes</label>
+        <length>32768</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>5</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Client_Notified_Enrollment_is_Complete__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Notified Enrollment is Complete</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Client_On_Boarding_Docs_Required__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Required - results are required prior to completing enrollment 
+Contingent - results are required, but enrollment can be completed before receiving
+Not Required - Client On-boarding docs are not required</inlineHelpText>
+        <label>Client On-Boarding Docs Required</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not required</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Client_Work_Authorization_Accepted__c</fullName>
+        <externalId>false</externalId>
+        <label>Client Work Authorization Accepted</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Complete_Enrollment_Call__c</fullName>
+        <externalId>false</externalId>
+        <label>Enrollment Call Completed</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Contact__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Contact</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>Enrollments</relationshipLabel>
+        <relationshipName>Enrollments</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Days_Since_Created_Date__c</fullName>
+        <externalId>false</externalId>
+        <formula>NOW() - CreatedDate</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Days Since Created Date</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Days_to_Complete_Enrollment__c</fullName>
+        <externalId>false</externalId>
+        <formula>IF(
+   NOT(ISNULL(Enrollment_Completion_Date__c )),
+   Enrollment_Completion_Date__c -  DATEVALUE(CreatedDate),
+   NULL
+  )</formula>
+        <label>Days to Complete Enrollment</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Enrollment_Call_Scheduled__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>The date that the enrollment call was scheduled</inlineHelpText>
+        <label>Enrollment Call Scheduled</label>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Enrollment_Code__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Enrollment Code</label>
+        <referenceTo>Enrollment_Code__c</referenceTo>
+        <relationshipLabel>Enrollments</relationshipLabel>
+        <relationshipName>Enrollments</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Enrollment_Completion_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Enrollment Completion Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>ExpectedBillings__c</fullName>
+        <externalId>false</externalId>
+        <label>Expected Initial 90 days of Billings</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Internal_Enrollment_Notes__c</fullName>
+        <externalId>false</externalId>
+        <label>Internal Enrollment Notes</label>
+        <length>32768</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>5</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Invoice_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Expected Initial Invoice Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Is_this_a_Re_Enrollment__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <inlineHelpText>Check this box if the associate has previously been enrolled at MBO.</inlineHelpText>
+        <label>Is this a Re-Enrollment?</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Lead_Status__c</fullName>
+        <externalId>false</externalId>
+        <formula>TEXT(Lead__r.Status)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Lead Status</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Lead__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Lead</label>
+        <referenceTo>Lead</referenceTo>
+        <relationshipLabel>Enrollments</relationshipLabel>
+        <relationshipName>Enrollments</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>MDFTWorker__c</fullName>
+        <externalId>false</externalId>
+        <label>Enrolled in Medical/Dental Benefits?</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>No</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>MDStartDate__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>If they have Medical or Dental benefits, when is their start date?</inlineHelpText>
+        <label>Medical/Dental Start Date</label>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Most_Recent_Initial_Call_Attempt__c</fullName>
+        <externalId>false</externalId>
+        <label>Most Recent Initial Call Attempt</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>NCEUploaded__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <inlineHelpText>Has the Net Case Estimate been attached to their Salesforce record?</inlineHelpText>
+        <label>NCE Uploaded</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Notify_client_enrollment_is_complete__c</fullName>
+        <externalId>false</externalId>
+        <label>Notify client enrollment is complete</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Number_of_Initial_Call_Attempts__c</fullName>
+        <defaultValue>0</defaultValue>
+        <externalId>false</externalId>
+        <label>Number of Initial Call Attempts</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Number_of_Tasks_To_Complete__c</fullName>
+        <externalId>false</externalId>
+        <label>Number of Tasks To Complete</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Online_Enrollment_Begins__c</fullName>
+        <externalId>false</externalId>
+        <label>Online Enrollment Begun</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Online_Portion_of_Enrollment_Completed__c</fullName>
+        <externalId>false</externalId>
+        <label>Online Portion of Enrollment Completed</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Qualification_Documents_Received__c</fullName>
+        <externalId>false</externalId>
+        <label>Qualification Documents Received</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Receive_I9_form_List_A_if_applicable__c</fullName>
+        <externalId>false</externalId>
+        <label>Received I9 form (List A if applicable)</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Receive_Intro_Survey__c</fullName>
+        <externalId>false</externalId>
+        <label>Received Intro Survey</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Receive_background_drug_screening_result__c</fullName>
+        <externalId>false</externalId>
+        <label>Received Background/Drug Screen Result</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Receive_signed_on_boarding_documents__c</fullName>
+        <externalId>false</externalId>
+        <label>Received signed on-boarding documents</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Receive_work_order_from_client__c</fullName>
+        <externalId>false</externalId>
+        <label>Receive work order from client</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Region__c</fullName>
+        <externalId>false</externalId>
+        <formula>NOT(
+    ISPICKVAL( Lead__r.fs_region__c ,&quot;&quot;)
+    )</formula>
+        <label>Region</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Review_NCE__c</fullName>
+        <externalId>false</externalId>
+        <label>Reviewed NCE</label>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>SFActivitiesClosed__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>SF Activities Closed</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Send_Activation_Email__c</fullName>
+        <externalId>false</externalId>
+        <label>Sent Activation Email/Transition Worker</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Send_Enrollment_Link__c</fullName>
+        <externalId>false</externalId>
+        <label>Sent Enrollment Link</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Send_Intro_Email__c</fullName>
+        <externalId>false</externalId>
+        <label>Sent Intro Email</label>
+        <required>false</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Send_Service_Summary_Email__c</fullName>
+        <externalId>false</externalId>
+        <label>Sent Service Summary Email</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Setup_work_order_in_MBO__c</fullName>
+        <externalId>false</externalId>
+        <label>Setup work order in MBO</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Status__c</fullName>
+        <externalId>false</externalId>
+        <label>Enrollment Status</label>
+        <picklist>
+            <picklistValues>
+                <fullName>In Progress</fullName>
+                <default>true</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Pending Approval</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Completed</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Submit_for_background_and_or_drug_screen__c</fullName>
+        <externalId>false</externalId>
+        <label>Submit for background and/or drug screen</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Transition_Worker__c</fullName>
+        <externalId>false</externalId>
+        <label>Transition Worker</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>VAST_Call_Completed__c</fullName>
+        <externalId>false</externalId>
+        <label>VAST Call Completed</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>WOFee__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <inlineHelpText>Is the Work Order Override Fee setup properly for Referral Rees, Premium Service Fees, etc?</inlineHelpText>
+        <label>WO Fee Confirmed</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>WOInvoicePreview__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <inlineHelpText>Has the invoice preview been setup in the Work Order?</inlineHelpText>
+        <label>WO Invoice Preview</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>WOSetup__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>WO setup with attachments</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>associateType__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Correct Associate Type Set</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>forecastField__c</fullName>
+        <externalId>false</externalId>
+        <formula>AND(
+    NOT(
+        ISNULL(Lead__r.AssignmentLength__c)
+    ),
+    NOT(
+        ISNULL(Lead__r.InvoiceDate__c)
+    ),
+    NOT(
+        ISNULL(Lead__r.ExpectedBilling__c)
+    )
+)</formula>
+        <label>Forecast Fields Complete</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>listADoc__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>I-9, Passport, or LIST A doc in E-file</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>opsAdmin__c</fullName>
+        <externalId>false</externalId>
+        <formula>NOT(
+    ISBLANK(Lead__r.rs_opsAdmin__c)
+)</formula>
+        <label>OA Assigned</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <label>Enrollment</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <listViews>
+        <fullName>Client_Enrollments</fullName>
+        <columns>NAME</columns>
+        <columns>RECORDTYPE</columns>
+        <columns>Lead__c</columns>
+        <columns>Contact__c</columns>
+        <columns>Days_Since_Created_Date__c</columns>
+        <columns>OWNER.ALIAS</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>RECORDTYPE</field>
+            <operation>notEqual</operation>
+            <value>Enrollment__c.Direct_Enrollment</value>
+        </filters>
+        <label>Client Enrollments</label>
+    </listViews>
+    <listViews>
+        <fullName>Enrollment_Approval_Enrollment</fullName>
+        <filterScope>Queue</filterScope>
+        <label>Enrollment Approval</label>
+        <queue>Enrollment_Approval</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>My_In_Progress_Enrollments</fullName>
+        <columns>Lead__c</columns>
+        <columns>Number_of_Tasks_To_Complete__c</columns>
+        <columns>RECORDTYPE</columns>
+        <columns>Days_Since_Created_Date__c</columns>
+        <filterScope>Mine</filterScope>
+        <filters>
+            <field>Status__c</field>
+            <operation>equals</operation>
+            <value>In Progress</value>
+        </filters>
+        <label>My In Progress Enrollments</label>
+    </listViews>
+    <nameField>
+        <displayFormat>Enr-{00000000}</displayFormat>
+        <label>Enrollment Number</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Enrollments</pluralLabel>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
+    <recordTypes>
+        <fullName>Direct_Enrollment</fullName>
+        <active>true</active>
+        <label>Direct Enrollment</label>
+        <picklistValues>
+            <picklist>Background_Check_Drug_Screen_Required__c</picklist>
+            <values>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Required</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Client_On_Boarding_Docs_Required__c</picklist>
+            <values>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not required</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>MDFTWorker__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Status__c</picklist>
+            <values>
+                <fullName>In Progress</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Pending Approval</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Exec</fullName>
+        <active>true</active>
+        <label>Exec</label>
+        <picklistValues>
+            <picklist>Background_Check_Drug_Screen_Required__c</picklist>
+            <values>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Required</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Client_On_Boarding_Docs_Required__c</picklist>
+            <values>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not required</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>MDFTWorker__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Status__c</picklist>
+            <values>
+                <fullName>Completed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>In Progress</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Pending Approval</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Staff</fullName>
+        <active>true</active>
+        <label>Staff</label>
+        <picklistValues>
+            <picklist>Background_Check_Drug_Screen_Required__c</picklist>
+            <values>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Required</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Client_On_Boarding_Docs_Required__c</picklist>
+            <values>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not required</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>MDFTWorker__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Status__c</picklist>
+            <values>
+                <fullName>Completed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>In Progress</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Pending Approval</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Sub</fullName>
+        <active>true</active>
+        <label>Sub</label>
+        <picklistValues>
+            <picklist>Background_Check_Drug_Screen_Required__c</picklist>
+            <values>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Required</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Client_On_Boarding_Docs_Required__c</picklist>
+            <values>
+                <fullName>Contingent</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not required</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Required</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>MDFTWorker__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Status__c</picklist>
+            <values>
+                <fullName>Completed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>In Progress</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Pending Approval</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <fullName>Enrollment_Completed</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(ISPICKVAL(Status__c, &quot;Completed&quot;),
+    RecordType.DeveloperName=&quot;Direct_Enrollment&quot;,
+    NOT(ISCHANGED( Contact__c )),
+    NOT(ISCHANGED( Activation_Date__c ))
+   )</errorConditionFormula>
+        <errorMessage>Please submit for approval.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>No_Future_Dates</fullName>
+        <active>true</active>
+        <errorConditionFormula>OR(
+   Certificate_of_Insurance_Received__c &gt; TODAY(),
+   
+   Client_Work_Authorization_Accepted__c &gt; TODAY(),
+   Complete_Enrollment_Call__c &gt; TODAY(),
+   Enrollment_Call_Scheduled__c &gt; TODAY(),
+   Most_Recent_Initial_Call_Attempt__c &gt; TODAY(),
+   Online_Enrollment_Begins__c &gt; TODAY(),
+   Online_Portion_of_Enrollment_Completed__c &gt; TODAY(),
+   Qualification_Documents_Received__c &gt; TODAY(),
+   Receive_background_drug_screening_result__c &gt; TODAY(),
+   Receive_I9_form_List_A_if_applicable__c &gt; TODAY(),
+   Receive_Intro_Survey__c &gt; TODAY(),
+   Receive_signed_on_boarding_documents__c &gt; TODAY(),
+   Receive_work_order_from_client__c &gt; TODAY(),
+   Review_NCE__c &gt; TODAY(),
+   Send_Activation_Email__c &gt; TODAY(),
+   Send_Enrollment_Link__c &gt; TODAY(),
+   Send_Intro_Email__c &gt; TODAY(),
+   Send_Service_Summary_Email__c &gt; TODAY(),
+   Setup_work_order_in_MBO__c &gt; TODAY(),
+   Submit_for_background_and_or_drug_screen__c &gt; TODAY(),
+   Transition_Worker__c &gt; TODAY(),
+   VAST_Call_Completed__c &gt; TODAY()
+  )</errorConditionFormula>
+        <errorMessage>Future Dates cannot be entered. Please enter the date that the action was completed.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Require_Benefits_for_Approval</fullName>
+        <active>false</active>
+        <errorConditionFormula>AND(
+    ISPICKVAL( Status__c , &apos;Pending Approval&apos;),
+    ISPICKVAL( MDFTWorker__c, &apos;&apos; )
+)</errorConditionFormula>
+        <errorDisplayField>MDFTWorker__c</errorDisplayField>
+        <errorMessage>Please set the Med/Dental Benefits prior to submitting for approval.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Start_Date_Required</fullName>
+        <active>false</active>
+        <errorConditionFormula>AND(
+    ISPICKVAL(MDFTWorker__c,&quot;YES&quot;),
+    ISBLANK(MDStartDate__c)
+)</errorConditionFormula>
+        <errorDisplayField>MDStartDate__c</errorDisplayField>
+        <errorMessage>Please enter a start date if they are a FT worker.</errorMessage>
+    </validationRules>
+    <webLinks>
+        <fullName>Check_Lead_Activity_Status</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <height>600</height>
+        <linkType>page</linkType>
+        <masterLabel>Check Lead Activity Status</masterLabel>
+        <openType>sidebar</openType>
+        <page>Enrollment_Activities_Complete</page>
+        <protected>false</protected>
+    </webLinks>
+    <webLinks>
+        <fullName>Email_Lead</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <encodingKey>UTF-8</encodingKey>
+        <linkType>url</linkType>
+        <masterLabel>Email Lead</masterLabel>
+        <openType>replace</openType>
+        <protected>false</protected>
+        <url>/_ui/core/email/author/EmailAuthor?p2_lkid={!Enrollment__c.LeadId__c}&amp;retURL=%2F{!Enrollment__c.Id}</url>
+    </webLinks>
+</CustomObject>

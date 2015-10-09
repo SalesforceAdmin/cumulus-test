@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners / MSA (1321638294.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners / MSA (1321638294.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Steve,
+ 
+You are very welcome, it was a pleasure meeting with you.  If you have any questions please do not hesitate to reach out to me or Steve and we will be happy to assist you.  We look forward to working with you in the future.
+ 
+Have a great weekend,
+ 
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Steve James [mailto:steve.james@issmgmt.com] 
+Sent: Thursday, November 17, 2011 10:26 PM
+To: Steve Arhancet
+Cc: Nicolette Taylor
+Subject: RE: MBO Partners / MSA
+ 
+Steve
+Nicollete
+ 
+Thanks for the package and for taking the time to explain your business model.  I am sure we will find a way to work together on the road ahead.
+ 
+V/r
+ 
+Steve
+ 
+ 
+Steve James
+President
+Integrated Systems Solutions, Inc.
+703-216-0144
+steve.james@issmgmt.com
+www.issmgmt.com
+         
+ 
+  
+ 
+From: Steve Arhancet [mailto:sarhancet@mbopartners.com] 
+Sent: Wednesday, November 02, 2011 6:24 PM
+To: Steve James
+Cc: Nicolette Taylor
+Subject: MBO Partners / MSA
+ 
+Steve,
+ 
+It was great to meet you and Tom today.  Enclosed is our MSA for your review, completion and execution. 
+ 
+Look forward to working with ISS.
+ 
+Regards,
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

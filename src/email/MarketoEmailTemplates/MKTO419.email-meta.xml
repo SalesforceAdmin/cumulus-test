@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Enrollment Information (1323297858.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Enrollment Information (1323297858.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Bernie,
+ 
+Thank you, I will keep an eye out for it.  Infozen has not yet responded to me, would you like me to reach out again or wait another day?
+ 
+Please advise,
+ 
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Bernie2 [mailto:btomasky@comcast.net] 
+Sent: Wednesday, December 07, 2011 1:06 PM
+To: Nicolette Taylor
+Subject: RE: MBO Partners Enrollment Information
+ 
+Enrollment is complete and you should receive my notarized I-9 in the mail today.   
+ 
+Have Infozen responded back to your Master Services Agreement email?
+ 
+Bernie Tomasky
+301-787-9466
+btomasky@comcast.net
+ 
+From: ntaylor@mbopartners.com [mailto:ntaylor@mbopartners.com] 
+Sent: Thursday, December 01, 2011 10:51 AM
+To: btomasky@comcast.net
+Subject: MBO Partners Enrollment Information
+ 
+
+Dear Bernie,
+
+Welcome to MBO Partners! Enclosed are the instructions you will need to become a MBO Associate. You can begin and resume this process at any time. 
+Please begin enrollment by clicking here. Continue the online enrollment by following the instructions. At the end of the enrollment process you will be asked to print out the enrollment packet. Please review this packet and follow the proper instructions. Please do not hesitate to call me should you have any questions or concerns. 
+We look forward to working with you. 
+
+Regards, 
+Nicolette Taylor
+Enrollment Manager 
+Direct: 703-793-6281 
+Toll Free: 800-556-0270
+MBO Partners
+13454 Sunrise Valley Dr., Ste 300
+Herndon, VA 20171
+http://www.mbopartners.com 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed. If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

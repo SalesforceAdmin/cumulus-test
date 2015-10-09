@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>GE Healthcare, Siemens, and Philips (1363621363.0)</name>
+    <style>none</style>
+    <subject>GE Healthcare, Siemens, and Philips (1363621363.0)</subject>
+    <textOnly>Nate, Pardon the interruption, but I am hoping you can help me. I’m looking for the best person at GE Healthcare to introduce myself to and was hoping you could point me in the right direction. To give you some background, MBO Partners is an independent contractor engagement specialist that helps companies like Siemens and Philips to safely and easily engage with their contract talent on projects. Will you please help connect me with the person responsible for your contingent workforce program or the stakeholder most concerned about worker misclassification risk at GE Healthcare?     Thank you in advance for your help, and if it turns out that the right person to speak with is you, I hope that you can find a few minutes on your calendar to schedule a quick call with me.    Respectfully, Steve   P.S. If are interested in reading about the innovative approach companies like Siemens and Philips are utilizing to limit their risk, control costs, and attract talent, here is a link to a white paper for you: IC Engagement Best Practices &lt;http://info.mbopartners.com/rs/mbo/images/MBO_ES_White_Paper_Engagement_Best_Practices.pdf&gt;.   ___________________________________ Steve Taggart Account Executive, Enterprise Solutions MBO Partners   t: 703.793.6014 f: 703.793.6452 e: staggart@mboenterprise.com &lt;mailto:staggart@mbopartners.com&gt; w: www.mboenterprise.com &lt;http://www.mbopartners.com/&gt;   Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

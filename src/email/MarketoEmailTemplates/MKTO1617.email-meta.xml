@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>I9 Form (1340717130.0)</name>
+    <style>none</style>
+    <subject>I9 Form (1340717130.0)</subject>
+    <textOnly>-     
+	- 
+	-   110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Joe, I received your I9 Form, was completed perfectly – thank you! Steve ___________________________________Steve ArhancetDirector, Consultant ServicesMBO Partners t: 703.793.6011f: 703.793.6081m: 540.560.8837e: sarhancet@mbopartners.com &lt;mailto:sarhancet@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

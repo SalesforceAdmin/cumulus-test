@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>This object is used to display all MBO employees</description>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableEnhancedLookup>true</enableEnhancedLookup>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Email__c</fullName>
+        <externalId>true</externalId>
+        <label>Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>First_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>First Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Full_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Full Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Last_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Last Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>LinkedIn_Profile__c</fullName>
+        <externalId>false</externalId>
+        <label>LinkedIn Profile</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>MBORecordID__c</fullName>
+        <externalId>true</externalId>
+        <label>MBO Record ID</label>
+        <length>30</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Salesforce_User__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>The Salesforce user that is the same person as the MBO user</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Reference the Salesforce user that is the same as this MBO user</inlineHelpText>
+        <label>Salesforce User</label>
+        <referenceTo>User</referenceTo>
+        <relationshipName>MBO_Users</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>TimeTrade_Link__c</fullName>
+        <externalId>false</externalId>
+        <label>TimeTrade Link</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>UserName__c</fullName>
+        <description>Updated by Business Center; pushed to Access</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The user name for the Business Center and Access</inlineHelpText>
+        <label>User Name</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_aDGUID__c</fullName>
+        <caseSensitive>true</caseSensitive>
+        <externalId>true</externalId>
+        <label>Active Directory GUID</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
+        <fullName>fs_phone__c</fullName>
+        <externalId>false</externalId>
+        <label>Phone</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>fs_title__c</fullName>
+        <externalId>false</externalId>
+        <label>Title</label>
+        <length>80</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>MBO User</label>
+    <listViews>
+        <fullName>All</fullName>
+        <columns>OBJECT_ID</columns>
+        <columns>NAME</columns>
+        <columns>Email__c</columns>
+        <columns>First_Name__c</columns>
+        <columns>Last_Name__c</columns>
+        <columns>Salesforce_User__c</columns>
+        <columns>LAST_UPDATE</columns>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <label>Name</label>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>MBO Users</pluralLabel>
+    <searchLayouts>
+        <customTabListAdditionalFields>Email__c</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>Email__c</lookupDialogsAdditionalFields>
+        <lookupFilterFields>NAME</lookupFilterFields>
+        <lookupFilterFields>Email__c</lookupFilterFields>
+        <lookupPhoneDialogsAdditionalFields>Email__c</lookupPhoneDialogsAdditionalFields>
+        <searchFilterFields>NAME</searchFilterFields>
+        <searchFilterFields>Email__c</searchFilterFields>
+        <searchResultsAdditionalFields>Email__c</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
+    <validationRules>
+        <fullName>syncUpdate_email</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(Email__c)
+)</errorConditionFormula>
+        <errorDisplayField>Email__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_firstName</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(First_Name__c)
+)</errorConditionFormula>
+        <errorDisplayField>First_Name__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_lastName</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(Last_Name__c)
+)</errorConditionFormula>
+        <errorDisplayField>Last_Name__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_mboRecordId</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(MBORecordID__c)
+)</errorConditionFormula>
+        <errorDisplayField>MBORecordID__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_owner</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(OwnerId)
+)</errorConditionFormula>
+        <errorDisplayField>OwnerId</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_phone</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(fs_phone__c)
+)</errorConditionFormula>
+        <errorDisplayField>fs_phone__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_salesforceUser</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(Salesforce_User__c)
+)</errorConditionFormula>
+        <errorDisplayField>Salesforce_User__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_timeTradeLink</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(TimeTrade_Link__c)
+)</errorConditionFormula>
+        <errorDisplayField>TimeTrade_Link__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>syncUpdate_userName</fullName>
+        <active>true</active>
+        <description>Restricts updates to any fields that are updated by the MBO System sync.</description>
+        <errorConditionFormula>AND(
+          NOT($User.Id = &apos;00580000003Xfjx&apos;),
+          ISCHANGED(UserName__c)
+)</errorConditionFormula>
+        <errorDisplayField>UserName__c</errorDisplayField>
+        <errorMessage>This field is managed in the MBO System.</errorMessage>
+    </validationRules>
+</CustomObject>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Thank You for Your Interest in MBO Partners (1326315773.0)</name>
+    <style>none</style>
+    <subject>RE: Thank You for Your Interest in MBO Partners (1326315773.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Vartan,
+ 
+Thank you for your response.  I will not be available to speak this evening, would there be a convenient time that I could call you tomorrow?  Currently the times I have available on my schedule are 10:00am EST or 12:30pm EST would either of those work for you?  If not I have a lot of availability on Friday.
+ 
+Thank you again and have a great evening,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Vartan Chukhadarian [mailto:vchukhadarian@gmail.com] 
+Sent: Wednesday, January 11, 2012 1:23 PM
+To: Nicolette Taylor
+Subject: Re: Thank You for Your Interest in MBO Partners
+ 
+I&apos;ll wait for your call.
+ 
+v
+On Wed, Jan 11, 2012 at 10:18 AM, Nicolette Taylor &lt;ntaylor@mbopartners.com&gt; wrote:
+
+Dear Vartan,
+
+Thank you for taking the time to contact MBO Partners. My name is Nicolette Taylor, an MBO Partners Enrollment Manager, and I will reach out to you within one business day.
+
+If you prefer, you can easily schedule a phone appointment with me by visiting https://my.timedriver.com/9TGRK.
+
+I look forward to speaking with you!
+
+Best regards,
+Nicolette
+___________________________________
+Nicolette Taylor 
+Enrollment Manager
+MBO Partners
+ 
+t: (703) 793-6281
+f: 703.793.6070
+e: ntaylor@mbopartners.com 
+w: www.mbopartners.com
+ 
+Error! Filename not specified.
+Error! Filename not specified.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

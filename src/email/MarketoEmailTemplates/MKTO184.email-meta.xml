@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email will be used to communicate that we have updated our brand and business center</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Alumni Brand Communication</name>
+    <style>none</style>
+    <subject>Important Announcement from MBO Partners: New Look and Business Center Interface!</subject>
+    <textOnly>Dear {{company.First Name (A):default=MBO Alumni}},
+ 
+My name is Marcelle Saab, MBO Partners’ new program manager responsible for interaction with our Associates and Alumni. I’m happy to share with you that MBO Partners is launching a refreshed brand to the marketplace. See here: http://www.mbopartners.com/news-events/mbo-partners-unveils-comprehensive-program-power-independent-consulting-america
+ 
+MBO Partners has been growing quickly. As businesses migrate to the new Project Economy with more and more work being procured on a contract basis, we have emerged as a leader in helping independent workers and their clients work together. As a result, we’re compelled to enhance our messaging and demonstrate how MBO Partners is central to this growing trend.
+ 
+Last month, MBO Partners launched a new look and feel throughout our organization, including a new Web site (www.mbopartners.com) and refreshed branding. Last week we also launched a new-and-improved user interface for the online Business Center that’s central to our Associate and client relationships.
+ 
+We hope you take a moment to explore the new site.
+ 
+As a result of these exciting changes, we’ve also been in the news recently. Here’s a few stories and links you may enjoy:
+
+Fortune.com, “Why America is going the way of the freelancer,” June 22, 2011, http://management.fortune.cnn.com/2011/06/22/why-america-is-going-the-way-of-the-freelancer/
+ABC News Now @Work, “Going Independent,” June 22, 2011 http://abcnews.go.com/Business/video/going-independent-13905900
+AOL Daily Finance, “The Joy of Contracting: Many Employers, No Safety Net,” June 21, 2011 http://www.dailyfinance.com/2011/06/21/the-joy-of-contracting-many-employers-no-safety-net/ 
+
+Please feel free to contact me with any questions or comments. I look forward to getting to know you!
+ 
+Best regards,
+Marcelle Saab
+Program Manager
+MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

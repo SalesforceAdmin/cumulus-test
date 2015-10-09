@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuickAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>New Exec Enrollment</label>
+    <quickActionLayout>
+        <layoutSectionStyle>TwoColumnsLeftToRight</layoutSectionStyle>
+        <quickActionLayoutColumns/>
+        <quickActionLayoutColumns/>
+    </quickActionLayout>
+    <targetObject>Enrollment__c</targetObject>
+    <targetParentField>Lead__c</targetParentField>
+    <targetRecordType>Enrollment__c.Exec</targetRecordType>
+    <type>Create</type>
+</QuickAction>

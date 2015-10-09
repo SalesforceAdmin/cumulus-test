@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email will go out to a list of high level client contacts to communicate the changing of our brand.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Brand Communication</name>
+    <style>none</style>
+    <subject>MBO Partners Announces Key Brand Investments and Important Changes</subject>
+    <textOnly>Dear {{First Name:default=edit me}},
+
+As business migrates to the new “Project Economy” with more and more work being procured on a contract basis, MBO Partners felt compelled to enhance our messaging and demonstrate how our solutions are central to this growing trend.
+
+To that end, I want you to be among the first to know that MBO Partners is launching a refreshed brand to the marketplace. We’re initially announcing this to our key client partners and independent contractor Associates.
+
+Please take a moment to review our new web sites:
+
+    •  www.mboenterprise.com, covering our solutions and value for enterprise organizations, and
+    •  www.mbopartners.com, an interactive new site for our independent contractor audience
+
+Next week, we will also launch a new and easier-to-use interface for our core MBO online system. This will improve the experience for your independent workers and managers alike.
+
+As always, we thank you for your business and look forward to serving you and your independent contractors well into the future. 
+
+Sincerely,
+
+Gene Zaino
+President and CEO
+MBO Partners
+Direct Dial: 703-793-6001</textOnly>
+    <type>custom</type>
+</EmailTemplate>

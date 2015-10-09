@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: gateway CDC agreement with MBO (1319485874.0)</name>
+    <style>none</style>
+    <subject>RE: gateway CDC agreement with MBO (1319485874.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Kristus,
+ 
+Great, I would be happy to reach out to them about any questions they have.  Please see the attached work order that you can use for the specifics of the work, but if you would like to draft a document about scope of work if you are concerned about them asking you to do more work than agreed I would recommend doing so.  
+ 
+Please let me know if you have any additional questions or if I can be of further assistance.
+ 
+Thank you,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+                                                                                             
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Kristus Ratliff [mailto:kmratliff@gmail.com] 
+Sent: Monday, October 24, 2011 12:16 PM
+To: Nicolette Taylor
+Subject: gateway CDC agreement with MBO
+ 
+Hi Nicolette,
+
+I just wanted to touch bases with you regarding my agreement with Gateway CDC.  I spoke with them and they have a few hang ups, but nothing that I don&apos;t think we can overcome. I am drafting a scope of work to be included in the agreement, but noticed that the MSA references a work order. I wonder if using the standard MBO work order would be best. Can you please send me a copy so that I can begin completing it? A Word version would be best so that I can include plenty of detail.
+
+Best,
+Kristus</textOnly>
+    <type>custom</type>
+</EmailTemplate>

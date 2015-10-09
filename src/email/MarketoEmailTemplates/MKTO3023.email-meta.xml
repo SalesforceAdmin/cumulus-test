@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>12DecWeb-ACA.Thank You Aug</name>
+    <style>none</style>
+    <subject>Thank you for attending - Resources from our ACA Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+Thank you for attending our  “The Affordable Care Act: What Independent Consultants Need to Know&quot; webinar held on Thursday, December 12. Gene Zaino and Dave Putt, both experts on the independent workforce, provided essential information on the ACA basics with a special focus on the independent worker.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+       Recorded webinar &lt;http://video.mbopartners.com/players/38FVT5SY-mMm4x1IW.html&gt;
+      Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_ACA%20Webinar_Slides.pdf&gt;
+       Downloadable ACA Guide &lt;http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Affordable_Care_Act_Guide.pdf&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

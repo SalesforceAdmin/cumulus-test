@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Contract (1330360508.0)</name>
+    <style>none</style>
+    <subject>RE: Contract (1330360508.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Randall, Thanks for reaching out. I am working with Kim Pert and NW legal to finalize a few of the redlines on the contract. I left a message for their general counsel “Rutledge Simmons” on Friday and I am still waiting to hear back.  There is nothing that I need from you at this time but I will continue to keep you in the loop. On a side note, I was able to Sharon Armstrong all set up in our system so we are moving along! Thanks Randall,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: From: &lt;mailto:sconde@mbopartners.com&quot;&gt;sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. &lt;span style=&apos;font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;&gt; Randall Thacker [mailto:randst27@yahoo.com] 
+Sent: Monday, February 27, 2012 11:30 AM
+To: Sara Conde
+Subject: Contract Hi Sara,  Just checking in to see where we stand right now with the NeighborWorks contract.  Is there anything you need from me?   Randall</textOnly>
+    <type>custom</type>
+</EmailTemplate>

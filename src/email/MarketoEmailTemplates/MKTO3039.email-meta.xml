@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Parked.2 Parked</name>
+    <style>none</style>
+    <subject>MBO Partners / {{lead.Full Name:default=}}</subject>
+    <textOnly>Hello {{lead.First Name:default=future associate}},
+
+I hope you are doing well. I wanted to touch base and see how the contract search is going?
+
+
+We have a number of consultant resources that we continually update that you may find helpful.   You may find them here: http://www.mbopartners.com/resources &lt;http://www.mbopartners.com/resources&gt;.  In addition, if you have any suggestions for new resources that might help other consultants - please let us know!
+
+I look forward to hearing from you.
+
+Best regards,
+
+
+{{lead.EM FName:default=Sara}}  {{lead.EM LName:default=Conde}} 
+Consultant Services Advisor
+
+MBO Partners
+ 
+t: {{lead.EM Phone:default=703-793-6028}}
+f: 703-793-6070
+e: {{lead.EM Email:default=sconde@mbopartners.com}} 
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

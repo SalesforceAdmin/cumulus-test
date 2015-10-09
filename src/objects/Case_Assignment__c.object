@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Allows a user to assign an action to a queue to be completed.</description>
+    <enableActivities>true</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableFeeds>true</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Assigned_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Assigned Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>DateTime</type>
+    </fields>
+    <fields>
+        <fullName>Associate_Name__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_case__r.Contact.FirstName+&quot; &quot;+ rs_case__r.Contact.LastName</formula>
+        <inlineHelpText>Associate&apos;s Name</inlineHelpText>
+        <label>Associate Name</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Associate_Number__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_case__r.Contact.Associate_Number__c</formula>
+        <label>Associate Number</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Associate_Referring_Client__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_case__r.Contact.Referring_Client__r.Name</formula>
+        <inlineHelpText>The client that referred the reporter</inlineHelpText>
+        <label>Associate Referring Client</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Associate_Service__c</fullName>
+        <externalId>false</externalId>
+        <formula>TEXT(rs_case__r.Contact.Associate_Type__c)</formula>
+        <inlineHelpText>The reporter&apos;s associate service</inlineHelpText>
+        <label>Associate Service</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Case_Due_Date__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_case__r.fd_due__c</formula>
+        <inlineHelpText>The date the customer needs the issue resolved by.</inlineHelpText>
+        <label>Case Due Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Case_Priority__c</fullName>
+        <externalId>false</externalId>
+        <formula>Text(rs_case__r.Priority)</formula>
+        <inlineHelpText>The priority the customer believes the case is.</inlineHelpText>
+        <label>Case Priority</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Case_Task_SLA__c</fullName>
+        <externalId>false</externalId>
+        <formula>IF(NOT(ISPICKVAL(fs_status__c,&quot;Completed&quot;)),
+   IF(OR(Due_Date__c - TODAY() &gt; 0,
+         ISBLANK(Due_Date__c)
+         ),
+      IMAGE(&quot;/servlet/servlet.FileDownload?file=015C0000002Mh3c&quot;, &quot;Green&quot;),
+      IF(AND(Due_Date__c - TODAY() &lt;= 0,
+             Due_Date__c - TODAY() &gt; -1
+             ),
+         IMAGE(&quot;/servlet/servlet.FileDownload?file=015C0000002Mh3e&quot;, &quot;Yellow&quot;),
+         IMAGE(&quot;/servlet/servlet.FileDownload?file=015C0000002Mh3d&quot;, &quot;Red&quot;)
+         )
+      ),
+   IF(OR(DATEVALUE(Closed_Date__c) &lt; Due_Date__c,
+         ISBLANK(Due_Date__c)
+         ),
+      IMAGE(&quot;/servlet/servlet.FileDownload?file=015C0000002Mh3c&quot;, &quot;Green&quot;),
+      IF(DATEVALUE(Closed_Date__c) = Due_Date__c,
+         IMAGE(&quot;/servlet/servlet.FileDownload?file=015C0000002Mh3e&quot;, &quot;Yellow&quot;),
+         IMAGE(&quot;/servlet/servlet.FileDownload?file=015C0000002Mh3d&quot;, &quot;Red&quot;)
+         )
+      )
+  )</formula>
+        <label>Case Task SLA</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Closed_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Closed Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>DateTime</type>
+    </fields>
+    <fields>
+        <fullName>Due_Date__c</fullName>
+        <defaultValue>If(
+   NOW() &gt; DATETIMEVALUE(
+                         DATE(
+                              YEAR(TODAY()),
+                              MONTH(TODAY()),
+                              DAY(TODAY())
+                              )
+                          )+0.8333333,
+   TODAY()+1,
+   TODAY()
+   )</defaultValue>
+        <externalId>false</externalId>
+        <inlineHelpText>The date this request needs to be complete by in order to complete the related case in time.</inlineHelpText>
+        <label>Due Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Duration__c</fullName>
+        <externalId>false</externalId>
+        <formula>(Closed_Date__c-Assigned_Date__c)*24</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Duration</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>ctPriority__c</fullName>
+        <externalId>false</externalId>
+        <label>Case Task Priority</label>
+        <picklist>
+            <picklistValues>
+                <fullName>High</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Normal</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_description__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Additional information the task worker needs to complete the task.</inlineHelpText>
+        <label>Description</label>
+        <length>32768</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_resolution__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Notes provided to case worker upon task completion.</inlineHelpText>
+        <label>Resolution</label>
+        <length>32000</length>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
+        <fullName>fs_status__c</fullName>
+        <externalId>false</externalId>
+        <label>Status</label>
+        <picklist>
+            <picklistValues>
+                <fullName>New</fullName>
+                <default>true</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Assigned</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Completed</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_topic__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>The type of task requested for completion. Will send task to the associated queue, based on the Topic.</inlineHelpText>
+        <label>Topic</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Push Invoice</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Void Invoice</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Manual Invoice</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Unauthorize Time</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Credit Memo</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Approve Negative Expense</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Approve Expense</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Denied Expense Escalation</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Apply Negative Invoice</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Refund Request</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Reverse Payroll</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Upload W-2</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Garnishment</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Collection Request</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Manual Payment Advance</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Ledger Insurance Premiums</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Manual Wire Advance</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Ledger Pay Records</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Service Fee Adjustment</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Visit/Badge Request</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Security Clearance/DD-254</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Update Fidelity</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Terminate/Backdate Insurance</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>401K Inquiry/Return of Excess</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Claims - WC, Life, LTD</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>E-Verify</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Evidence of Insurability</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Troubleshooting</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Urgent Tech Support</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>rs_case__c</fullName>
+        <deleteConstraint>Restrict</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Case</label>
+        <referenceTo>Case</referenceTo>
+        <relationshipName>Assignments</relationshipName>
+        <required>true</required>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <label>Case Task</label>
+    <nameField>
+        <displayFormat>A-{000000000}</displayFormat>
+        <label>Case Task Number</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Case Tasks</pluralLabel>
+    <searchLayouts>
+        <customTabListAdditionalFields>fs_topic__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>fs_status__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>rs_case__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>OWNER.ALIAS</customTabListAdditionalFields>
+        <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
+        <lookupDialogsAdditionalFields>fs_topic__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>fs_status__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>rs_case__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>OWNER.ALIAS</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>fs_topic__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>fs_status__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>rs_case__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>OWNER.ALIAS</lookupPhoneDialogsAdditionalFields>
+        <searchFilterFields>NAME</searchFilterFields>
+        <searchFilterFields>fs_topic__c</searchFilterFields>
+        <searchFilterFields>fs_status__c</searchFilterFields>
+        <searchFilterFields>rs_case__c</searchFilterFields>
+        <searchFilterFields>OWNER.ALIAS</searchFilterFields>
+        <searchResultsAdditionalFields>fs_topic__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>fs_status__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>rs_case__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>OWNER.ALIAS</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Completed_Resolution</fullName>
+        <active>true</active>
+        <errorConditionFormula>ISPICKVAL(fs_status__c,&quot;Completed&quot;) &amp;&amp; fs_resolution__c=NULL</errorConditionFormula>
+        <errorDisplayField>fs_resolution__c</errorDisplayField>
+        <errorMessage>Please enter a resolution upon completion of the assignment</errorMessage>
+    </validationRules>
+    <webLinks>
+        <fullName>Close_Task</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <linkType>javascript</linkType>
+        <masterLabel>Close Task</masterLabel>
+        <openType>onClickJavaScript</openType>
+        <protected>false</protected>
+        <url>{!Case_Assignment__c.fs_status__c}=&apos;Completed&apos;</url>
+    </webLinks>
+</CustomObject>

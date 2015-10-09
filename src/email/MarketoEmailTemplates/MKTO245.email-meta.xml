@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Question about MSAs in place (1318263215.0)</name>
+    <style>none</style>
+    <subject>RE: Question about MSAs in place (1318263215.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Don,
+ 
+I hope you are doing well!  We currently do not have a MSA in place with Cognizant, but if they are willing to speak with me I can talk to them about what it would take to become a vendor of theirs and I can work to make that happen.  Also, depending on who the actual client is, we may have a relationship with them or be able to become a vendor of theirs directly so you do not have to go through another firm who will take a percentage off of your rate (unless Cognizant is the one who found the project for you).
+ 
+Please let me know when you will be available and we can discuss.
+ 
+Thank you,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Don Mattes [mailto:donald.mattes@gmail.com] 
+Sent: Monday, October 10, 2011 11:20 AM
+To: Nicolette Taylor
+Subject: Question about MSAs in place
+ 
+Nicolette,  We had a talk a couple weeks ago that was very helpful.  I have been following up on the opportunity I would like to pursue and that company wants to work through one of their preferred vendors (as may be guessed) and one of their preferred vendors (the one of choice) is Cognizant.  I was talking to Cognizant today and they have a process for dealing with Subcontractors but only through other companies and so I was wondering if perhaps MBOPartners already has a MSA in place with Cognizant.  If so, it may be a win for me to sign up with you folks and subcontract through Cognizant in order to work at this particular customer.   If you could let me know if such an MSA is in place that would be great.  Thanks.
+ 
+Don Mattes
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

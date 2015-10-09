@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:14px tahoma; width:100%; " ><span class="mktEditable" id="edit_text" ></span>
+<p></p>
+<p ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia,palatino; font-size: 14px;">Hello {{lead.First Name:default=Webinar Registrant}},</span></span>
+</p>
+<span class="mktEditable" id="edit_text" ></span>
+<p ><span class="mktEditable" id="edit_text" ><span class="mkteditable" ><span style="font-size: 14px; font-family: Georgia, serif;">Thank you for taking the time to attend our New Year webinar,&nbsp;<strong>“</strong><strong>Disrupt Yourself: Four Rules for Reinventing Your Career in 2013.</strong><strong>"</strong>&nbsp;To follow-up on the information provided on Thursday, January 10th, please find links to reference resources below.</span></span>
+</span>
+</p>
+<ol ><li ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino; font-size: 14px;">&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.mbopartners.com/webinar-disrupt-yourself-four-rules-reinventing-your-career-2013">Recorded webinar</a></span></span>
+</li>
+<li ><span ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://info.mbopartners.com/rs/mbo/images/MBO-Disrupt-Yourself-Webinar_Slides.pdf">Webinar slide deck</a></span></span>
+</span>
+</li>
+<li ><span ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino;">&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.mycoachingcircle.com/"></a><span style="font-size: 14px;"><a href="http://www.whitneyjohnson.com/">Featured Speaker&nbsp;Whitney Johnson Website</a></span></span></span>
+</span>
+</li>
+<li ><span ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.amazon.com/Dare-Dream-Do-Remarkable-Things/dp/1937134121">Whitney's Book: Dare, Dream Do</a></span><strong>&nbsp;</strong></span>
+</span>
+</li>
+</ol>
+<p></p>
+<p ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino; font-size: 14px;">We invite you to <a title="2012 Webinar Series Sign-up" href="http://info.mbopartners.com/2012SeriesSignUp.html">sign-up</a> to stay informed about future webinars in our series. If you have any topic recommendations or feedback, please email <a title="webinar@mbopartners.com" href="mailto:webinar@mbopartners.com">webinar@mbopartners.com</a>.&nbsp;</span></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia, palatino; font-size: 14px;">Thank you,</span></span>
+</p>
+<p ><span class="mktEditable" id="edit_text" ><span style="font-family: georgia,palatino; font-size: 14px;"><strong><span style="color: #991324;">MBO PARTNERS<br></span></strong><strong><span style="color: #991324;"><span style="color: #808080;">t: 1-800-220-0469<br>
+e: info@mbopartners.com</span></span></strong></span></span>
+</p>
+<p></p>
+</div>
+</body>
+</html>

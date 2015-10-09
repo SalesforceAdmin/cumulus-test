@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Associate Referral.Thank You: Associate Referral</name>
+    <style>none</style>
+    <subject>{{lead.How Heard Additional Data}}, Welcome To The MBO Partners Referral Program</subject>
+    <textOnly>Dear {{lead.How Heard Additional Data}},
+
+Thank you for spreading the word about MBO Partners to {{lead.First Name}}.  Within the next five years, according to our Second Annual State of Independence Study &lt;http://www.mbopartners.com/state-of-independence/docs/2012-MBO_Partners_State_of_Independence_Report.pdf&gt;, the projected future size of independent workers is expected to rise to 23 million. How do we fit into that? Well, MBO Partners continues to be the prominent alternative to self-incorporation, making it easy for independent consultants and their clients to do business together.  We are your advocate and will continue to offer you premium services that empower you to do what you do best!
+
+Because of you, {{lead.First Name}} is one step closer to the path of independence. As a token of our appreciation, we will go ahead and *deposit $500 into your Business Center upon the enrollment and subsequent billings of $30,000 by {{lead.First Name}}. That’s not all though - every referral you submit gives you another chance to win a home office makeover &lt;http://referral.mbopartners.com/?q=referral-program/mbo-makeover&gt; worth up to $5,000! *Restrictions apply. See contest rules &lt;http://referral.mbopartners.com/referral-program/official-rules&gt; for details.
+
+To share MBO with others you feel could benefit from using our services, please send them here &lt;http://referral.mbopartners.com/referral-program/why-mbo?r={{lead.How Heard Additional Data}}&gt; to learn more, or go ahead and fill in their basic information &lt;http://referral.mbopartners.com/referral-program/refer&gt; and we’ll do the rest!
+
+Thank you again, {{lead.How Heard Additional Data}} for being a valued MBO Associate. 
+
+Regards,
+
+MBO Partners
+ 800-220-0469
+ www.mbopartners.com &lt;http://www.mbopartners.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

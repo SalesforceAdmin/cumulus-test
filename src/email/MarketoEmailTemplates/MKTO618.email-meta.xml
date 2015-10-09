@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Follow up from MBO (1325790393.0)</name>
+    <style>none</style>
+    <subject>Follow up from MBO (1325790393.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Kristin,
+ 
+Thank you for your inquiry in the MBO system!  I wanted to follow up with you because I noticed that you mentioned you were referred by your current client is that correct?  If so who is that client?  For some of our accounts here at MBO we have specific account managers and I want to ensure that I put you in contact with the correct individual.  If you decided to reach out to MBO on your own and would like additional information I would be the person for you to speak with and would be happy to schedule a time to give you some background on the MBO program.
+ 
+Thank you and have a great day!
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

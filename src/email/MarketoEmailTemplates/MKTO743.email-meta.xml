@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Follow up from MBO Partners (1326985197.0)</name>
+    <style>none</style>
+    <subject>Follow up from MBO Partners (1326985197.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Frank,
+ 
+Thank you for scheduling a time to speak with me tomorrow.  I noticed in your inquiry that you mentioned you heard about MBO Partners through your colleagues at Booz Allen Hamilton, are you planning on working for Booz Allen on a contract basis once you leave full time employment there, or do you plan on working with other clients and you just heard about our services and wanted to know more?
+ 
+If you are going to be working with Booz Allen as a consultant I will need to put you in touch with an account manager that works on the Booz Allen account as they will be able to provide you with the specifics of that particular account.
+ 
+Thank you again for your interest in MBO Partners and I look forward to hearing from you soon!
+ 
+Have a great day,
+Nicolette 
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

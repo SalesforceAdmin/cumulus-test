@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>New work (1324504110.0)</name>
+    <style>none</style>
+    <subject>New work (1324504110.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Stan,
+ 
+I spoke with Ashley and she gave me some insight on the work you will be doing.  You will be working under Jim’s team center with MBO for the project you are helping him with and he is currently in the process with Ashley of getting the contract in place with the client.  SO this means all you have to do is get me the I9 form and we will wait for Ashley to execute the agreement on Jim’s behalf.  Once this happens I will work to get you activated and we can begin billing from there.
+ 
+Have a great day and I look forward to speaking with you again soon.
+ 
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>Contact.Associate_Number__c</field>
+    </columns>
+    <columns>
+        <field>PC_FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>PC_LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>Account.fd_slaActivate__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Referring_Client__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Associate_Type__c</field>
+    </columns>
+    <columns>
+        <field>Contact.Associate_Status__c</field>
+    </columns>
+    <filter>
+        <criteriaItems>
+            <column>Contact.Business_Manager__c</column>
+            <operator>equals</operator>
+            <value>Tyler King</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Contact.Referring_Client__c</column>
+            <operator>notEqual</operator>
+            <value></value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Contact.Associate_Status__c</column>
+            <operator>equals</operator>
+            <value>Active,Non Billing,Probation</value>
+        </criteriaItems>
+    </filter>
+    <format>Tabular</format>
+    <name>Active Associates - TK</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>AccountList</reportType>
+    <scope>organization</scope>
+    <showDetails>true</showDetails>
+    <sortColumn>Account.fd_slaActivate__c</sortColumn>
+    <sortOrder>Desc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

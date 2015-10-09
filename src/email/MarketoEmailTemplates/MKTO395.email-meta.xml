@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>San Francisco - Fall 2011.Parking Reminder</name>
+    <style>none</style>
+    <subject>See You at the Fairmont!</subject>
+    <textOnly>We can’t wait to see you at our upcoming Networking Reception, taking place at the Fairmont San Francisco’s Tonga Room this Wednesday, December 7, from 5:30 – 8:30!  
+
+Also, just a few options for parking garages nearby, if you are unable to find street parking:
+ 
+Masonic Auditorium
+1111 California St.
+$8/hour, $30 max
+ 
+Metro Parking Garage
+1045 California St.
+$31 maximum
+ 
+Grace Cathedral parking garage
+1051 Taylor St.
+$27 maximum
+ 
+Imperial parking
+SBC park stadium
+$35
+ 
+Fairmont Hotel
+950 Mason Street
+$52 Daily max. plus 14% city tax
+ 
+Brocklebank Parking Garage
+1040 Sacramento St.
+$38 compact vehicles
+$45 all other vehicles
+ 
+Thanks and we look forward to seeing you!
+ 
+MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

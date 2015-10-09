@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Follow up on voicemail (1315922428.0)</name>
+    <style>none</style>
+    <subject>RE: Follow up on voicemail (1315922428.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Weatherly,
+ 
+You are very welcome!  Please see the attached net cash estimate reflecting your rate of $110/hr assuming you are working 80 hours a month (same as the previous estimates we came up with).  Please let me know if you have any questions about this.
+ 
+Thank you and have a great day!
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Weatherly [mailto:weatherly@iname.com] 
+Sent: Monday, September 12, 2011 6:03 PM
+To: Nicolette Taylor
+Subject: Re: Follow up on voicemail
+ 
+Thanks Nicolette.  You are great!
+
+Sent from my iPhone
+
+On Sep 12, 2011, at 17:48, Nicolette Taylor &lt;ntaylor@mbopartners.com&gt; wrote:
+Hi Weatherly,
+ 
+Im sorry I didnt have a chance to call you back today, I was on the phone for most of the afternoon.  I will create the net cash estimate to your specifications in the morning and email it over to you and if you have any questions about it you may call me and we can discuss.
+Have a great evening,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+e notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+&lt;/</textOnly>
+    <type>custom</type>
+</EmailTemplate>

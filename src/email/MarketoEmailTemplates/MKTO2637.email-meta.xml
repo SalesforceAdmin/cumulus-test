@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: Contact Us Inquiry from MBO Partners - About Us site (1369149101.0)</name>
+    <style>none</style>
+    <subject>FW: Contact Us Inquiry from MBO Partners - About Us site (1369149101.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Ivo, We received the below email to our general information email box, I am assuming this was sent to us in error but I wanted to be sure. Please confirm.  Best,Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Weve got some serious perks youre eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them.  First Name: ivoLast Name: sargesEmail: isarges@gmail.com &lt;mailto:isarges@gmail.com&gt;Phone:Title:Company: independent / newSubject: mgmt consulting curriculaMessage: Gary -- I am starting a business focusing on providing in-house consulting solutions to large organizations. Given your background and experience, I would love to touch base and test a few ideas. In particular, I am keen to learn more about your work on the mgmt consulting curricula (linked-in notice). Would you be available for a quick phone call? Tx, ivo.botblock:   &lt;/htm</textOnly>
+    <type>custom</type>
+</EmailTemplate>

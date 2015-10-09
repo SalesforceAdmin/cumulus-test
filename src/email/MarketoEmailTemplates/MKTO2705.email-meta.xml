@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Aug29Webinar-Challenges.Invite 1</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Compliance Officers}}, are your best consultants satisfied?</subject>
+    <textOnly>{{lead.First Name:default=Compliance Officer}},
+
+Do you know the top 5 challenges independent workers may have with your company? Are you a client of choice, or of necessity?
+
+To answer your questions, MBO Partners - Enterprise Solutions invites two of our own Associates to our August webinar: Understanding the Contractor: 5 Challenges ICs Have with Your Enterprise &lt;http://info.mbopartners.com/Aug29Webinar-Challenges.html&gt;. Robert Weber and David Shekari, longtime consultants with major corporate clients, will join me to explain the IC&apos;s perspective on common issues that arise when consulting with a large enterprise. While some may seem familiar and others surprising, seeing the process through the eyes of the independents can help you refine your programs to attract and retain consulting talent.
+___________________________________
+Jay Lash
+VP, Market Strategies
+ MBO Partners
+ 
+
+ e: entcommunications@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

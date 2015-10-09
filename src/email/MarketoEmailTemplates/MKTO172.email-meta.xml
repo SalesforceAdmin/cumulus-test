@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Shared Procurement Portal (1315586814.0)</name>
+    <style>none</style>
+    <subject>RE: Shared Procurement Portal (1315586814.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Darold,
+ 
+When creating a listing, you will want to create it under your own personal name, not MBO.   As you are the individual marketing your specific skill set you would not list MBO as the company that provides these services because we do not, we are just the vehicle for payment.  When it comes down to what contract you would be operating under or who will be receiving the payment for the services that is where you would list MBO.  I have  attached a PDF with our contract number included as well as some additional information.  Please let me know if you have any other questions about this.  I have also attached a copy of our W9 that has our current information listed. 
+ 
+I have not had a lot of experience working with the GSA schedule so if you have specific questions please let me know and I will find out the answer for you.
+ 
+Have a great weekend,
+Nicolette 
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Darold Woodward [mailto:darold66@gmail.com] 
+Sent: Friday, September 09, 2011 11:59 AM
+To: Nicolette Taylor
+Subject: Shared Procurement Portal
+ 
+As part of the selection process for one of my government agency clients I am making an entry on the Shared Procurement Portal (sharedprocurementportal.com).
+ 
+I will enter the listing as MBO Partners and then show my applicable experience for this client.
+ 
+I need the Federal Tax ID to use for MBO for the entry. I plan to set it up with my contact information where it is applicable to get the calls or contact from the clients directly.
+ 
+Do you have any suggestions or other information that I should know for this type of &apos;advertising?&apos;
+ 
+Regards,
+
+Darold</textOnly>
+    <type>custom</type>
+</EmailTemplate>

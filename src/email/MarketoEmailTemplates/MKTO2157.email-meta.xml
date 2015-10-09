@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Associate Referral.Associate Referral: Email Only</name>
+    <style>none</style>
+    <subject>MBO Partners - Everything for Independent Consultants</subject>
+    <textOnly>Dear {{lead.First Name:default=Independent Consultant}},
+
+We received your contact information from {{lead.How Heard Additional Data:default=edit me}}, a current member of MBO Partners who believes you could greatly benefit from our program. My name is {{lead.EM FName:default=Sara}} {{lead.EM LName:default=Conde}}, a Consultant Services Advisor, and I invite you to learn what MBO Partners is all about, and decide for yourself.
+
+For more than 25 years, our company has led the independent consulting sector in America. Our mission is simple –we make it easy for independent consultants and their clients to work together by handling the administrative, financial, legal, tax and expense burdens that bog down consultants, thus increasing their billable time. In addition, we provide them access to the largest exclusive online community of successful independent consultants, the clients that engage with them, and a multitude of valuable resources. Click here &lt;http://www.mbopartners.com/#howwehelp&gt; to learn more about what MBO Partners can do for independent 
+consultants.
+
+Here are some recent tools we have developed to empower our consultants to thrive in their independent careers that you might find useful:
+
+
+
+ - Bill Rate Packet &lt;http://www.mbopartners.com/#billrate&gt; – Not sure what to bill your clients?  This tool will assist you, factoring in your 
+desired profit margins, expected expenses, and projected insurance costs.
+
+ - Webinar Index &lt;http://www.mbopartners.com/resources?type=presentation&gt; – Learn from industry experts advising on best practices to help you expand your 
+consulting business.
+
+ - Meet the Independents &lt;http://www.mbopartners.com/state-of-independence/meet-the-independents.html&gt; – Get a glimpse into the independent workforce in America by reading 
+the profiles and stories of some of our consultants.
+ - Independent’s Guide &lt;http://www.mbopartners.com/independents-guide&gt; – Take advantage of an online library of articles and resources covering a myriad of topics and issues geared specifically towards the independent career path.
+
+
+
+You may also wish to sign-up for our monthly 
+Independent Consulting Brief to stay up to date on the many resources that we provide to the consulting marketplace.
+
+ I wish you every success in growing or starting your own independent consulting business, and if you’d like to set up a time to talk to learn more, please feel free to schedule a time &lt;{{lead.EM TTLink}}&gt; 
+that is convenient for you to speak with me.
+
+Regards,
+___________________________________
+ {{lead.EM FName:default=edit me}} {{lead.EM LName:default=edit me}}
+ Consultant Services Advisor
+ MBO Partners
+ 
+ t: {{lead.EM Phone:default=edit me}}
+ f: 703-793-6070
+ e: {{lead.EM Email:default=edit me}}
+ w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

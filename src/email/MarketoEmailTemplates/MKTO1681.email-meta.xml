@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Hours reporting (1341933811.0)</name>
+    <style>none</style>
+    <subject>RE: Hours reporting (1341933811.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Dan, When your account becomes active you will also log time in our system. We will be able to back date the time so don’t worry about that aspect. For now, just follow the process you have with IBI.  Once your account is active I will walk you through how to enter time and expense deductions.  Thanks for keeping me updated and in the loop.
+Take care,Sara From: Daniel Murphy [mailto:dpmurphy_fl@yahoo.com] 
+Sent: Tuesday, July 10, 2012 10:55 AM
+To: Sara Conde
+Subject: Hours reporting Sara,
+
+I usually report my hours to IBI each week either Sunday night or Monday morning.
+
+Should I copy you or anyone else at MBO?
+
+Also how and when do I report expenses which will be deducted from my taxable gross income?
+
+I only worked 2.75 hours last week and expect to work 20-20 hours this week.
+
+There is a delay in getting ID&apos;s and permissions to the GM system which limits how much I can do this week.  I suspect next week should be close to the normal 40 hour week.
+
+Thank you,
+
+Dan </textOnly>
+    <type>custom</type>
+</EmailTemplate>

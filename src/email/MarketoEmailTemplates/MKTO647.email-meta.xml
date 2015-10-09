@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners / Information on Benefits - Next Steps (1326135733.0)</name>
+    <style>none</style>
+    <subject>MBO Partners / Information on Benefits - Next Steps (1326135733.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Gregory,
+ 
+It was a pleasure speaking with you.  You’ll find everything that I referenced on our call by clicking this private link here.  You’ll receive another email with the link to set-up your online account with us.
+ 
+I will follow up with you on, Thursday at 3pm EST. 
+ 
+Should you have questions before then, please schedule a convenient time using my online schedule.
+ 
+Regards,
+ 
+Steve
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

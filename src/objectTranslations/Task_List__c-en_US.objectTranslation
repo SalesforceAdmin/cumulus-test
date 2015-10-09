@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Task List</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Task List</value>
+    </caseValues>
+    <fields>
+        <label><!-- Assign To MBO User Field Name --></label>
+        <name>Assign_To_MBO_User_Field_Name__c</name>
+        <picklistValues>
+            <masterLabel>Enrollment_Manager__c</masterLabel>
+            <translation><!-- Enrollment_Manager__c --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>rs_opsAdmin__c</masterLabel>
+            <translation><!-- rs_opsAdmin__c --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>rs_qualAdvisor__c</masterLabel>
+            <translation><!-- rs_qualAdvisor__c --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Assign To --></label>
+        <name>Assign_To__c</name>
+        <relationshipLabel><!-- Task List --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Due Days --></label>
+        <name>Due_Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active --></label>
+        <name>IsActive__c</name>
+    </fields>
+    <fields>
+        <label><!-- # Child Tasks --></label>
+        <name>Num_Child_Tasks__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Field Name --></label>
+        <name>Parent_Field_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Priority --></label>
+        <name>Priority__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Status To Update Parent Field --></label>
+        <name>Status_To_Update_Parent_Field__c</name>
+        <picklistValues>
+            <masterLabel>Attempted</masterLabel>
+            <translation><!-- Attempted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Completed</masterLabel>
+            <translation><!-- Completed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Required</masterLabel>
+            <translation><!-- Not Required --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Subject --></label>
+        <name>Subject__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>Action</masterLabel>
+            <translation><!-- Action --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Call</masterLabel>
+            <translation><!-- Call --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Email</masterLabel>
+            <translation><!-- Email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Meeting</masterLabel>
+            <translation><!-- Meeting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Receive</masterLabel>
+            <translation><!-- Receive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VM</masterLabel>
+            <translation><!-- VM --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Task List Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

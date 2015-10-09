@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Webinar Tech Issue</name>
+    <style>none</style>
+    <subject>Today&apos;s webinar</subject>
+    <textOnly>Registrants,
+
+We are sorry to announce that today’s webinar was canceled due to a one-time technical issue. We have identified the problem so that it will not occur again.
+
+Look out next week for a recording and slides on the topic, and email any additional questions about the 5 Consulting Trends webinar to jmacdonell@mbopartners.com &lt;mailto:jmacdonell@mbopartners.com&gt;.
+ 
+ Thank you for your patience and support of MBO Partners.
+___________________________________
+Jaime MacDonell
+Marketing Manager
+ MBO Partners
+ 
+ t: 703-793-6368
+ e: webinar@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

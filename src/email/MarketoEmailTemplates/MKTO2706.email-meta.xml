@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Form Nurturing 2</name>
+    <style>none</style>
+    <subject>A Quiz, A Calculator, An Independent Consultant</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+
+Because you&apos;ve expressed interest in MBO&apos;s educational resources in the past, I&apos;d like to introduce you to two other tools we have developed for independent consultants.
+
+1. Our Is It Right For You &lt;http://www.mbopartners.com/right-for-you&gt; quiz gives consultants of all experiences levels the chance to answer detailed questions about their solo business. It&apos;s fast, simple and by the end of it, you will know whether MBO Partners is a fit for you.
+
+2. For our consultants with experience, our Bill Rate Calculator &lt;http://www.mbopartners.com/billrate&gt; is a valuable resource. This handy tool can show you everything that should go into your bottom line bill rate, and it will provide you with an approximate figure to get you started.
+
+I hope you enjoy our interactive resources, and please let me know if you have any questions.
+___________________________________
+Jaime MacDonell
+Marketing Manager
+ MBO Partners
+ 
+ t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

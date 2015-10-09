@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplicationComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <buttonText>Logistics Center</buttonText>
+    <buttonWidth>150</buttonWidth>
+    <height>600</height>
+    <isHeightFixed>false</isHeightFixed>
+    <isHidden>false</isHidden>
+    <isWidthFixed>false</isWidthFixed>
+    <visualforcePage>LogisticsCenter</visualforcePage>
+    <width>800</width>
+</CustomApplicationComponent>

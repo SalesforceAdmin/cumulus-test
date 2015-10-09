@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Active Work Orders Analytic Snapshot</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Active Work Orders Analytic Snapshots</value>
+    </caseValues>
+    <fields>
+        <label><!-- Associate Name --></label>
+        <name>Associate_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Number --></label>
+        <name>Associate_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Service --></label>
+        <name>Associate_Service__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associate Status --></label>
+        <name>Associate_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Name --></label>
+        <name>Client_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Complete --></label>
+        <name>Enrollment_Complete__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone --></label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Stage --></label>
+        <name>Stage__c</name>
+    </fields>
+    <fields>
+        <label><!-- State/Province --></label>
+        <name>State_Province__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

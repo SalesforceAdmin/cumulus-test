@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Information (1325788166.0)</name>
+    <style>none</style>
+    <subject>MBO Information (1325788166.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE               MicrosoftInternetExplorer4                                                                                                                                                               Hi Vipul,
+ 
+It was a pleasure speaking with you today!  I have included some information for your review that you can access by following the link below:
+ 
+http://info.mbopartners.com/advisor-info-n-taylor.html
+ 
+If you have any additional questions about our services please feel free to contact me or follow the link below to schedule another time to speak on my calendar:
+ 
+https://my.timedriver.com/9TGRK
+ 
+Thanks again and I look forward to speaking with you soon!
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

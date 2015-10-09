@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>FW: Mark Freeman CPA #20556 (1338494534.0)</name>
+    <style>none</style>
+    <subject>FW: Mark Freeman CPA #20556 (1338494534.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                                 ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. From: Expense [mailto:expense@mbopartners.com] 
+Sent: Thursday, May 31, 2012 3:51 PM
+To: Sara Conde
+Cc: Steve Arhancet
+Subject: RE: Mark Freeman CPA #20556 Sara, We can only make exceptions for extenuating circumstances.  What are the extenuating circumstances that prevented him from submitting this on time?   Thanks,Crystal From: Sara Conde [mailto:sconde@mbopartners.com] &lt;mailto:[mailto:sconde@mbopartners.com]&gt; 
+Sent: Thursday, May 31, 2012 3:47 PM
+To: Expense Box
+Cc: Steve Arhancet
+Subject: RE: Mark Freeman CPA #20556 Hi Crystal, If I reach out him and let him know how to enter the expense properly and that we will give him a one day pass on the 60 day rule would that be ok with your department? This is a sensitive issue for directs so I would appreciate the opportunity to give him a onetime pass.
+Thanks for considering,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. From: Expense [mailto:expense@mbopartners.com] &lt;mailto:[mailto:expense@mbopartners.com]&gt; 
+Sent: Thursday, May 31, 2012 1:35 PM
+To: Sara Conde
+Subject: Mark Freeman CPA #20556 Hi Sara, Mark has a pending expense that is beyond the 60 day submission period.  Is it okay to deny this and send the denial email or do you want to contact him?  Also, the expense is marked as Medical and it is his insurance premium so it should be Private Insurance.  Can you make sure he knows to categorize it as Private Insurance in the future? Thanks,
+Crystal</textOnly>
+    <type>custom</type>
+</EmailTemplate>

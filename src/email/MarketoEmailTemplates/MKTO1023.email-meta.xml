@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Enrollmetn (1329865331.0)</name>
+    <style>none</style>
+    <subject>MBO Enrollmetn (1329865331.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Sharon, Long time no talk - hope you are doing well. I wanted to let you know your company passed our vetting (woo hoo) and now it’s time to log in, sign the contract, and entering your company’s banking information.  Once this is completed we will be all ready to activate your account. Please let me know if you have any questions. Thanks!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e:  &lt;mailto:sconde@mbopartners.com&quot;&gt;sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com&lt;span style=&apos;mso-bookmark:_MailAutoSig&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

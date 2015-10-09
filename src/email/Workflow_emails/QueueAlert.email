@@ -1,0 +1,1 @@
+{!Lead.Name} (https://na8.salesforce.com/{!Lead.Id}) has reached the lead score threshold. Please review and determine if the lead should be assigned to a sales person.

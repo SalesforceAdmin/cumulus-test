@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " ><span class="mktEditable" id="edit_text" ><p>Good morning, {{lead.First Name:default=Consultant}}, <br /><br />As an aspiring or current independent consultant, staying up-to-date and finding content that&rsquo;s actually relevant to you can be tough.&nbsp;That&rsquo;s why we&rsquo;re pleased to share that&nbsp;MBO Partners has&nbsp;developed 30- and 60-minute webinar 
+discussions on educational&nbsp;topics geared toward independent thinkers like you.
+ These webinars will focus on exciting topics like &ndash; <br /><br />&bull;&nbsp;Going Solo: Are You Ready?<br />&bull;&nbsp;Calculating Your Bill Rate<br />&bull;&nbsp;Finding Your Next Contract<br />&bull;&nbsp;Starting Your 2nd Career in Consulting<br /><br />I&rsquo;d like to invite you to 
+join us throughout 2012 as a registrant for our new Webinar series &ndash; getting helpful answers to questions from experts and other real-life professionals like you facing similar questions and challenges.
+ <br /><br /><a href="http://info.mbopartners.com/2012SeriesSignUp.html">Sign me up!<br /></a><br />The topic for this month is &lsquo;How to Calculate Your Bill Rate: Expert Tips for Solopreneurs.&rsquo; It will be held on Friday, March 2nd at 12:30 PM, EST.
+ Learn more and register by <a href="http://info.mbopartners.com/Calculating-Bill-Rate.html" target="_blank">going here</a>.&nbsp;</p>
+<p>Kind Regards,</p>
+<p>{{lead.Lead Owner First Name:default=Steve}}</p>
+</span>
+</div>
+<div><span style="font-family: 'Georgia','serif'; color: #999999; font-size: 10pt;">___________________________________</span></div>
+<div><strong><span style="font-family: georgia,palatino; color: #a00b10; font-size: 10.5pt;">{{lead.Lead Owner First Name:default=Steve}} {{lead.Lead Owner Last Name:default=Arhancet}}</span></strong></div>
+<div><strong><span style="font-family: georgia,palatino; color: #353433; font-size: 10.5pt;">{{lead.Lead Owner Job Title:default=Director, Consultant Services}}</span></strong></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;">MBO Partners</span></div>
+<br>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>t:</strong> {{lead.Lead Owner Phone Number:default=703.793.6011}}</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>f:</strong> 703.793.6081</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>e:</strong> {{lead.Lead Owner Email Address:default=sarhancet@mbopartners.com}}</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>w:</strong> <a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></div>
+</body>
+</html>

@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Client Reference Guide</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Client Reference Guides</value>
+    </caseValues>
+    <fields>
+        <label><!-- VAST Account --></label>
+        <name>fb_VASTAccount__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Advanced Rate Detail --></label>
+        <name>fn_MBOExecAdvRateDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Rate Detail --></label>
+        <name>fn_MBOExecRateDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Staff Rate Detail --></label>
+        <name>fn_MBOStaffRateDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Advanced Rate Detail --></label>
+        <name>fn_MBOSubAdvRateDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Rate Detail --></label>
+        <name>fn_MBOSubRateDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Email --></label>
+        <name>fn_accountEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Manager Email Address --></label>
+        <name>fn_amEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Manager Phone --></label>
+        <name>fn_amPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Codes --></label>
+        <name>fn_enrollmentCodes__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Adv Rate --></label>
+        <name>fn_execAdvRate__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Rate --></label>
+        <name>fn_execRate__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Adv Rate --></label>
+        <name>fn_mboExecAdvRate_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Staff Rate --></label>
+        <name>fn_mboStaffRate_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Adv Rate --></label>
+        <name>fn_mboSubAdvRate_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Rate --></label>
+        <name>fn_mboSubRate_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Modification Request Email --></label>
+        <name>fn_modReqEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Modification Request Full Name --></label>
+        <name>fn_modReqFullName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operational Assistant Email --></label>
+        <name>fn_oaEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operational Assistant Full Name --></label>
+        <name>fn_oaFullName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment Terms --></label>
+        <name>fn_paymentTerms_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment Terms --></label>
+        <name>fn_paymentTerms__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Staff Rate --></label>
+        <name>fn_staffRate__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Adv Rate --></label>
+        <name>fn_subAdvRate__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Rate --></label>
+        <name>fn_subRate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Manager --></label>
+        <name>fs_AM__c</name>
+    </fields>
+    <fields>
+        <label><!-- Time &amp; Expense Entry --></label>
+        <name>fs_TEEntry__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Email --></label>
+        <name>fs_accountEmail_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Activation Email MBO Exec URL --></label>
+        <name>fs_activationEmailExecURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Activation Email MBO Staff URL --></label>
+        <name>fs_activationEmailStaffURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Activation Email MBO Sub URL --></label>
+        <name>fs_activationEmailSubURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- AP Contact Email Address --></label>
+        <name>fs_apContactEmail_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- AP Contact Email --></label>
+        <name>fs_apContactEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- AP Contact Full Name --></label>
+        <name>fs_apContactFullName_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- AP Contact Phone --></label>
+        <name>fs_apContactPhone_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- AP Contact Phone --></label>
+        <name>fs_apContactPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Athena Client Executive Email URL --></label>
+        <name>fs_athenaClientExecutiveEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Athena Contractor Email URL 1 --></label>
+        <name>fs_athenaContractorEmail1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Athena Contractor Email URL 2 --></label>
+        <name>fs_athenaContractorEmail2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Athena Manager Email URL --></label>
+        <name>fs_athenaManagerEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM SLA 1 --></label>
+        <name>fs_bmSLA1__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM SLA 2 --></label>
+        <name>fs_bmSLA2__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM SLA 3 --></label>
+        <name>fs_bmSLA3__c</name>
+    </fields>
+    <fields>
+        <label><!-- BM SLA Detail --></label>
+        <name>fs_bmSLADetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Brokering Information --></label>
+        <name>fs_brokeringInformation__c</name>
+    </fields>
+    <fields>
+        <label><!-- CEM Follow-up Email --></label>
+        <name>fs_cemFollow__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Contract URL --></label>
+        <name>fs_clientContractURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Contractor Group Information --></label>
+        <name>fs_clientContractorGroup__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Description --></label>
+        <name>fs_clientDescription__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Executive Intro Email URL --></label>
+        <name>fs_clientExecutiveIntroEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Incumbent Data --></label>
+        <name>fs_clientIncumbentData__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Need and MBO Selection --></label>
+        <name>fs_clientNeedMBOSelection__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Presentation URL --></label>
+        <name>fs_clientPresentation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Proposal URL --></label>
+        <name>fs_clientProposal__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client-Supplied Communications --></label>
+        <name>fs_clientSuppliedComms__c</name>
+    </fields>
+    <fields>
+        <label><!-- Client Website --></label>
+        <name>fs_clientWebsite__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contractor FAQ URL --></label>
+        <name>fs_contractorFAQURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Discovery Questionnaire URL --></label>
+        <name>fs_discoveryQuestionnaire__c</name>
+    </fields>
+    <fields>
+        <label><!-- Discussion with Enrollee --></label>
+        <name>fs_discussionWEnrollee__c</name>
+    </fields>
+    <fields>
+        <label><!-- Discussion --></label>
+        <name>fs_discussion__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM SLA 1 --></label>
+        <name>fs_emSLA1__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM SLA 2 --></label>
+        <name>fs_emSLA2__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM SLA 3 --></label>
+        <name>fs_emSLA3__c</name>
+    </fields>
+    <fields>
+        <label><!-- EM SLA 4 --></label>
+        <name>fs_emSLA4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Process Flow Basic URL --></label>
+        <name>fs_enrollmentProcessFlowBasicURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Process Flow Detailed URL --></label>
+        <name>fs_enrollmentProcessFlowDetailedURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Example Report URL 1 --></label>
+        <name>fs_exampleReport1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Example Report URL 2 --></label>
+        <name>fs_exampleReport2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Example Report URL 3 --></label>
+        <name>fs_exampleReport3__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Adv Rate Type --></label>
+        <name>fs_execAdvRateType__c</name>
+        <picklistValues>
+            <masterLabel>ISSI</masterLabel>
+            <translation><!-- ISSI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mark-up</masterLabel>
+            <translation><!-- Mark-up --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Percentage of (Margin)</masterLabel>
+            <translation><!-- Percentage of (Margin) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Rate Type --></label>
+        <name>fs_execRateType__c</name>
+        <picklistValues>
+            <masterLabel>ISSI</masterLabel>
+            <translation><!-- ISSI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mark-up</masterLabel>
+            <translation><!-- Mark-up --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Percentage of (Margin)</masterLabel>
+            <translation><!-- Percentage of (Margin) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Expense Policy Detail --></label>
+        <name>fs_expensePolicyDetail_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expense Policy Detail --></label>
+        <name>fs_expensePolicyDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expense Policy URL --></label>
+        <name>fs_expensePolicyURL_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expense Policy URL --></label>
+        <name>fs_expensePolicyURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Funding Source --></label>
+        <name>fs_fundingSource_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Funding --></label>
+        <name>fs_funding__c</name>
+    </fields>
+    <fields>
+        <label><!-- Insurance Requirements --></label>
+        <name>fs_insuranceRequirements__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intro Email 1 Description --></label>
+        <name>fs_introEmail1Desc__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intro Email 1 URL --></label>
+        <name>fs_introEmail1URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intro Email 2 Description --></label>
+        <name>fs_introEmail2Desc__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intro Email 2 URL --></label>
+        <name>fs_introEmail2URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intro Email 3 Description --></label>
+        <name>fs_introEmail3Desc__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intro Email 3 URL --></label>
+        <name>fs_introEmail3URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Invoice Schedule --></label>
+        <name>fs_invoiceSchedule__c</name>
+    </fields>
+    <fields>
+        <label><!-- Issue Escalation Detail --></label>
+        <name>fs_issueEscalationDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Manager FAQ URL --></label>
+        <name>fs_managerFAQ__c</name>
+    </fields>
+    <fields>
+        <label><!-- Manager Intro Email URL --></label>
+        <name>fs_managerIntroEmail1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Manager Intro Email URL 2 --></label>
+        <name>fs_managerIntroEmail2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Manager Intro URL --></label>
+        <name>fs_managerIntro__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Adv Rate Type --></label>
+        <name>fs_mboExecAdvRateType_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Rate Type --></label>
+        <name>fs_mboExecRateType_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Exec Rate --></label>
+        <name>fs_mboExec_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Staff Rate Type --></label>
+        <name>fs_mboStaffRateType_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Adv Rate Type --></label>
+        <name>fs_mboSubAdvRateType_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Rate Type --></label>
+        <name>fs_mboSubRateType_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- MSP Contact Email --></label>
+        <name>fs_mspContactEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- MSP Contact Fullname --></label>
+        <name>fs_mspContactFullname__c</name>
+    </fields>
+    <fields>
+        <label><!-- MSP Contact Phone --></label>
+        <name>fs_mspContactPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- MSP VMS Detail --></label>
+        <name>fs_mspVMSDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- OS Intro --></label>
+        <name>fs_oaIntro_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- OS Intro --></label>
+        <name>fs_oaIntro__c</name>
+    </fields>
+    <fields>
+        <label><!-- OS Task URL --></label>
+        <name>fs_oaTaskURL_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- OS Tasks URL --></label>
+        <name>fs_oaTasksURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- On-Boarding Checklist URL --></label>
+        <name>fs_onBoardingChecklistURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- On-boarding Documents --></label>
+        <name>fs_onBoardingDocuments__c</name>
+    </fields>
+    <fields>
+        <label><!-- On-boarding inst. --></label>
+        <name>fs_onBoardingInst__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Contractor Communication Details --></label>
+        <name>fs_otherContractorCommDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment Calendar URL --></label>
+        <name>fs_paymentCalendarURL_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment Calendar URL --></label>
+        <name>fs_paymentCalendarURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment Schedule --></label>
+        <name>fs_paymentSchedule__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment Terms Detail --></label>
+        <name>fs_paymentTermsDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment Timeline URL --></label>
+        <name>fs_paymentTimelineURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Post-Consultation Email URL --></label>
+        <name>fs_postConsultationEmailURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pricing Detail or Rate Components --></label>
+        <name>fs_pricingDetailRateComponents__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pricing Matrix URL --></label>
+        <name>fs_pricingMatrix__c</name>
+    </fields>
+    <fields>
+        <label><!-- Process Diagram --></label>
+        <name>fs_processDiagram__c</name>
+    </fields>
+    <fields>
+        <label><!-- Program Notification URL External --></label>
+        <name>fs_progNotifURLExt__c</name>
+    </fields>
+    <fields>
+        <label><!-- Program Notification URL Internal --></label>
+        <name>fs_progNotifURLInt__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rate Calculator URL --></label>
+        <name>fs_rateCalculatorURL_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rate Calculator --></label>
+        <name>fs_rateCalculator__c</name>
+    </fields>
+    <fields>
+        <label><!-- Re-Enrollment Instructions --></label>
+        <name>fs_reenrollmentInstructions__c</name>
+    </fields>
+    <fields>
+        <label><!-- Referral Template Detail --></label>
+        <name>fs_referralTemplateDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Referral Template --></label>
+        <name>fs_referralTemplate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Reporting Summary and Schedule --></label>
+        <name>fs_reporting__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screening Requirements URL --></label>
+        <name>fs_screeningRequirementsURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screening --></label>
+        <name>fs_screening__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enrollment Manager SLA Detail --></label>
+        <name>fs_sla__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Manager Special Instructions --></label>
+        <name>fs_specialRules__c</name>
+    </fields>
+    <fields>
+        <label><!-- MBO Staff Rate Type --></label>
+        <name>fs_staffRateType__c</name>
+        <picklistValues>
+            <masterLabel>ISSI</masterLabel>
+            <translation><!-- ISSI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mark-up</masterLabel>
+            <translation><!-- Mark-up --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Percentage of (Margin)</masterLabel>
+            <translation><!-- Percentage of (Margin) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Adv Rate Type --></label>
+        <name>fs_subAdvRateType__c</name>
+        <picklistValues>
+            <masterLabel>ISSI</masterLabel>
+            <translation><!-- ISSI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mark-up</masterLabel>
+            <translation><!-- Mark-up --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Percentage of (Margin)</masterLabel>
+            <translation><!-- Percentage of (Margin) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MBO Sub Rate Type --></label>
+        <name>fs_subRateType__c</name>
+        <picklistValues>
+            <masterLabel>ISSI</masterLabel>
+            <translation><!-- ISSI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mark-up</masterLabel>
+            <translation><!-- Mark-up --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Percentage of (Margin)</masterLabel>
+            <translation><!-- Percentage of (Margin) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Success Factors Detail --></label>
+        <name>fs_successFactorsDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Success Factors URL --></label>
+        <name>fs_successFactorsURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tax Information --></label>
+        <name>fs_taxInformation_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tax Information --></label>
+        <name>fs_taxInformation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Terms --></label>
+        <name>fs_terms__c</name>
+        <picklistValues>
+            <masterLabel>Net 30</masterLabel>
+            <translation><!-- Net 30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 45</masterLabel>
+            <translation><!-- Net 45 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 60</masterLabel>
+            <translation><!-- Net 60 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Net 90</masterLabel>
+            <translation><!-- Net 90 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Time Milestone Expense Entry Detail --></label>
+        <name>fs_timeMilestoneExpenseDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- Time Milestone Expense Entry URL 2 --></label>
+        <name>fs_timeMilestoneExpenseURL2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Time Milestone Expense Entry URL 3 --></label>
+        <name>fs_timeMilestoneExpenseURL3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Time Milestone Expense Entry URL --></label>
+        <name>fs_timeMilestoneExpenseURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- VAST Engage Subs As Associates --></label>
+        <name>fs_vastEngageSubAssociate__c</name>
+    </fields>
+    <fields>
+        <label><!-- VAST Follow-Up Email to Sub --></label>
+        <name>fs_vastFollowUpEmailSub__c</name>
+    </fields>
+    <fields>
+        <label><!-- VAST Insurance Validation --></label>
+        <name>fs_vastInsuranceValidation__c</name>
+    </fields>
+    <fields>
+        <label><!-- VAST Insurance Waiver Information --></label>
+        <name>fs_vastInsuranceWaiver__c</name>
+    </fields>
+    <fields>
+        <label><!-- VAST Process After Qual --></label>
+        <name>fs_vastProcessQual__c</name>
+    </fields>
+    <fields>
+        <label><!-- VAST Summary --></label>
+        <name>fs_vastSummary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vast Tier 2 Worker Evaluation --></label>
+        <name>fs_vastTier2WorkerEval__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vendor Qualification Criteria URL --></label>
+        <name>fs_vendorQualCriteria__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vetting Questions URL --></label>
+        <name>fs_vettingQuestionsURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Contact Email --></label>
+        <name>fs_vmsContactEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Contact Fullname --></label>
+        <name>fs_vmsContactFullname__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Contact Phone --></label>
+        <name>fs_vmsContactPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Import Instructions URL --></label>
+        <name>fs_vmsImportInstructionsURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Import --></label>
+        <name>fs_vmsImport__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Login Detail --></label>
+        <name>fs_vmsLoginDetail__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Login Password --></label>
+        <name>fs_vmsLoginPassword__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Login Username --></label>
+        <name>fs_vmsLoginUsername__c</name>
+    </fields>
+    <fields>
+        <label><!-- VMS Usage Guide URL --></label>
+        <name>fs_vmsUsageGuideURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Welcome Site URL --></label>
+        <name>fs_welcomeSiteURL_COPY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Welcome Site URL --></label>
+        <name>fs_welcomeSiteURL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Order Setup Guide --></label>
+        <name>fs_woSetupGuide__c</name>
+    </fields>
+    <fields>
+        <label><!-- MSP --></label>
+        <name>rs_MSP__c</name>
+        <relationshipLabel><!-- CRG (MSP) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- VMS --></label>
+        <name>rs_VMS__c</name>
+        <relationshipLabel><!-- CRG (VMS) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- AP Escalation --></label>
+        <name>rs_apEscalation__c</name>
+        <relationshipLabel><!-- CRG (AP Escalation) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Main Client Contact --></label>
+        <name>rs_clientContact__c</name>
+        <relationshipLabel><!-- CRG (Client Contact) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Client --></label>
+        <lookupFilter>
+            <errorMessage><!-- Please select a company as the client. --></errorMessage>
+        </lookupFilter>
+        <name>rs_client__c</name>
+        <relationshipLabel><!-- Client Reference Guides --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Escalation 1 --></label>
+        <name>rs_escalation1__c</name>
+        <relationshipLabel><!-- CRG (Escalation 1) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Escalation 2 --></label>
+        <name>rs_escalation2__c</name>
+        <relationshipLabel><!-- CRG (Escalation 2) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Escalation 3 --></label>
+        <name>rs_escalation3__c</name>
+        <relationshipLabel><!-- CRG (Escalation 3) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Escalation 4 --></label>
+        <name>rs_escalation4__c</name>
+        <relationshipLabel><!-- CRG (Escalation 4) --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Client Reference Guide Layout</layout>
+        <sections>
+            <label><!-- AM1 --></label>
+            <section>AM1</section>
+        </sections>
+        <sections>
+            <label><!-- AM2 --></label>
+            <section>AM2</section>
+        </sections>
+        <sections>
+            <label><!-- AM3 --></label>
+            <section>AM3</section>
+        </sections>
+        <sections>
+            <label><!-- AM4 --></label>
+            <section>AM4</section>
+        </sections>
+        <sections>
+            <label><!-- AM5 --></label>
+            <section>AM5</section>
+        </sections>
+        <sections>
+            <label><!-- Account Manager --></label>
+            <section>Account Manager</section>
+        </sections>
+        <sections>
+            <label><!-- BM1 --></label>
+            <section>BM1</section>
+        </sections>
+        <sections>
+            <label><!-- BM2 --></label>
+            <section>BM2</section>
+        </sections>
+        <sections>
+            <label><!-- BM3 --></label>
+            <section>BM3</section>
+        </sections>
+        <sections>
+            <label><!-- BM4 --></label>
+            <section>BM4</section>
+        </sections>
+        <sections>
+            <label><!-- Business Manager --></label>
+            <section>Business Manager</section>
+        </sections>
+        <sections>
+            <label><!-- Client Information --></label>
+            <section>Client Information</section>
+        </sections>
+        <sections>
+            <label><!-- Client1 --></label>
+            <section>Client1</section>
+        </sections>
+        <sections>
+            <label><!-- Client2 --></label>
+            <section>Client2</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- EM10 --></label>
+            <section>EM10</section>
+        </sections>
+        <sections>
+            <label><!-- EM2 --></label>
+            <section>EM2</section>
+        </sections>
+        <sections>
+            <label><!-- EM3 --></label>
+            <section>EM3</section>
+        </sections>
+        <sections>
+            <label><!-- EM4 --></label>
+            <section>EM4</section>
+        </sections>
+        <sections>
+            <label><!-- EM5 --></label>
+            <section>EM5</section>
+        </sections>
+        <sections>
+            <label><!-- EM6 --></label>
+            <section>EM6</section>
+        </sections>
+        <sections>
+            <label><!-- EM7 --></label>
+            <section>EM7</section>
+        </sections>
+        <sections>
+            <label><!-- EM8 --></label>
+            <section>EM8</section>
+        </sections>
+        <sections>
+            <label><!-- EM9 --></label>
+            <section>EM9</section>
+        </sections>
+        <sections>
+            <label><!-- Enrollment Manager --></label>
+            <section>Enrollment Manager</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo1 --></label>
+            <section>FinInfo1</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo10 --></label>
+            <section>FinInfo10</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo2 --></label>
+            <section>FinInfo2</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo3 --></label>
+            <section>FinInfo3</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo4 --></label>
+            <section>FinInfo4</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo5 --></label>
+            <section>FinInfo5</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo6 --></label>
+            <section>FinInfo6</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo7 --></label>
+            <section>FinInfo7</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo8 --></label>
+            <section>FinInfo8</section>
+        </sections>
+        <sections>
+            <label><!-- FinInfo9 --></label>
+            <section>FinInfo9</section>
+        </sections>
+        <sections>
+            <label><!-- Financial Information --></label>
+            <section>Financial Information</section>
+        </sections>
+        <sections>
+            <label><!-- Summary --></label>
+            <section>Summary</section>
+        </sections>
+        <sections>
+            <label><!-- VAST --></label>
+            <section>VAST</section>
+        </sections>
+        <sections>
+            <label><!-- VAST1 --></label>
+            <section>VAST1</section>
+        </sections>
+        <sections>
+            <label><!-- VM1 --></label>
+            <section>VM1</section>
+        </sections>
+        <sections>
+            <label><!-- VM2 --></label>
+            <section>VM2</section>
+        </sections>
+        <sections>
+            <label><!-- VM3 --></label>
+            <section>VM3</section>
+        </sections>
+        <sections>
+            <label><!-- VMS MSP Information --></label>
+            <section>VMS MSP Information</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

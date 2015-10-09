@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>LEAD_ID</field>
+    </columns>
+    <columns>
+        <field>RECORDTYPE</field>
+    </columns>
+    <columns>
+        <field>STATE</field>
+    </columns>
+    <columns>
+        <field>FIRST_NAME</field>
+    </columns>
+    <columns>
+        <field>LAST_NAME</field>
+    </columns>
+    <columns>
+        <field>Lead.Enrollment_Manager__c</field>
+    </columns>
+    <columns>
+        <field>LEAD_SOURCE</field>
+    </columns>
+    <columns>
+        <field>Lead.LeadSourceData__c</field>
+    </columns>
+    <columns>
+        <field>Lead.How_Heard__c</field>
+    </columns>
+    <columns>
+        <field>Lead.How_Heard_AD__c</field>
+    </columns>
+    <columns>
+        <field>CREATED_DATE</field>
+    </columns>
+    <description>Displays all direct leads that have Nicolette, Sara, or Steve as the owner but not EM (and vice versa) or doesn&apos;t have any of them as either the owner or EM.</description>
+    <filter>
+        <booleanFilter>2 AND ((1 AND 3) or (4 AND 6) or (5 AND 7) or (8 AND 9) or (10 AND 11) or (12 AND 13) or (14 and 15)) AND 16</booleanFilter>
+        <criteriaItems>
+            <column>Lead.Enrollment_Manager__c</column>
+            <operator>notEqual</operator>
+            <value>Sara Conde</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>RECORDTYPE</column>
+            <operator>equals</operator>
+            <value>Lead.Direct_Associate</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>equals</operator>
+            <value>Sara Conde</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>equals</operator>
+            <value>Nicolette Taylor</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>equals</operator>
+            <value>Steve Arhancet</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.Enrollment_Manager__c</column>
+            <operator>notEqual</operator>
+            <value>Nicolette Taylor</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.Enrollment_Manager__c</column>
+            <operator>notEqual</operator>
+            <value>Steve Arhancet</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>notEqual</operator>
+            <value>Sara Conde</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.Enrollment_Manager__c</column>
+            <operator>equals</operator>
+            <value>Sara Conde</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>notEqual</operator>
+            <value>Nicolette Taylor</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.Enrollment_Manager__c</column>
+            <operator>equals</operator>
+            <value>Nicolette Taylor</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>notEqual</operator>
+            <value>Steve Arhancet</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.Enrollment_Manager__c</column>
+            <operator>equals</operator>
+            <value>Steve Arhancet</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>OWNER</column>
+            <operator>notEqual</operator>
+            <value>Sara Conde,Nicolette Taylor,Steve Arhancet</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>Lead.Enrollment_Manager__c</column>
+            <operator>notEqual</operator>
+            <value>Sara Conde,Nicolette Taylor,Steve Arhancet</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>CONVERTED</column>
+            <operator>equals</operator>
+            <value>0</value>
+        </criteriaItems>
+    </filter>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>OWNER</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>STATUS</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>Misassigned Directs</name>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
+    <reportType>LeadList</reportType>
+    <scope>org</scope>
+    <showDetails>true</showDetails>
+    <sortColumn>CREATED_DATE</sortColumn>
+    <sortOrder>Asc</sortOrder>
+    <timeFrameFilter>
+        <dateColumn>CREATED_DATE</dateColumn>
+        <interval>INTERVAL_CUSTOM</interval>
+    </timeFrameFilter>
+</Report>

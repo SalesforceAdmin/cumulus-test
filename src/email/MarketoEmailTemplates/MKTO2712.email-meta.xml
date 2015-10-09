@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>22AugWeb-Digital-Strategies.Invite 3</name>
+    <style>none</style>
+    <subject>Last chance to register for MBO&apos;s Tech webinar</subject>
+    <textOnly>There&apos;s one day left to join us tomorrow, August 22 at 1 p.m. ET for a webinar titled &quot;Digital Strategies for Independent Professionals: How the Right Tech Tools Can Boost Your Bottom Line &lt;http://info.mbopartners.com/22AugWebDigitalStrategies_RegistrationPage.html&gt; &lt;http://info.mbopartners.com/16MayWebSocialMedia_RegistrationPage.html&gt;.&quot;
+If you can&apos;t make our webinar, don&apos;t worry! Register &lt;http://info.mbopartners.com/22AugWebDigitalStrategies_RegistrationPage.html&gt;, and we will send you a recording and slides the following week so you can view them at your convenience.
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+ 
+ t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

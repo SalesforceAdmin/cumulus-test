@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Follow Up (1344288074.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Follow Up (1344288074.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Jeff, My name is Nicolette Taylor and I work with Steve Arhancet at MBO Partners.  He forwarded me your email from earlier today and asked that I follow up with you as he will not have any time to speak this week.  I would be happy to schedule some time on my calendar for us to speak and have included a link to my calendar below. online schedule &lt;http://mkto-l0128.com/track?t=c&amp;enid=bWlkPW1ib0JldGFjdXN0LTAtMC0wLTAtcHJvZC0wJm1zZ2lkPTAmZGlkPTEyMzQmc249MCZlaWQ9bWFyY0BkbWFyYzguY29tJnVpZD0wJmV4dHJhPU1URTBmSE55WTJsa1BUazNmRzFoYVd4cFpEMDFaRFZqWW1VeU5TMDFNR00xTFRRM1pUZ3RPVFk1WkMxbE5tRXlaV0kwTkdNek5tUXRPVGQ4Wm5KdmJUMXVkR0Y1Ykc5eVFHMWliM0JoY25SdVpYSnpMbU52Ylh4emRXSnFQVTFDVHlCUVlYSjBibVZ5Y3lCSmJtWnZjbTFoZEdsdmJnPT09JiYm&amp;&amp;&amp;https://my.timedriver.com/9TGRK?mkt_tok=2xUAKZjCdlBLtmdy5v2LIfGjnDrNEPLC0dYXY52MuKVUsyIUGIalUg%3D%3D&gt; I look forward to speaking with you soon! Have a great evening,Nicolette  ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

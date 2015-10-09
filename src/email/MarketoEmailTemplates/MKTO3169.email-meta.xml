@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>27Feb14-Prospecting.Sorry We Missed You</name>
+    <style>none</style>
+    <subject>Sorry we missed you - Resources from our prospecting Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+You were missed at our  “Painless Prospecting for Independent Consultants&quot; webinar held on Thursday, February 27. Author and digital strategist Tom Martin discussed creating content, positioning that content where your audience will see it, and optimizing your website to turn those leads into clients.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+Recorded webinar &lt;http://video.mbopartners.com/players/vOFdR2h4-mMm4x1IW.html&gt;
+Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/Cali%20Yost--1_30_14%20_Tweak%20it.pdf&gt;
+Connect with Tom Martin &lt;http://www.linkedin.com/in/tommartinjr&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

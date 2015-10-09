@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Per our phone conversation (1316464394.0)</name>
+    <style>none</style>
+    <subject>RE: Per our phone conversation (1316464394.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                               Hi Milena,
+ 
+Thank you for getting this to me!  I will review the contract now and send it to my contracts team for approval on any changes and then send it back to Karen for her review with the changes tracked on the document.  If there is anything that directly impacts you that we will have to sign off on I will let you know and I will copy you on my reply to Karen.
+ 
+Thank you,
+ 
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+From: Milena Yang [mailto:milenayang@gmail.com] 
+Sent: Monday, September 19, 2011 1:35 PM
+To: Nicolette Taylor
+Subject: Fwd: Per our phone conversation
+ 
+Hi Nicolette,
+ 
+As promised, the paperwork and Karen&apos;s contact information.  She sent them in word in the event that having track changes would be helpful.  Again, she indicated that she would not be available this afternoon but will be looking at e-mail this evening.
+ 
+Thanks.
+Milena
+---------- Forwarded message ----------
+From: Karen Fones &lt;karen.fones@brmiconsulting.com&gt;
+Date: Mon, Sep 19, 2011 at 1:31 PM
+Subject: Per our phone conversation
+To: &quot;milenayang@gmail.com&quot; &lt;milenayang@gmail.com&gt;
+Thanks Milena –
+ 
+Any comments can come back to me via the track changes so I can address them quicker.
+ 
+Karen
+ 
+Karen Fones
+ 
+Director Financial Operations
+ 
+BRMi
+Executing Change
+ 
+karen.fones@brmiconsulting.com
+202 449-3763  x755
+ 
+Battle Resource Management, Inc. 
+www.brmiconsulting.com
+ 
+ 
+ 
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

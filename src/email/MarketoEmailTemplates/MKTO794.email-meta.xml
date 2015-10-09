@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Partner question (1327513537.0)</name>
+    <style>none</style>
+    <subject>RE: Partner question (1327513537.0)</subject>
+    <textOnly>90 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Tom,
+ 
+Yes, that is correct. We would get them set up with their own MBO account. We can even set it up so you are able to bill the client a higher rate than the negotiated rate with the consultant.  The consultant will only see the rate you negotiated with him/her in their business center account with MBO. I will go into more detail on this if/when the situation arises or  you can give me a ring if you want to dig deeper on this topic. 
+ 
+Keep the good questions coming! J
+ 
+Sara
+ 
+___________________________________
+SARA CONDE
+Consultant Services Advisor 
+MBO Partners
+ 
+t: 703.793.6028
+f: 703.793.6068
+e: sconde@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+From: Tom Glatt [mailto:tglatt@glattconsulting.com] 
+Sent: Tuesday, January 24, 2012 1:17 PM
+To: Sara Conde
+Subject: Partner question
+ 
+Sara,
+ 
+Question of the day. We occasionally work with partners on engagements. We may be the sub, they may be the sub. In either case, I assume the contract with them for work to be done would flow through MBO. Is that correct? 
+ 
+Tom
+ 
+-- 
+Thomas A. Glatt, Jr.
+Glatt Consulting, LLC
+Phone: (888) 217-5988, Ext. 801
+Online: www.glattconsulting.com 
+Email: tglatt@glattconsulting.com 
+Twitter: http://twitter.com/tglatt 
+LinkedIn: http://www.linkedin.com/in/tomglatt
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

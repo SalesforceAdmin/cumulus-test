@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Information (1337370799.0)</name>
+    <style>none</style>
+    <subject>MBO Information (1337370799.0)</subject>
+    <textOnly>-    1024x768  
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi Kai,  It was such a pleasure speaking with you today.  You’ll find everything that I referenced on our call by clicking this private link here.  I spoke with the Microsoft Team and they let me know that they generally do not reach out to the consultants until a project comes through from Microsoft, but if you do find a project, Allison Peterson will be the contact you will be reaching out to.  If you have any questions about the process of getting onboarded with Microsoft (requirements, etc) she will be happy to go over that with you as well as if you do find a project and need help determining your rate she can run a net cash estimate that will show you what your bill rate would approximately net you going through our system.  She is copied on this email and a link to her calendar is below. https://my.timedriver.com/9TGRK Good luck finding a project! Regards, Nicolette___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;http://info.mbopartners.com/advisor-info-n-taylor.html&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email will be sent to MBO Employees for any opportunity inserted from Work Market</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Work Market Assignment Insert Internal Alert</name>
+    <style>none</style>
+    <subject>An Associate&apos;s Been Awarded an Assignment</subject>
+    <type>text</type>
+</EmailTemplate>

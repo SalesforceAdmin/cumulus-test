@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Used when approval is rejected on an enrollment</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Enrollment Approval Reject</name>
+    <style>none</style>
+    <subject>Approval for enrollment of {!IF (NOT(ISBLANK(Enrollment__c.Lead__c)), Enrollment__c.Lead__c, Enrollment__c.Contact__c)} has been rejected</subject>
+    <type>text</type>
+</EmailTemplate>

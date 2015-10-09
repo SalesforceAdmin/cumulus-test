@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Call Summery (1338318187.0)</name>
+    <style>none</style>
+    <subject>MBO Call Summery (1338318187.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Ram and Raj, It was a pleasure speaking with both of you.  You’ll find everything that I referenced on our call by going here. &lt;http://info.mbopartners.com/advisor-info-s-conde.html&gt; We are also promoting our new meet the independents project and are taking applications if you would like to be featured.  You can view the program by going here &lt;http://info.mbopartners.com/meet-the-independents.html&gt;.  You can also watch a short video about who we are on You Tube &lt;http://youtu.be/zKDzwSTmGv4&gt;. I will follow up with you as promised, should you have questions before then, please schedule a convenient time using my online schedule. &lt;https://my.timedriver.com/8SLYS&gt; Best regards,Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.   </textOnly>
+    <type>custom</type>
+</EmailTemplate>

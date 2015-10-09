@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners - Best of luck finding your contract (1311691298.0)</name>
+    <style>none</style>
+    <subject>MBO Partners - Best of luck finding your contract (1311691298.0)</subject>
+    <textOnly>110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                           Christian,
+ 
+It was a pleasure speaking with you today.  I’ve enclosed a few resources that you might find helpful:
+ 
+·         This interactive tool shows the value of using a company like MBO as an alternative to incorporation: http://www.mbopartners.com/#whoweare
+·         You can browse through the group benefits you would have access to here: 
+http://www.mbopartners.com/mbo-exec-group-benefits
+·         There are some webinars and videos we have created that might assist you in finding your next contract:
+http://www.mbopartners.com/mbo-partners-webcast-index
+ 
+As I mentioned once you find your next contract we can do a financial illustration showing what that income would look like being run through MBO Partners. Best of luck finding your next contract and I’ll follow up with you as promised.
+ 
+If you have questions before then, feel free to schedule a convenient time for you on my online schedule: https://my.timedriver.com/C9CPC.
+ 
+Regards,
+ 
+Steve
+ 
+Steven Arhancet
+Director of Associate Enrollment and Market Development
+O:703.793.6011 | M:540.560.8837 | F:703.793.6081
+13454 Sunrise Valley Drive #300 Herndon, VA 20171
+sarhancet@mbopartners.com
+www.mbopartners.com
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

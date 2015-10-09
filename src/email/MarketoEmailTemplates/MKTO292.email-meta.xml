@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SoI Webinar 10/26/11</name>
+    <style>none</style>
+    <subject>Thank You For Attending The State of Independence Webinar</subject>
+    <textOnly>Thank you for attending the SIG webinar on October 25th. I hope it was informative and you were able to come away with some helpful information. The movement to independent work arrangements is taking most organizations by storm and although many know it is an issue to be dealt with, most do not. I give you credit for recognizing the importance of getting a head of the crowd and seeking more information on the subject. Hopefully these pieces can help.
+ 
+This first piece is the article by Allan Schweyer that reveals the opportunity in government to better utilize independent consultants.
+ 
+http://www.tmgov.org/oppinwait.html
+ 
+The next piece is the research that MBO Partners commissioned to quantify the Independent workforce and their motivations/preferences for this work arrangement.
+ 
+http://info.mbopartners.com/mboindependentworkforceindex-2011.html
+
+This last piece is the paper by Aberdeen Group that speaks to why and how Independent consultants are engaged in the US.
+
+http://www.aberdeen.com/link/sponsor.asp?spid= 30412097&amp;cid=7333
+
+
+Please let me know if there is anything else I can do.
+___________________________________
+JAY LASH
+VP of Market Strategies
+MBO Enterprise Solutions
+ 
+t: 703.793.6005
+f: 703.793.6069
+e: jlash@mbopartners.com
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

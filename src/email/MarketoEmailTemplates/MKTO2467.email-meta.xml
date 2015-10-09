@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Mitigating independent contractor risk exposure (1363207596.0)</name>
+    <style>none</style>
+    <subject>Mitigating independent contractor risk exposure (1363207596.0)</subject>
+    <textOnly>We didn’t get the chance to connect last week so I am writing you this brief message. The reason for reaching out to you is to see if you have a need to mitigate the IRS and DOL risk associated with independent contractors (ICs).   In brief, MBO has helped several banks and financial companies to mitigate risks commonly associated with engaging ICs. For example, Citi approached us because they had concerns about their huge financial risk exposure if their ICs were to be reclassified as their employees. As a result, we are helping them to put an engagement program in place that mitigates their risk from worker misclassification – enabling them to eliminate millions of dollars of liability.   These results are typical for our clients.  What do you think about scheduling a call so that I can provide you with a high-level executive briefing on IC risks and best practices? Thank you for your time and your thoughts. Best regards, Steve 
+ P.S. If you are not involved with decisions regarding how your company engages with its ICs, please consider passing this note along to the correct person. ___________________________________ Steve Taggart Account Executive, Enterprise Solutions MBO Partners t: 703.793.6014 f: 703.793.6452 e: staggart@mboenterprise.com &lt;mailto:staggart@mbopartners.com&gt; w: www.mboenterprise.com &lt;http://www.mbopartners.com/&gt;   Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Sept18Web:Proposals.We Missed You Sept18</name>
+    <style>none</style>
+    <subject>Since You Missed it - Free Resources from our Lead Generation Webinar</subject>
+    <textOnly> 
+
+
+Hello {{lead.First Name:default=Webinar Registrant}},
+You were missed at our  “Win New Consulting Business: The Four Keys to Writing a Successful Proposal” webinar held on Tuesday, September 18th. Although you were not able to attend, we appreciate your interest.
+Below you will find links to the material created for the webinar. We hope you find them informative:
+Recorded webinar &lt;http://f5159bf2f10bd6337d85-21700ed84a5e5d3baebf7221604c63ee.r66.cf2.rackcdn.com/2012-09-18_12.59_The_Four_Keys_to_Writing_a_Successful_Proposal.mp4&gt;
+Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBOPartners-Webinar-LeadGen.pdf&gt;
+Featured Speaker Tom Sant Website &lt;http://www.tomsant.com/&gt;
+Proposal Writing Books by Tom Sant &lt;http://www.amazon.com/Tom-Sant/e/B001JS8JX2/ref=ntt_athr_dp_pel_1&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

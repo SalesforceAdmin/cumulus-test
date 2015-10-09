@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This email is to be sent to the BAH contacts that couldn&apos;t receive the eventbrite invitation due to it being blocked.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>2011 Summer Reception</name>
+    <style>none</style>
+    <subject>You&apos;re Invited to MBO Partners&apos; Summer 2011 Networking Reception!</subject>
+    <textOnly>Test
+
+
+
+
+MBO Partners&apos; Summer 2011 Networking Reception:
+ Mon Ami Gabi Reston
+
+
+It&apos;s about that time again! Mark your calendar for an event you do not want to miss! Please join the MBO team, Associates, as well as representatives from many of our prestigious clients, for a night of networking and fun at local hot spot Mon Ami Gabi in Reston Town Center!
+
+
+
+ MBO invites you to this Networking Reception to learn about some of our exciting new initiatives, meet and mingle with fellow Associates, Clients, and MBO team managers, all while enjoying tasty cocktails, and luscious hors d&apos;oeuvres on us! Consider this a token of our appreciation for being part of our MBO family.
+
+
+This is a party you do not want to miss, so hurry and register today, as space is limited - we all know how popular this reception is!
+
+
+We look forward to seeing you!
+ 
+ Sincerely,
+ 
+ MBO Partners
+
+
+ 
+
+
+Suggested dress code is business to business casual.
+ Don&apos;t forget to bring your business cards!
+ Questions? Please contact Marcelle Saab, Associate Relations Manager, 703-793-6006</textOnly>
+    <type>custom</type>
+</EmailTemplate>

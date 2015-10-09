@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Independent&apos;s Guide.IG Form Nurturing 3</name>
+    <style>none</style>
+    <subject>MBO Partners is changing the game</subject>
+    <textOnly>{{lead.First Name:default=Consultant}},
+
+Independent professionals want work, and enterprises need expert help. Why can&apos;t they find each other?
+
+To answer this question, MBO Partners is partnering with Work Market, an online platform businesses use to find and hire self-employed workers. The result will be the future of how independents find their contracts.
+
+Check out our press release &lt;http://www.mbopartners.com/mbo-partners-and-work-market-announce-partnership-revolutionize-enterprise-independent-contractor&gt; or email me to learn more.
+___________________________________
+Marcelle Saab
+Program Manager
+ MBO Partners
+ 
+ t: 703-793-6006
+ e: msaab@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

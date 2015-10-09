@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners - Follow Up (1314889634.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners - Follow Up (1314889634.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Kevin,
+ 
+Did you receive the estimate I put together for you?  Please let me know if not so I can resend.
+ 
+Regards,
+ 
+Steve
+ 
+From: Kevin Rose [mailto:rose.kevin87@gmail.com] 
+Sent: Tuesday, August 30, 2011 2:27 PM
+To: Steve Arhancet
+Subject: Re: MBO Partners - Follow Up
+ 
+Steve,
+
+I sent an e-mail a few days ago. Did you receive it? It gave some information pertinent to the cash flow prediction sheet and also contained a few questions I had thought up over the weekend.
+
+Also, How&apos;d you do?
+
+-Kevin
+
+On Tue, Aug 30, 2011 at 2:25 PM, Steve Arhancet &lt;sarhancet@mbopartners.com&gt; wrote:
+Kevin,
+ 
+I wanted to follow up with you from our conversation a few weeks ago.  I just got back from vacation this week – if there are any questions you have feel free to email or call me. 
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

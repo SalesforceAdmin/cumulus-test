@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners (1342631972.0)</name>
+    <style>none</style>
+    <subject>MBO Partners (1342631972.0)</subject>
+    <textOnly>-     
+	- 
+	-   110 Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Dennis, As a courtesy, I wanted to follow up on the voicemail I left you.  My name is Steven Arhancet and I’ll be responsible for answering any questions you may have and providing you an overview of our services.   You may easily book a time that is convenient for you to chat using my online schedule &lt;https://my.timedriver.com/C9CPC&gt;. ·         You may also watch a short video about who we are on YouTube &lt;http://www.youtube.com/watch?v=zKDzwSTmGv4&amp;hd=1&gt;. ·         You may also look at some of the stories from indepdenents &lt;http://info.mbopartners.com/meet-the-independents.html&gt; who use MBO Partners. Again, I apologize for the long hold time. Our IT department is working on the phone issue. Steve___________________________________Steve ArhancetDirector, Consultant ServicesMBO Partners t: 703.793.6011f: 703.793.6081m: 540.560.8837e: sarhancet@mbopartners.com &lt;mailto:sarhancet@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,27 @@
+<apex:page sidebar="False" showHeader="False" standardStylesheets="true">
+    <apex:composition template="MBOPartnersStyledTemplate">
+        <apex:define name="logo">
+            <a href="https://sites.google.com/a/salesforce.com/staffup/?pli=1" style="float:right;" class="navbar-brand navbar__logo">
+                <apex:image id="SFDClogo" value="{!$Resource.StaffUp}"/>
+            </a>
+        </apex:define>
+        <apex:define name="header">
+            <h3 class="section__title">Thank you for referring a new resource through the Salesforce independent contractor referral process, powered by MBO Partners.</h3>
+        </apex:define>
+        <apex:define name="body">
+            <article class="article article__block">
+                <div class="article__featured-body">
+                    <p class="lead">
+                        MBO Partners will follow up with the referred IC, administer the on-boarding process, and notify you when the IC is ready to be deployed to the assignment. MBO will also complete a Coupa PR and New Hire Ticket on your behalf.
+                    </p>
+                    <p class="lead">
+                        To expedite on-boarding, please notify the referred IC that MBO will be contacting them shortly.
+                    </p>
+                    <p class="lead">
+                        If you have questions about Salesforce's IC engagement process, please contact <a href="mailto:ckelley@salesforce.com">ckelley@salesforce.com</a>.
+                    </p>
+                </div>
+            </article>
+        </apex:define>
+    </apex:composition>
+</apex:page>

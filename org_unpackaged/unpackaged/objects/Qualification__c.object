@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>true</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableEnhancedLookup>false</enableEnhancedLookup>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Any_Change_in_Company_Name_or_Structure__c</fullName>
+        <externalId>false</externalId>
+        <label>Any Change in Company Name or Structure?</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>No</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Articles_of_Incorporation_DBA__c</fullName>
+        <externalId>false</externalId>
+        <label>Articles of Incorporation/DBA</label>
+        <picklist>
+            <controllingField>Change_in_Business_Setup__c</controllingField>
+            <picklistValues>
+                <fullName>On File</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not on File</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Auto_Amount__c</fullName>
+        <externalId>false</externalId>
+        <label>Auto Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Auto_COI__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Auto on COI</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Auto_Details__c</fullName>
+        <externalId>false</externalId>
+        <label>Auto Details</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Auto_Expiration__c</fullName>
+        <externalId>false</externalId>
+        <label>Auto Expiration</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Auto_Waived__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Auto Waived</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Change_in_Business_Setup__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Change in Name or Structure?</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Contact__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Company Contact</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>Qualifications</relationshipLabel>
+        <relationshipName>Qualifications</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>CrimeFidelity_Amount__c</fullName>
+        <externalId>false</externalId>
+        <label>Crime/Fidelity Bond Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>CrimeFidelity_COI__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Crime/Fidelity Bond on COI</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>CrimeFidelity_Details__c</fullName>
+        <externalId>false</externalId>
+        <label>Crime/Fidelity Bond Details</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>CrimeFidelity_Waived__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Crime/Fidelity Bond Waived</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Crime_Fidelity_Expiration__c</fullName>
+        <externalId>false</externalId>
+        <label>Crime/Fidelity Bond Expiration</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>EL_Amount__c</fullName>
+        <externalId>false</externalId>
+        <label>Employer&apos;s Liability Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>EL_COI__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Employer&apos;s Liability on COI</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>EL_Details__c</fullName>
+        <externalId>false</externalId>
+        <label>Employer&apos;s Liability Details</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>EL_Expiration__c</fullName>
+        <externalId>false</externalId>
+        <label>Employer&apos;s Liability Expiration</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>EL_Waived__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Employer&apos;s Liability Waived</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Evidence_of_marketing_to_other_clients__c</fullName>
+        <externalId>false</externalId>
+        <label>Evidence of marketing to other clients</label>
+        <picklist>
+            <controllingField>Change_in_Business_Setup__c</controllingField>
+            <picklistValues>
+                <fullName>On File</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not on File</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Evidence_of_work_with_other_clients__c</fullName>
+        <externalId>false</externalId>
+        <label>Evidence of work with other clients</label>
+        <picklist>
+            <controllingField>Change_in_Business_Setup__c</controllingField>
+            <picklistValues>
+                <fullName>On File</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not on File</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>ExcessUmbrella_Amount__c</fullName>
+        <externalId>false</externalId>
+        <label>Excess/Umbrella Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>ExcessUmbrella_COI__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Excess/Umbrella on COI</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>ExcessUmbrella_Waived__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Excess/Umbrella Waived</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Excess_Umbrella_Details__c</fullName>
+        <externalId>false</externalId>
+        <label>Excess/Umbrella Details</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Excess_Umbrella_Expiration__c</fullName>
+        <externalId>false</externalId>
+        <label>Excess/Umbrella Expiration</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>GL_COI__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>General Liability on COI</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>GL_Details__c</fullName>
+        <externalId>false</externalId>
+        <label>Genral Liability Details</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>GL_Expiration__c</fullName>
+        <externalId>false</externalId>
+        <label>General Liability Expiration</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>GL_Waived__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>General Liability Waived</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>General_Liability_Amount__c</fullName>
+        <externalId>false</externalId>
+        <label>General Liability Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Lead_Referring_Client__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_companyContact__r.Referring_Client__r.Name</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Lead Referring Client</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Not_Staff__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Not Staff</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Other_Amount__c</fullName>
+        <externalId>false</externalId>
+        <label>Other Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Other_COI__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Other on COI</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Other_Details__c</fullName>
+        <externalId>false</externalId>
+        <label>Other Details</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Other_Expiration__c</fullName>
+        <externalId>false</externalId>
+        <label>Other Expiration</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Other_Waived__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Other Waived</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>PLExpiration__c</fullName>
+        <externalId>false</externalId>
+        <label>Professional Liability (E&amp;O) Expiration</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>PL_Amount__c</fullName>
+        <externalId>false</externalId>
+        <label>Professional Liability (E&amp;O) Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>PL_COI__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Professional Liability (E&amp;O) on COI</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>PL_Details__c</fullName>
+        <externalId>false</externalId>
+        <label>Professional Liability (E&amp;O) Details</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>PL_Waived__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Professional Liability (E&amp;O) Waived</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Qualification_Client__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Client</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Qualifications</relationshipLabel>
+        <relationshipName>Qualifications</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Qualificaton_Associate_Number__c</fullName>
+        <externalId>false</externalId>
+        <formula>Contact__r.Associate_Number__c</formula>
+        <label>Associate Number</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Time_of_Completion__c</fullName>
+        <externalId>false</externalId>
+        <label>Time of Completion</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>DateTime</type>
+    </fields>
+    <fields>
+        <fullName>WCAmount__c</fullName>
+        <externalId>false</externalId>
+        <label>Worker&apos;s Comp Amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>WC_COI__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Worker&apos;s Comp on COI</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>WC_Details__c</fullName>
+        <externalId>false</externalId>
+        <label>Worker&apos;s Comp Details</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>WC_Waived__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Worker&apos;s Comp Waived</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>W_9_Form__c</fullName>
+        <externalId>false</externalId>
+        <label>W-9 Form</label>
+        <picklist>
+            <controllingField>Change_in_Business_Setup__c</controllingField>
+            <picklistValues>
+                <fullName>On File</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Not on File</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Work_Comp_Expiration__c</fullName>
+        <externalId>false</externalId>
+        <label>Worker&apos;s Comp Expiration</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>fb_1099WorkersFile__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>1099 Worker(s) Qualification on File</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fb_1099Workers__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>1099 Worker(s)</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fb_independentClassification__c</fullName>
+        <externalId>false</externalId>
+        <label>Behaviorals</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Strong</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Medium</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Weak</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>N/A</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fb_w2File__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>W-2 Worker(s) Paystub/W-2 on File</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fb_w2Worker__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>W-2 Worker(s)</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fd_balanceSheet__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Balance Sheet/491 Form</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fd_clientDocumentation__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Client Documentation</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fd_dbPrintout__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>D&amp;B Printout</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fd_marketingDate__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Marketing</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fd_sow__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>SOW</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fd_stockPerformance__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Stock Performance Printout</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fd_w9__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>W-9</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fs_1099WorkerNames__c</fullName>
+        <externalId>false</externalId>
+        <label>1099 Worker(s) Names</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>fs_articlesDBA__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Articles/DBA</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>fs_companyName__c</fullName>
+        <externalId>false</externalId>
+        <label>Company Name</label>
+        <length>255</length>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_companySize__c</fullName>
+        <externalId>false</externalId>
+        <label>Company Size</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Small Business</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Large Business</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_enrollmentManager__c</fullName>
+        <externalId>false</externalId>
+        <formula>rs_companyContact__r.Enrollment_Manager__r.Name</formula>
+        <label>Enrollment Manager</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>fs_independentClassificationExplanation__c</fullName>
+        <externalId>false</externalId>
+        <label>Behaviorals Explanation</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>fs_marketingURL__c</fullName>
+        <externalId>false</externalId>
+        <label>Marketing URL</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>fs_qualificationResult__c</fullName>
+        <externalId>false</externalId>
+        <label>Qualification Result</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Passed</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Failed</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Incomplete</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>fs_resultReasons__c</fullName>
+        <externalId>false</externalId>
+        <label>Result Reasons</label>
+        <picklist>
+            <controllingField>fs_qualificationResult__c</controllingField>
+            <picklistValues>
+                <fullName>Went Direct With Client</fullName>
+                <controllingFieldValues>Failed</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Walked Away From Project</fullName>
+                <controllingFieldValues>Failed</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Went Exec</fullName>
+                <controllingFieldValues>Failed</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Went Staff</fullName>
+                <controllingFieldValues>Failed</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Went Sub</fullName>
+                <controllingFieldValues>Passed</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Went Direct</fullName>
+                <controllingFieldValues>Passed</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Elected to go Exec</fullName>
+                <controllingFieldValues>Incomplete</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Stopped Responding</fullName>
+                <controllingFieldValues>Incomplete</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Client Cancelled Project</fullName>
+                <controllingFieldValues>Incomplete</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>rs_companyContact__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Company Lead</label>
+        <referenceTo>Lead</referenceTo>
+        <relationshipLabel>Qualifications</relationshipLabel>
+        <relationshipName>Qualifications</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>rs_qualificationAdvisor__c</fullName>
+        <deleteConstraint>Restrict</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Qualification Advisor</label>
+        <referenceTo>My_Biz_Office_User__c</referenceTo>
+        <relationshipLabel>Qualifications</relationshipLabel>
+        <relationshipName>Qualifications</relationshipName>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>workerNames__c</fullName>
+        <externalId>false</externalId>
+        <label>W-2 Worker(s) Names</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <label>Qualification</label>
+    <listViews>
+        <fullName>All</fullName>
+        <columns>NAME</columns>
+        <columns>rs_qualificationAdvisor__c</columns>
+        <columns>fs_companyName__c</columns>
+        <columns>rs_companyContact__c</columns>
+        <columns>fs_qualificationResult__c</columns>
+        <columns>CREATED_DATE</columns>
+        <columns>OWNER.ALIAS</columns>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <listViews>
+        <fullName>My_Pending_Qualifications</fullName>
+        <columns>NAME</columns>
+        <columns>rs_qualificationAdvisor__c</columns>
+        <columns>fs_companyName__c</columns>
+        <columns>rs_companyContact__c</columns>
+        <columns>CREATED_DATE</columns>
+        <filterScope>Mine</filterScope>
+        <filters>
+            <field>fs_qualificationResult__c</field>
+            <operation>equals</operation>
+        </filters>
+        <label>My Pending Qualifications</label>
+    </listViews>
+    <listViews>
+        <fullName>Pending_Qualifications</fullName>
+        <columns>NAME</columns>
+        <columns>rs_qualificationAdvisor__c</columns>
+        <columns>fs_companyName__c</columns>
+        <columns>rs_companyContact__c</columns>
+        <columns>CREATED_DATE</columns>
+        <columns>OWNER.ALIAS</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>fs_qualificationResult__c</field>
+            <operation>equals</operation>
+        </filters>
+        <label>Pending Qualifications</label>
+    </listViews>
+    <nameField>
+        <displayFormat>Qual-{000000}</displayFormat>
+        <label>Qualification Number</label>
+        <trackHistory>false</trackHistory>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Qualifications</pluralLabel>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
+    <recordTypes>
+        <fullName>Annual</fullName>
+        <active>true</active>
+        <label>Annual</label>
+        <picklistValues>
+            <picklist>Any_Change_in_Company_Name_or_Structure__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Articles_of_Incorporation_DBA__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Evidence_of_marketing_to_other_clients__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Evidence_of_work_with_other_clients__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>W_9_Form__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fb_independentClassification__c</picklist>
+            <values>
+                <fullName>Medium</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>N%2FA</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Strong</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Weak</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_companySize__c</picklist>
+            <values>
+                <fullName>Large Business</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Small Business</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_qualificationResult__c</picklist>
+            <values>
+                <fullName>Failed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incomplete</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Passed</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_resultReasons__c</picklist>
+            <values>
+                <fullName>Client Cancelled Project</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Elected to go Exec</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Stopped Responding</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Walked Away From Project</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Direct</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Direct With Client</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Exec</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Staff</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Sub</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Enrollment</fullName>
+        <active>true</active>
+        <label>Enrollment</label>
+        <picklistValues>
+            <picklist>Any_Change_in_Company_Name_or_Structure__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Articles_of_Incorporation_DBA__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Evidence_of_marketing_to_other_clients__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Evidence_of_work_with_other_clients__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>W_9_Form__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fb_independentClassification__c</picklist>
+            <values>
+                <fullName>Medium</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>N%2FA</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Strong</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Weak</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_companySize__c</picklist>
+            <values>
+                <fullName>Large Business</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Small Business</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_qualificationResult__c</picklist>
+            <values>
+                <fullName>Failed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incomplete</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Passed</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_resultReasons__c</picklist>
+            <values>
+                <fullName>Client Cancelled Project</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Elected to go Exec</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Stopped Responding</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Walked Away From Project</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Direct</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Direct With Client</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Exec</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Staff</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Sub</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>New_SOW</fullName>
+        <active>true</active>
+        <label>New SOW</label>
+        <picklistValues>
+            <picklist>Any_Change_in_Company_Name_or_Structure__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Articles_of_Incorporation_DBA__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Evidence_of_marketing_to_other_clients__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Evidence_of_work_with_other_clients__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>W_9_Form__c</picklist>
+            <values>
+                <fullName>Not on File</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>On File</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fb_independentClassification__c</picklist>
+            <values>
+                <fullName>Medium</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>N%2FA</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Strong</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Weak</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_companySize__c</picklist>
+            <values>
+                <fullName>Large Business</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Small Business</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_qualificationResult__c</picklist>
+            <values>
+                <fullName>Failed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Incomplete</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Passed</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>fs_resultReasons__c</picklist>
+            <values>
+                <fullName>Client Cancelled Project</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Elected to go Exec</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Stopped Responding</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Walked Away From Project</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Direct</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Direct With Client</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Exec</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Staff</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Went Sub</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <searchLayouts>
+        <customTabListAdditionalFields>rs_qualificationAdvisor__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>fs_companyName__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>rs_companyContact__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>fs_qualificationResult__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>CREATED_DATE</customTabListAdditionalFields>
+        <customTabListAdditionalFields>OWNER.ALIAS</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>rs_qualificationAdvisor__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>fs_companyName__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>rs_companyContact__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>fs_qualificationResult__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>CREATED_DATE</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>OWNER.ALIAS</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>rs_qualificationAdvisor__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>fs_companyName__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>rs_companyContact__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>fs_qualificationResult__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>CREATED_DATE</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>OWNER.ALIAS</lookupPhoneDialogsAdditionalFields>
+        <searchFilterFields>rs_qualificationAdvisor__c</searchFilterFields>
+        <searchFilterFields>fs_qualificationResult__c</searchFilterFields>
+        <searchFilterFields>fs_resultReasons__c</searchFilterFields>
+        <searchResultsAdditionalFields>rs_qualificationAdvisor__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>fs_companyName__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>rs_companyContact__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>fs_qualificationResult__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CREATED_DATE</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>OWNER.ALIAS</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
+    <validationRules>
+        <fullName>Auto_Expiration</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    Auto_COI__c = TRUE,
+    ISBLANK(Auto_Expiration__c)
+)</errorConditionFormula>
+        <errorDisplayField>Auto_Expiration__c</errorDisplayField>
+        <errorMessage>Please set an expiration</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>CrimeFidelity_Expiration</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    CrimeFidelity_COI__c =TRUE,
+    ISBLANK(Crime_Fidelity_Expiration__c)
+)</errorConditionFormula>
+        <errorDisplayField>Crime_Fidelity_Expiration__c</errorDisplayField>
+        <errorMessage>Please set an expiration</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>EL_Expiration</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    EL_COI__c =TRUE,
+    ISBLANK(EL_Expiration__c)
+)</errorConditionFormula>
+        <errorDisplayField>EL_Expiration__c</errorDisplayField>
+        <errorMessage>Please set an expiration</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>ExcessUmbrella_Expiration</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    ExcessUmbrella_COI__c =TRUE,
+    ISBLANK(Excess_Umbrella_Expiration__c)
+)</errorConditionFormula>
+        <errorDisplayField>Excess_Umbrella_Expiration__c</errorDisplayField>
+        <errorMessage>Please set an expiration</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>GL_Expiration</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    GL_COI__c = TRUE,
+    ISBLANK(GL_Expiration__c)
+)</errorConditionFormula>
+        <errorDisplayField>GL_Expiration__c</errorDisplayField>
+        <errorMessage>Please set an expiration</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Other_Expiration</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    Other_COI__c = TRUE,
+    ISBLANK(Other_Expiration__c)
+)</errorConditionFormula>
+        <errorDisplayField>Other_Expiration__c</errorDisplayField>
+        <errorMessage>Please set an expiration</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>PL_Expiration</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    PL_COI__c =TRUE,
+    ISBLANK(PLExpiration__c)
+)</errorConditionFormula>
+        <errorDisplayField>PLExpiration__c</errorDisplayField>
+        <errorMessage>Please set an expiration</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Require_Reason</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    ISPICKVAL(fs_qualificationResult__c,&quot;FAILED&quot;),
+    ISBLANK(fs_resultReasons__c)
+)</errorConditionFormula>
+        <errorDisplayField>fs_resultReasons__c</errorDisplayField>
+        <errorMessage>Please select an available Result Reason</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>W2_Name_Required</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    fb_w2Worker__c = TRUE,
+    workerNames__c = NULL
+)</errorConditionFormula>
+        <errorDisplayField>workerNames__c</errorDisplayField>
+        <errorMessage>Please enter the names of the W-2 workers</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>WC_Expiration</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    WC_COI__c = TRUE,
+    ISBLANK(Work_Comp_Expiration__c)
+)</errorConditionFormula>
+        <errorDisplayField>Work_Comp_Expiration__c</errorDisplayField>
+        <errorMessage>Please set an expiration</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>x1099_Names_Required</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+    fb_1099Workers__c = TRUE,
+    fs_1099WorkerNames__c = NULL
+)</errorConditionFormula>
+        <errorDisplayField>fs_1099WorkerNames__c</errorDisplayField>
+        <errorMessage>Please enter the names of the 1099 workers</errorMessage>
+    </validationRules>
+</CustomObject>

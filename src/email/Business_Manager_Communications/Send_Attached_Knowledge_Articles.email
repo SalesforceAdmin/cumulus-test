@@ -1,0 +1,5 @@
+Hello {!Case.Contact},
+
+The attached article(s) should be able to help with your current issue.
+
+{!Case.Articles_as_PDFs}

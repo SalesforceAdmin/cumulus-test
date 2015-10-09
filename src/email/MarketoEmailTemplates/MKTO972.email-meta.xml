@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Inquiry (1329150260.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Inquiry (1329150260.0)</subject>
+    <textOnly>-    1024x768  
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                                 Dear Krishnan,  Thank you for the inquiry you submitted at the MBO Partners website.  I wanted to introduce myself as the person at MBO Partners responsible for all new associate and partnership requests. I’ll be your main point of contact to provide you an overview of our services and answer any specific questions you may have.  You may easily book a time that is convenient for you on my online schedule by  &lt;https://my.timedriver.com/9TGRK&quot;&gt;going here.  You can also watch a short video about who we are on You Tube. I look forward to speaking with you and sharing more information about MBO Partners! Nicolette  ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com&lt;span style=&apos;mso-bookmark:_MailAutoSig&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

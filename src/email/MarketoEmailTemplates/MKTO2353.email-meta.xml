@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>XCEL HR Refferal (1360259983.0)</name>
+    <style>none</style>
+    <subject>XCEL HR Refferal (1360259983.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Maria, It was so nice speaking with you to day. As we discussed, I would like to refer to a P.E.O called XCEL HR www.xcelhr.com &lt;http://mkto-l0128.com/track?t=c&amp;enid=bWlkPW1ib0JldGFjdXN0LTAtMC0wLTAtcHJvZC0wJm1zZ2lkPTAmZGlkPTEyMzQmc249MCZlaWQ9bG1jcXVhaWxAaG90bWFpbC5jb20mdWlkPTAmZXh0cmE9TVRBNWZITnlZMmxrUFRNME1IeHRZV2xzYVdROU16UTNOekV4T1dFdFltTXlZUzAwTVRZNUxUa3pOMkl0T0dVMU9ETTVZemRpTW1JNUxUTTBNSHhtY205dFBYTmpiMjVrWlVCdFltOXdZWEowYm1WeWN5NWpiMjE4YzNWaWFqMGdXRU5GVENCSVVpQlNaV1ptWldGeWJDQT09JiYm&amp;&amp;&amp;http://www.xcelhr.com?mkt_tok=2xUAKZjCd1xapFJ34vC5Kqb5kjTJdtartLEXY52MuKVUsyIUGIalUg%3D%3D&gt; if you call them ask for Patricia Driscoll 800-776-0076 Patricia.Driscoll@Xcelhr.com &lt;mailto:Patricia.Driscoll@Xcelhr.com&gt;.  Take care and best of luck!Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Closing Your MBO Account (1357916478.0)</name>
+    <style>none</style>
+    <subject>Closing Your MBO Account (1357916478.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Dear Marc, We regret to inform you that due to inactivity, MBO Partners will need to close out your account. You will still have access to your Business Center and should you ever wish to run another project through MBO again re-enrollment is quick and easy. We appreciate the time you have spent as our Associate, and we hope that we will be able to support you and your business again in the future. As you continue to work amongst the best in your field, you qualify to earn a bonus for every successful Associate you refer to us. Please contact me for more information on our referral program. Please let me know if you have any further questions. We wish you well, and should your situation ever change, please contact me so we can bring you back on board! Thank you,Nicolette  ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;   Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=taylor&gt; to MBO Partners! Ask me about them.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

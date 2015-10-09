@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email from Aassia Haq requesting volunteers from associates who want to be a part of the showcase campaign.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SoI Showcase Volunteers</name>
+    <style>none</style>
+    <subject>Share Your Story of Independence</subject>
+    <textOnly>Dear {{lead.First Name:default=valued associate}},
+ 
+MBO Partners is taking one more step on its journey to profile independence in America, and we’re first asking for your help, before we reach outside our doors.
+ 
+As a part of our State of Independence in American campaign, we will be showcasing independent workers from each of the fifty states. Each story and iconic commissioned photograph will be part of a spread and story that will begin online at our State of Independence site (currently under construction), and will culminate next summer in a commemorative book celebrating the dawn of a new era of independent work in our nation.
+ 
+We’d like to include MBO associate stories, state by state, and profession by profession, so the world can see what we already know: independent workers are experts, productive, influential and … just plain interesting! They are somebody every business and company needs on their dream team. 
+ 
+An MBO associate from California, Bryan Forman, will be our first profile – he’ll be sharing his story and his independence photo moment. If you would like to follow in his footsteps, or suggest another peer as a potential profilee, please email our Marketing Specialist, Jaime Buckley at jbuckley@mbopartners.com, to be considered for this exciting opportunity. She can share additional details about the program.
+ 
+To learn more about the State of Independence Project and MBO’s research report, please visit:
+http://info.mbopartners.com/stateofindependence.html or https://www.facebook.com/TheStateofIndependence.
+ 
+Thank you!
+___________________________________
+AASSIA HAQ
+Chief Marketing Officer
+MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

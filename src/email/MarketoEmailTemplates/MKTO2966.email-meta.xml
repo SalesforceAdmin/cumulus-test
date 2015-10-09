@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>20NovWeb-Workflow-Mgmt.TM Attended</name>
+    <style>none</style>
+    <subject>Thank you for attending - Resources from our Time Management Webinar</subject>
+    <textOnly>Hello {{lead.First Name:default=Webinar Registrant}},
+
+
+Thank you for attending our &quot;Workflow and Time Management Tips for the Self-Employed Workforce&quot; webinar held on Wednesday, November 20. Perry J. Pockros, an executive consultant, facilitator and trainer, presented a 3 part workflow framework: (1) why things are on your mind, (2) the Getting Things Done model, and (3) tactics and tools for success.
+Below you will find links to the material created for the webinar. Remember: the slides are copywritten material, so please do not repost or repurpose in any way.
+Recorded webinar &lt;http://video.mbopartners.com/players/OVFsA6Ke-mMm4x1IW.html&gt;
+Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/MBO-Workflow-Mgmt-Webinar-11.20.13.pdf&gt;
+Full SOI Report (PDF) &lt;http://info.mbopartners.com/rs/mbo/images/2013-MBO_Partners_State_of_Independence_Report.pdf&gt;
+___________________________________
+
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+
+e: jmacdonell@mbopartners.com
+
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

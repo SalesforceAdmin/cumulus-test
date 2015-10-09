@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: FW: MBO Partners Payment Notification for Josh Greenberg (20913) (1339530594</name>
+    <style>none</style>
+    <subject>RE: FW: MBO Partners Payment Notification for Josh Greenberg (20913) (1339530594.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Josh, You are very welcome, I am glad you guys were able to talk. Yes, that’s correct; once the invoicing lag time catches you will be paid every week provided 3core pays MBO of course.  Remember, we process payment to you every Tuesday for a pay date of Friday. If there is money in your MBO account on Tuesday (meaning client paid) you will be paid that Friday. So how frequently you are paid also depends on the day of the week the payment comes in from the client. 
+Thanks!Sara From: Joshua Greenberg [mailto:joshua@crmventures.com] 
+Sent: Tuesday, June 12, 2012 1:27 PM
+To: Sara Conde
+Subject: Re: FW: MBO Partners Payment Notification for Josh Greenberg (20913) Thanks Sara! Sri and I spoke yesterday so I think we are good. Am I correct that since MBO invoices 3Core weekly, with your MSA, I will be paid weekly 30 days from invoice date?On Tue, Jun 12, 2012 at 1:08 PM, Sara Conde &lt;sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;&gt; wrote:Hi Josh,
+
+I am sorry I missed your call yesterday. Let me know if you want me to schedule a conference call for you, myself and Sri. The notification below means that we received payment so you will be on payroll this week. I will let 3core know it came through as well.
+
+Thanks,
+Sara
+-----Original Message-----
+From: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt; [mailto:sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;]
+Sent: Tuesday, June 12, 2012 12:37 PM
+To: joshua@crmventures.com &lt;mailto:joshua@crmventures.com&gt;; Sara Conde
+Subject: MBO Partners Payment Notification for Josh Greenberg (20913)
+
+We received the following payment(s) today, 06/12/2012 on your behalf:
+
+3,800.00 Fee 3Core Systems Josh Greenberg - Invoice: 365917 - Apr 30, 2012 - May 4, 2012
+3,800.00 Fee 3Core Systems Josh Greenberg - Invoice: 366781 - May 7, 2012 - May 11, 2012
+
+* Expense payment will be held until the expense is approved and receipts are provided as required.
+
+
+Sincerely,
+The MBO Partners Billing/AR Department
+ -- 
+Josh Greenberg | CRM Ventures | (215) 869-3356 | joshua@crmventures.com &lt;mailto:joshua@crmventures.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

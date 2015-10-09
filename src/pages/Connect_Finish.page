@@ -1,0 +1,184 @@
+<apex:page sidebar="False" showHeader="False" standardStylesheets="true" >
+    <head>
+        <script src="https://use.typekit.net/bsk8bhb.js"></script>
+        <script>
+            try {
+                Typekit.load();
+            } catch (e) {}
+        </script>
+        <meta charset="utf-8"/>
+        <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="author" content="MBO Partners, Inc."/>
+        <link rel="shortcut icon" href="https://go.pardot.com/l/39662/2014-10-03/4hnsf/39662/36110/favicon.ico"/>
+        <link rel="apple-touch-icon" href="https://go.pardot.com/l/39662/2014-10-03/4hnqh/39662/36100/apple_touch_icon_76x76.png"/>
+        <link rel="apple-touch-icon" sizes="57x57" href="https://go.pardot.com/l/39662/2014-10-03/4hnfy/39662/36094/apple_touch_icon_57x57.png"/>
+        <link rel="apple-touch-icon" sizes="60x60" href="https://go.pardot.com/l/39662/2014-10-03/4hnk5/39662/36096/apple_touch_icon_60x60.png"/>
+        <link rel="apple-touch-icon" sizes="72x72" href="https://go.pardot.com/l/39662/2014-10-03/4hnly/39662/36098/apple_touch_icon_72x72.png"/>
+        <link rel="apple-touch-icon" sizes="76x76" href="https://go.pardot.com/l/39662/2014-10-03/4hnqh/39662/36100/apple_touch_icon_76x76.png"/>
+        <link rel="apple-touch-icon" sizes="114x114" href="https://go.pardot.com/l/39662/2014-10-03/4hnqm/39662/36102/apple_touch_icon_114x114.png"/>
+        <link rel="apple-touch-icon" sizes="120x120" href="https://go.pardot.com/l/39662/2014-10-03/4hnr7/39662/36104/apple_touch_icon_120x120.png"/>
+        <link rel="apple-touch-icon" sizes="144x144" href="https://go.pardot.com/l/39662/2014-10-03/4hns3/39662/36106/apple_touch_icon_144x144.png"/>
+        <link rel="apple-touch-icon" sizes="152x152" href="https://go.pardot.com/l/39662/2014-10-03/4hnsc/39662/36108/apple_touch_icon_152x152.png"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="https://go.pardot.com/l/39662/2014-10-03/4hnsh/39662/36112/favicon_16x16.png"/>
+        <link rel="icon" type="image/png" sizes="32x32" href="https://go.pardot.com/l/39662/2014-10-03/4hnsk/39662/36114/favicon_32x32.png"/>
+        <link rel="icon" type="image/png" sizes="96x96" href="https://go.pardot.com/l/39662/2014-10-03/4hnsm/39662/36116/favicon_96x96.png"/>
+        <link rel="icon" type="image/png" sizes="160x160" href="https://go.pardot.com/l/39662/2014-10-03/4hnst/39662/36118/favicon_160x160.png"/>
+        <link rel="icon" type="image/png" sizes="192x192" href="https://go.pardot.com/l/39662/2014-10-03/4hnsy/39662/36120/favicon_192x192.png"/>
+        <meta name="msapplication-TileColor" content="#ac343c"/>
+        <meta name="msapplication-TileImage" content="https://go.pardot.com/l/39662/2014-10-06/4j5c5/39662/36274/mstile_144x144.png"/>
+        <link rel="stylesheet" href="https://pi.pardot.com/l/39662/2015-04-15/dhm2h/39662/66820/main_46628e61.css"/>
+    </head>
+    <body>
+    <div class="app__container" id="appContainer">
+        <!--<header class="nav__top nav__links nav__links-top" role="banner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12" style="min-height:25px;">
+                    </div>
+                </div>
+            </div>
+        </header>-->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation">
+            <div class="container">
+                <!--<div class="navbar-header">-->
+                    <a href="https://www.mbopartners.com" class="navbar-brand navbar__logo">
+                        <img src="https://pi.pardot.com/l/39662/2015-04-15/dfkg9/39662/66704/partners_logo_2014.png" alt="MBO Partners"/>
+                    </a>
+                <!--</div>-->
+            </div>
+        </nav>
+        <div class="content__wrapper" role="main">
+            <div class="container content has__form-full">
+                <div class="row">
+                    <section class="section section__article section-top">
+                        <div class="page__header">
+                            <h1 class="section__title" >Thank You!</h1>
+                            <hr/>
+                        </div>
+                    </section>
+                    <section class="section section__article section__webinar-form">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="well well-bordered bg-teal">
+                                    <div class="row" >
+                                        <p>
+                                            A ticket has been created for the MBO Connect Support Team. We will review and contact you with more information if necessary.
+                                        </p>
+                                        <p>
+                                            You can always reach us directly at <a href="mailto:mboconnect-help@mbopartners.com">mboconnect-help@mbopartners.com</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <!--<div class="footer footer__top">
+            <div class="container content">
+                <div class="row">
+                    <!--<div class="col-sm-12 col-md-8">
+                        <div class="row">-->
+                            <!--<div class="col-sm-5">
+                                <div class="section__title-wrap">
+                                    <h3 class="section__title">Top Pages</h3>
+                                </div>
+                                <ul class="list-unstyled footer__links" >
+                                    <li><a href="https://www.mbopartners.com/about-mbo-partners" target="_blank">About MBO</a>
+                                    </li>
+                                    <li><a href="https://www.mbopartners.com/state-of-independence/past-reports" target="_blank">State of Independence</a>
+                                    </li>
+                                    <li><a href="https://www.mbopartners.com/information-for-consultants/resources/articles/what-is-independent-consulting" target="_blank">What is Independent Consulting?</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="section__title-wrap">
+                                    <h3 class="section__title" >Press</h3>
+                                </div>
+                                <ul class="list-unstyled footer__links" >
+                                    <li><a href="https://www.mbopartners.com/press-room/mbo-partners-news" target="_blank">In The News</a>
+                                    </li>
+                                    <li><a href="https://www.mbopartners.com/press-room" target="_blank">Press Room</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="section__title-wrap">
+                                    <h3 class="section__title" >Careers</h3>
+                                </div>
+                                <ul class="list-unstyled footer__links" >
+                                    <li><a href="https://www.mbopartners.com/about-mbo-partners#careers" target="_blank">Working at MBO</a>
+                                    </li>
+                                    <li><a href="http://mbopartner.force.com/careers" target="_blank">Open Positions</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        <!--</div>
+                    </div>-->
+                <!--</div>
+            </div>
+        </div>
+        <footer class="footer footer__bottom" role="contentinfo">
+            <div class="container content">
+                <div class="row top">
+                    <div class="col-sm-3 col-md-4">
+                        <div class="title-wrap">
+                            <h4>Follow MBO</h4>
+                        </div>
+                        <ul class="list-inline">
+                            <li>
+                                <a href="https://www.linkedin.com/company/mbo-partners" alt="LinkedIn" target="_blank">
+                                    <img src="https://pi.pardot.com/l/39662/2015-04-15/ddddr/39662/66680/linkedin_icon.png"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/MBOpartners" alt="Twitter" target="_blank">
+                                    <img src="https://pi.pardot.com/l/39662/2015-04-15/dddg9/39662/66684/twitter_icon.png"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4 col-md-3 col-sm-offset-5 col-md-offset-5">
+                        <div class="title-wrap">
+                            <h4>Call Us</h4>
+                        </div>
+                        <ul class="list-inline">
+                            <li><a href="tel:+18002200469" alt="Call Us"><b>1-800-220-0469</b></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <hr class="content-divider"/>
+                <div class="row bottom">
+                    <div class="col-md-9">
+                        <ul class="list-unstyled">
+                            <li >&copy; 2015 MBO Partners</li>
+                            <li class="divider"></li>
+                            <li><a href="https://www.mbopartners.com/privacy-policy" alt="Privacy Policy">Privacy Policy</a>
+                            </li>
+                            <li class="divider"></li>
+                            <li><a href="https://www.mbopartners.com/terms-and-conditions" alt="Terms of Use" >Terms of Use</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="footer-logo">
+                            <a href="https://www.mbopartners.com" alt="MBO Partners">
+                                <img src="https://pi.pardot.com/l/39662/2015-04-15/dfqsh/39662/66712/partners_logo_gray.png" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>-->
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script>
+        window.jQuery || document.write('<script src="https://pi.pardot.com/l/39662/2015-04-15/dg9h1/39662/66730/jquery.min.js"><\/script>')
+    </script>
+    <script src="https://pi.pardot.com/l/39662/2015-04-15/dhm2k/39662/66822/app_f19d1fdc.js"></script>
+</body>
+</apex:page>

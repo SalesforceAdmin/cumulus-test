@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Associate Referral.Referral Deadline Reminder</name>
+    <style>none</style>
+    <subject>Get Your MBO Referrals in before May 31!</subject>
+    <textOnly>Dear {{lead.First Name:default=Associate}},
+
+We’re getting awfully close to MBO’s Home Office Makeover Drawing &lt;http://referral.mbopartners.com/referral-program/mbo-makeover&gt;! Our greatest compliment is when an Associate like you spreads the word about MBO Partners to friends and colleagues that could benefit from utilizing our services. 
+
+When you refer a friend to us, every referral you submit entitles you to an entry into our Sweepstakes, where you will have a chance to win our coveted home office makeover worth up to $5,000!  *You will also be giving your friend the opportunity to try us without charge. Finally, if your friend likes what we do, we will deposit $500 into your Business Center upon their enrollment and subsequent client-collected billings of $30,000. *Restrictions apply. See contest rules &lt;http://referral.mbopartners.com/referral-program/official-rules&gt; for details. To be considered for the Home Office Makeover, please submit your referrals by May 31, 2013.
+
+
+Start Referring Today! &lt;http://referral.mbopartners.com/referral-program?r={{company.BM LName Clean}}&amp;fname={{lead.First Name:default=edit me}}&amp;lname={{lead.Last Name:default=edit me}}&amp;email={{lead.Email Address:default=edit me}}&gt;
+
+Sincerely,
+___________________________________
+ {{company.BM FName:default=MBO}} {{company.BM LName:default=Partners}}
+ Business Manager
+ MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

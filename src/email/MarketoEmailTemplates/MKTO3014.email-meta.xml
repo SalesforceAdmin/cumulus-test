@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Final Steps to Activate MBO Account! (1386955341.0)</name>
+    <style>none</style>
+    <subject>Final Steps to Activate MBO Account! (1386955341.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Claude, Hope you are doing well. I noticed you had started the online enrollment but have not quite finished. Please log in and follow the prompts to complete the online enrollment as soon as possible.  I also need you to log in to MBO Access &lt;https://access.mbopartners.com/&gt; and complete the “Industry Expertise” and “Disciplines” sections of your profile. You can do this by clicking on your name in the upper right hand corner and then clicking on “Edit profile &amp; privacy.” This information needed for our workmen’s comp. policy and must be completed before I can activate your account and get you billing. Your user ID and password is the same as your MBO Business Center.  Please let me know if you have any questions.
+Thanks,Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

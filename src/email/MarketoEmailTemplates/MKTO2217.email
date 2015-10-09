@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p>Dear {{lead.First Name:default=edit me}},</p>
+<p>I am thrilled to announce that we have recently launched a brand new Referral Program with some serious perks you will want to know about!&nbsp; <br /><br />Our greatest compliment is when an Associate like you spreads the word about us to friends and colleagues that would benefit from utilizing our services.&nbsp; The projected future size of independent workers is expected to climb to 23 million within the next 5 years, so our mission is more important than ever- making it easy for independent consultants and their clients to do business together.&nbsp;</p>
+<p>We believe that no good deed should go unnoticed, which is why when you refer a friend, every referral you submit gives you a chance to win a home office makeover worth up to $5,000! *You will also be giving your friend the opportunity to try us for free. Finally, if your friend likes what we do, we will deposit $500 into your Business Center upon their enrollment and subsequent billings of $30,000. <span style="font-size: 9px; color: #333333;">*Restrictions apply. See <a href="http://referral.mbopartners.com/referral-program/official-rules">contest rules</a> for details.</span><br /><br /><a title="Start Referring Today!" href="http://referral.mbopartners.com/referral-program?r={{company.BM LName Clean}}&amp;fname={{lead.First Name:default=edit me}}&amp;lname={{lead.Last Name:default=edit me}}&amp;email={{lead.Email Address:default=edit me}}" target="_blank">Start referring today!</a></p>
+<p>Sincerely,</p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span><br> <strong><span style="color: #a00b10; font-family: 'Georgia','serif';">{{company.BM FName:default=MBO Partners}}&nbsp;{{company.BM LName:default=edit me}}</span></strong><br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">Business Manager</span></strong><br> <span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span></div>
+</body>
+</html>

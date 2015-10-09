@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners Response (1312556779.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners Response (1312556779.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Issac,
+ 
+Sure.  Ive enclosed a few items:
+ 
+1.       A sample illustration showing what an Associates income looks like being run through MBO. 
+2.       You can view some of the types of expenses that are non-billable but can be submitted to MBO for a tax deduction (reducing gross pay) http://info.mbopartners.com/rs/mbo/images/MBO_Partners_Expense_List.pdf
+a.       The out of pocket business and medical expenses would be paid initially by the Associate, they would then submit that as an expense into our system (upload a receipt) and then when they pay themselves from their Business Center within MBO, we reduce their taxable income by the amount of the expense.  MBO owns the liability for that expense (we have a team that reviews them to make sure they are compliant).  At the end of the year, those expenses submitted to MBO would not be submitted to the IRS by the Associate (since they already received the same tax benefit by submitting them to us). 
+ 
+We can walk through the estimate and I can answer questions for you.  Look forward to our conversation.
+ 
+Steve
+ 
+From: Isaac Ojeda [mailto:isaac.ojeda@gmail.com] 
+Sent: Friday, August 05, 2011 10:33 AM
+To: Steve Arhancet
+Subject: Re: MBO Partners Response
+ 
+Hi Steve
+
+Before we talk can you send me some info on how are expenses are handled as well as taxes?  I have a friend, Michel Cole, using your service and I am a little confused about the expense reimbursement.   Are the expenses IRS deductions, if not who is paying the business expenses?
+
+Thanks
+Isaac
+On Fri, Aug 5, 2011 at 10:26 AM, Steve Arhancet &lt;sarhancet@mbopartners.com&gt; wrote:
+Dear Isaac,
+ 
+Thank you for your inquiry on our website.  Ill be your main point of contact to provide you an overview of our services or answer any specific questions you may have.  You may easily book a time that is convenient for you on my online schedule by going here: https://my.timedriver.com/C9CPC. 
+ 
+I look forward to speaking with you,
+ 
+Steve
+ 
+___________________________________
+Steve Arhancet
+Director, Enrollments and Market Development
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+m: 540.560.8837
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+
+
+
+-- 
+Isaac
+&lt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Access - Please Complete Profile  (1383081400.0)</name>
+    <style>none</style>
+    <subject>MBO Access - Please Complete Profile  (1383081400.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Dear Anne,You’re one step away from being officially enrolled with MBO Partners!  As part of your registration process with us, we’d like to invite you to become part of an exclusive, invitation-only, online community comprised of our vast network of Independent Consultants, just like you.  Welcome to MBO Access! 
+
+With MBO Access you will be able to:  
+	- Network – Connect with fellow MBO Associates who share similar skills, great networks, and industry expertise that may lead to new business opportunities for you.	- Discover – Access information about the many organizations that are already using MBO Partners to engage their Independent Contractors and other small services providers.	- Share – Post articles and write blog to share with the community. Start discussions about the topics of the day with other Associates and collaborate on new ideas.	- Thrive – Take advantage of the exclusive arrangements we’ve negotiated with organizations that provide services to Independent Consultants and small businesses.  These include discounts on business development tools, office supplies, and co-working facilities, just to name a few.
+So, on to the good stuff…let’s get you set up!  First, log into your account, click on your name in the upper right hand corner of the page, and build up your profile so others can find and connect with you. You can always access the “Get Started” link on your left hand navigation to enhance your profile, and learn more about MBO Access features. Upon completion of your profile, please find and connect with me - you will then be officially enrolled with us!Your username and password for MBO Access will be the same as your MBO Business Center.Click here to login to MBO Access today! &lt;https://access.mbopartners.com/login.jspa&gt;I look forward to discussing the site with you, and welcome any feedback. Best Regards,Sara___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; We’ve got some serious perks you’re eligible to win when you refer a friend &lt;http://referral.mbopartners.com/referral-program?r=conde&gt; to MBO Partners! Ask me about them. Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.    </textOnly>
+    <type>custom</type>
+</EmailTemplate>

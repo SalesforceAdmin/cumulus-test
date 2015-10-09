@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>20March14- Thought Leadership.Invite 2.4</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Consultant}}, your thought leadership webinar reminder</subject>
+    <textOnly>There&apos;s still time to join us on Thursday, March 20 at 1 p.m. ET, when we will hold a webinar titled &quot;Take Charge of Your Vertical: How to Be a Thought Leader &lt;http://www.mbopartners.com/webinars/2014/take-charge-your-vertical-how-be-thought-leader&gt;.&quot;
+MBO Partners is welcoming author and CEO of Thought Leadership Lab Denise Brosseau to our webinar series. Denise will walk you through case studies, tips and techniques you can use gain visibility as an industry expert.
+Register today &lt;http://www.mbopartners.com/webinars/2014/take-charge-your-vertical-how-be-thought-leader&gt;!
+___________________________________
+Jaime MacDonell
+Marketing Manager
+MBO Partners
+t: 703-793-6368
+ e: jmacdonell@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

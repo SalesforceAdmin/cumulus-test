@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Used to follow up to SIG webcast attendees</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SIG follow up</name>
+    <style>none</style>
+    <subject>SIG Round table</subject>
+    <textOnly>Dear {{First Name:default=SIG Attendee}},
+ 
+As I reflected on the quality of the peer group and the insightful nature of discussions last week at the Google SIG Silicon Valley Regional Roundtable, I felt fortunate to have participated. I’ve been in the industry a long time, but still walked away with new understanding.
+
+There were a few perspectives and real-world experiences shared during the Roundtable that I found particularly helpful and interesting. In the spirit of continuing the momentum, and building our community, I wanted to share my list of take-aways. I look forward to hearing from others on their perspectives, both now and later. Let’s keep in touch.
+
+
+Outsourcing is a way of life.   Outsourcing now includes small projects as well as complete business processes. It’s not a spare limb. It’s a part of the company DNA
+
+A SOW alone is not enough.  SOWs are used to help manage IC engagements but it is difficult to package the work in a well-defined document that can be enforced and also captures the requirements for compliance
+
+A buffer is needed.  With the number and type of possible engagements, there needs to be someone between the company and the independent contractor to make sure there is compliance during the entire engagement
+
+Oversight is paramount.  There needs to be someone responsible for managing the workers relationship and assuring both payment and governance are followed properly.  Independent Consultants can be advisory or event/milestone/deliverable based. That function can also be outsourced or a third party “Aggregator” of SOW projects can be used
+
+Alternative Workforce Solutions rule the day.  Companies are not planning to go back to the headcount levels of the pre-recession times.  Rather, they will be depending on contingent workers, project-based consultants and outsourced providers
+
+
+This is what I gleaned from our discussion.  Did I miss something important?  I would welcome any additional thoughts or feedback you have about your experience and what really hit home for you. 
+
+
+Warmest regards,
+
+Jay Lash
+
+
+Jay Lash, VP of Market Strategies
+jlash@mbopartners.com
+www.mbopartners.com
+www.mbopartners.com/blog
+www.linkedin.com/in/jaylash</textOnly>
+    <type>custom</type>
+</EmailTemplate>

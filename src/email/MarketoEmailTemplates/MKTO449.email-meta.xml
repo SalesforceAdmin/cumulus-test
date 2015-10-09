@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Legacy Contacts.Parked</name>
+    <style>none</style>
+    <subject>MBO Partners {{lead.First Name:default=edit me}}</subject>
+    <textOnly>Dear {{lead.First Name:default=Sir/Madam}},
+
+It’s been some time since we last spoke with you, but I personally wanted to check in and share some news with you. We recently launched a new consultant-focused Web site (www.mbopartners.com) which includes relevant tools such as a Bill Rate Calculator (http://www.mbopartners.com/#billrate), a self-assessment tool on independence (http://www.mbopartners.com/#rightforyou), and a video that shows how we help independents succeed (http://www.mbopartners.com/#howwehelp) in today’s project economy. We encourage you to take a look.
+
+Whatever your work life stage, I also hope you can join me in celebrating the news that independent work life in America has arrived. Our company is well into a year-long effort called The State of Independence in America (http://info.mbopartners.com/the-state-of-independence.html). I encourage you to view some very interesting findings on the size and trends for independent work in our nation (http://info.mbopartners.com/who-are-the-independents.html).
+
+Please feel free to reply to this email and provide an update on how your contract search is going. Are you working on a project now or you currently working W2 at the moment?
+
+Steven Arhancet
+
+___________________________________
+Steve Arhancet
+Director, Consultant Services
+MBO Partners
+ 
+t: 703.793.6011
+f: 703.793.6081
+e: sarhancet@mbopartners.com
+w: www.mbopartners.com
+
+Share your story! MBO Partner is profiling independent professionals across the country. Read their stories (http://info.mbopartners.com/meet-the-independents, or share your own (http://info.mbopartners.com/meet-the-independents-share.html).</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p>Dear&nbsp;{{lead.First Name:default=Independent Consultant}},</p>
+<p><em><span style="color: #888888;"><span style="color: #808080;">{{lead.Comments}}</span><br /><span style="color: #808080;">{{lead.How Heard Additional Data}}</span></span></em></p>
+<p>We received your contact information from {{lead.How Heard Additional Data:default=your friend}}, a current member of MBO Partners who believes you could greatly benefit from our program.               My name is {{lead.EM FName:default=Sara}} {{lead.EM LName:default=Conde}}, a Consultant Services Advisor, and I invite you to learn <a href="http://referral.mbopartners.com/referral-program/why-mbo?r={{lead.How Heard Additional Data:Default=}}&amp;re={{lead.First Name}}">what MBO Partners is all about</a>, and decide for yourself.</p>
+<p>For more than 25 years, our company has led the independent consulting sector in America.               Our mission is simple &ndash;we <span style="font-family: georgia, palatino;"><strong><em style="font-family: georgia, palatino; font-size: 12px;">make it easy for independent consultants and their clients to work together</em></strong></span> by handling the administrative, financial, legal, tax and        expense       burdens that  bog down consultants, thus increasing their billable time.               In addition, we provide them access to the largest exclusive online community of successful independent consultants, the clients that engage with them, and a multitude of valuable resources.               Click <a href="http://referral.mbopartners.com/referral-program/why-mbo?r={{lead.How Heard Additional Data}}&amp;re={{lead.First Name}}">here</a>&nbsp;to learn more about what MBO        Partners can do for independent        consultants.</p>
+<p>Here are some recent tools we have developed to empower our consultants to thrive in their independent careers that you might find useful:</p>
+<ul>
+<li><a href="http://www.mbopartners.com/#billrate">Bill Rate Packet</a> &ndash; Not sure what to bill your      clients?&nbsp; This tool will assist you,      factoring in your              desired profit margins, expected expenses, and  projected      insurance costs.</li>
+<li><a href="http://www.mbopartners.com/resources?type=presentation">Webinar Index</a> &ndash; Learn from industry experts advising on      best practices to help you expand your            consulting business.</li>
+<li><a href="http://www.mbopartners.com/state-of-independence/meet-the-independents.html">Meet the Independents</a> &ndash; Get a glimpse into the      independent workforce in America by reading           the  profiles and stories of      some of our consultants.</li>
+<li><a href="http://www.mbopartners.com/independents-guide">Independent&rsquo;s Guide</a> &ndash; Take advantage of an      online library of articles and resources covering a myriad of topics and                 issues geared specifically towards the independent    career path.</li>
+</ul>
+<p>You may also wish to sign-up for our monthly<a href="http://www.mbopartners.com/mpages/ch-2012-04-01/ic-newsletter.html?utm_source=Twitter&amp;utm_medium=ICB%2B-%2BMZ%2BTwitter%2BPost&amp;utm_campaign=ICB%2B-%2BMZ%2BTwitter%2BPost"> Independent    Consulting Brief</a> to stay up to date on the many resources that we provide to the consulting marketplace.</p>
+<p>I wish you every success in growing or starting your own independent consulting business, and if you&rsquo;d like to set up a time to talk to learn more, please feel free to <a title="TimeTrade Link" href="{{lead.EM TTLink:default=https://my.timedriver.com/8SLYS}}">schedule a time</a> that is  convenient for you to speak with me.</p>
+<p>Regards,<span style="font-size: 14px; font-family: georgia, palatino;"><br /></span></p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" >
+<div id="58869" class="mktEditable" style="width: 100%;"><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span><br /> <strong><span style="color: #a00b10; font-family: 'Georgia','serif';">{{lead.EM FName:default=Sara}} {{lead.EM LName:default=Conde}}</span></strong><br /> 
+<strong><span style="color: #353433; font-family: 'Georgia','serif';">Consultant Services Advisor</span></strong><br /> <span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span><br /> <br /> <strong><span style="color: #353433; font-family: 
+'Georgia','serif';">t:</span></strong>&nbsp;<span style="color: #353433; font-family: 'Georgia','serif';">{{lead.EM Phone:default=800-220-0469}}</span><br /> <strong><span style="color: #353433; font-family: 'Georgia','serif';">f:</span></strong> <span style="color: #353433; font-family: 'Georgia','serif';">703-793-6070</span><br 
+/> <strong><span style="color: #353433; font-family: 'Georgia','serif';">e:</span></strong> <span style="color: #353433; font-family: 'Georgia','serif';">{{lead.EM Email:default=sconde@mbopartners.com}}</span><br /> <strong><span style="color: #353433; font-family: 'Georgia','serif';">w:</span></strong> <a 
+href="http://www.mbopartners.com/"><span style="font-family: 'Georgia','serif'; color: #353433;">www.mbopartners.com</span></a></div>
+</div>
+</body>
+</html>

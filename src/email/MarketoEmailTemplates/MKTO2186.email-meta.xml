@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Lead Nurturing.Value Prop 2</name>
+    <style>none</style>
+    <subject>Why Fight Red Tape to Get Your Next Contract?</subject>
+    <textOnly>Are you finding it difficult to secure contracts with the organizations you want to work with? 
+
+MBO Partners already has hundreds of master service agreements in place - including with 40 percent of the Fortune 100. We&apos;re also an approved GSA vendor. 
+
+If you choose to work through MBO, you will still find your own contracts and maintain your own network. But you can finally stop fighting vendor red tape rules – and start billing for projects faster. 
+
+Focus on what you do best, and let MBO’s back-office management team take care of everything else. 
+Email info@mbopartners.com &lt;mailto:info@mbopartners.com&gt; today to learn more, or give us a call at 1-800-220-0469.
+___________________________________
+MBO Partners
+A Better Way for Independent Consultants to Do Business
+
+t: 1-800-220-0469
+ e: info@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

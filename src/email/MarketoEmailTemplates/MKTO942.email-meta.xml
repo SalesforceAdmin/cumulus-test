@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners Inquiry (1328727993.0)</name>
+    <style>none</style>
+    <subject>MBO Partners Inquiry (1328727993.0)</subject>
+    <textOnly>1024x768    Clean      false false false  EN-US X-NONE X-NONE              MicrosoftInternetExplorer4                                                                                                                                                               Hi John,
+ 
+I hope all is well!  I see that you visited our website recently and wanted to reach out to you to see if you had any questions for me.
+ 
+If you would like to schedule a time for us to speak please do so by clicking on the link below:
+ 
+https://my.timedriver.com/9TGRK
+ 
+I look forward to speaking with you!
+ 
+Have a great day,
+Nicolette
+ 
+___________________________________
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

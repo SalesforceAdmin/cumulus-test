@@ -1,0 +1,1 @@
+{!External_QA__kav.ArticleNumber}: {!External_QA__kav.Title} is going to expire on {!External_QA__kav.Expiration__c}. Please review and make updates if necessary here: {!External_QA__kav.Link}

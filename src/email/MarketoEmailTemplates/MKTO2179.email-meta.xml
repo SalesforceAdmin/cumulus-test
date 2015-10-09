@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Associate Referral.Associate Referral: Call Or Email</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Hello}}, {{lead.How Heard Additional Data:default=A friend}} Thought You May Be Interested In MBO Partners</subject>
+    <textOnly>Dear {{lead.First Name:default=Consultant}},
+
+{{lead.Comments}}
+
+{{lead.How Heard Additional Data:default=A friend}} has been utilizing the business services of MBO Partners &lt;http://referral.mbopartners.com/referral-program/why-mbo?r={{lead.How Heard Additional Data}}&amp;re={{lead.First Name}}&gt;, and thinks you could benefit from the program as well.  My name is {{lead.EM FName:default=Sara}} {{lead.EM LName:default=Conde}}, a Consultant Services Advisor, and if you have a few minutes, I invite you to learn what MBO Partners is all about and decide for yourself.
+
+1)      Who do we work with? 
+ We work with independent consultants who have an established clientele, as well as those considering venturing out to launch a new consulting business.
+2)      What’s our mission?
+It’s pretty simple – we make it easy for independent consultants and their clients to work together by handling the administrative, financial, legal, tax and expense burdens that bog down consultants, thus increasing their billable time. In addition, we provide them access to the largest exclusive online community of successful independent consultants, the clients that engage with them, and a multitude of valuable resources.
+
+3)      What solutions do we provide?
+ Click here &lt;http://referral.mbopartners.com/referral-program/why-mbo?r={{lead.How Heard Additional Data}}&amp;re={{lead.First Name}}&gt; to learn more about how we help independent consultants.
+
+Was {{lead.How Heard Additional Data:default=your friend}} right about MBO Partners being a good fit for you?  If so, I’d love to be your resource for any of your independent consulting-related goals, and can help:
+
+·         Explain our services in more detail, and more specifically how we can help you
+
+·         Prepare customized bill rate and cash flow estimates to help you get the most out of your business
+
+·         Provide you access to a multitude of resources catered to independent consultants and their needs
+
+
+
+
+
+Please feel free to schedule a time &lt;{{lead.EM TTLink}}&gt; that is convenient for you to speak with me, so I can learn more about you, describe our program in more detail, and answer any questions you may have.
+
+I look forward to chatting with you.
+___________________________________
+ {{lead.EM FName:default=edit me}} {{lead.EM LName:default=edit me}}
+ Consultant Services Advisor
+ MBO Partners
+ 
+ t: {{lead.EM Phone:default=edit me}}
+ f: 703-793-6070
+ e: {{lead.EM Email:default=edit me}}
+ w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Personal invite to webinar (1360858985.0)</name>
+    <style>none</style>
+    <subject>Personal invite to webinar (1360858985.0)</subject>
+    <textOnly>Hi Andrea, Happy Valentine’s Day! I hope that you are doing well. I thought I should send you a quick personal invite to an upcoming webinar in case you think it could be helpful to you or your colleagues at Interactive Data.    Specifically, it will provide you with insight into what helps make a successful independent contractor program, including the perspective of a procurement executive at Limited Brands, Jason Dombrowski. Below is a brief overview and registration link for you.   
+Join us Tuesday, February 19th, at 1:00 pm ET for the first webinar in our Independent Contractor Compliance and Engagement 2013 series: Client Readiness: Are you Ready to Benefit from the Independent Consulting Movement? 
+During this hour-long webinar, Dennis Kanegaye, President of MBO Partners - Enterprise Solutions, will introduce and explain his “Client Readiness” framework, and how it enables organizations to optimize their procurement programs for independent talent. Attendees will also learn the practical do’s and don&apos;ts surrounding a strong program implementation from co-participant Jason Dombrowski, a procurement executive with Limited Brands. 
+Here&apos;s a link for you to register: 
+ http://tinyurl.com/bbynd5b &lt;http://tinyurl.com/bbynd5b&gt; Thanks for your time and have a great day!   Warm regards, Steve
+___________________________________
+Steve Taggart
+Account Executive, Enterprise Solutions
+MBO Partnerst: 703.793.6014
+f: 703.793.6452
+e: staggart@mboenterprise.com &lt;mailto:staggart@mboenterprise.com&gt;
+w: www.mboenterprise.com &lt;http://www.mboenterprise.com&gt;
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

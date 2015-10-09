@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Dec6Web:Career-Change.We Missed You Dec6</name>
+    <style>none</style>
+    <subject>Since You Missed it - Free Resources from our Career Transition Webinar</subject>
+    <textOnly> 
+
+
+Hello {{lead.First Name:default=Webinar Registrant}},
+You were missed at our  “From Burned out to Fired Up: 3 Principles to Guide Your Independent Career Transition” webinar held on Thursday, December 6th. Certified life and career coach Ingrid Sarrat presented the emotional intelligence framework to help you navigate your career transition to independence. Although you were not able to attend, we appreciate your interest.
+Below you will find links to the material created for the webinar. We hope you find them informative:
+Recorded webinar &lt;http://www.mbopartners.com/webinar-burned-out-fired-3-principles-guide-your-independent-career-transition&gt;
+Webinar slide deck &lt;http://info.mbopartners.com/rs/mbo/images/Emotional-Intelligence-Webinar-Slides.pdf&gt;
+Featured Speaker Ingrid Sarrat Website &lt;http://www.mycoachingcircle.com/&gt;
+Six Seconds Emotional Intelligence Website &lt;http://www.6seconds.org/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

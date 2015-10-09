@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>BM Active Associate Email</name>
+    <style>none</style>
+    <subject>Welcome to MBO Access! Your Exclusive Invite to our Networking Community</subject>
+    <textOnly>Dear {{lead.First Name:default=MBO Partners&apos; Active Associate}},
+
+I am very pleased to share some exciting news with you! Announced in a recent press release &lt;http://www.businesswire.com/news/home/20120619006336/en/MBO-Partners-Launches-Private-Social-Business-Platform&gt;, MBO Partners launched a new, free online networking platform called MBO Access.  You are  cordially invited to participate in this exclusive community. 
+
+What is MBO Access? Click Here to View 3-Minute Video Tutorial  &lt;http://c967757.r57.cf2.rackcdn.com/acctutorial.html&gt;
+ MBO Access is an online private community that was built to enable you, to better and more easily network with other Associates, Alumni, and with major MBO Clients. You will also find rich resources, special promotions and information leading to potential new projects and various opportunities – targeted to your specific industries and geographical locations. 
+ 
+ A three-month study commissioned by MBO conducted prior to the development of MBO Access revealed that the path to a new project is typically driven by a personal introduction to someone with contacts in the right field or company. Based on our findings, we invested in creating a robust, intuitive system tailored specifically to your needs as an Independent consultant. 
+ 
+ How can I get started?  
+ In an effort to get you quickly acclimated with MBO Access, we have created a 3 minute video tutorial &lt;http://c967757.r57.cf2.rackcdn.com/acctutorial.html&gt; to help you get started.   Of course, please feel free to contact me directly for a personalized walk through of the new system if that is your preference.   Your username for MBO Access will be the same as your MBO Business Center, and the very first time you login, you will need to click “Forgot your password,” to generate a password for you.
+
+Click here to login to MBO Access today! &lt;http://www.mbopartners.com/access&gt;
+ 
+ I encourage you to log in asap, build up your profile and connect with me! I look forward to discussing the site with you, and welcome any feedback. 
+
+Best Regards,
+ 
+ ___________________________________
+{{company.BM FName:default=Lara}} {{company.BM LName:default=Ebert}}
+Business Manager
+MBO Partners
+ 
+e: {{company.BM Email:default=lebert@mbopartners.com}}
+w: www.mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

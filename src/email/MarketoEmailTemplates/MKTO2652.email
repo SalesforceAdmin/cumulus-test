@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Standard Template</title>
+</head>
+<body ><div style="width:100%; " class="mktEditable" id="body" ><p><span style="font-family: georgia, palatino; font-size: 14px;">Dear {{lead.First Name:default=Associate}},</span></p>
+<p><span style="font-family: georgia, palatino; font-size: 14px;">If you haven&rsquo;t already registered for our upcoming New York City Networking Cocktail Reception, taking place on the evening of Thursday, June 6&nbsp;at <a href="http://www.richardsandoval.com/zengony/index.php">Zengo</a>, please go ahead and <a href="http://events.r20.constantcontact.com/register/event?oeidk=a07e7ed57nn4e1443a1&amp;llr=kp5x6qkab">reserve your spot today</a>. This will be an excellent opportunity for you to meet fellow Associates and Entrepreneurs, MBO Enterprise clients and several members of the MBO Partners team!&nbsp; </span></p>
+<p><span style="font-family: georgia, palatino; font-size: 14px;">As an added bonus, connection agent and popular online author&nbsp;<a href="http://www.stevewoodruff.com/" target="_blank">Steve Woodruff</a> will be speaking about building a top-notch opportunity network, as well as leveraging social tools to strategically and creatively expand your business.<strong> <br /> </strong><br /> We&rsquo;d love to see you, so <a href="http://events.r20.constantcontact.com/register/event?oeidk=a07e7ed57nn4e1443a1&amp;llr=kp5x6qkab">register today</a>!</span></p>
+<p><span style="font-family: georgia, palatino; font-size: 14px;">Sincerely,</span></p></div>
+<br>
+<div style="width:100%; " class="mktEditable" id="Signature" ><span style="color: #999999; font-size: 10pt; font-family: 'Georgia','serif';">___________________________________</span><br> <strong><span style="color: #a00b10; font-family: 'Georgia','serif';">{{company.BM FName:default=MBO}}&nbsp;{{company.BM LName:default=<strong><span>Partners</span></strong>}}</span></strong><br> <strong><span style="color: #353433; font-family: 'Georgia','serif';">Business Manager</span></strong><br> <span style="color: #353433; font-family: 'Georgia','serif';">MBO Partners</span></div>
+</body>
+</html>

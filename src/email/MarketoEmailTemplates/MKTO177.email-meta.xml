@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>SOI full report available</name>
+    <style>none</style>
+    <subject>MBO Partner Independent Workforce Index Now Available</subject>
+    <textOnly>Thank you for indicating interest in learning more about MBO Partners Independent Workforce Index and journey to highlight the state of independent work in America.
+
+We are pleased to share a link to the full report (http://info.mbopartners.com/rs/mbo/images/MBO%20Partners%20Independent%20Workforce%20Index%202011.pdf) and data slides (http://info.mbopartners.com/rs/mbo/images/MBO%20Partners%20Independent%20Workforce%20Index%20%20Key%20Findings%20Summary.pdf), now available at our study site (http://info.mbopartners.com/stateofindependence).
+
+Do share the news with others in your network by inviting them to visit our study site, and join our Facebook community (http://www.facebook.com/pages/The-State-of-Independence/126879364075991).
+
+
+MBO Partners
+The State of Independence Team
+Comments? Feedback? Email us at: soi@mbopartners.com</textOnly>
+    <type>custom</type>
+</EmailTemplate>

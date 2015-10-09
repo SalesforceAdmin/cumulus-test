@@ -1,0 +1,18 @@
+{!ApprovalRequest.Comments}
+
+_________________________________
+
+Account:
+{!Opportunity.Account}
+
+
+Opportunity:
+{!Opportunity.Name}
+{!Opportunity.CreatedDate}
+{!Opportunity.Link}
+
+Expected 1st Invoice: {!Opportunity.fd_expectedInvoiceDate__c}
+Expected Billings , first 6 months: {!Opportunity.fn_expected6moBilling__c}
+Expected New Transitions, first 6 months: {!Opportunity.fn_expectedTransitions__c}
+Expected Steady State monthly billing: {!Opportunity.fn_expectedSteadyMonthlyBilling__c}
+Expected time to reach Steady State: {!Opportunity.fn_expectedTimeToSteady__c}

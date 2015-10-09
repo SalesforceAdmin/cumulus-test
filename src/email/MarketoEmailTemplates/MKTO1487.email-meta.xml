@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Introduction To Your New Business Manager (1338499108.0)</name>
+    <style>none</style>
+    <subject>Introduction To Your New Business Manager (1338499108.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi David, It was a pleasure working with you up to this point.  We appreciate your on-going business.  As I mentioned during your enrollment, you’ll now work with your new Business Manager, Lisa Hartnett here at MBO Partners, who will be your one point of contact should you have any questions.  I’ve already informed Lisa of important details regarding your working arrangement.  As a reminder you may always go to our private informational area &lt;http://mkto-l0128.com/track?t=c&amp;enid=bWlkPW1ib0JldGFjdXN0LTAtMC0wLTAtcHJvZC0wJm1zZ2lkPTAmZGlkPTEyMzQmc249MCZlaWQ9dGxsZXhjZWxAZ21haWwuY29tJnVpZD0wJmV4dHJhPU1UTXhmSE55WTJsa1BUazNmRzFoYVd4cFpEMW1OekpqT0RRMk5pMHhORFZoTFRRNU0yWXRPRGswTlMwek5UWXpNamhpWkRVeU16UXRPVGQ4Wm5KdmJUMXVkR0Y1Ykc5eVFHMWliM0JoY25SdVpYSnpMbU52Ylh4emRXSnFQVWx1ZEhKdlpIVmpkR2x2YmlCVWJ5QlpiM1Z5SUU1bGR5QkNkWE5wYm1WemN5Qk5ZVzVoWjJWeT0mJiY=&amp;&amp;&amp;http://info.mbopartners.com/advisor-info-n-taylor.html?mkt_tok=2xUAKZjCb11VsF917vC5JaTsljmOeZel0dYXY52MuKVUsyIUGIalUg%3D%3D&gt; for answers to frequently asked questions.  Lisa will be reaching out to you shortly to introduce herself.   Regards, Nicolette  ___________________________________Nicolette TaylorConsultant Services AdvisorMBO Partners t: 703.793.6281f: 703.793.6456e: ntaylor@mbopartners.com &lt;bbentley@mbopartners.com&gt;w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt; Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:postmaster@mbopartners.com&gt; and permanently delete the e-mail and files.  </textOnly>
+    <type>custom</type>
+</EmailTemplate>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: jato corp (1335286702.0)</name>
+    <style>none</style>
+    <subject>RE: jato corp (1335286702.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE       MicrosoftInternetExplorer4                                                                                                                                                               Hi Tim, The payment came in on Monday the 23rd. We will process payment every Tuesday for a pay date of Friday. This will be in your business account this Friday the 27th. 
+Thanks,
+Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. From: &lt;mailto:sconde@mbopartners.com&gt; Tim Lane [mailto:tim@jatodigital.com] 
+Sent: Monday, April 23, 2012 5:08 PM
+To: Sara Conde
+Subject: jato corp Hi Sara,Will you look into my March payment from AdoTube? I still not have received the funds into my account.  Tim Lane I President I JATO Corp. t: 310-902-3495 I e: tim@jatodigital.com &lt;tim@jatodigital.com%20&gt; I aim: timmylane101 JATOdigital media group1524 Berkeley St, Suite 2 I Santa Monica, CA 90404 </textOnly>
+    <type>custom</type>
+</EmailTemplate>

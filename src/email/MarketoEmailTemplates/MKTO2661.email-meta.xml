@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Jun25Webinar-Compliance.Invite 1</name>
+    <style>none</style>
+    <subject>Webinar: Making Compliance Determinations</subject>
+    <textOnly>Dear {{lead.First Name:default=Client Contact}},
+
+Join us Tuesday, June 25, at 1:00 p.m. ET for the third webinar in our Independent Contractor Compliance and Engagement 2013 series: Compliance Officer Training: The Refresher Course on IC Qualification &lt;http://info.mbopartners.com/Jun25Webinar-Compliance.html&gt;. &lt;http://info.mbopartners.com/Feb19Webinar-ClientReadiness_RegistrationPage.html&gt;
+
+During this hour-long webinar, Jay Lash, VP of Market Strategies at MBO Partners - Enterprise Solutions, will cover the the criteria and the rationale for meeting qualifications for IC determination at most major enterprise organizations. 
+
+Lash will be joined by two guests: Lonnie Goldman, an experienced General Counsel for Silicon Valley start-up organizations and Dave Cassar, MBO Partners VP of Operations who directs the Vendor Assessment Service Team  (VAST) at MBO. This presentation will also be a useful refresher to help industry veterans stay on top of the latest rulings and changing regulations, as well as a valuable resource for any stakeholder making decisions for their organization’s IC engagement.
+
+___________________________________
+MBO Enterprise Solutions
+t: 1-800-220-0469
+e: sales@mboenterprise.com &lt;mailto:sales@mboenterprise.com&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

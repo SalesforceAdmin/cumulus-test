@@ -1,0 +1,24 @@
+<apex:page sidebar="False" showHeader="False" standardStylesheets="true">
+    <apex:composition template="MBOPartnersStyledTemplate">
+        <apex:define name="logo">
+            <a href="https://sites.google.com/a/salesforce.com/staffup/?pli=1" style="float:right;" class="navbar-brand navbar__logo">
+                <apex:image id="SFDClogo" value="{!$Resource.StaffUp}"/>
+            </a>
+        </apex:define>
+        <apex:define name="header">
+            <h3 class="section__title">Thank you for using the Salesforce independent contractor referral process, powered by MBO Partners.</h3>
+        </apex:define>
+        <apex:define name="body">
+            <article class="article article__block">
+                <div class="article__featured-body">
+                    <p class="lead">
+                        The contractor is not in scope for engagement through MBO Partners.
+                    </p>
+                    <p class="lead">
+                        Please return to the Salesforce "StaffUp" <a href="https://sites.google.com/a/salesforce.com/staffup/?pli=1">landing page</a> and select the appropriate resource category.
+                    </p>
+                </div>
+            </article>
+        </apex:define>
+    </apex:composition>
+</apex:page>

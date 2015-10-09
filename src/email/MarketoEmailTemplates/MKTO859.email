@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Consultant Services Email</title>
+</head>
+<body ><div style="font:10.5pt georgia,palatino; width:100%; " ><span class="mktEditable" id="edit_text" ><p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">Hello {{lead.First Name:default=future associate}},</span></p>
+<p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">I wanted to touch base as a courtesy and see how the contract search is going.<br /></span></p>
+<p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">We have a number of consultant resources that we continually update that you may find helpful.&nbsp;&nbsp;&nbsp;You&nbsp;may find them here: <a href="http://www.mbopartners.com/resources">http://www.mbopartners.com/resources</a>.&nbsp; In addition, if you have any suggestions for new resources that might help other consultants - please let us know!</span></p>
+<p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">Any update would be great, look forward to hearing from you.</span></p>
+<p><span style="color: black; font-size: 10.5pt; font-family: georgia, palatino;">Regards,</span></p>
+<div><span style="font-family: georgia, palatino;"><span style="color: black; font-size: 10.5pt;">{{lead.Lead Owner First Name:default=</span><span style="color: black; font-size: 10.5pt;">Steve</span><span style="color: black; font-size: 10.5pt;">}}</span></span></div></span>
+</div>
+<div><span style="font-family: 'Georgia','serif'; color: #999999; font-size: 10pt;">___________________________________</span></div>
+<div><strong><span style="font-family: georgia,palatino; color: #a00b10; font-size: 10.5pt;">{{lead.Lead Owner First Name:default=Steve}} {{lead.Lead Owner Last Name:default=Arhancet}}</span></strong></div>
+<div><strong><span style="font-family: georgia,palatino; color: #353433; font-size: 10.5pt;">{{lead.Lead Owner Job Title:default=Director, Consultant Services}}</span></strong></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;">MBO Partners</span></div>
+<br>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>t:</strong> {{lead.Lead Owner Phone Number:default=703.793.6011}}</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>f:</strong> 703.793.6081</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>e:</strong> {{lead.Lead Owner Email Address:default=sarhancet@mbopartners.com}}</span></div>
+<div><span style="font-family: 'Georgia','serif'; color: #353433; font-size: 10.5pt;"><strong>w:</strong> <a href="http://www.mbopartners.com/"><span style="color: #353433;">www.mbopartners.com</span></a></span></div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Consulting Agreement (1325602324.0)</name>
+    <style>none</style>
+    <subject>RE: Consulting Agreement (1325602324.0)</subject>
+    <textOnly>110 Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     This will do it, thanks Pamela.
+ 
+Steve
+ 
+From: Pamela Gauldin [mailto:pamelagauldin@yahoo.com] 
+Sent: Tuesday, January 03, 2012 9:49 AM
+To: Steve Arhancet
+Cc: pamelagauldin@yahoo.com
+Subject: Consulting Agreement
+ 
+Steve
+ 
+I have attached the consulting agreement ATG Provided.  My contact for this contract is Dave Mills and I have provided his information below. 
+ 
+     
+David Mills I Vice President Resource Acquisition &amp; Management
+Advanced Technology Group 
+9401 Indian Creek Parkway, Suite 670 I Overland Park, KS 66210
+Mobile: 913.907.4648 I Office: (303) 816-9044
+Fax: 913.239.0052 I www.atginfo.com 
+
+Please let me know if there is anything else that you need from me other than the introductory e-mail that I will send to Dave.
+ 
+Pam
+Pamela Gauldin
+817-821-6821</textOnly>
+    <type>custom</type>
+</EmailTemplate>

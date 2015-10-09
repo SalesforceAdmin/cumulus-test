@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email that goes out to those who registered but did not attend. Garrett Zaino. 4/2/2012</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>27Apr12Web: Women.We missed you</name>
+    <style>none</style>
+    <subject>Since You Missed It... Slides Attached for Webinar on the &quot;Third Path&quot;</subject>
+    <textOnly>Hello {{lead.First Name:default=Consultant}},
+
+We are sorry you were unable to attend our webinar &quot;The Third Path: Independent Consulting for Entrepreneurial Women&quot; moderated by our CMO, Aassia Haq.  We do appreciate you registering, however and would like to share a few resources around the topic with you:
+
+ 1. Presentation slides &lt;http://info.mbopartners.com/rs/mbo/images/MBO-Partners-Webinar-The-Third-Path-Women-Independent-Consulting.pdf&gt;
+ 2. Recorded webinar &lt;http://www.mbopartners.com/webinar-third-path-independent-consulting-entrepreneurial-women&gt;
+ 3. The Third Path Infographic &lt;http://www.mbopartners.com/state-of-independence/women-and-independent-work.html&gt;
+ 4. State of Independence Workforce Index &lt;http://www.mbopartners.com/state-of-independence/docs/MBO-Partners-Independent-Workforce-Index-2011.pdf&gt;
+ 5. &quot;Are You Ready to go Solo?&quot; Online Quiz &lt;http://www.mbopartners.com/state-of-independence/are-you-ready-to-go-solo-quiz.html&gt;
+
+We invite you to sign-up to stay informed about future webinars in our series. If you have any topic recommendations or feedback, please email webinar@mbopartners.com &lt;http://info.mbopartners.com/2012SeriesSignUp.html&gt;.
+
+Regards,
+
+MBO Partners</textOnly>
+    <type>custom</type>
+</EmailTemplate>

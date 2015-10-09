@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: Consultation Call Appointment Confirmation (1330639725.0)</name>
+    <style>none</style>
+    <subject>RE: Consultation Call Appointment Confirmation (1330639725.0)</subject>
+    <textOnly>- 
+	-     
+	- 
+	-   90 Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Ostita, I just wanted to make sure you were aware that this call is not schooled until the third week of March. If that is what you intended, please disregard the email. Look forward to speaking with you!
+Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: From: &lt;mailto:sconde@mbopartners.com&quot;&gt;sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files. &lt;span style=&apos;font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;&gt; no-reply@timedriver.com [mailto:no-reply@timedriver.com] 
+Sent: Wednesday, February 29, 2012 6:49 PM
+To: Sara Conde
+Subject: Consultation Call Appointment Confirmation    Appointment Confirmation  Invitee:
+Osita Oji ( &lt;mailto:osyoji@gmail.com&quot;&gt;osyoji@gmail.com&lt;span style=&apos;mso-bookmark:_MailOriginal&gt;) Activity:Consultation CallDate:Thursday, March 22, 2012Time:10:00am EDT (45 minutes)
+7:00am PDT (for Osita Oji) Instructions: Call Osita at 415-627-8864
+Question:
+Are there any special issues you would like to discuss on our call? Response: 
+Insurance Certificate, etc     &lt;http://www.timetrade.com/email-powered-by.aspx&quot;&gt;Powered by TimeTrade&lt;span style=&apos;mso-bookmark:_MailOriginal&gt; </textOnly>
+    <type>custom</type>
+</EmailTemplate>

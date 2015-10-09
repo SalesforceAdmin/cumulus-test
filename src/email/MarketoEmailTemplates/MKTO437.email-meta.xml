@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>MBO Partners- Follow up (1323709067.0)</name>
+    <style>none</style>
+    <subject>MBO Partners- Follow up (1323709067.0)</subject>
+    <textOnly>1024x768    Clean     false false false  EN-US X-NONE X-NONE           MicrosoftInternetExplorer4                                                                                                                                                                
+ 
+Dear Ralph,
+ 
+I hope you had a nice weekend!  I wanted to follow up with you from our conversation regarding MBO Partners as you had expressed interest in using our services when we spoke a few months ago. Any update would be great and I look forward to hearing from you.
+ 
+Regards,
+ 
+Nicolette
+ 
+Nicolette Taylor
+Consultant Services Advisor
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ 
+ 
+From: manciner [mailto:manciner@comcast.net] 
+Sent: Monday, October 10, 2011 7:27 AM
+To: Nicolette Taylor
+Cc: &apos;Mancinelli, Ralph&apos;
+Subject: RE: 
+ 
+Hi Nicolette, thanks and what again were the pay period options…weekly, monthly etc…Regards, Ralph
+ 
+From: Nicolette Taylor [mailto:ntaylor@mbopartners.com] 
+Sent: Friday, October 07, 2011 4:36 PM
+To: ralph mancinelli
+Subject: 
+ 
+ 
+ 
+___________________________________
+Nicolette Taylor
+Business Manager
+MBO Partners
+ 
+t: 703.793.6281
+f: 703.793.6456
+e: ntaylor@mbopartners.com
+w: www.mbopartners.com
+ 
+Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com and permanently delete the e-mail and files.
+ 
+ </textOnly>
+    <type>custom</type>
+</EmailTemplate>

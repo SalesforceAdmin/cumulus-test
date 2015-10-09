@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Karpie Reminder</name>
+    <style>none</style>
+    <subject>{{lead.First Name:default=Client}}, your technology webinar reminder</subject>
+    <textOnly>{{lead.First Name:default=Client contact}},
+
+There&apos;s one day left to register for our March 4th, 1 p.m. ET webinar titled, &quot;Engaging the 21st Century Independent Professional Workforce &lt;http://www.mbopartners.com/webinars/2014/engaging-21st-century-independent-professional-workforce&gt;.&quot;
+
+Andrew Karpie, Chief Analyst at The Research Platform (TRP) and Holger Mueller, Vice President and Principal Analyst at Constellation Research, will join MBO Partners CEO Gene Zaino for our next webinar. This expert panel will discuss how technology, especially cloud-based services, is changing how businesses engage the 21st Century independent professional.
+
+Register today &lt;http://www.mbopartners.com/webinars/2014/engaging-21st-century-independent-professional-workforce&gt;! You can also read the full whitepaper the presentation is based on here &lt;http://info.mbopartners.com/rs/mbo/images/Engaging%20the%2021st%20Century%20Independent%20Professional%20Workforce.pdf&gt;.
+___________________________________
+ Jay Lash
+ VP Corporate Development
+ MBO Partners
+ 
+
+t: 703.793.6005
+e: jlash@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

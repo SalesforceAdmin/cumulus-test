@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>IC Engage 2.IC Engage first send - Nic</name>
+    <style>none</style>
+    <subject>New IC compliance and engagement service from MBO Partners</subject>
+    <textOnly>{{lead.First Name:default=Client}},
+
+You may already know MBO as a trusted business management solution for independent consultants - but did you know that we can also make engaging ICs easier for you?
+
+MBO introduces IC Engage &lt;http://www.mbopartners.com/icengage/ntaylor&gt; – in a nutshell, you refer your independent contractors to us, and we take care of the rest.
+
+With IC Engage, your business can safely and efficiently bring on your independent workforce - even your high-billing, high-profile consultants. This program eliminates reclassification risk entirely while reducing co-employment threats - and it can be up-and-running in as little as one week.
+
+To learn more about how you can get started, email me at ntaylor@mbopartners.com or call me today at 703.793.6281.
+
+Best regards,
+
+Nicolette Taylor
+___________________________________
+Nicolette Taylor
+Account Executive
+ MBO Partners
+ 
+ t: 703-793-6281
+ e: ntaylor@mbopartners.com
+ w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>

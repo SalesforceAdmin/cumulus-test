@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CallCenter xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <adapterUrl>https://mirage.na28.visual.force.com/apex/mirageSystemsOpenCTI</adapterUrl>
+    <customSettings>{&quot;reqSoftphoneHeight&quot;:&quot;475&quot;,&quot;reqUseApi&quot;:&quot;true&quot;,&quot;reqStandbyUrl&quot;:&quot;&quot;,&quot;reqTimeout&quot;:&quot;&quot;,&quot;reqSoftphoneWidth&quot;:&quot;325&quot;}</customSettings>
+    <displayName>CTI Data Connector for Salesforce 5 - Open CTI</displayName>
+    <displayNameLabel>Display Name</displayNameLabel>
+    <internalNameLabel>Internal Name</internalNameLabel>
+    <sections>
+        <items>
+            <label>CTI Adapter URL</label>
+            <name>reqAdapterUrl</name>
+            <value>https://mirage.na28.visual.force.com/apex/mirageSystemsOpenCTI</value>
+        </items>
+        <items>
+            <label>Use Open CTI</label>
+            <name>reqUseApi</name>
+            <value>true</value>
+        </items>
+        <items>
+            <label>Description</label>
+            <name>reqDescription</name>
+            <value>Salesforce CTI integration for Mirage Open CTI</value>
+        </items>
+        <items>
+            <label>Mirage Call Center Adapter Version</label>
+            <name>reqVersion</name>
+            <value>5.21</value>
+        </items>
+        <items>
+            <label>Standby URL</label>
+            <name>reqStandbyUrl</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>API Timeout</label>
+            <name>reqTimeout</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Softphone Height</label>
+            <name>reqSoftphoneHeight</name>
+            <value>475</value>
+        </items>
+        <items>
+            <label>Softphone Width</label>
+            <name>reqSoftphoneWidth</name>
+            <value>325</value>
+        </items>
+        <items>
+            <label>OpenCTI Service URL</label>
+            <name>reqOpenCTIServiceUrl</name>
+            <value>https://cti.mbopartners.com/OpenCTIWebService521/MirageOpenCTI.asmx</value>
+        </items>
+        <label>General Information</label>
+        <name>reqGeneralInfo</name>
+    </sections>
+    <sections>
+        <items>
+            <label>Outside Prefix</label>
+            <name>reqOutsidePrefix</name>
+            <value>9</value>
+        </items>
+        <items>
+            <label>Long Distance Prefix</label>
+            <name>reqLongDistPrefix</name>
+            <value>1</value>
+        </items>
+        <items>
+            <label>International Prefix</label>
+            <name>reqInternationalPrefix</name>
+            <value>011</value>
+        </items>
+        <items>
+            <label>Country Code</label>
+            <name>reqCountryCode</name>
+            <value>1</value>
+        </items>
+        <items>
+            <label>Length of internal phone numbers</label>
+            <name>reqInternalMaxLen</name>
+            <value>4</value>
+        </items>
+        <items>
+            <label>Don&apos;t show internal calls</label>
+            <name>reqDontShowInternalCalls</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Outgoing Call - Truncate phone number at</label>
+            <name>reqTruncatePhoneNumberAt</name>
+            <value>x</value>
+        </items>
+        <items>
+            <label>Incoming Call - Truncate phone number at</label>
+            <name>reqIncomingCutPostfix</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Incoming Call - Truncate Prefix</label>
+            <name>reqIncomingPrefixToRemove</name>
+            <value>9</value>
+        </items>
+        <items>
+            <label>Incoming Call - Add Prefix</label>
+            <name>reqIncomingPrefixToAdd</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Outgoing Call - Truncate Prefix</label>
+            <name>reqOutgoingPrefixToRemove</name>
+            <value>91</value>
+        </items>
+        <items>
+            <label>Outgoing Call - Add Prefix</label>
+            <name>reqOutgoingPrefixToAdd</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Do not add area code automatically</label>
+            <name>reqDoNotAddAreaCodeAutomatically</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Use Windows dialing options for incoming calls</label>
+            <name>reqUseDialingOptionsForInbound</name>
+            <value>N</value>
+        </items>
+        <items>
+            <label>Use Windows dialing options for outgoing calls</label>
+            <name>reqUseDialingOptionsForOutgoing</name>
+            <value>N</value>
+        </items>
+        <items>
+            <label>Use Called ID for caller identification</label>
+            <name>reqUseCalledID</name>
+            <value>N</value>
+        </items>
+        <label>Dialing Options</label>
+        <name>reqDialingOptions</name>
+    </sections>
+    <sections>
+        <items>
+            <label>Subject of the task</label>
+            <name>reqSubject</name>
+            <value>{calltype} {time}</value>
+        </items>
+        <items>
+            <label>Autosave incoming calls (Y/N)</label>
+            <name>reqAutosaveIncomingCalls</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Autosave outgoing calls (Y/N)</label>
+            <name>reqAutosaveOutgoingCalls</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Autosave internal calls (Y/N)</label>
+            <name>reqAutosaveInternalCalls</name>
+            <value>N</value>
+        </items>
+        <items>
+            <label>Autosave unsuccessful incoming calls (Y/N)</label>
+            <name>reqAutosaveUnsuccessfulIncomingCalls</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Autosave unsuccessful outgoing calls (Y/N)</label>
+            <name>reqAutosaveUnsuccessfulOutgoingCalls</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Autosave unsuccessful internal calls (Y/N)</label>
+            <name>reqAutosaveUnsuccessfulInternalCalls</name>
+            <value>N</value>
+        </items>
+        <items>
+            <label>Automatically open task after call ends (Y/N)</label>
+            <name>reqAutoEditTask</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Fieldname to store the Caller ID</label>
+            <name>reqCallerField</name>
+            <value>Mirage__Mirage_OpenCTI_CallerId</value>
+        </items>
+        <items>
+            <label>Fieldname to store the Called ID</label>
+            <name>reqCalledField</name>
+            <value>Mirage__Mirage_OpenCTI_CalledId</value>
+        </items>
+        <label>Save call as a task</label>
+        <name>reqSaveCallAsATask</name>
+    </sections>
+    <sections>
+        <items>
+            <label>Call Wrap Up Enabled (Y/N)</label>
+            <name>reqWrapupEnable</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Call Wrap selection required (Y/N)</label>
+            <name>reqWrapuprequired</name>
+            <value>N</value>
+        </items>
+        <items>
+            <label>Label 1</label>
+            <name>reqWrapupLabel1</name>
+            <value>Had Conversation</value>
+        </items>
+        <items>
+            <label>Value for report 1</label>
+            <name>reqWrapupValue1</name>
+            <value>Had Conversation</value>
+        </items>
+        <items>
+            <label>Label 2</label>
+            <name>reqWrapupLabel2</name>
+            <value>Left Voicemail</value>
+        </items>
+        <items>
+            <label>Value for report 2</label>
+            <name>reqWrapupValue2</name>
+            <value>Left Voicemail</value>
+        </items>
+        <items>
+            <label>Label 3</label>
+            <name>reqWrapupLabel3</name>
+            <value>No Answer or Voicemail</value>
+        </items>
+        <items>
+            <label>Value for report 3</label>
+            <name>reqWrapupValue3</name>
+            <value>Unable to Reach</value>
+        </items>
+        <items>
+            <label>Label 4</label>
+            <name>reqWrapupLabel4</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 4</label>
+            <name>reqWrapupValue4</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 5</label>
+            <name>reqWrapupLabel5</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 5</label>
+            <name>reqWrapupValue5</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 6</label>
+            <name>reqWrapupLabel6</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 6</label>
+            <name>reqWrapupValue6</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 7</label>
+            <name>reqWrapupLabel7</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 7</label>
+            <name>reqWrapupValue7</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 8</label>
+            <name>reqWrapupLabel8</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 8</label>
+            <name>reqWrapupValue8</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 9</label>
+            <name>reqWrapupLabel9</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 9</label>
+            <name>reqWrapupValue9</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 10</label>
+            <name>reqWrapupLabel10</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 10</label>
+            <name>reqWrapupValue10</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 11</label>
+            <name>reqWrapupLabel11</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 10</label>
+            <name>reqWrapupValue11</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 12</label>
+            <name>reqWrapupLabel12</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 12</label>
+            <name>reqWrapupValue12</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 13</label>
+            <name>reqWrapupLabel13</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 13</label>
+            <name>reqWrapupValue13</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 14</label>
+            <name>reqWrapupLabel14</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 14</label>
+            <name>reqWrapupValue14</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Label 15</label>
+            <name>reqWrapupLabel15</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report 15</label>
+            <name>reqWrapupValue15</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Missed Call Label</label>
+            <name>reqWrapupMissedCallLabel</name>
+            <value>Missed Call</value>
+        </items>
+        <items>
+            <label>Value for report Missed Call</label>
+            <name>reqWrapupMissedCallValue</name>
+            <value>Missed Call</value>
+        </items>
+        <items>
+            <label>No Answer Label</label>
+            <name>reqWrapupNoAnswerLabel</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Value for report No Answer</label>
+            <name>reqWrapupNoAnswerValue</name>
+            <value xsi:nil="true"/>
+        </items>
+        <label>Call Wrap Up</label>
+        <name>reqWrapup</name>
+    </sections>
+    <sections>
+        <items>
+            <label>Line 1</label>
+            <name>reqOutLineLabel1</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 1</label>
+            <name>reqOutLineValue1</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 2</label>
+            <name>reqOutLineLabel2</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 2</label>
+            <name>reqOutLineValue2</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 3</label>
+            <name>reqOutLineLabel3</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 3</label>
+            <name>reqOutLineValue3</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 4</label>
+            <name>reqOutLineLabel4</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 4</label>
+            <name>reqOutLineValue4</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 5</label>
+            <name>reqOutLineLabel5</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 5</label>
+            <name>reqOutLineValue5</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 6</label>
+            <name>reqOutLineLabel6</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 6</label>
+            <name>reqOutLineValue6</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 7</label>
+            <name>reqOutLineLabel7</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 7</label>
+            <name>reqOutLineValue7</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 8</label>
+            <name>reqOutLineLabel8</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 8</label>
+            <name>reqOutLineValue8</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 9</label>
+            <name>reqOutLineLabel9</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 9</label>
+            <name>reqOutLineValue9</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Line 10</label>
+            <name>reqOutLineLabel10</name>
+            <value xsi:nil="true"/>
+        </items>
+        <items>
+            <label>Code for Line 10</label>
+            <name>reqOutLineValue10</name>
+            <value xsi:nil="true"/>
+        </items>
+        <label>Outgoing phone lines</label>
+        <name>reqOutLine</name>
+    </sections>
+    <sections>
+        <items>
+            <label>Enable Option: Do not Save (Y/N)</label>
+            <name>reqButtonDoNotSave</name>
+            <value>N</value>
+        </items>
+        <items>
+            <label>Enable Blind Transfer option(Y/N)</label>
+            <name>reqShowTransferOneStepButton</name>
+            <value>N</value>
+        </items>
+        <items>
+            <label>Number of entries for call history</label>
+            <name>reqHistoryLength</name>
+            <value>5</value>
+        </items>
+        <items>
+            <label>Automatically assign call (Y/N)</label>
+            <name>reqAutoAssignObject</name>
+            <value>Y</value>
+        </items>
+        <label>SoftPhone</label>
+        <name>reqSoftphone</name>
+    </sections>
+    <sections>
+        <items>
+            <label>Poll events from PBX (10-2000 ms) - Default = 1000:</label>
+            <name>reqSFPollInterval</name>
+            <value>1000</value>
+        </items>
+        <items>
+            <label>Timeout during initializing a call transfer (2-60 s):</label>
+            <name>reqSetupTransferTimeout</name>
+            <value>30</value>
+        </items>
+        <items>
+            <label>Poll events from OpenCTI WebService (100-5000 ms) - Default = 1000:</label>
+            <name>reqOCTIWSPollInterval</name>
+            <value>1500</value>
+        </items>
+        <items>
+            <label>Poll events from TAPI Link Connector (100-5000 ms) - Default = 1000:</label>
+            <name>reqTAPILINKWSPollInterval</name>
+            <value>1500</value>
+        </items>
+        <items>
+            <label>Automatically reconnect when connection is lost (Y/N)</label>
+            <name>reqAutoReconnect</name>
+            <value>Y</value>
+        </items>
+        <items>
+            <label>Delay time between calls (seconds)</label>
+            <name>reqDialDelay</name>
+            <value>3</value>
+        </items>
+        <items>
+            <label>Automatically terminate call in case of an error (unresponsive events) - Default = 10</label>
+            <name>reqAutoTerminateCall</name>
+            <value>10</value>
+        </items>
+        <items>
+            <label>Use interaction log in Service Cloud console</label>
+            <name>reqConsoleUseInteractionLog</name>
+            <value>N</value>
+        </items>
+        <items>
+            <label>Use own login ID (Y/N)</label>
+            <name>reqAlternativeLogin</name>
+            <value>N</value>
+        </items>
+        <label>Expert Setting</label>
+        <name>reqExpertSettings</name>
+    </sections>
+    <sections>
+        <items>
+            <label>Configuration Changes:</label>
+            <name>importantnote1</name>
+            <value>If you make any changes of the configuration settings, you have to close all TABs and click on stop / start in the SoftPhone.</value>
+        </items>
+        <label>Important Note</label>
+        <name>importantnote</name>
+    </sections>
+    <version>5.21</version>
+</CallCenter>

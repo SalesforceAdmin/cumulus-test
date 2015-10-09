@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Certificate of Insurace (1335286502.0)</name>
+    <style>none</style>
+    <subject>Certificate of Insurace (1335286502.0)</subject>
+    <textOnly>-     
+	- 
+	-   90 Clean Clean      false false false  EN-US X-NONE X-NONE                                                                                                                                                                          Hi Dorothy, My name is Sara Conde and I am helping out Heather Rocco while she is out of the office. Dorado reached out today and wanted to know where we stood on your registration process, I looked at Heathers notes and it appears the only thing we are missing is your certificate of insurance. Can you please get that over to MBO? Please be sure MBO is listed as “holder” or “additional insured” on the certificate. You can send the certificate directly to me since Heather is away. Please let me know if you have any questions. Thank you!Sara ___________________________________SARA CONDEConsultant Services Advisor MBO Partners t: 703.793.6028f: 703.793.6068e: sconde@mbopartners.comw: www.mbopartners.com Notice: This email and any files transmitted with it are confidential. They are intended solely for the use of the individual addressed.  If you have received this email in error please notify postmaster@mbopartners.com &lt;mailto:sconde@mbopartners.com&gt; and permanently delete the e-mail and files. </textOnly>
+    <type>custom</type>
+</EmailTemplate>

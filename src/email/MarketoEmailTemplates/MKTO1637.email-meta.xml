@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>RE: MBO Partners / Kevin Rose (1340828233.0)</name>
+    <style>none</style>
+    <subject>RE: MBO Partners / Kevin Rose (1340828233.0)</subject>
+    <textOnly>-     
+	- 
+	-   Clean Clean     false false false  EN-US X-NONE X-NONE                                                                                                                                                                     Hi Kevin, Thanks so much for letting me know. 
+Take care,Sara From: Kevin Rose [mailto:rose.kevin87@gmail.com] 
+Sent: Wednesday, June 27, 2012 3:52 PM
+To: Sara Conde
+Subject: Re: MBO Partners / Kevin Rose Sara,
+
+I&apos;m no longer looking for services. Thank you for your consideration.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

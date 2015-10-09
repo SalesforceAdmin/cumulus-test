@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Aberdeen Report 2</name>
+    <style>none</style>
+    <subject>How do you manage your compliance risk?</subject>
+    <textOnly>Dear {{lead.First Name:default=friend of MBO Partners}},
+
+
+Our clients have been telling us for years that since MBO Partners implemented their IC Compliance and Engagement Program, they are confident 
+their risk of IC misclassification has virtually been eliminated. So when Aberdeen Group’s Human Capital practice published their recent research report, &quot;How much do 
+you value your independent contractors?&quot;, I was excited to see that risk is considerably lower when using an IC Engagement Specialist (ICES) like MBO Partners. Additionally, 96% of hiring managers are satisfied with their ICs and 93% of those ICs are satisfied with their clients, which is an average of more than 30% higher than non-ICES companies.
+ 
+Of course, we are not the only ICES a company can choose, but we are the largest, we’ve been doing it the longest, and we are the preferred engagement option for the ICs.
+
+Download the full report here &lt;http://v1.aberdeen.com/includes/asp/sponsored_registration.asp?ci=/launch/report/benchmark/8489-RA-independent-contractor-engagement.asp&amp;spid=30411505&amp;camp=&gt; or just give us a call. We’ll explain how you can rest easy and know your risk is virtually eliminated.
+ 
+___________________________________
+JAY LASH
+VP of Market Stategies
+MBO Partners - Enterprise Solutions
+
+ 
+t: 703.793.6005
+f: 703.793.6069
+e: jlash@mbopartners.com &lt;http://www.mbopartners.com/&gt;
+w: www.mbopartners.com &lt;http://www.mbopartners.com/&gt;</textOnly>
+    <type>custom</type>
+</EmailTemplate>
